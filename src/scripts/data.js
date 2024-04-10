@@ -3,8 +3,10 @@
  * @param {*} data
  * @returns {object} data object
  */
-function parseData(data) {}
+function parseData(data) {
 
-class weatherData {
+}
+
+class weatherData() {
     
 }

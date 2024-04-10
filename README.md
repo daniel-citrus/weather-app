@@ -167,9 +167,16 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] API Request function(s)
+- [x] API Request
+  - [x] get user coordinates
+  - [x] get data
+  - [ ] parse data
 - [ ] Design
+  - [ ] Current weather
+  - [ ] Weather trend for the day
+  - [ ] High and low for the next 2 days
   - [ ] Display gif/image related to the current weather
+  - [ ] F and C switcher
 
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
 

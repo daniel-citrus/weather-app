@@ -5,7 +5,6 @@ const path = require('path');
 module.exports = {
     entry: {
         weather: './src/scripts/weather.js',
-        data: './src/scripts/data.js',
     },
     output: {
         clean: true,

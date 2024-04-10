@@ -1,4 +1,4 @@
-import './style.scss';
+import '../style.scss';
 
 const API_KEY = 'dfe9055663544783911164832240904';
 
