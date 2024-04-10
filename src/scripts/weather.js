@@ -3,10 +3,10 @@ import './style.scss';
 const API_KEY = 'dfe9055663544783911164832240904';
 
 /**
- * Get object from the Weather API containing weather data
+ * Get weather data object from the Weather API
  * @param {string} location
  * @param {string} coords (ex. 132.123,-32.234)
- * @returns
+ * @returns {object} Weather API data object
  */
 async function getWeather(location, coords = null) {
     let request = `https://api.weatherapi.com/v1/forecast.json?key=${API_KEY}&days=3`;
@@ -20,10 +20,14 @@ async function getWeather(location, coords = null) {
     try {
         return await fetch(request);
     } catch (e) {
-        console.error(e);
+        throw new Error(e.message);
     }
 }
 
+/**
+ * Get user coordinates using geolocation prompt
+ * @returns {string} user coordinates 'ex: 132.123,-32.234'
+ */
 async function getUserCoords() {
     const promise = new Promise((resolve, reject) => {
         navigator.geolocation.getCurrentPosition(resolve, reject);
@@ -33,16 +37,19 @@ async function getUserCoords() {
         const data = await promise;
         return `${data.coords.latitude},${data.coords.longitude}`;
     } catch (e) {
-        throw new Error(e);
+        throw new Error(e.message);
     }
 }
 
+/**
+ * On page load, ask user for location data to make Weather API call
+ * @returns {object} Weather API data object
+ */
 async function startUp() {
     try {
         const coords = await getUserCoords();
         const weatherData = await getWeather(null, coords);
-        const data = await weatherData.json();
-        return data;
+        return await weatherData.json();
     } catch (e) {
         console.error(e);
     }
