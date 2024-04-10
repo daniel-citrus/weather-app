@@ -110,6 +110,36 @@ eval("\n\n/* istanbul ignore next  */\nfunction styleTagTransform(css, styleElem
 
 /***/ }),
 
+/***/ "./src/scripts/barrel.js":
+/*!*******************************!*\
+  !*** ./src/scripts/barrel.js ***!
+  \*******************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   data: () => (/* reexport module object */ _data__WEBPACK_IMPORTED_MODULE_1__),\n/* harmony export */   weather: () => (/* reexport module object */ _weather__WEBPACK_IMPORTED_MODULE_0__)\n/* harmony export */ });\n/* harmony import */ var _weather__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./weather */ \"./src/scripts/weather.js\");\n/* harmony import */ var _data__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./data */ \"./src/scripts/data.js\");\n\r\n\r\n\n\n//# sourceURL=webpack://weather-app/./src/scripts/barrel.js?");
+
+/***/ }),
+
+/***/ "./src/scripts/data.js":
+/*!*****************************!*\
+  !*** ./src/scripts/data.js ***!
+  \*****************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   current: () => (/* binding */ current),\n/* harmony export */   forecast: () => (/* binding */ forecast),\n/* harmony export */   location: () => (/* binding */ location)\n/* harmony export */ });\nclass current {\r\n    /**\r\n     * @param {object} data - Weather API 'current' object\r\n     */\r\n    constructor(data) {\r\n        this.humidity = data.humidity;\r\n        this.is_day = data.is_day;\r\n        this.last_updated = data.last_updated;\r\n        this.temp_c = data.temp_c;\r\n        this.temp_f = data.temp_f;\r\n        this.wind_kph = data.wind_kph;\r\n        this.wind_mph = data.wind_mph;\r\n    }\r\n}\r\n\r\nclass forecast {\r\n    /**\r\n     * @param {object} data - Weather API 'forecast' object\r\n     */\r\n    constructor(data) {\r\n        this.days = data.forecastday.map((dayData) => {\r\n            const {\r\n                avghumidity,\r\n                avgtemp_c,\r\n                avgtemp_f,\r\n                condition: { text: description, icon },\r\n                daily_chance_of_rain,\r\n                daily_chance_of_snow,\r\n                maxtemp_c,\r\n                maxtemp_f,\r\n                mintemp_c,\r\n                mintemp_f,\r\n                maxwind_kph,\r\n                maxwind_mph,\r\n            } = dayData.day;\r\n\r\n            return {\r\n                avghumidity,\r\n                avgtemp_c,\r\n                avgtemp_f,\r\n                description,\r\n                icon,\r\n                daily_chance_of_rain,\r\n                daily_chance_of_snow,\r\n                maxtemp_c,\r\n                maxtemp_f,\r\n                mintemp_c,\r\n                mintemp_f,\r\n                maxwind_kph,\r\n                maxwind_mph,\r\n            };\r\n        });\r\n    }\r\n}\r\n\r\nclass location {}\r\n\n\n//# sourceURL=webpack://weather-app/./src/scripts/data.js?");
+
+/***/ }),
+
+/***/ "./src/scripts/index.js":
+/*!******************************!*\
+  !*** ./src/scripts/index.js ***!
+  \******************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _barrel__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./barrel */ \"./src/scripts/barrel.js\");\n\r\n\r\n\r\ndocument.addEventListener('DOMContentLoaded', () => {\r\n    _barrel__WEBPACK_IMPORTED_MODULE_0__.weather.startUp().then((data) => {\r\n        const fore = new _barrel__WEBPACK_IMPORTED_MODULE_0__.data.forecast(data.forecast);\r\n        console.log(fore);\r\n    });\r\n});\r\n\n\n//# sourceURL=webpack://weather-app/./src/scripts/index.js?");
+
+/***/ }),
+
 /***/ "./src/scripts/weather.js":
 /*!********************************!*\
   !*** ./src/scripts/weather.js ***!
@@ -197,7 +227,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /******/ 	// startup
 /******/ 	// Load entry module and return exports
 /******/ 	// This entry module can't be inlined because the eval devtool is used.
-/******/ 	var __webpack_exports__ = __webpack_require__("./src/scripts/weather.js");
+/******/ 	var __webpack_exports__ = __webpack_require__("./src/scripts/index.js");
 /******/ 	
 /******/ })()
 ;

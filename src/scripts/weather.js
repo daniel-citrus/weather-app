@@ -8,7 +8,7 @@ const API_KEY = 'dfe9055663544783911164832240904';
  * @param {string} coords (ex. 132.123,-32.234)
  * @returns {object} Weather API data object
  */
-async function getWeather(location, coords = null) {
+export async function getWeather(location, coords = null) {
     let request = `https://api.weatherapi.com/v1/forecast.json?key=${API_KEY}&days=3`;
 
     if (coords) {
@@ -45,7 +45,7 @@ async function getUserCoords() {
  * On page load, ask user for location data to make Weather API call
  * @returns {object} Weather API data object
  */
-async function startUp() {
+export async function startUp() {
     try {
         const coords = await getUserCoords();
         const weatherData = await getWeather(null, coords);
@@ -54,9 +54,3 @@ async function startUp() {
         console.error(e);
     }
 }
-
-document.addEventListener('DOMContentLoaded', () => {
-    startUp().then((data) => {
-        console.log(data);
-    });
-});

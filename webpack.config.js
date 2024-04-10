@@ -4,6 +4,8 @@ const path = require('path');
 
 module.exports = {
     entry: {
+        index: './src/scripts/index.js',
+        data: './src/scripts/data.js',
         weather: './src/scripts/weather.js',
     },
     output: {
