@@ -28,7 +28,7 @@ export async function getWeather(location, coords = null) {
  * Get user coordinates using geolocation prompt
  * @returns {string} user coordinates 'ex: 132.123,-32.234'
  */
-async function getUserCoords() {
+export async function getUserCoords() {
     const promise = new Promise((resolve, reject) => {
         navigator.geolocation.getCurrentPosition(resolve, reject);
     });
@@ -38,19 +38,5 @@ async function getUserCoords() {
         return `${data.coords.latitude},${data.coords.longitude}`;
     } catch (e) {
         throw new Error(e.message);
-    }
-}
-
-/**
- * On page load, ask user for location data to make Weather API call
- * @returns {object} Weather API data object
- */
-export async function startUp() {
-    try {
-        const coords = await getUserCoords();
-        const weatherData = await getWeather(null, coords);
-        return await weatherData.json();
-    } catch (e) {
-        console.error(e);
     }
 }

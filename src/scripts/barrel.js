@@ -1,2 +1,2 @@
-export * as weather from './weather';
-export * as data from './data';
+export * from './weather';
+export * as parser from './dataParser';
