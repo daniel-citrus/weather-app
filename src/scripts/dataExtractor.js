@@ -1,7 +1,7 @@
 /**
  * @param {object} currentData - Weather API 'current' object
  */
-export function parseCurrent(currentData) {
+export function extractCurrent(currentData) {
     const {
         humidity,
         is_day,
@@ -26,7 +26,7 @@ export function parseCurrent(currentData) {
 /**
  * @param {object} forecaseData - Weather API 'forecast' object
  */
-export function parseForecast(forecaseData) {
+export function extractForecast(forecaseData) {
     return forecaseData.forecastday.map((dayData) => {
         let { date, hour } = dayData;
 
@@ -98,4 +98,18 @@ export function parseForecast(forecaseData) {
     });
 }
 
-export function parseLocation(locationData) {}
+export function extractLocation(locationData) {
+    const {
+        country,
+        localtime,
+        name, // City
+        region, // State
+    } = locationData;
+
+    return {
+        country,
+        localtime,
+        name,
+        region,
+    };
+}

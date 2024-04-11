@@ -1,2 +1,2 @@
 export * from './weather';
-export * as parser from './dataParser';
+export * as extractor from './dataExtractor';

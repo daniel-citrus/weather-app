@@ -1,5 +1,4 @@
-import '../style.scss';
-
+// Will learn to hide the API Key soon :)
 const API_KEY = 'dfe9055663544783911164832240904';
 
 /**

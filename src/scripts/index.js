@@ -1,4 +1,5 @@
-import { parser } from './barrel';
+import '../style.scss';
+import { extractor } from './barrel';
 import { getWeather, getUserCoords } from './barrel';
 
 /**
@@ -16,10 +17,15 @@ async function startUp() {
 }
 
 let currentData, forecastData, locationData;
+
 document.addEventListener('DOMContentLoaded', () => {
-    startUp().then((data) => {
-        currentData = parser.parseCurrent(data.current);
-        forecastData = parser.parseForecast(data.forecast);
-        console.log(forecastData);
-    });
+    startUp()
+        .then((data) => {
+            currentData = extractor.extractCurrent(data.current);
+            forecastData = extractor.extractForecast(data.forecast);
+            locationData = extractor.extractLocation(data.location);
+            console.log(`Current:`);
+            console.log(currentData);
+        })
+        .catch(() => {});
 });
