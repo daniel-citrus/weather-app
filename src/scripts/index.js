@@ -21,11 +21,16 @@ let currentData, forecastData, locationData;
 document.addEventListener('DOMContentLoaded', () => {
     startUp()
         .then((data) => {
+            console.log(data);
             currentData = extractor.extractCurrent(data.current);
             forecastData = extractor.extractForecast(data.forecast);
             locationData = extractor.extractLocation(data.location);
             console.log(`Current:`);
             console.log(currentData);
+            console.log(`Forecast:`);
+            console.log(forecastData);
+            console.log(`Location:`);
+            console.log(locationData);
         })
         .catch(() => {});
 });

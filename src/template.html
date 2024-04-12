@@ -6,7 +6,7 @@
         <title>Document</title>
     </head>
     <body>
-        <div class="board">
+        <div class="main">
             <div class="search">
                 <form>
                     <input
@@ -18,13 +18,97 @@
                     <button type="button">Search</button>
                 </form>
             </div>
-            <div class="content">
+            <div class="overview">
+                <div class="title">
+                    Weather Today in <span class="city"></span>,
+                    <span class="state"></span>
+                </div>
+                <div class="content">
+                    <div class="icon"></div>
+                    <div class="temperature">
+                        <div class="feelslike">
+                            <div class="title">Feels Like</div>
+                            <span class="tempVal"></span>
+                            <span class="tempSwitch">
+                                <span class="farenheit">°F</span> |
+                                <span class="celsius">°C</span>
+                            </span>
+                        </div>
+                        <div class="actual">
+                            Actual: <span class="tempVal"></span>°<span
+                                class="unit"
+                                >F</span
+                            >
+                        </div>
+                    </div>
+                    <div>
+                        <div class="date-time">
+                            <div class="day" title="Day">Thursday</div>
+                            <div class="date" title="Date">April 4, 2024</div>
+                            <div class="time" title="Local Time">3:47 PM</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="board">
                 <div class="cards">
                     <div class="card">Card 1</div>
                     <div class="card">Card 2</div>
                     <div class="card">Card 3</div>
                 </div>
-                <div class="display"></div>
+                <div class="display">
+                    <div class="details">
+                        <div class="line">
+                            <div class="icon">Icon</div>
+                            <div class="text">High / Low</div>
+                            <div class="info">
+                                <div class="info">
+                                    <span class="temperature"
+                                        ><span class="hightemp">75</span>°<span
+                                            class="unit"
+                                            >F</span
+                                        >
+                                        / <span class="lowtemp">50</span>°<span
+                                            class="unit"
+                                            >F</span
+                                        ></span
+                                    >
+                                </div>
+                            </div>
+                        </div>
+                        <div class="line">
+                            <div class="icon">Icon</div>
+                            <div class="text">Humidity</div>
+                            <div class="info">
+                                <div class="humidity">
+                                    <span class="value">48</span>%
+                                </div>
+                            </div>
+                        </div>
+                        <div class="line">
+                            <div class="icon">Icon</div>
+                            <div class="text">Wind</div>
+                            <div class="info">
+                                <span
+                                    class="direction"
+                                    title="Wind Direction"
+                                ></span>
+                                <span class="windSpeed">
+                                    <span class="value">10</span>
+                                    <span class="speedunit">mph</span></span
+                                >
+                            </div>
+                        </div>
+                        <div class="line">
+                            <div class="icon">Icon</div>
+                            <div class="text">UV Index</div>
+                            <div class="info">
+                                <span class="uvIndex">7</span> of 11
+                            </div>
+                        </div>
+                    </div>
+                    <div class="forecast"></div>
+                </div>
             </div>
         </div>
     </body>

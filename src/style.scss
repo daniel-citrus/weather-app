@@ -135,13 +135,13 @@ body {
     height: 100%;
 }
 
-.board {
+.main {
     display: flex;
     flex-flow: column nowrap;
     height: calc(100% - 50px);
     border-collapse: collapse;
     box-sizing: border-box;
-    gap: 10px;
+    gap: 20px;
     padding: 10px 25px;
 
     .search {
@@ -150,7 +150,7 @@ body {
     }
 }
 
-.content {
+.board {
     display: grid;
     height: 100%;
     display: grid;
@@ -160,13 +160,34 @@ body {
         display: grid;
         grid-template: 1fr / repeat(3, 1fr);
         border: 1px solid red;
+    }
 
-        .card {
-            border: 1px solid black;
-        }
+    .card {
+        border: 1px solid black;
+    }
+
+    .details {
     }
 
     .display {
         border: 1px solid blue;
+    }
+
+    .line {
+        display: flex;
+        flex-flow: row nowrap;
+        gap: 10px;
+    }
+}
+
+.overview {
+    .content {
+        display: grid;
+        grid-template: auto / 1fr 1fr 1fr;
+        justify-content: space-between;
+    }
+
+    .date-time {
+        text-align: right;
     }
 }

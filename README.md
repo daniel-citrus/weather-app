@@ -170,7 +170,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [x] API Request
   - [x] get user coordinates
   - [x] get data
-  - [ ] parse data
+  - [x] parse data
 - [ ] Design
   - [ ] Current weather
   - [ ] Weather trend for the day

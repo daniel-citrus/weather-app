@@ -3,21 +3,31 @@
  */
 export function extractCurrent(currentData) {
     const {
+        condition: { code, icon, text: description },
+        feelslike_c,
+        feelslike_f,
         humidity,
         is_day,
-        last_updated,
         temp_c,
         temp_f,
+        uv,
+        wind_degree,
         wind_kph,
         wind_mph,
     } = currentData;
 
     return {
+        code,
+        icon,
+        description,
+        feelslike_c,
+        feelslike_f,
         humidity,
         is_day,
-        last_updated,
         temp_c,
         temp_f,
+        uv,
+        wind_degree,
         wind_kph,
         wind_mph,
     };
