@@ -1,6 +1,7 @@
 import '../style.scss';
 import { extractor } from './barrel';
 import { getWeather, getUserCoords } from './barrel';
+import { display } from './barrel';
 
 /**
  * On page load, ask user for location data to make Weather API call
@@ -21,16 +22,19 @@ let currentData, forecastData, locationData;
 document.addEventListener('DOMContentLoaded', () => {
     startUp()
         .then((data) => {
-            console.log(data);
             currentData = extractor.extractCurrent(data.current);
             forecastData = extractor.extractForecast(data.forecast);
             locationData = extractor.extractLocation(data.location);
+
+            console.log(data);
             console.log(`Current:`);
             console.log(currentData);
             console.log(`Forecast:`);
             console.log(forecastData);
             console.log(`Location:`);
             console.log(locationData);
+
+            display.updateWeatherToday(locationData, currentData);
         })
         .catch(() => {});
 });

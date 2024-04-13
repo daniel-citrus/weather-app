@@ -20,32 +20,37 @@
             </div>
             <div class="overview">
                 <div class="title">
-                    Weather Today in <span class="city"></span>,
-                    <span class="state"></span>
+                    Weather Today in
+                    <span class="city">--</span>,
+                    <span class="state">--</span>
                 </div>
                 <div class="content">
-                    <div class="icon"></div>
+                    <div class="icon">
+                        <img src="https://basmilius.github.io/weather-icons/production/fill/all/partly-cloudy-day-smoke.svg" alt="">
+                        <div class="description">Partly Cloudy and Smoke</div>
+                    </div>
                     <div class="temperature">
                         <div class="feelslike">
                             <div class="title">Feels Like</div>
-                            <span class="tempVal"></span>
+                            <span class="tempVal">--</span>
                             <span class="tempSwitch">
-                                <span class="farenheit">°F</span> |
-                                <span class="celsius">°C</span>
+                                <input type="radio" name="measureSystem" value="imperial" id="imperial">
+                                <label for="imperial">°F</label> | 
+                                <input type="radio" name="measureSystem" value="metric" id="metric">
+                                <label for="metric">°C</label>
                             </span>
                         </div>
                         <div class="actual">
-                            Actual: <span class="tempVal"></span>°<span
-                                class="unit"
-                                >F</span
-                            >
+                            Actual:
+                            <span class="actualTemp">--</span>°
+                            <span class="unit">F</span>
                         </div>
                     </div>
                     <div>
                         <div class="date-time">
-                            <div class="day" title="Day">Thursday</div>
-                            <div class="date" title="Date">April 4, 2024</div>
-                            <div class="time" title="Local Time">3:47 PM</div>
+                            <div class="day" title="Day">--</div>
+                            <div class="date" title="Date">--</div>
+                            <div class="time" title="Local Time">--</div>
                         </div>
                     </div>
                 </div>
@@ -59,21 +64,47 @@
                 <div class="display">
                     <div class="details">
                         <div class="line">
+                            <div class="description">Sunny</div>
+                            </div>
+                        </div>
+                        <div class="line">
                             <div class="icon">Icon</div>
                             <div class="text">High / Low</div>
                             <div class="info">
-                                <div class="info">
-                                    <span class="temperature"
-                                        ><span class="hightemp">75</span>°<span
-                                            class="unit"
-                                            >F</span
-                                        >
-                                        / <span class="lowtemp">50</span>°<span
-                                            class="unit"
-                                            >F</span
-                                        ></span
-                                    >
-                                </div>
+                                <span class="temperature"
+                                    ><span class="hightemp">--</span>°
+                                    <span class="unit">F</span> /
+                                    <span class="lowtemp">--</span>°
+                                    <span class="unit">F</span>
+                                </span>
+                            </div>
+                        </div>
+                        <div class="line">
+                            <div class="icon">Icon</div>
+                            <div class="text">Average</div>
+                            <div class="info">
+                                <span class="temperature"
+                                    ><span class="avgtemp">--</span>°
+                                    <span class="unit">F</span>
+                                </span>
+                            </div>
+                        </div>
+                        <div class="line">
+                            <div class="icon">Icon</div>
+                            <div class="text">Chance of Rain</div>
+                            <div class="info">
+                                <span class="rainChance">
+                                    <span class="value">--</span>%
+                                </span>
+                            </div>
+                        </div>
+                        <div class="line">
+                            <div class="icon">Icon</div>
+                            <div class="text">Chance of Snow</div>
+                            <div class="info">
+                                <span class="snowChance">
+                                    <span class="value">--</span>%
+                                </span>
                             </div>
                         </div>
                         <div class="line">
@@ -81,7 +112,7 @@
                             <div class="text">Humidity</div>
                             <div class="info">
                                 <div class="humidity">
-                                    <span class="value">48</span>%
+                                    <span class="value">--</span>%
                                 </div>
                             </div>
                         </div>
@@ -94,16 +125,18 @@
                                     title="Wind Direction"
                                 ></span>
                                 <span class="windSpeed">
-                                    <span class="value">10</span>
-                                    <span class="speedunit">mph</span></span
-                                >
+                                    <span class="value">--</span>
+                                    <span class="speedunit">mph</span>
+                                </span>
                             </div>
                         </div>
                         <div class="line">
                             <div class="icon">Icon</div>
                             <div class="text">UV Index</div>
                             <div class="info">
-                                <span class="uvIndex">7</span> of 11
+                                <span class="uvIndex">
+                                    <span class="value">--</span> of 11
+                                </span>
                             </div>
                         </div>
                     </div>
