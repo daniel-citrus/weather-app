@@ -1,4 +1,4 @@
-import '../style.scss';
+import '../style/style.scss';
 import { extractData as extractor } from './dataExtractor';
 import { getWeather, getUserCoords } from './weather';
 import * as display from './display';
@@ -35,7 +35,7 @@ document.addEventListener('DOMContentLoaded', () => {
             console.log(`Location:`);
             console.log(location);
 
-            display.updateWeatherToday(location, current);
+            display.updateOverview(location, current);
         })
         .catch((e) => {
             console.error(e);

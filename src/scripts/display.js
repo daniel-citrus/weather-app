@@ -3,6 +3,7 @@ import { format } from 'date-fns';
 
 const city = document.querySelector('.overview .city');
 const state = document.querySelector('.overview .state');
+const country = document.querySelector('.overview .country');
 const icon = document.querySelector('.overview .icon');
 const feelslike = document.querySelector('.feelslike .tempVal');
 const tempswitch = document.querySelectorAll('.feelslike input[type="radio"]');
@@ -37,7 +38,7 @@ searchButton.addEventListener('click', () => {
     getLocationWeather(location)
         .then((data) => {
             console.log(data);
-            updateWeatherToday(data.location, data.current);
+            updateOverview(data.location, data.current);
         })
         .catch((e) => {
             console.error(e);
@@ -45,15 +46,16 @@ searchButton.addEventListener('click', () => {
 });
 
 /**
- * Update contents of today's weather display
+ * Update contents of overview display
  * @param {*} location - location data from Weather API
  * @param {*} current - current day data from Weather API
  */
-export function updateWeatherToday(location, current) {
+export function updateOverview(location, current) {
     const localtime = new Date(location.localtime);
 
     city.textContent = location.name;
     state.textContent = location.region;
+    country.textContent = location.country;
 
     // Icon stuff
 
