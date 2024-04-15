@@ -1,3 +1,5 @@
+import { getLocationWeather } from './barrel';
+
 const city = document.querySelector('.overview .city');
 const state = document.querySelector('.overview .state');
 const icon = document.querySelector('.overview .icon');
@@ -9,6 +11,8 @@ const day = document.querySelector('.date-time .day');
 const date = document.querySelector('.date-time .date');
 const time = document.querySelector('.date-time .time');
 
+const search = document.getElementById('search');
+const searchButton = document.querySelector('.search button');
 let measureSystem = 'imperial';
 
 tempswitch.forEach((s) => {
@@ -21,6 +25,24 @@ tempswitch.forEach((s) => {
     });
 });
 
+searchButton.addEventListener('click', () => {
+    const location = search.value;
+
+    if (!location) {
+        // ERROR Message
+        return;
+    }
+
+    getLocationWeather(location)
+        .then((data) => {
+            console.log(data);
+            updateWeatherToday(data.location, data.current);
+        })
+        .catch((e) => {
+            console.error(e);
+        });
+});
+
 /**
  * Update contents of today's weather display
  * @param {*} location - location data from Weather API
@@ -31,12 +53,4 @@ export function updateWeatherToday(location, current) {
     state.textContent = location.region;
 
     // Icon stuff
-}
-
-function updateTemperatures(data) {
-    if (measureSystem === 'imperial') {
-        feelslike.textContent = data.feelslike_f;
-    } else if (measureSystem === 'metric') {
-        feelslike.textContent = data.feelslike_c;
-    }
 }

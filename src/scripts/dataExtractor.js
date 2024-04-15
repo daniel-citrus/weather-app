@@ -1,7 +1,7 @@
 /**
  * @param {object} currentData - Weather API 'current' object
  */
-export function extractCurrent(currentData) {
+function extractCurrent(currentData) {
     const {
         condition: { code, icon, text: description },
         feelslike_c,
@@ -36,7 +36,7 @@ export function extractCurrent(currentData) {
 /**
  * @param {object} forecaseData - Weather API 'forecast' object
  */
-export function extractForecast(forecaseData) {
+function extractForecast(forecaseData) {
     return forecaseData.forecastday.map((dayData) => {
         let { date, hour } = dayData;
 
@@ -108,7 +108,7 @@ export function extractForecast(forecaseData) {
     });
 }
 
-export function extractLocation(locationData) {
+function extractLocation(locationData) {
     const {
         country,
         localtime,
@@ -122,4 +122,12 @@ export function extractLocation(locationData) {
         name,
         region,
     };
+}
+
+export function extractData(data) {
+    const current = extractCurrent(data.current);
+    const forecast = extractForecast(data.forecast);
+    const location = extractLocation(data.location);
+
+    return { current, forecast, location };
 }

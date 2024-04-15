@@ -4,37 +4,40 @@ import { getWeather, getUserCoords } from './barrel';
 import { display } from './barrel';
 
 /**
- * On page load, ask user for location data to make Weather API call
+ * Ask user for location data to make Weather API call
  * @returns {object} Weather API data object
  */
 async function startUp() {
-    try {
-        const coords = await getUserCoords();
-        const weatherData = await getWeather(null, coords);
-        return await weatherData.json();
-    } catch (e) {
-        console.error(e);
-    }
+    const coords = await getUserCoords();
+    const weatherData = await getLocationWeather(null, coords);
+    return weatherData;
 }
 
-let currentData, forecastData, locationData;
+/**
+ * Get weather data using
+ */
+export async function getLocationWeather(location = null, coords = null) {
+    const weatherData = await getWeather(location, coords);
+    const data = await weatherData.json();
+    return extractor(data);
+}
 
 document.addEventListener('DOMContentLoaded', () => {
     startUp()
         .then((data) => {
-            currentData = extractor.extractCurrent(data.current);
-            forecastData = extractor.extractForecast(data.forecast);
-            locationData = extractor.extractLocation(data.location);
+            let { current, forecast, location } = extractor(data);
 
             console.log(data);
             console.log(`Current:`);
-            console.log(currentData);
+            console.log(current);
             console.log(`Forecast:`);
-            console.log(forecastData);
+            console.log(forecast);
             console.log(`Location:`);
-            console.log(locationData);
+            console.log(location);
 
-            display.updateWeatherToday(locationData, currentData);
+            display.updateWeatherToday(location, current);
         })
-        .catch(() => {});
+        .catch((e) => {
+            console.error(e);
+        });
 });
