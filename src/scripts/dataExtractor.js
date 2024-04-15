@@ -34,10 +34,10 @@ function extractCurrent(currentData) {
 }
 
 /**
- * @param {object} forecaseData - Weather API 'forecast' object
+ * @param {object} forecastData - Weather API 'forecast' object
  */
-function extractForecast(forecaseData) {
-    return forecaseData.forecastday.map((dayData) => {
+function extractForecast(forecastData) {
+    return forecastData.forecastday.map((dayData) => {
         let { date, hour } = dayData;
 
         hour = hour.map((hourData) => {
