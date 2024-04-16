@@ -12,7 +12,6 @@ module.exports = {
         clean: true,
         path: path.resolve(__dirname, './dist'),
         filename: '[name].bundle.js',
-        assetModuleFilename: '[name].[ext]',
     },
     plugins: [
         new HtmlWebpackPlugin({

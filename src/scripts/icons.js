@@ -22,6 +22,10 @@ export function getIcon(code, period) {
     return base_night_icons[key];
 }
 
+export function getAnimatedIcon(name) {
+    return animated_icons[name];
+}
+
 function importAll(r) {
     let images = {};
 
