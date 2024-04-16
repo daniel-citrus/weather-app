@@ -19,6 +19,7 @@ async function startUp() {
 export async function getLocationWeather(location = null, coords = null) {
     const weatherData = await getWeather(location, coords);
     const data = await weatherData.json();
+    console.log(data);
     return extractor(data);
 }
 
