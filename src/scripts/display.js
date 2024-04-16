@@ -1,6 +1,6 @@
 import { getLocationWeather } from './index';
 import { format } from 'date-fns';
-import { icons } from './icons';
+import * as icons from './icons';
 
 const city = document.querySelector('.overview .city');
 const state = document.querySelector('.overview .state');
@@ -59,7 +59,6 @@ export function updateOverview(location, current) {
 
     // Icon stuff
     getIcon(current.code, current.is_day);
-    console.log();
 
     if (measureSystem === 'imperial') {
         feelslike.textContent = current.feelslike_f;
@@ -81,5 +80,5 @@ export function updateOverview(location, current) {
  */
 function getIcon(code, day) {
     day = day ? 'day' : 'night';
-    const keyword = icons[code][day];
+    const keyword = icons.dictionary[code][day];
 }
