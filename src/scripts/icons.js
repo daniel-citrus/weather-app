@@ -1,3 +1,27 @@
+/**
+ * Return icon source link
+ * @param {integer} code - weather code
+ * @param {boolean} period - day or night
+ */
+export function getIcon(code, period) {
+    period = period ? 'day' : 'night';
+
+    let key = dictionary[code][period];
+
+    if (key) {
+        return animated_icons[key];
+    }
+
+    // No animated icon, so we will get the base icon
+    key = dictionary[code]['icon'];
+
+    if (period === day) {
+        return base_day_icons[key];
+    }
+
+    return base_night_icons[key];
+}
+
 function importAll(r) {
     let images = {};
 
@@ -9,7 +33,7 @@ function importAll(r) {
     return images;
 }
 
-export const animated_icons = importAll(
+const animated_icons = importAll(
     require.context(
         '../style/icons/animated_icons/',
         false,
@@ -17,7 +41,7 @@ export const animated_icons = importAll(
     )
 );
 
-export const base_day_icons = importAll(
+const base_day_icons = importAll(
     require.context(
         '../style/icons/base_icons/day/',
         false,
@@ -25,7 +49,7 @@ export const base_day_icons = importAll(
     )
 );
 
-export const base_night_icons = importAll(
+const base_night_icons = importAll(
     require.context(
         '../style/icons/base_icons/night/',
         false,
@@ -43,7 +67,7 @@ export const base_night_icons = importAll(
  *      icon:  <base icon key>
  * }
  */
-export const dictionary = {
+const dictionary = {
     1000: {
         day: 'clear-day',
         night: 'clear-night',

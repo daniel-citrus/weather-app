@@ -5,7 +5,7 @@ import * as icons from './icons';
 const city = document.querySelector('.overview .city');
 const state = document.querySelector('.overview .state');
 const country = document.querySelector('.overview .country');
-const icon = document.querySelector('.overview .icon');
+const icon = document.querySelector('.overview .icon img');
 const feelslike = document.querySelector('.feelslike .tempVal');
 const tempswitch = document.querySelectorAll('.feelslike input[type="radio"]');
 const actualTemp = document.querySelector('.overview .actualTemp');
@@ -58,7 +58,7 @@ export function updateOverview(location, current) {
     country.textContent = location.country;
 
     // Icon stuff
-    getIcon(current.code, current.is_day);
+    icon.src = icons.getIcon(current.code, current.is_day);
 
     if (measureSystem === 'imperial') {
         feelslike.textContent = current.feelslike_f;
@@ -71,14 +71,4 @@ export function updateOverview(location, current) {
     day.textContent = format(localtime, 'EEEE');
     date.textContent = format(localtime, 'PPP');
     time.textContent = format(localtime, 'p');
-}
-
-/**
- * Return icon source link
- * @param {integer} code - weather code
- * @param {boolean} day - day or night
- */
-function getIcon(code, day) {
-    day = day ? 'day' : 'night';
-    const keyword = icons.dictionary[code][day];
 }

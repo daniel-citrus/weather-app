@@ -12,6 +12,7 @@ module.exports = {
         clean: true,
         path: path.resolve(__dirname, './dist'),
         filename: '[name].bundle.js',
+        assetModuleFilename: '[name].[ext]',
     },
     plugins: [
         new HtmlWebpackPlugin({
@@ -38,12 +39,8 @@ module.exports = {
                 ],
             },
             {
-                test: /\.svg$/,
-                loader: 'svg-inline-loader',
-            },
-            {
-                test: /\.(png|jpe?g|gif)$/i,
-                loader: 'file-loader',
+                test: /\.(png|jpg|gif|svg|eot|ttf|woff)$/,
+                type: 'asset/resource',
             },
         ],
     },

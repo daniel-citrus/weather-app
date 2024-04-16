@@ -42,1062 +42,6 @@ eval("\n\nmodule.exports = function (i) {\n  return i[1];\n};\n\n//# sourceURL=w
 
 /***/ }),
 
-/***/ "./src/style/icons/base_icons/day/113.png":
-/*!************************************************!*\
-  !*** ./src/style/icons/base_icons/day/113.png ***!
-  \************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"17608b0baa1391eb05a0f07c50b60d3c.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/113.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/day/116.png":
-/*!************************************************!*\
-  !*** ./src/style/icons/base_icons/day/116.png ***!
-  \************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"8ea9e73debaf4c25a8cf3e3af455b238.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/116.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/day/119.png":
-/*!************************************************!*\
-  !*** ./src/style/icons/base_icons/day/119.png ***!
-  \************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"e740cebbccd7be04d8246097a1cdb930.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/119.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/day/122.png":
-/*!************************************************!*\
-  !*** ./src/style/icons/base_icons/day/122.png ***!
-  \************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"036a7f4b9402e1d745356584f66e46b2.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/122.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/day/143.png":
-/*!************************************************!*\
-  !*** ./src/style/icons/base_icons/day/143.png ***!
-  \************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"a93c5cdce8f09616fc0e58eb6183fe77.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/143.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/day/176.png":
-/*!************************************************!*\
-  !*** ./src/style/icons/base_icons/day/176.png ***!
-  \************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"307889846f4a6877a9eacd337aef1bc9.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/176.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/day/179.png":
-/*!************************************************!*\
-  !*** ./src/style/icons/base_icons/day/179.png ***!
-  \************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"ff6c626ccae29522a258ccba0c547baa.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/179.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/day/182.png":
-/*!************************************************!*\
-  !*** ./src/style/icons/base_icons/day/182.png ***!
-  \************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"6fe62e8748f042a1cbc49b70ebbe1c99.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/182.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/day/185.png":
-/*!************************************************!*\
-  !*** ./src/style/icons/base_icons/day/185.png ***!
-  \************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"b29c7a91f5f0986860ea1f7ba39fdac7.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/185.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/day/200.png":
-/*!************************************************!*\
-  !*** ./src/style/icons/base_icons/day/200.png ***!
-  \************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"cc1054a285a2ec8feccaad9a1d2e9b10.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/200.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/day/227.png":
-/*!************************************************!*\
-  !*** ./src/style/icons/base_icons/day/227.png ***!
-  \************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"b129e818f96bfd5302e9d6f4e7d168b2.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/227.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/day/230.png":
-/*!************************************************!*\
-  !*** ./src/style/icons/base_icons/day/230.png ***!
-  \************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"b8b0bf9be35bccc67ed8c5e7a701e6e3.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/230.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/day/248.png":
-/*!************************************************!*\
-  !*** ./src/style/icons/base_icons/day/248.png ***!
-  \************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"b2a1d4434712ee44f9ba17a1976a92d2.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/248.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/day/260.png":
-/*!************************************************!*\
-  !*** ./src/style/icons/base_icons/day/260.png ***!
-  \************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"83e24a5eb9c1903d153ab10467cdd4a6.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/260.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/day/263.png":
-/*!************************************************!*\
-  !*** ./src/style/icons/base_icons/day/263.png ***!
-  \************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"9f768941645c662c7fad7831d98bfa23.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/263.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/day/266.png":
-/*!************************************************!*\
-  !*** ./src/style/icons/base_icons/day/266.png ***!
-  \************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"9f768941645c662c7fad7831d98bfa23.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/266.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/day/281.png":
-/*!************************************************!*\
-  !*** ./src/style/icons/base_icons/day/281.png ***!
-  \************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"b29c7a91f5f0986860ea1f7ba39fdac7.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/281.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/day/284.png":
-/*!************************************************!*\
-  !*** ./src/style/icons/base_icons/day/284.png ***!
-  \************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"56ec9edb8b4e68fe86cd67653024130e.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/284.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/day/293.png":
-/*!************************************************!*\
-  !*** ./src/style/icons/base_icons/day/293.png ***!
-  \************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"307889846f4a6877a9eacd337aef1bc9.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/293.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/day/296.png":
-/*!************************************************!*\
-  !*** ./src/style/icons/base_icons/day/296.png ***!
-  \************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"be8d48a6fb6962fa1edd9b5eecaefd9a.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/296.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/day/299.png":
-/*!************************************************!*\
-  !*** ./src/style/icons/base_icons/day/299.png ***!
-  \************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"307889846f4a6877a9eacd337aef1bc9.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/299.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/day/302.png":
-/*!************************************************!*\
-  !*** ./src/style/icons/base_icons/day/302.png ***!
-  \************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"be8d48a6fb6962fa1edd9b5eecaefd9a.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/302.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/day/305.png":
-/*!************************************************!*\
-  !*** ./src/style/icons/base_icons/day/305.png ***!
-  \************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"b79f79a47ff26675bbb6b7f3d30e0ab5.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/305.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/day/308.png":
-/*!************************************************!*\
-  !*** ./src/style/icons/base_icons/day/308.png ***!
-  \************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"abccde130cb90d6b8d284d2625a4e92d.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/308.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/day/311.png":
-/*!************************************************!*\
-  !*** ./src/style/icons/base_icons/day/311.png ***!
-  \************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"a856df694720212e414a353c8772c63b.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/311.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/day/314.png":
-/*!************************************************!*\
-  !*** ./src/style/icons/base_icons/day/314.png ***!
-  \************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"a856df694720212e414a353c8772c63b.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/314.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/day/317.png":
-/*!************************************************!*\
-  !*** ./src/style/icons/base_icons/day/317.png ***!
-  \************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"21cb978b0b5bc99863da50eba5e46151.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/317.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/day/320.png":
-/*!************************************************!*\
-  !*** ./src/style/icons/base_icons/day/320.png ***!
-  \************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"21cb978b0b5bc99863da50eba5e46151.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/320.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/day/323.png":
-/*!************************************************!*\
-  !*** ./src/style/icons/base_icons/day/323.png ***!
-  \************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"ff6c626ccae29522a258ccba0c547baa.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/323.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/day/326.png":
-/*!************************************************!*\
-  !*** ./src/style/icons/base_icons/day/326.png ***!
-  \************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"997f80887a654d8e2bd851a93c42b704.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/326.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/day/329.png":
-/*!************************************************!*\
-  !*** ./src/style/icons/base_icons/day/329.png ***!
-  \************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"ff6c626ccae29522a258ccba0c547baa.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/329.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/day/332.png":
-/*!************************************************!*\
-  !*** ./src/style/icons/base_icons/day/332.png ***!
-  \************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"997f80887a654d8e2bd851a93c42b704.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/332.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/day/335.png":
-/*!************************************************!*\
-  !*** ./src/style/icons/base_icons/day/335.png ***!
-  \************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"f112e7b7295449ca0f2c38735f50e307.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/335.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/day/338.png":
-/*!************************************************!*\
-  !*** ./src/style/icons/base_icons/day/338.png ***!
-  \************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"33ecc25ad9b9bcdead64b3b4b8c7a43c.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/338.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/day/350.png":
-/*!************************************************!*\
-  !*** ./src/style/icons/base_icons/day/350.png ***!
-  \************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"e2ffeba8f660e868882db14035142c4f.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/350.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/day/353.png":
-/*!************************************************!*\
-  !*** ./src/style/icons/base_icons/day/353.png ***!
-  \************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"307889846f4a6877a9eacd337aef1bc9.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/353.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/day/356.png":
-/*!************************************************!*\
-  !*** ./src/style/icons/base_icons/day/356.png ***!
-  \************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"b79f79a47ff26675bbb6b7f3d30e0ab5.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/356.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/day/359.png":
-/*!************************************************!*\
-  !*** ./src/style/icons/base_icons/day/359.png ***!
-  \************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"a4e620fd4749c3b4e4e0ba08454611b1.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/359.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/day/362.png":
-/*!************************************************!*\
-  !*** ./src/style/icons/base_icons/day/362.png ***!
-  \************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"6fe62e8748f042a1cbc49b70ebbe1c99.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/362.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/day/365.png":
-/*!************************************************!*\
-  !*** ./src/style/icons/base_icons/day/365.png ***!
-  \************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"de693c69934c56d7621bc84e79fd90d3.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/365.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/day/368.png":
-/*!************************************************!*\
-  !*** ./src/style/icons/base_icons/day/368.png ***!
-  \************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"ff6c626ccae29522a258ccba0c547baa.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/368.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/day/371.png":
-/*!************************************************!*\
-  !*** ./src/style/icons/base_icons/day/371.png ***!
-  \************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"f112e7b7295449ca0f2c38735f50e307.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/371.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/day/374.png":
-/*!************************************************!*\
-  !*** ./src/style/icons/base_icons/day/374.png ***!
-  \************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"bbb2a9027eb47dd6fc81faef9a0e7262.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/374.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/day/377.png":
-/*!************************************************!*\
-  !*** ./src/style/icons/base_icons/day/377.png ***!
-  \************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"d5b7ec94bf807ad7a1f590f9a4c34204.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/377.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/day/386.png":
-/*!************************************************!*\
-  !*** ./src/style/icons/base_icons/day/386.png ***!
-  \************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"cc1054a285a2ec8feccaad9a1d2e9b10.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/386.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/day/389.png":
-/*!************************************************!*\
-  !*** ./src/style/icons/base_icons/day/389.png ***!
-  \************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"f01fba5ae744838fbf9525fc69900ad5.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/389.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/day/392.png":
-/*!************************************************!*\
-  !*** ./src/style/icons/base_icons/day/392.png ***!
-  \************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"654b4a200e85db363fc9baae597d3ef2.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/392.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/day/395.png":
-/*!************************************************!*\
-  !*** ./src/style/icons/base_icons/day/395.png ***!
-  \************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"1cb8e1c8dd3b23368d5656ae84c7e319.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/395.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/night/113.png":
-/*!**************************************************!*\
-  !*** ./src/style/icons/base_icons/night/113.png ***!
-  \**************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"9a181351a22b54059f469028cc70b87e.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/113.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/night/116.png":
-/*!**************************************************!*\
-  !*** ./src/style/icons/base_icons/night/116.png ***!
-  \**************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"337f58255916e54ea1e15b0ffca9382c.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/116.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/night/119.png":
-/*!**************************************************!*\
-  !*** ./src/style/icons/base_icons/night/119.png ***!
-  \**************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"877a68f87ae89bb957ef1efb67d7d105.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/119.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/night/122.png":
-/*!**************************************************!*\
-  !*** ./src/style/icons/base_icons/night/122.png ***!
-  \**************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"fe1ad0ff1820050f573ad0443876e785.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/122.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/night/143.png":
-/*!**************************************************!*\
-  !*** ./src/style/icons/base_icons/night/143.png ***!
-  \**************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"3a38774211eb11741b540e320154d903.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/143.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/night/176.png":
-/*!**************************************************!*\
-  !*** ./src/style/icons/base_icons/night/176.png ***!
-  \**************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"2274b0f9afde269933e545d1f6840eb2.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/176.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/night/179.png":
-/*!**************************************************!*\
-  !*** ./src/style/icons/base_icons/night/179.png ***!
-  \**************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"a05c0ed9c03235edca963cc11c88bf71.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/179.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/night/182.png":
-/*!**************************************************!*\
-  !*** ./src/style/icons/base_icons/night/182.png ***!
-  \**************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"17b97c48fb138ff20843945622521080.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/182.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/night/185.png":
-/*!**************************************************!*\
-  !*** ./src/style/icons/base_icons/night/185.png ***!
-  \**************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"73c62dfd22eaf889b373948d3e1294e9.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/185.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/night/200.png":
-/*!**************************************************!*\
-  !*** ./src/style/icons/base_icons/night/200.png ***!
-  \**************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"a85bb9589ece1a589e53ce9ef2cf4412.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/200.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/night/227.png":
-/*!**************************************************!*\
-  !*** ./src/style/icons/base_icons/night/227.png ***!
-  \**************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"a417dc841fb787a3121eb51cdccc6fdf.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/227.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/night/230.png":
-/*!**************************************************!*\
-  !*** ./src/style/icons/base_icons/night/230.png ***!
-  \**************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"af63c80cb02f1b88520bb56d02232d68.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/230.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/night/248.png":
-/*!**************************************************!*\
-  !*** ./src/style/icons/base_icons/night/248.png ***!
-  \**************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"360b1cd2a1b3bf3eccf052cc3a179eec.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/248.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/night/260.png":
-/*!**************************************************!*\
-  !*** ./src/style/icons/base_icons/night/260.png ***!
-  \**************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"cb1570c9ecb894bc108729106450bb1b.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/260.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/night/263.png":
-/*!**************************************************!*\
-  !*** ./src/style/icons/base_icons/night/263.png ***!
-  \**************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"3e3495b8348354827949811b2daed4b8.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/263.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/night/266.png":
-/*!**************************************************!*\
-  !*** ./src/style/icons/base_icons/night/266.png ***!
-  \**************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"3e3495b8348354827949811b2daed4b8.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/266.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/night/281.png":
-/*!**************************************************!*\
-  !*** ./src/style/icons/base_icons/night/281.png ***!
-  \**************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"73c62dfd22eaf889b373948d3e1294e9.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/281.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/night/284.png":
-/*!**************************************************!*\
-  !*** ./src/style/icons/base_icons/night/284.png ***!
-  \**************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"bf216d4d2f4aa9d2a734b661cdd49dfa.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/284.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/night/293.png":
-/*!**************************************************!*\
-  !*** ./src/style/icons/base_icons/night/293.png ***!
-  \**************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"2274b0f9afde269933e545d1f6840eb2.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/293.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/night/296.png":
-/*!**************************************************!*\
-  !*** ./src/style/icons/base_icons/night/296.png ***!
-  \**************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"e15944de07d227742faa98bd5d1b606b.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/296.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/night/299.png":
-/*!**************************************************!*\
-  !*** ./src/style/icons/base_icons/night/299.png ***!
-  \**************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"2274b0f9afde269933e545d1f6840eb2.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/299.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/night/302.png":
-/*!**************************************************!*\
-  !*** ./src/style/icons/base_icons/night/302.png ***!
-  \**************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"e15944de07d227742faa98bd5d1b606b.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/302.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/night/305.png":
-/*!**************************************************!*\
-  !*** ./src/style/icons/base_icons/night/305.png ***!
-  \**************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"f3012ddd8e268e19eb2efa30153da78f.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/305.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/night/308.png":
-/*!**************************************************!*\
-  !*** ./src/style/icons/base_icons/night/308.png ***!
-  \**************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"3b4d7dcbbedd8be85713c91461765220.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/308.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/night/311.png":
-/*!**************************************************!*\
-  !*** ./src/style/icons/base_icons/night/311.png ***!
-  \**************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"32aa06f17c3f7cfb3a9934a13cf98e24.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/311.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/night/314.png":
-/*!**************************************************!*\
-  !*** ./src/style/icons/base_icons/night/314.png ***!
-  \**************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"32aa06f17c3f7cfb3a9934a13cf98e24.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/314.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/night/317.png":
-/*!**************************************************!*\
-  !*** ./src/style/icons/base_icons/night/317.png ***!
-  \**************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"5b39c4234abc34044d084ac13bf9a794.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/317.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/night/320.png":
-/*!**************************************************!*\
-  !*** ./src/style/icons/base_icons/night/320.png ***!
-  \**************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"5b39c4234abc34044d084ac13bf9a794.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/320.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/night/323.png":
-/*!**************************************************!*\
-  !*** ./src/style/icons/base_icons/night/323.png ***!
-  \**************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"a05c0ed9c03235edca963cc11c88bf71.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/323.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/night/326.png":
-/*!**************************************************!*\
-  !*** ./src/style/icons/base_icons/night/326.png ***!
-  \**************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"66cad1fd4ea2b425476d0e1629a07b94.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/326.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/night/329.png":
-/*!**************************************************!*\
-  !*** ./src/style/icons/base_icons/night/329.png ***!
-  \**************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"a05c0ed9c03235edca963cc11c88bf71.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/329.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/night/332.png":
-/*!**************************************************!*\
-  !*** ./src/style/icons/base_icons/night/332.png ***!
-  \**************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"66cad1fd4ea2b425476d0e1629a07b94.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/332.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/night/335.png":
-/*!**************************************************!*\
-  !*** ./src/style/icons/base_icons/night/335.png ***!
-  \**************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"a05c0ed9c03235edca963cc11c88bf71.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/335.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/night/338.png":
-/*!**************************************************!*\
-  !*** ./src/style/icons/base_icons/night/338.png ***!
-  \**************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"68e33fb0d2d3d215a5fea300705d5466.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/338.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/night/350.png":
-/*!**************************************************!*\
-  !*** ./src/style/icons/base_icons/night/350.png ***!
-  \**************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"1c33e3dd2cb58a8c51b7e8caa70127fa.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/350.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/night/353.png":
-/*!**************************************************!*\
-  !*** ./src/style/icons/base_icons/night/353.png ***!
-  \**************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"2274b0f9afde269933e545d1f6840eb2.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/353.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/night/356.png":
-/*!**************************************************!*\
-  !*** ./src/style/icons/base_icons/night/356.png ***!
-  \**************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"f3012ddd8e268e19eb2efa30153da78f.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/356.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/night/359.png":
-/*!**************************************************!*\
-  !*** ./src/style/icons/base_icons/night/359.png ***!
-  \**************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"f0ea4e443a205a9cfbbf8717ad866253.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/359.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/night/362.png":
-/*!**************************************************!*\
-  !*** ./src/style/icons/base_icons/night/362.png ***!
-  \**************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"17b97c48fb138ff20843945622521080.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/362.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/night/365.png":
-/*!**************************************************!*\
-  !*** ./src/style/icons/base_icons/night/365.png ***!
-  \**************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"3e3b2a1ad34b9471b98056203be192a5.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/365.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/night/368.png":
-/*!**************************************************!*\
-  !*** ./src/style/icons/base_icons/night/368.png ***!
-  \**************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"a05c0ed9c03235edca963cc11c88bf71.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/368.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/night/371.png":
-/*!**************************************************!*\
-  !*** ./src/style/icons/base_icons/night/371.png ***!
-  \**************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"2c7b41d4dea564886958238c2080fc70.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/371.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/night/374.png":
-/*!**************************************************!*\
-  !*** ./src/style/icons/base_icons/night/374.png ***!
-  \**************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"42f4df0e587e14e2ec2dd884adc3f120.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/374.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/night/377.png":
-/*!**************************************************!*\
-  !*** ./src/style/icons/base_icons/night/377.png ***!
-  \**************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"2821934c72b0870a790d2a6debfe3557.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/377.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/night/386.png":
-/*!**************************************************!*\
-  !*** ./src/style/icons/base_icons/night/386.png ***!
-  \**************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"a85bb9589ece1a589e53ce9ef2cf4412.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/386.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/night/389.png":
-/*!**************************************************!*\
-  !*** ./src/style/icons/base_icons/night/389.png ***!
-  \**************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"815a9988eef459cc98c311011320ed6d.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/389.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/night/392.png":
-/*!**************************************************!*\
-  !*** ./src/style/icons/base_icons/night/392.png ***!
-  \**************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"972cf01edfd40c105c6ca224d5083f2c.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/392.png?");
-
-/***/ }),
-
-/***/ "./src/style/icons/base_icons/night/395.png":
-/*!**************************************************!*\
-  !*** ./src/style/icons/base_icons/night/395.png ***!
-  \**************************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + \"1cb8e1c8dd3b23368d5656ae84c7e319.png\");\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/395.png?");
-
-/***/ }),
-
 /***/ "./src/style/style.scss":
 /*!******************************!*\
   !*** ./src/style/style.scss ***!
@@ -1175,1226 +119,6 @@ eval("\n\n/* istanbul ignore next  */\nfunction styleTagTransform(css, styleElem
 
 /***/ }),
 
-/***/ "./src/style/icons/animated_icons/barometer.svg":
-/*!******************************************************!*\
-  !*** ./src/style/icons/animated_icons/barometer.svg ***!
-  \******************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"a\\\" x1=\\\"23\\\" x2=\\\"41\\\" y1=\\\"16.41\\\" y2=\\\"47.59\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#6b7280\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#6b7280\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#374151\\\"></stop></linearGradient></defs><circle cx=\\\"32\\\" cy=\\\"32\\\" r=\\\"18\\\" fill=\\\"url(#a)\\\" stroke=\\\"#e5e7eb\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"2\\\"></circle><path fill=\\\"none\\\" stroke=\\\"#9ca3af\\\" stroke-linecap=\\\"round\\\" stroke-linejoin=\\\"round\\\" d=\\\"M32 25v-6m13.5 13h-6M25 32h-6m22.5-8.5l-3 3m-13 0l-3-3m16 14l3 3m-19 0l3-3\\\"></path><circle cx=\\\"32\\\" cy=\\\"32\\\" r=\\\"3\\\" fill=\\\"#ef4444\\\"></circle><path fill=\\\"none\\\" stroke=\\\"#ef4444\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"2\\\" d=\\\"M32 35.5v-15\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"9s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"30 32 32; 55 32 32; 45 32 32; 55 32 32; 30 32 32\\\"></animateTransform></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/barometer.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/celsius.svg":
-/*!****************************************************!*\
-  !*** ./src/style/icons/animated_icons/celsius.svg ***!
-  \****************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" viewBox=\\\"0 0 64 64\\\"><path fill=\\\"#374151\\\" d=\\\"M27 30a3.75 3.75 0 01-2.75 1.18A3.8 3.8 0 0121.48 30a3.91 3.91 0 012.78-6.69A3.89 3.89 0 0127 30zm-4-1.54a1.65 1.65 0 001.22.51 1.69 1.69 0 001.22-.51 1.61 1.61 0 00.51-1.2 1.71 1.71 0 00-.5-1.23 1.65 1.65 0 00-1.23-.52A1.63 1.63 0 0023 26a1.68 1.68 0 00-.51 1.23 1.61 1.61 0 00.51 1.19zM32 24.79a7.12 7.12 0 015.08-1.67c3.4 0 5.58 1.34 6.52 4a.72.72 0 01-.5 1.05l-1.32.46a.88.88 0 01-.65 0 1 1 0 01-.38-.54c-.53-1.48-1.75-2.21-3.67-2.21a4.19 4.19 0 00-2.85.87 3.23 3.23 0 00-1 2.54v5.3a3.24 3.24 0 001 2.54 4.09 4.09 0 002.85.89c1.9 0 3.12-.74 3.67-2.23a1 1 0 01.41-.56.75.75 0 01.64.06l1.3.45a.75.75 0 01.53 1.06q-1.43 4-6.55 4A7.17 7.17 0 0132 39.21a6 6 0 01-1.79-4.59v-5.26A5.94 5.94 0 0132 24.79z\\\"></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/celsius.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/clear-day.svg":
-/*!******************************************************!*\
-  !*** ./src/style/icons/animated_icons/clear-day.svg ***!
-  \******************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"a\\\" x1=\\\"26.75\\\" x2=\\\"37.25\\\" y1=\\\"22.91\\\" y2=\\\"41.09\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#fbbf24\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#fbbf24\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#f59e0b\\\"></stop></linearGradient></defs><circle cx=\\\"32\\\" cy=\\\"32\\\" r=\\\"10.5\\\" fill=\\\"url(#a)\\\" stroke=\\\"#f8af18\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\"></circle><path fill=\\\"none\\\" stroke=\\\"#fbbf24\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M32 15.71V9.5m0 45v-6.21m11.52-27.81l4.39-4.39M16.09 47.91l4.39-4.39m0-23l-4.39-4.39m31.82 31.78l-4.39-4.39M15.71 32H9.5m45 0h-6.21\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"45s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"0 32 32; 360 32 32\\\"></animateTransform></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/clear-day.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/clear-night.svg":
-/*!********************************************************!*\
-  !*** ./src/style/icons/animated_icons/clear-night.svg ***!
-  \********************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"a\\\" x1=\\\"21.92\\\" x2=\\\"38.52\\\" y1=\\\"18.75\\\" y2=\\\"47.52\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#86c3db\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#86c3db\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#5eafcf\\\"></stop><animateTransform attributeName=\\\"gradientTransform\\\" dur=\\\"10s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"5 32 32; -15 32 32; 5 32 32\\\"></animateTransform></linearGradient></defs><path fill=\\\"url(#a)\\\" stroke=\\\"#72b9d5\\\" stroke-linecap=\\\"round\\\" stroke-linejoin=\\\"round\\\" stroke-width=\\\".5\\\" d=\\\"M46.66 36.2a16.66 16.66 0 01-16.78-16.55 16.29 16.29 0 01.55-4.15A16.56 16.56 0 1048.5 36.1c-.61.06-1.22.1-1.84.1z\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"10s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"-5 32 32; 15 32 32; -5 32 32\\\"></animateTransform></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/clear-night.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/cloudy.svg":
-/*!***************************************************!*\
-  !*** ./src/style/icons/animated_icons/cloudy.svg ***!
-  \***************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"a\\\" x1=\\\"22.56\\\" x2=\\\"39.2\\\" y1=\\\"21.96\\\" y2=\\\"50.8\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#deeafb\\\"></stop></linearGradient></defs><path fill=\\\"url(#a)\\\" stroke=\\\"#e6effc\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\" d=\\\"M46.5 31.5h-.32a10.49 10.49 0 00-19.11-8 7 7 0 00-10.57 6 7.21 7.21 0 00.1 1.14A7.5 7.5 0 0018 45.5a4.19 4.19 0 00.5 0v0h28a7 7 0 000-14z\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"7s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"-3 0; 3 0; -3 0\\\"></animateTransform></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/cloudy.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/compass.svg":
-/*!****************************************************!*\
-  !*** ./src/style/icons/animated_icons/compass.svg ***!
-  \****************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"a\\\" x1=\\\"23\\\" x2=\\\"41\\\" y1=\\\"16.41\\\" y2=\\\"47.59\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#6b7280\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#6b7280\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#374151\\\"></stop></linearGradient></defs><circle cx=\\\"32\\\" cy=\\\"32\\\" r=\\\"18\\\" fill=\\\"url(#a)\\\" stroke=\\\"#e5e7eb\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"2\\\"></circle><path fill=\\\"#fff\\\" stroke=\\\"#fff\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\" d=\\\"M36.47 39.46l-4.3-15.09a.17.17 0 00-.17-.17.16.16 0 00-.17.17l-4.32 15.09a.35.35 0 00.07.29q.06.11.24 0l4-1.5a.47.47 0 01.33 0l4 1.5c.13.07.22.07.28 0a.26.26 0 00.04-.29z\\\"><animateTransform attributeName=\\\"transform\\\" calcMode=\\\"spline\\\" dur=\\\"1s\\\" keySplines=\\\"0.5 0 0.5 1; 0.5 0 0.5 1\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"-3 32 32;3 32 32;-3 32 32\\\"></animateTransform></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/compass.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/drizzle.svg":
-/*!****************************************************!*\
-  !*** ./src/style/icons/animated_icons/drizzle.svg ***!
-  \****************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" xmlns:xlink=\\\"http://www.w3.org/1999/xlink\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"b\\\" x1=\\\"22.56\\\" x2=\\\"39.2\\\" y1=\\\"21.96\\\" y2=\\\"50.8\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#deeafb\\\"></stop></linearGradient><linearGradient id=\\\"a\\\" x1=\\\"23.31\\\" x2=\\\"24.69\\\" y1=\\\"44.3\\\" y2=\\\"46.7\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#4286ee\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#4286ee\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#0950bc\\\"></stop></linearGradient><linearGradient id=\\\"c\\\" x1=\\\"30.31\\\" x2=\\\"31.69\\\" y1=\\\"44.3\\\" y2=\\\"46.7\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"d\\\" x1=\\\"37.31\\\" x2=\\\"38.69\\\" y1=\\\"44.3\\\" y2=\\\"46.7\\\" xlink:href=\\\"#a\\\"></linearGradient></defs><path fill=\\\"url(#b)\\\" stroke=\\\"#e6effc\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\" d=\\\"M46.5 31.5h-.32a10.49 10.49 0 00-19.11-8 7 7 0 00-10.57 6 7.21 7.21 0 00.1 1.14A7.5 7.5 0 0018 45.5a4.19 4.19 0 00.5 0v0h28a7 7 0 000-14z\\\"></path><path fill=\\\"none\\\" stroke=\\\"url(#c)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"2\\\" d=\\\"M24.08 45.01l-.16.98\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"1.5s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"1 -5; -2 10\\\"></animateTransform><animate attributeName=\\\"opacity\\\" dur=\\\"1.5s\\\" repeatCount=\\\"indefinite\\\" values=\\\"0;1;1;0\\\"></animate></path><path fill=\\\"none\\\" stroke=\\\"url(#d)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"2\\\" d=\\\"M31.08 45.01l-.16.98\\\"><animateTransform attributeName=\\\"transform\\\" begin=\\\"-0.5s\\\" dur=\\\"1.5s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"1 -5; -2 10\\\"></animateTransform><animate attributeName=\\\"opacity\\\" begin=\\\"-0.5s\\\" dur=\\\"1.5s\\\" repeatCount=\\\"indefinite\\\" values=\\\"0;1;1;0\\\"></animate></path><path fill=\\\"none\\\" stroke=\\\"url(#e)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"2\\\" d=\\\"M38.08 45.01l-.16.98\\\"><animateTransform attributeName=\\\"transform\\\" begin=\\\"-1s\\\" dur=\\\"1.5s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"1 -5; -2 10\\\"></animateTransform><animate attributeName=\\\"opacity\\\" begin=\\\"-1s\\\" dur=\\\"1.5s\\\" repeatCount=\\\"indefinite\\\" values=\\\"0;1;1;0\\\"></animate></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/drizzle.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/dust-day.svg":
-/*!*****************************************************!*\
-  !*** ./src/style/icons/animated_icons/dust-day.svg ***!
-  \*****************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" xmlns:xlink=\\\"http://www.w3.org/1999/xlink\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"c\\\" x1=\\\"26.75\\\" x2=\\\"37.25\\\" y1=\\\"22.91\\\" y2=\\\"41.09\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#fbbf24\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#fbbf24\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#f59e0b\\\"></stop></linearGradient><linearGradient id=\\\"a\\\" x1=\\\"22.14\\\" x2=\\\"27.53\\\" y1=\\\"36\\\" y2=\\\"45.32\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#fde68a\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#fde68a\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#fde171\\\"></stop></linearGradient><linearGradient id=\\\"d\\\" x1=\\\"34.27\\\" x2=\\\"39.66\\\" y1=\\\"28.99\\\" y2=\\\"38.32\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"e\\\" x1=\\\"43.47\\\" x2=\\\"48.86\\\" y1=\\\"23.68\\\" y2=\\\"33\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"f\\\" x1=\\\"32.14\\\" x2=\\\"37.53\\\" y1=\\\"36\\\" y2=\\\"45.32\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"g\\\" x1=\\\"44.27\\\" x2=\\\"49.66\\\" y1=\\\"28.99\\\" y2=\\\"38.32\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"h\\\" x1=\\\"53.47\\\" x2=\\\"58.86\\\" y1=\\\"23.68\\\" y2=\\\"33\\\" xlink:href=\\\"#a\\\"></linearGradient><clipPath id=\\\"b\\\"><path fill=\\\"none\\\" d=\\\"M7.5 7.5h47l-47 47v-47z\\\"></path></clipPath></defs><g stroke-miterlimit=\\\"10\\\" clip-path=\\\"url(#b)\\\"><circle cx=\\\"32\\\" cy=\\\"32\\\" r=\\\"10.5\\\" fill=\\\"url(#c)\\\" stroke=\\\"#f8af18\\\" stroke-width=\\\".5\\\"></circle><path fill=\\\"none\\\" stroke=\\\"#fbbf24\\\" stroke-linecap=\\\"round\\\" stroke-width=\\\"3\\\" d=\\\"M32 15.71V9.5m0 45v-6.21m11.52-27.81l4.39-4.39M16.09 47.91l4.39-4.39m0-23l-4.39-4.39m31.82 31.78l-4.39-4.39M15.71 32H9.5m45 0h-6.21\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"45s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"0 32 32; 360 32 32\\\"></animateTransform></path></g><g><path fill=\\\"none\\\" stroke=\\\"url(#a)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M24.89 45.11l3.19-3.19\\\"></path><path fill=\\\"none\\\" stroke=\\\"url(#d)\\\" stroke-dasharray=\\\"7 7\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M33.03 36.97l7.42-7.42\\\"></path><path fill=\\\"none\\\" stroke=\\\"url(#e)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M42.92 27.08l3.19-3.19\\\"></path><animateTransform attributeName=\\\"transform\\\" dur=\\\"3s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"-2 2; 0 0; -2 2\\\"></animateTransform></g><g><path fill=\\\"none\\\" stroke=\\\"url(#f)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M34.89 45.11l3.19-3.19\\\"></path><path fill=\\\"none\\\" stroke=\\\"url(#g)\\\" stroke-dasharray=\\\"7 7\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M43.03 36.97l7.42-7.42\\\"></path><path fill=\\\"none\\\" stroke=\\\"url(#h)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M52.92 27.08l3.19-3.19\\\"></path><animateTransform attributeName=\\\"transform\\\" begin=\\\"-2.5s\\\" dur=\\\"3s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"-2 2; 0 0; -2 2\\\"></animateTransform></g></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/dust-day.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/dust-night.svg":
-/*!*******************************************************!*\
-  !*** ./src/style/icons/animated_icons/dust-night.svg ***!
-  \*******************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" xmlns:xlink=\\\"http://www.w3.org/1999/xlink\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"c\\\" x1=\\\"21.92\\\" x2=\\\"38.52\\\" y1=\\\"18.75\\\" y2=\\\"47.52\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#86c3db\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#86c3db\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#5eafcf\\\"></stop><animateTransform attributeName=\\\"gradientTransform\\\" dur=\\\"10s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"5 32 32; -15 32 32; 5 32 32\\\"></animateTransform></linearGradient><linearGradient id=\\\"a\\\" x1=\\\"22.14\\\" x2=\\\"27.53\\\" y1=\\\"36\\\" y2=\\\"45.32\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#fde68a\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#fde68a\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#fde171\\\"></stop></linearGradient><linearGradient id=\\\"d\\\" x1=\\\"34.27\\\" x2=\\\"39.66\\\" y1=\\\"28.99\\\" y2=\\\"38.32\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"e\\\" x1=\\\"43.47\\\" x2=\\\"48.86\\\" y1=\\\"23.68\\\" y2=\\\"33\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"f\\\" x1=\\\"32.14\\\" x2=\\\"37.53\\\" y1=\\\"36\\\" y2=\\\"45.32\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"g\\\" x1=\\\"44.27\\\" x2=\\\"49.66\\\" y1=\\\"28.99\\\" y2=\\\"38.32\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"h\\\" x1=\\\"53.47\\\" x2=\\\"58.86\\\" y1=\\\"23.68\\\" y2=\\\"33\\\" xlink:href=\\\"#a\\\"></linearGradient><clipPath id=\\\"b\\\"><path fill=\\\"none\\\" d=\\\"M7.5 7.5h47l-47 47v-47z\\\"></path></clipPath></defs><g clip-path=\\\"url(#b)\\\"><g><path fill=\\\"url(#c)\\\" stroke=\\\"#72b9d5\\\" stroke-linecap=\\\"round\\\" stroke-linejoin=\\\"round\\\" stroke-width=\\\".5\\\" d=\\\"M46.66 36.2a16.66 16.66 0 01-16.78-16.55 16.29 16.29 0 01.55-4.15A16.56 16.56 0 1048.5 36.1c-.61.06-1.22.1-1.84.1z\\\"></path><animateTransform attributeName=\\\"transform\\\" dur=\\\"10s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"-5 32 32;15 32 32;-5 32 32\\\"></animateTransform></g></g><g><path fill=\\\"none\\\" stroke=\\\"url(#a)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M24.89 45.11l3.19-3.19\\\"></path><path fill=\\\"none\\\" stroke=\\\"url(#d)\\\" stroke-dasharray=\\\"7 7\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M33.03 36.97l7.42-7.42\\\"></path><path fill=\\\"none\\\" stroke=\\\"url(#e)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M42.92 27.08l3.19-3.19\\\"></path><animateTransform attributeName=\\\"transform\\\" dur=\\\"3s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"-2 2; 0 0; -2 2\\\"></animateTransform></g><g><path fill=\\\"none\\\" stroke=\\\"url(#f)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M34.89 45.11l3.19-3.19\\\"></path><path fill=\\\"none\\\" stroke=\\\"url(#g)\\\" stroke-dasharray=\\\"7 7\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M43.03 36.97l7.42-7.42\\\"></path><path fill=\\\"none\\\" stroke=\\\"url(#h)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M52.92 27.08l3.19-3.19\\\"></path><animateTransform attributeName=\\\"transform\\\" begin=\\\"-2.5s\\\" dur=\\\"3s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"-2 2; 0 0; -2 2\\\"></animateTransform></g></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/dust-night.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/dust-wind.svg":
-/*!******************************************************!*\
-  !*** ./src/style/icons/animated_icons/dust-wind.svg ***!
-  \******************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" xmlns:xlink=\\\"http://www.w3.org/1999/xlink\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"a\\\" x1=\\\"27.56\\\" x2=\\\"38.27\\\" y1=\\\"17.64\\\" y2=\\\"36.19\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#d4d7dd\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#d4d7dd\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#bec1c6\\\"></stop></linearGradient><linearGradient id=\\\"c\\\" x1=\\\"19.96\\\" x2=\\\"31.37\\\" y1=\\\"29.03\\\" y2=\\\"48.8\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"b\\\" x1=\\\"24.13\\\" x2=\\\"27.87\\\" y1=\\\"36.25\\\" y2=\\\"42.75\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#fde68a\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#fde68a\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#fde171\\\"></stop></linearGradient><linearGradient id=\\\"d\\\" x1=\\\"14.13\\\" x2=\\\"17.87\\\" y1=\\\"21.25\\\" y2=\\\"27.75\\\" xlink:href=\\\"#b\\\"></linearGradient><linearGradient id=\\\"e\\\" x1=\\\"30.13\\\" x2=\\\"33.87\\\" y1=\\\"28.75\\\" y2=\\\"35.25\\\" xlink:href=\\\"#b\\\"></linearGradient></defs><path fill=\\\"none\\\" stroke=\\\"url(#a)\\\" stroke-dasharray=\\\"35 22\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M43.64 20a5 5 0 113.61 8.46h-35.5\\\"><animate attributeName=\\\"stroke-dashoffset\\\" dur=\\\"2s\\\" repeatCount=\\\"indefinite\\\" values=\\\"-57; 57\\\"></animate></path><path fill=\\\"none\\\" stroke=\\\"url(#c)\\\" stroke-dasharray=\\\"24 15\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M29.14 44a5 5 0 103.61-8.46h-21\\\"><animate attributeName=\\\"stroke-dashoffset\\\" begin=\\\"-1.5s\\\" dur=\\\"2s\\\" repeatCount=\\\"indefinite\\\" values=\\\"-39; 39\\\"></animate></path><g><path fill=\\\"none\\\" stroke=\\\"url(#b)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M21.5 39.5h9\\\"></path><animateTransform attributeName=\\\"transform\\\" dur=\\\".9s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"0 0; 15 0\\\"></animateTransform><animate attributeName=\\\"opacity\\\" dur=\\\".9s\\\" repeatCount=\\\"indefinite\\\" values=\\\"0; 1; 1; 1; 0\\\"></animate></g><g><path fill=\\\"none\\\" stroke=\\\"url(#d)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M11.5 24.5h9\\\"></path><animateTransform attributeName=\\\"transform\\\" begin=\\\"-.3s\\\" dur=\\\".9s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"-3 0; 18 0\\\"></animateTransform><animate attributeName=\\\"opacity\\\" begin=\\\"-.3s\\\" dur=\\\".9s\\\" repeatCount=\\\"indefinite\\\" values=\\\"0; 1; 1; 1; 0\\\"></animate></g><g><path fill=\\\"none\\\" stroke=\\\"url(#e)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M27.5 32h9\\\"></path><animateTransform attributeName=\\\"transform\\\" begin=\\\"-.6s\\\" dur=\\\".9s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"-6 0; 12 0\\\"></animateTransform><animate attributeName=\\\"opacity\\\" begin=\\\"-.6s\\\" dur=\\\".9s\\\" repeatCount=\\\"indefinite\\\" values=\\\"0; 1; 1; 1; 0\\\"></animate></g></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/dust-wind.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/dust.svg":
-/*!*************************************************!*\
-  !*** ./src/style/icons/animated_icons/dust.svg ***!
-  \*************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" xmlns:xlink=\\\"http://www.w3.org/1999/xlink\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"c\\\" x1=\\\"22.56\\\" x2=\\\"39.2\\\" y1=\\\"21.96\\\" y2=\\\"50.8\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#deeafb\\\"></stop></linearGradient><linearGradient id=\\\"a\\\" x1=\\\"22.14\\\" x2=\\\"27.53\\\" y1=\\\"36\\\" y2=\\\"45.32\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#fde68a\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#fde68a\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#fde171\\\"></stop></linearGradient><linearGradient id=\\\"d\\\" x1=\\\"34.27\\\" x2=\\\"39.66\\\" y1=\\\"28.99\\\" y2=\\\"38.32\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"e\\\" x1=\\\"43.47\\\" x2=\\\"48.86\\\" y1=\\\"23.68\\\" y2=\\\"33\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"f\\\" x1=\\\"32.14\\\" x2=\\\"37.53\\\" y1=\\\"36\\\" y2=\\\"45.32\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"g\\\" x1=\\\"44.27\\\" x2=\\\"49.66\\\" y1=\\\"28.99\\\" y2=\\\"38.32\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"h\\\" x1=\\\"53.47\\\" x2=\\\"58.86\\\" y1=\\\"23.68\\\" y2=\\\"33\\\" xlink:href=\\\"#a\\\"></linearGradient><clipPath id=\\\"b\\\"><path fill=\\\"none\\\" d=\\\"M7.5 7.5h47l-47 47v-47z\\\"></path></clipPath></defs><g clip-path=\\\"url(#b)\\\"><path fill=\\\"url(#c)\\\" stroke=\\\"#e6effc\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\" d=\\\"M46.5 31.5h-.32a10.49 10.49 0 00-19.11-8 7 7 0 00-10.57 6 7.21 7.21 0 00.1 1.14A7.5 7.5 0 0018 45.5a4.19 4.19 0 00.5 0v0h28a7 7 0 000-14z\\\"></path></g><g><path fill=\\\"none\\\" stroke=\\\"url(#a)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M24.89 45.11l3.19-3.19\\\"></path><path fill=\\\"none\\\" stroke=\\\"url(#d)\\\" stroke-dasharray=\\\"7 7\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M33.03 36.97l7.42-7.42\\\"></path><path fill=\\\"none\\\" stroke=\\\"url(#e)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M42.92 27.08l3.19-3.19\\\"></path><animateTransform attributeName=\\\"transform\\\" dur=\\\"3s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"-2 2; 0 0; -2 2\\\"></animateTransform></g><g><path fill=\\\"none\\\" stroke=\\\"url(#f)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M34.89 45.11l3.19-3.19\\\"></path><path fill=\\\"none\\\" stroke=\\\"url(#g)\\\" stroke-dasharray=\\\"7 7\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M43.03 36.97l7.42-7.42\\\"></path><path fill=\\\"none\\\" stroke=\\\"url(#h)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M52.92 27.08l3.19-3.19\\\"></path><animateTransform attributeName=\\\"transform\\\" begin=\\\"-2.5s\\\" dur=\\\"3s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"-2 2; 0 0; -2 2\\\"></animateTransform></g></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/dust.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/fahrenheit.svg":
-/*!*******************************************************!*\
-  !*** ./src/style/icons/animated_icons/fahrenheit.svg ***!
-  \*******************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" viewBox=\\\"0 0 64 64\\\"><path fill=\\\"#374151\\\" d=\\\"M27.91 30.06a3.88 3.88 0 01-5.53 0 3.95 3.95 0 010-5.57 3.85 3.85 0 012.8-1.13 3.88 3.88 0 013.91 3.92 3.84 3.84 0 01-1.18 2.78zm-4-1.54a1.63 1.63 0 001.22.5 1.65 1.65 0 001.21-.5 1.61 1.61 0 00.52-1.2 1.71 1.71 0 00-.51-1.24 1.71 1.71 0 00-2.44 0 1.71 1.71 0 00-.51 1.24 1.64 1.64 0 00.54 1.2zM42.58 23.76a.83.83 0 01.2.63v1.18a.83.83 0 01-.2.63.91.91 0 01-.64.18h-7.35v4.42h6.17a1 1 0 01.65.18.84.84 0 01.19.64v1.17a.89.89 0 01-.18.64.93.93 0 01-.66.18h-6.17v6.19a.91.91 0 01-.18.64.88.88 0 01-.63.18h-1.37a.94.94 0 01-.65-.18.86.86 0 01-.19-.64V24.39a.83.83 0 01.19-.63.94.94 0 01.65-.18h9.53a.91.91 0 01.64.18z\\\"></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/fahrenheit.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/falling-stars.svg":
-/*!**********************************************************!*\
-  !*** ./src/style/icons/animated_icons/falling-stars.svg ***!
-  \**********************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" xmlns:xlink=\\\"http://www.w3.org/1999/xlink\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"a\\\" x1=\\\"36.88\\\" x2=\\\"41.12\\\" y1=\\\"15.33\\\" y2=\\\"22.67\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#fcd966\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#fcd966\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#fccd34\\\"></stop></linearGradient><linearGradient id=\\\"b\\\" x1=\\\"43.79\\\" x2=\\\"48.21\\\" y1=\\\"25.17\\\" y2=\\\"32.83\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"d\\\" x1=\\\"43.11\\\" x2=\\\"46.89\\\" y1=\\\"18.73\\\" y2=\\\"25.27\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"e\\\" x1=\\\"21.92\\\" x2=\\\"38.52\\\" y1=\\\"18.75\\\" y2=\\\"47.52\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#86c3db\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#86c3db\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#5eafcf\\\"></stop><animateTransform attributeName=\\\"gradientTransform\\\" dur=\\\"10s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"5 32 32; -15 32 32; 5 32 32\\\"></animateTransform></linearGradient><clipPath id=\\\"c\\\"><path fill=\\\"none\\\" d=\\\"M64 2.79L30 23l2 6 5 4 27-12V2.79z\\\"></path></clipPath></defs><path fill=\\\"url(#a)\\\" stroke=\\\"#fcd34d\\\" stroke-linecap=\\\"round\\\" stroke-linejoin=\\\"round\\\" stroke-width=\\\".5\\\" d=\\\"M35.44 16.87l1.3 2.13a.55.55 0 01.06.5l-.8 2.36a.59.59 0 00.87.7l2.13-1.3a.55.55 0 01.5-.06l2.36.8a.59.59 0 00.7-.87L41.26 19a.55.55 0 01-.06-.5l.8-2.36a.59.59 0 00-.87-.7L39 16.74a.55.55 0 01-.5.06l-2.36-.8a.59.59 0 00-.7.87z\\\"><animate attributeName=\\\"opacity\\\" dur=\\\"3s\\\" repeatCount=\\\"indefinite\\\" values=\\\".8; 0; .8\\\"></animate></path><path fill=\\\"url(#b)\\\" stroke=\\\"#fcd34d\\\" stroke-linecap=\\\"round\\\" stroke-linejoin=\\\"round\\\" stroke-width=\\\".5\\\" d=\\\"M42.27 30.82l2.49.07a.62.62 0 01.46.22l1.53 2a.6.6 0 001.07-.35l.07-2.49a.62.62 0 01.22-.46l2-1.53a.6.6 0 00-.35-1.07l-2.49-.07a.62.62 0 01-.46-.22l-1.53-2a.6.6 0 00-1.07.35l-.07 2.49a.62.62 0 01-.22.46l-2 1.53a.6.6 0 00.35 1.07z\\\"><animate attributeName=\\\"opacity\\\" begin=\\\"-1.5s\\\" dur=\\\"3s\\\" repeatCount=\\\"indefinite\\\" values=\\\".8; 0; .8\\\"></animate></path><g clip-path=\\\"url(#c)\\\"><g><path fill=\\\"url(#d)\\\" stroke=\\\"#fcd34d\\\" stroke-linecap=\\\"round\\\" stroke-linejoin=\\\"round\\\" stroke-width=\\\".5\\\" d=\\\"M41 20.81l1.78 1.74A.6.6 0 0143 23l-.2 2.49a.6.6 0 001 .46l1.74-1.78A.6.6 0 0146 24l2.49.2a.6.6 0 00.46-1l-1.78-1.74A.6.6 0 0147 21l.2-2.49a.6.6 0 00-1-.46l-1.74 1.78A.6.6 0 0144 20l-2.49-.2a.6.6 0 00-.51 1.01z\\\"></path><path fill=\\\"none\\\" stroke=\\\"#fcd34d\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" d=\\\"M41.5 23.5l-1.34.67\\\"></path><path fill=\\\"none\\\" stroke=\\\"#fcd34d\\\" stroke-dasharray=\\\"2.53 2.53\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" d=\\\"M37.9 25.3l-7.93 3.96\\\"></path><path fill=\\\"none\\\" stroke=\\\"#fcd34d\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" d=\\\"M28.84 29.83l-1.34.67\\\"></path><animateTransform attributeName=\\\"transform\\\" dur=\\\"2s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"-15 9; 15 -7; 15 -7\\\"></animateTransform><animate attributeName=\\\"opacity\\\" dur=\\\"2s\\\" repeatCount=\\\"indefinite\\\" values=\\\"1; 1; 0; 0; 0\\\"></animate></g></g><path fill=\\\"url(#e)\\\" stroke=\\\"#72b9d5\\\" stroke-linecap=\\\"round\\\" stroke-linejoin=\\\"round\\\" stroke-width=\\\".5\\\" d=\\\"M46.66 36.2a16.66 16.66 0 01-16.78-16.55 16.29 16.29 0 01.55-4.15A16.56 16.56 0 1048.5 36.1c-.61.06-1.22.1-1.84.1z\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"10s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"-5 32 32; 15 32 32; -5 32 32\\\"></animateTransform></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/falling-stars.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/fog-day.svg":
-/*!****************************************************!*\
-  !*** ./src/style/icons/animated_icons/fog-day.svg ***!
-  \****************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" xmlns:xlink=\\\"http://www.w3.org/1999/xlink\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"c\\\" x1=\\\"26.75\\\" x2=\\\"37.25\\\" y1=\\\"29.91\\\" y2=\\\"48.09\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#fbbf24\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#fbbf24\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#f59e0b\\\"></stop></linearGradient><linearGradient id=\\\"a\\\" x1=\\\"15.5\\\" x2=\\\"48.5\\\" y1=\\\"44\\\" y2=\\\"44\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#d4d7dd\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#d4d7dd\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#bec1c6\\\"></stop></linearGradient><linearGradient id=\\\"d\\\" y1=\\\"51\\\" y2=\\\"51\\\" xlink:href=\\\"#a\\\"></linearGradient><clipPath id=\\\"b\\\"><path fill=\\\"none\\\" d=\\\"M0 7.5h64v32H0z\\\"></path></clipPath></defs><g stroke-miterlimit=\\\"10\\\" clip-path=\\\"url(#b)\\\"><circle cx=\\\"32\\\" cy=\\\"39\\\" r=\\\"10.5\\\" fill=\\\"url(#c)\\\" stroke=\\\"#f8af18\\\" stroke-width=\\\".5\\\"></circle><path fill=\\\"none\\\" stroke=\\\"#fbbf24\\\" stroke-linecap=\\\"round\\\" stroke-width=\\\"3\\\" d=\\\"M32 22.71V16.5m0 45v-6.21m11.52-27.81l4.39-4.39M16.09 54.91l4.39-4.39m0-23l-4.39-4.39m31.82 31.78l-4.39-4.39M15.71 39H9.5m45 0h-6.21\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"45s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"0 32 39; 360 32 39\\\"></animateTransform></path></g><path fill=\\\"none\\\" stroke=\\\"url(#a)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M17 44h30\\\"><animateTransform attributeName=\\\"transform\\\" begin=\\\"0s\\\" dur=\\\"5s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"-4 0; 4 0; -4 0\\\"></animateTransform></path><path fill=\\\"none\\\" stroke=\\\"url(#d)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M17 51h30\\\"><animateTransform attributeName=\\\"transform\\\" begin=\\\"-4s\\\" dur=\\\"5s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"-4 0; 4 0; -4 0\\\"></animateTransform></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/fog-day.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/fog-night.svg":
-/*!******************************************************!*\
-  !*** ./src/style/icons/animated_icons/fog-night.svg ***!
-  \******************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" xmlns:xlink=\\\"http://www.w3.org/1999/xlink\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"c\\\" x1=\\\"21.92\\\" x2=\\\"38.52\\\" y1=\\\"18.75\\\" y2=\\\"47.52\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#86c3db\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#86c3db\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#5eafcf\\\"></stop><animateTransform attributeName=\\\"gradientTransform\\\" dur=\\\"10s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"5 32 32; -15 32 32; 5 32 32\\\"></animateTransform></linearGradient><linearGradient id=\\\"a\\\" x1=\\\"15.5\\\" x2=\\\"48.5\\\" y1=\\\"44\\\" y2=\\\"44\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#d4d7dd\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#d4d7dd\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#bec1c6\\\"></stop></linearGradient><linearGradient id=\\\"d\\\" y1=\\\"51\\\" y2=\\\"51\\\" xlink:href=\\\"#a\\\"></linearGradient><clipPath id=\\\"b\\\"><path fill=\\\"none\\\" d=\\\"M0 7.5h64v32H0z\\\"></path></clipPath></defs><g clip-path=\\\"url(#b)\\\"><g><path fill=\\\"url(#c)\\\" stroke=\\\"#72b9d5\\\" stroke-linecap=\\\"round\\\" stroke-linejoin=\\\"round\\\" stroke-width=\\\".5\\\" d=\\\"M46.66 36.2a16.66 16.66 0 01-16.78-16.55 16.29 16.29 0 01.55-4.15A16.56 16.56 0 1048.5 36.1c-.61.06-1.22.1-1.84.1z\\\"></path><animateTransform attributeName=\\\"transform\\\" dur=\\\"10s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"-5 32 32; 15 32 32; -5 32 32\\\"></animateTransform></g></g><path fill=\\\"none\\\" stroke=\\\"url(#a)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M17 44h30\\\"><animateTransform attributeName=\\\"transform\\\" begin=\\\"0s\\\" dur=\\\"5s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"-4 0; 4 0; -4 0\\\"></animateTransform></path><path fill=\\\"none\\\" stroke=\\\"url(#d)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M17 51h30\\\"><animateTransform attributeName=\\\"transform\\\" begin=\\\"-4s\\\" dur=\\\"5s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"-4 0; 4 0; -4 0\\\"></animateTransform></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/fog-night.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/fog.svg":
-/*!************************************************!*\
-  !*** ./src/style/icons/animated_icons/fog.svg ***!
-  \************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" xmlns:xlink=\\\"http://www.w3.org/1999/xlink\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"b\\\" x1=\\\"22.56\\\" x2=\\\"39.2\\\" y1=\\\"21.96\\\" y2=\\\"50.8\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#deeafb\\\"></stop></linearGradient><linearGradient id=\\\"a\\\" x1=\\\"27.5\\\" x2=\\\"36.5\\\" y1=\\\"50.21\\\" y2=\\\"65.79\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#d4d7dd\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#d4d7dd\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#bec1c6\\\"></stop></linearGradient><linearGradient id=\\\"c\\\" y1=\\\"44.21\\\" y2=\\\"59.79\\\" xlink:href=\\\"#a\\\"></linearGradient></defs><path fill=\\\"url(#b)\\\" stroke=\\\"#e6effc\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\" d=\\\"M46.5 31.5h-.32a10.49 10.49 0 00-19.11-8 7 7 0 00-10.57 6 7.21 7.21 0 00.1 1.14A7.5 7.5 0 0018 45.5a4.19 4.19 0 00.5 0v0h28a7 7 0 000-14z\\\"></path><path fill=\\\"none\\\" stroke=\\\"url(#a)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M17 58h30\\\"><animateTransform attributeName=\\\"transform\\\" begin=\\\"0s\\\" dur=\\\"5s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"-4 0; 4 0; -4 0\\\"></animateTransform></path><path fill=\\\"none\\\" stroke=\\\"url(#c)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M17 52h30\\\"><animateTransform attributeName=\\\"transform\\\" begin=\\\"-4s\\\" dur=\\\"5s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"-4 0; 4 0; -4 0\\\"></animateTransform></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/fog.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/hail.svg":
-/*!*************************************************!*\
-  !*** ./src/style/icons/animated_icons/hail.svg ***!
-  \*************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" xmlns:xlink=\\\"http://www.w3.org/1999/xlink\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"b\\\" x1=\\\"22.56\\\" x2=\\\"39.2\\\" y1=\\\"21.96\\\" y2=\\\"50.8\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#deeafb\\\"></stop></linearGradient><linearGradient id=\\\"a\\\" x1=\\\"23.25\\\" x2=\\\"24.75\\\" y1=\\\"43.7\\\" y2=\\\"46.3\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#86c3db\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#86c3db\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#5eafcf\\\"></stop></linearGradient><linearGradient id=\\\"c\\\" x1=\\\"30.25\\\" x2=\\\"31.75\\\" y1=\\\"43.7\\\" y2=\\\"46.3\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"d\\\" x1=\\\"37.25\\\" x2=\\\"38.75\\\" y1=\\\"43.7\\\" y2=\\\"46.3\\\" xlink:href=\\\"#a\\\"></linearGradient></defs><path fill=\\\"url(#b)\\\" stroke=\\\"#e6effc\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\" d=\\\"M46.5 31.5h-.32a10.49 10.49 0 00-19.11-8 7 7 0 00-10.57 6 7.21 7.21 0 00.1 1.14A7.5 7.5 0 0018 45.5a4.19 4.19 0 00.5 0v0h28a7 7 0 000-14z\\\"></path><path fill=\\\"url(#a)\\\" d=\\\"M24 43.5a1.5 1.5 0 101.5 1.5 1.5 1.5 0 00-1.5-1.5z\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"0.6s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"1 -5; -2 18; -4 14\\\"></animateTransform><animate attributeName=\\\"opacity\\\" dur=\\\"0.6s\\\" repeatCount=\\\"indefinite\\\" values=\\\"1;1;0\\\"></animate></path><path fill=\\\"url(#c)\\\" d=\\\"M31 43.5a1.5 1.5 0 101.5 1.5 1.5 1.5 0 00-1.5-1.5z\\\"><animateTransform attributeName=\\\"transform\\\" begin=\\\"-0.4s\\\" dur=\\\"0.6s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"1 -5; -2 18; -4 14\\\"></animateTransform><animate attributeName=\\\"opacity\\\" begin=\\\"-0.4s\\\" dur=\\\"0.6s\\\" repeatCount=\\\"indefinite\\\" values=\\\"1;1;0\\\"></animate></path><path fill=\\\"url(#d)\\\" d=\\\"M38 43.5a1.5 1.5 0 101.5 1.5 1.5 1.5 0 00-1.5-1.5z\\\"><animateTransform attributeName=\\\"transform\\\" begin=\\\"-0.2s\\\" dur=\\\"0.6s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"1 -5; -2 18; -4 14\\\"></animateTransform><animate attributeName=\\\"opacity\\\" begin=\\\"-0.2s\\\" dur=\\\"0.6s\\\" repeatCount=\\\"indefinite\\\" values=\\\"1;1;0\\\"></animate></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/hail.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/haze-day.svg":
-/*!*****************************************************!*\
-  !*** ./src/style/icons/animated_icons/haze-day.svg ***!
-  \*****************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" xmlns:xlink=\\\"http://www.w3.org/1999/xlink\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"c\\\" x1=\\\"26.75\\\" x2=\\\"37.25\\\" y1=\\\"29.91\\\" y2=\\\"48.09\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#fbbf24\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#fbbf24\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#f59e0b\\\"></stop></linearGradient><linearGradient id=\\\"a\\\" x1=\\\"17.94\\\" x2=\\\"26.94\\\" y1=\\\"41.73\\\" y2=\\\"57.32\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#d4d7dd\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#d4d7dd\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#bec1c6\\\"></stop></linearGradient><linearGradient id=\\\"d\\\" x1=\\\"28.81\\\" x2=\\\"37.81\\\" y1=\\\"35.45\\\" y2=\\\"51.04\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"e\\\" x1=\\\"37.06\\\" x2=\\\"46.06\\\" y1=\\\"30.68\\\" y2=\\\"46.27\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"f\\\" x1=\\\"17.94\\\" x2=\\\"26.94\\\" y1=\\\"48.73\\\" y2=\\\"64.32\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"g\\\" x1=\\\"28.81\\\" x2=\\\"37.81\\\" y1=\\\"42.45\\\" y2=\\\"58.04\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"h\\\" x1=\\\"37.06\\\" x2=\\\"46.06\\\" y1=\\\"37.68\\\" y2=\\\"53.27\\\" xlink:href=\\\"#a\\\"></linearGradient><clipPath id=\\\"b\\\"><path fill=\\\"none\\\" d=\\\"M0 7.5h64v32H0z\\\"></path></clipPath></defs><g stroke-miterlimit=\\\"10\\\" clip-path=\\\"url(#b)\\\"><circle cx=\\\"32\\\" cy=\\\"39\\\" r=\\\"10.5\\\" fill=\\\"url(#c)\\\" stroke=\\\"#f8af18\\\" stroke-width=\\\".5\\\"></circle><path fill=\\\"none\\\" stroke=\\\"#fbbf24\\\" stroke-linecap=\\\"round\\\" stroke-width=\\\"3\\\" d=\\\"M32 22.71V16.5m0 45v-6.21m11.52-27.81l4.39-4.39M16.09 54.91l4.39-4.39m0-23l-4.39-4.39m31.82 31.78l-4.39-4.39M15.71 39H9.5m45 0h-6.21\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"45s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"0 32 39; 360 32 39\\\"></animateTransform></path></g><g><path fill=\\\"none\\\" stroke=\\\"url(#a)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M17 44h4.5\\\"></path><path fill=\\\"none\\\" stroke=\\\"url(#d)\\\" stroke-dasharray=\\\"7 7\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M28.5 44H39\\\"></path><path fill=\\\"none\\\" stroke=\\\"url(#e)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M42.5 44H47\\\"></path><animateTransform attributeName=\\\"transform\\\" begin=\\\"0s\\\" dur=\\\"5s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"-3 0; 3 0; -3 0\\\"></animateTransform></g><g><path fill=\\\"none\\\" stroke=\\\"url(#f)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M17 51h4.5\\\"></path><path fill=\\\"none\\\" stroke=\\\"url(#g)\\\" stroke-dasharray=\\\"7 7\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M28.5 51H39\\\"></path><path fill=\\\"none\\\" stroke=\\\"url(#h)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M42.5 51H47\\\"></path><animateTransform attributeName=\\\"transform\\\" begin=\\\"-4s\\\" dur=\\\"5s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"-3 0; 3 0; -3 0\\\"></animateTransform></g></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/haze-day.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/haze-night.svg":
-/*!*******************************************************!*\
-  !*** ./src/style/icons/animated_icons/haze-night.svg ***!
-  \*******************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" xmlns:xlink=\\\"http://www.w3.org/1999/xlink\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"c\\\" x1=\\\"21.92\\\" x2=\\\"38.52\\\" y1=\\\"18.75\\\" y2=\\\"47.52\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#86c3db\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#86c3db\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#5eafcf\\\"></stop><animateTransform attributeName=\\\"gradientTransform\\\" dur=\\\"10s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"5 32 32; -15 32 32; 5 32 32\\\"></animateTransform></linearGradient><linearGradient id=\\\"a\\\" x1=\\\"17.94\\\" x2=\\\"26.94\\\" y1=\\\"41.73\\\" y2=\\\"57.32\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#d4d7dd\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#d4d7dd\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#bec1c6\\\"></stop></linearGradient><linearGradient id=\\\"d\\\" x1=\\\"28.81\\\" x2=\\\"37.81\\\" y1=\\\"35.45\\\" y2=\\\"51.04\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"e\\\" x1=\\\"37.06\\\" x2=\\\"46.06\\\" y1=\\\"30.68\\\" y2=\\\"46.27\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"f\\\" x1=\\\"17.94\\\" x2=\\\"26.94\\\" y1=\\\"48.73\\\" y2=\\\"64.32\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"g\\\" x1=\\\"28.81\\\" x2=\\\"37.81\\\" y1=\\\"42.45\\\" y2=\\\"58.04\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"h\\\" x1=\\\"37.06\\\" x2=\\\"46.06\\\" y1=\\\"37.68\\\" y2=\\\"53.27\\\" xlink:href=\\\"#a\\\"></linearGradient><clipPath id=\\\"b\\\"><path fill=\\\"none\\\" d=\\\"M0 7.5h64v32H0z\\\"></path></clipPath></defs><g clip-path=\\\"url(#b)\\\"><path fill=\\\"url(#c)\\\" stroke=\\\"#72b9d5\\\" stroke-linecap=\\\"round\\\" stroke-linejoin=\\\"round\\\" stroke-width=\\\".5\\\" d=\\\"M46.66 36.2a16.66 16.66 0 01-16.78-16.55 16.29 16.29 0 01.55-4.15A16.56 16.56 0 1048.5 36.1c-.61.06-1.22.1-1.84.1z\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"10s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"-5 32 32; 15 32 32; -5 32 32\\\"></animateTransform></path></g><g><path fill=\\\"none\\\" stroke=\\\"url(#a)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M17 44h4.5\\\"></path><path fill=\\\"none\\\" stroke=\\\"url(#d)\\\" stroke-dasharray=\\\"7 7\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M28.5 44H39\\\"></path><path fill=\\\"none\\\" stroke=\\\"url(#e)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M42.5 44H47\\\"></path><animateTransform attributeName=\\\"transform\\\" begin=\\\"0s\\\" dur=\\\"5s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"-3 0; 3 0; -3 0\\\"></animateTransform></g><g><path fill=\\\"none\\\" stroke=\\\"url(#f)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M17 51h4.5\\\"></path><path fill=\\\"none\\\" stroke=\\\"url(#g)\\\" stroke-dasharray=\\\"7 7\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M28.5 51H39\\\"></path><path fill=\\\"none\\\" stroke=\\\"url(#h)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M42.5 51H47\\\"></path><animateTransform attributeName=\\\"transform\\\" begin=\\\"-4s\\\" dur=\\\"5s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"-3 0; 3 0; -3 0\\\"></animateTransform></g></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/haze-night.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/haze.svg":
-/*!*************************************************!*\
-  !*** ./src/style/icons/animated_icons/haze.svg ***!
-  \*************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" xmlns:xlink=\\\"http://www.w3.org/1999/xlink\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"b\\\" x1=\\\"22.56\\\" x2=\\\"39.2\\\" y1=\\\"21.96\\\" y2=\\\"50.8\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#deeafb\\\"></stop></linearGradient><linearGradient id=\\\"a\\\" x1=\\\"17.94\\\" x2=\\\"26.94\\\" y1=\\\"55.73\\\" y2=\\\"71.32\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#d4d7dd\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#d4d7dd\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#bec1c6\\\"></stop></linearGradient><linearGradient id=\\\"c\\\" x1=\\\"28.81\\\" x2=\\\"37.81\\\" y1=\\\"49.45\\\" y2=\\\"65.04\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"d\\\" x1=\\\"37.06\\\" x2=\\\"46.06\\\" y1=\\\"44.68\\\" y2=\\\"60.27\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"e\\\" x1=\\\"17.94\\\" x2=\\\"26.94\\\" y1=\\\"49.73\\\" y2=\\\"65.32\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"f\\\" x1=\\\"28.81\\\" x2=\\\"37.81\\\" y1=\\\"43.45\\\" y2=\\\"59.04\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"g\\\" x1=\\\"37.06\\\" x2=\\\"46.06\\\" y1=\\\"38.68\\\" y2=\\\"54.27\\\" xlink:href=\\\"#a\\\"></linearGradient></defs><path fill=\\\"url(#b)\\\" stroke=\\\"#e6effc\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\" d=\\\"M46.5 31.5h-.32a10.49 10.49 0 00-19.11-8 7 7 0 00-10.57 6 7.21 7.21 0 00.1 1.14A7.5 7.5 0 0018 45.5a4.19 4.19 0 00.5 0v0h28a7 7 0 000-14z\\\"></path><g><path fill=\\\"none\\\" stroke=\\\"url(#a)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M17 58h4.5\\\"></path><path fill=\\\"none\\\" stroke=\\\"url(#c)\\\" stroke-dasharray=\\\"7 7\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M28.5 58H39\\\"></path><path fill=\\\"none\\\" stroke=\\\"url(#d)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M42.5 58H47\\\"></path><animateTransform attributeName=\\\"transform\\\" begin=\\\"0s\\\" dur=\\\"5s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"-3 0; 3 0; -3 0\\\"></animateTransform></g><g><path fill=\\\"none\\\" stroke=\\\"url(#e)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M17 52h4.5\\\"></path><path fill=\\\"none\\\" stroke=\\\"url(#f)\\\" stroke-dasharray=\\\"7 7\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M28.5 52H39\\\"></path><path fill=\\\"none\\\" stroke=\\\"url(#g)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M42.5 52H47\\\"></path><animateTransform attributeName=\\\"transform\\\" begin=\\\"-4s\\\" dur=\\\"5s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"-3 0; 3 0; -3 0\\\"></animateTransform></g></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/haze.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/horizon.svg":
-/*!****************************************************!*\
-  !*** ./src/style/icons/animated_icons/horizon.svg ***!
-  \****************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"b\\\" x1=\\\"26.75\\\" x2=\\\"37.25\\\" y1=\\\"29.91\\\" y2=\\\"48.09\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#fbbf24\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#fbbf24\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#f59e0b\\\"></stop></linearGradient><clipPath id=\\\"a\\\"><path fill=\\\"none\\\" d=\\\"M0 7.5h64v32H0z\\\"></path></clipPath></defs><g stroke-miterlimit=\\\"10\\\" clip-path=\\\"url(#a)\\\"><circle cx=\\\"32\\\" cy=\\\"39\\\" r=\\\"10.5\\\" fill=\\\"url(#b)\\\" stroke=\\\"#f8af18\\\" stroke-width=\\\".5\\\"></circle><path fill=\\\"none\\\" stroke=\\\"#fbbf24\\\" stroke-linecap=\\\"round\\\" stroke-width=\\\"3\\\" d=\\\"M32 22.71V16.5m0 45v-6.21m11.52-27.81l4.39-4.39M16.09 54.91l4.39-4.39m0-23l-4.39-4.39m31.82 31.78l-4.39-4.39M15.71 39H9.5m45 0h-6.21\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"45s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"0 32 39; 360 32 39\\\"></animateTransform></path></g><path fill=\\\"none\\\" stroke=\\\"#374151\\\" stroke-linecap=\\\"round\\\" stroke-linejoin=\\\"round\\\" stroke-width=\\\"2\\\" d=\\\"M16 42.5h32\\\"></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/horizon.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/humidity.svg":
-/*!*****************************************************!*\
-  !*** ./src/style/icons/animated_icons/humidity.svg ***!
-  \*****************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"a\\\" x1=\\\"23.61\\\" x2=\\\"37.27\\\" y1=\\\"21.85\\\" y2=\\\"45.52\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#3392d6\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#3392d6\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#2477b2\\\"></stop></linearGradient></defs><path fill=\\\"url(#a)\\\" stroke=\\\"#2885c7\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\" d=\\\"M32 17c-6.09 9-10 14.62-10 20.09a10 10 0 0020 0C42 31.62 38.09 26 32 17z\\\"></path><path fill=\\\"#fff\\\" d=\\\"M26.24 30.19a3 3 0 012.12-.69 3 3 0 012.12.69 2.51 2.51 0 01.74 1.92v1.24a2.48 2.48 0 01-.74 1.9 3.05 3.05 0 01-2.12.68 3 3 0 01-2.12-.68 2.48 2.48 0 01-.74-1.9v-1.24a2.51 2.51 0 01.74-1.92zm11-.23a.42.42 0 01-.08.4L29 41.69a1.37 1.37 0 01-.44.44 1.87 1.87 0 01-.72.09h-.67c-.2 0-.33-.06-.38-.18s0-.25.09-.42l8.2-11.35a1 1 0 01.41-.41 2 2 0 01.67-.08h.76q.27 0 .34.22zm-8.9 1.17c-.79 0-1.19.36-1.19 1.07v1c0 .71.4 1.07 1.19 1.07s1.19-.36 1.19-1.07v-1c.02-.71-.38-1.07-1.17-1.07zm5.16 5.63a3 3 0 012.12-.69 3 3 0 012.12.69 2.51 2.51 0 01.74 1.92v1.24a2.48 2.48 0 01-.74 1.9 3 3 0 01-2.12.68 3.05 3.05 0 01-2.12-.68 2.48 2.48 0 01-.74-1.9v-1.24a2.51 2.51 0 01.76-1.92zm2.12.94c-.79 0-1.19.35-1.19 1.07v1c0 .73.4 1.09 1.19 1.09s1.19-.36 1.19-1.09v-1c.02-.72-.38-1.07-1.17-1.07z\\\"></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/humidity.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/hurricane.svg":
-/*!******************************************************!*\
-  !*** ./src/style/icons/animated_icons/hurricane.svg ***!
-  \******************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"a\\\" x1=\\\"21.97\\\" x2=\\\"42.03\\\" y1=\\\"14.63\\\" y2=\\\"49.37\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#d4d7dd\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#d4d7dd\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#bec1c6\\\"></stop><animateTransform attributeName=\\\"gradientTransform\\\" dur=\\\"1s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"0 32 32; 360 32 32\\\"></animateTransform></linearGradient></defs><path fill=\\\"none\\\" stroke=\\\"url(#a)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M43 32a11 11 0 11-11-11 11 11 0 0111 11zM25 14.61l-.48 1a33.68 33.68 0 00-3.42 17.82h0M39 49.39l.48-1a33.68 33.68 0 003.42-17.82h0\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"1s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"360 32 32; 0 32 32\\\"></animateTransform></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/hurricane.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/lightning-bolt.svg":
-/*!***********************************************************!*\
-  !*** ./src/style/icons/animated_icons/lightning-bolt.svg ***!
-  \***********************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"a\\\" x1=\\\"24.11\\\" x2=\\\"37.64\\\" y1=\\\"18.33\\\" y2=\\\"41.78\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#f7b23b\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#f7b23b\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#f59e0b\\\"></stop></linearGradient></defs><path fill=\\\"url(#a)\\\" stroke=\\\"#f6a823\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\" d=\\\"M29 15.5l-6 18h6l-3 15 15-21h-9l6-12h-9z\\\"><animate attributeName=\\\"opacity\\\" dur=\\\"2s\\\" repeatCount=\\\"indefinite\\\" values=\\\"1; 1; 1; 1; 1; 1; 0.1; 1; 0.1; 1; 1; 0.1; 1; 0.1; 1\\\"></animate></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/lightning-bolt.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/mist.svg":
-/*!*************************************************!*\
-  !*** ./src/style/icons/animated_icons/mist.svg ***!
-  \*************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" xmlns:xlink=\\\"http://www.w3.org/1999/xlink\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"a\\\" x1=\\\"27.5\\\" x2=\\\"36.5\\\" y1=\\\"17.21\\\" y2=\\\"32.79\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#d4d7dd\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#d4d7dd\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#bec1c6\\\"></stop></linearGradient><linearGradient id=\\\"b\\\" y1=\\\"24.21\\\" y2=\\\"39.79\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"c\\\" y1=\\\"31.21\\\" y2=\\\"46.79\\\" xlink:href=\\\"#a\\\"></linearGradient></defs><path fill=\\\"none\\\" stroke=\\\"url(#a)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M17 25h30\\\"><animateTransform attributeName=\\\"transform\\\" begin=\\\"0s\\\" dur=\\\"5s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"-4 0; 4 0; -4 0\\\"></animateTransform></path><path fill=\\\"none\\\" stroke=\\\"url(#b)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M17 32h30\\\"><animateTransform attributeName=\\\"transform\\\" begin=\\\"-2s\\\" dur=\\\"5s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"-3 0; 3 0; -3 0\\\"></animateTransform></path><path fill=\\\"none\\\" stroke=\\\"url(#c)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M17 39h30\\\"><animateTransform attributeName=\\\"transform\\\" begin=\\\"-4s\\\" dur=\\\"5s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"-4 0; 4 0; -4 0\\\"></animateTransform></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/mist.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/moon-first-quarter.svg":
-/*!***************************************************************!*\
-  !*** ./src/style/icons/animated_icons/moon-first-quarter.svg ***!
-  \***************************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"a\\\" x1=\\\"24.26\\\" x2=\\\"40.74\\\" y1=\\\"18.57\\\" y2=\\\"47.1\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#86c3db\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#86c3db\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#5eafcf\\\"></stop></linearGradient></defs><circle cx=\\\"32\\\" cy=\\\"32\\\" r=\\\"16.5\\\" fill=\\\"none\\\" stroke=\\\"#e5e7eb\\\" stroke-dasharray=\\\"1.99 5.98\\\" stroke-linecap=\\\"round\\\" stroke-linejoin=\\\"round\\\" stroke-width=\\\"2\\\" transform=\\\"rotate(-45 32.002 31.994)\\\"></circle><path fill=\\\"url(#a)\\\" stroke=\\\"#72b9d5\\\" stroke-linecap=\\\"round\\\" stroke-linejoin=\\\"round\\\" stroke-width=\\\".5\\\" d=\\\"M38.8 15.87a17.48 17.48 0 00-7.12-1.58 17.37 17.37 0 01-13 29.32 13.42 13.42 0 005.93 4.23A17.68 17.68 0 0048 39.12a17.68 17.68 0 00-9.2-23.25z\\\"></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/moon-first-quarter.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/moon-full.svg":
-/*!******************************************************!*\
-  !*** ./src/style/icons/animated_icons/moon-full.svg ***!
-  \******************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"a\\\" x1=\\\"23.25\\\" x2=\\\"40.75\\\" y1=\\\"16.84\\\" y2=\\\"47.16\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#86c3db\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#86c3db\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#5eafcf\\\"></stop></linearGradient></defs><circle cx=\\\"32\\\" cy=\\\"32\\\" r=\\\"17.5\\\" fill=\\\"url(#a)\\\" stroke=\\\"#72b9d5\\\" stroke-linecap=\\\"round\\\" stroke-linejoin=\\\"round\\\" stroke-width=\\\".5\\\"></circle></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/moon-full.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/moon-last-quarter.svg":
-/*!**************************************************************!*\
-  !*** ./src/style/icons/animated_icons/moon-last-quarter.svg ***!
-  \**************************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"a\\\" x1=\\\"19.64\\\" x2=\\\"37.19\\\" y1=\\\"18.96\\\" y2=\\\"49.35\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#86c3db\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#86c3db\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#5eafcf\\\"></stop></linearGradient></defs><circle cx=\\\"32\\\" cy=\\\"32\\\" r=\\\"16.5\\\" fill=\\\"none\\\" stroke=\\\"#e5e7eb\\\" stroke-dasharray=\\\"1.99 5.98\\\" stroke-linecap=\\\"round\\\" stroke-linejoin=\\\"round\\\" stroke-width=\\\"2\\\" transform=\\\"rotate(-45 32.002 31.994)\\\"></circle><path fill=\\\"url(#a)\\\" stroke=\\\"#72b9d5\\\" stroke-linecap=\\\"round\\\" stroke-linejoin=\\\"round\\\" stroke-width=\\\".5\\\" d=\\\"M29.06 33.31a17.52 17.52 0 013.26-19 17.44 17.44 0 00-7.11 1.58A17.68 17.68 0 0016 39.12a17.68 17.68 0 0023.43 8.72 13.45 13.45 0 005.94-4.23 17.51 17.51 0 01-16.31-10.3z\\\"></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/moon-last-quarter.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/moon-new.svg":
-/*!*****************************************************!*\
-  !*** ./src/style/icons/animated_icons/moon-new.svg ***!
-  \*****************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" viewBox=\\\"0 0 64 64\\\"><circle cx=\\\"32\\\" cy=\\\"32\\\" r=\\\"16.5\\\" fill=\\\"none\\\" stroke=\\\"#e5e7eb\\\" stroke-dasharray=\\\"1.99 5.98\\\" stroke-linecap=\\\"round\\\" stroke-linejoin=\\\"round\\\" stroke-width=\\\"2\\\" transform=\\\"rotate(-45 32.002 31.994)\\\"></circle></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/moon-new.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/moon-waning-crescent.svg":
-/*!*****************************************************************!*\
-  !*** ./src/style/icons/animated_icons/moon-waning-crescent.svg ***!
-  \*****************************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"a\\\" x1=\\\"17.54\\\" x2=\\\"35.04\\\" y1=\\\"20.14\\\" y2=\\\"50.45\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#86c3db\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#86c3db\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#5eafcf\\\"></stop></linearGradient></defs><circle cx=\\\"32\\\" cy=\\\"32\\\" r=\\\"16.5\\\" fill=\\\"none\\\" stroke=\\\"#e5e7eb\\\" stroke-dasharray=\\\"1.99 5.98\\\" stroke-linecap=\\\"round\\\" stroke-linejoin=\\\"round\\\" stroke-width=\\\"2\\\" transform=\\\"rotate(-45 32.002 31.994)\\\"></circle><path fill=\\\"url(#a)\\\" stroke=\\\"#72b9d5\\\" stroke-linecap=\\\"round\\\" stroke-linejoin=\\\"round\\\" stroke-width=\\\".5\\\" d=\\\"M41.25 46.82c-16.7.48-25.61-19.52-14.07-31.61h0l.08-.06a18.38 18.38 0 00-2.38.86A17.5 17.5 0 1039.12 48a18.21 18.21 0 002.23-1.19z\\\"></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/moon-waning-crescent.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/moon-waning-gibbous.svg":
-/*!****************************************************************!*\
-  !*** ./src/style/icons/animated_icons/moon-waning-gibbous.svg ***!
-  \****************************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"a\\\" x1=\\\"20.23\\\" x2=\\\"37.75\\\" y1=\\\"18.52\\\" y2=\\\"48.86\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#86c3db\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#86c3db\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#5eafcf\\\"></stop></linearGradient></defs><circle cx=\\\"32\\\" cy=\\\"32\\\" r=\\\"16.5\\\" fill=\\\"none\\\" stroke=\\\"#e5e7eb\\\" stroke-dasharray=\\\"1.99 5.98\\\" stroke-linecap=\\\"round\\\" stroke-linejoin=\\\"round\\\" stroke-width=\\\"2\\\" transform=\\\"rotate(-45 32.002 31.994)\\\"></circle><path fill=\\\"url(#a)\\\" stroke=\\\"#72b9d5\\\" stroke-linecap=\\\"round\\\" stroke-linejoin=\\\"round\\\" stroke-width=\\\".5\\\" d=\\\"M44.68 40.83a17.84 17.84 0 01-11.93-21.72 17.2 17.2 0 011.73-4A16.78 16.78 0 0015 27a17.83 17.83 0 0012 21.74 16.83 16.83 0 0019.58-7.45 18 18 0 01-1.9-.46z\\\"></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/moon-waning-gibbous.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/moon-waxing-crescent.svg":
-/*!*****************************************************************!*\
-  !*** ./src/style/icons/animated_icons/moon-waxing-crescent.svg ***!
-  \*****************************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"a\\\" x1=\\\"26.76\\\" x2=\\\"41.62\\\" y1=\\\"20.91\\\" y2=\\\"46.65\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#86c3db\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#86c3db\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#5eafcf\\\"></stop></linearGradient></defs><circle cx=\\\"32\\\" cy=\\\"32\\\" r=\\\"16.5\\\" fill=\\\"none\\\" stroke=\\\"#e5e7eb\\\" stroke-dasharray=\\\"1.99 5.98\\\" stroke-linecap=\\\"round\\\" stroke-linejoin=\\\"round\\\" stroke-width=\\\"2\\\" transform=\\\"rotate(-45 32.002 31.994)\\\"></circle><path fill=\\\"url(#a)\\\" stroke=\\\"#72b9d5\\\" stroke-linecap=\\\"round\\\" stroke-linejoin=\\\"round\\\" stroke-width=\\\".5\\\" d=\\\"M39.12 16a18.38 18.38 0 00-2.38-.86l.08.06h0c11.54 12.1 2.63 32.1-14.07 31.62h-.1A18.21 18.21 0 0024.88 48a17.5 17.5 0 1014.24-32z\\\"></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/moon-waxing-crescent.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/moon-waxing-gibbous.svg":
-/*!****************************************************************!*\
-  !*** ./src/style/icons/animated_icons/moon-waxing-gibbous.svg ***!
-  \****************************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"a\\\" x1=\\\"24.28\\\" x2=\\\"40.93\\\" y1=\\\"18.15\\\" y2=\\\"47\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#86c3db\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#86c3db\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#5eafcf\\\"></stop></linearGradient></defs><circle cx=\\\"32\\\" cy=\\\"32\\\" r=\\\"16.5\\\" fill=\\\"none\\\" stroke=\\\"#e5e7eb\\\" stroke-dasharray=\\\"1.99 5.98\\\" stroke-linecap=\\\"round\\\" stroke-linejoin=\\\"round\\\" stroke-width=\\\"2\\\" transform=\\\"rotate(-45 32.002 31.994)\\\"></circle><path fill=\\\"url(#a)\\\" stroke=\\\"#72b9d5\\\" stroke-linecap=\\\"round\\\" stroke-linejoin=\\\"round\\\" stroke-width=\\\".5\\\" d=\\\"M49 27a16.78 16.78 0 00-19.45-11.9 17.2 17.2 0 011.73 4 17.76 17.76 0 01-13.82 22.19A16.83 16.83 0 0037 48.74 17.83 17.83 0 0049 27z\\\"></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/moon-waxing-gibbous.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/moonrise.svg":
-/*!*****************************************************!*\
-  !*** ./src/style/icons/animated_icons/moonrise.svg ***!
-  \*****************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"b\\\" x1=\\\"21.92\\\" x2=\\\"38.52\\\" y1=\\\"18.75\\\" y2=\\\"47.52\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#86c3db\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#86c3db\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#5eafcf\\\"></stop><animateTransform attributeName=\\\"gradientTransform\\\" dur=\\\"10s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"5 32 32; -15 32 32; 5 32 32\\\"></animateTransform></linearGradient><clipPath id=\\\"a\\\"><path fill=\\\"none\\\" d=\\\"M0 7.5h64v32H0z\\\"></path></clipPath></defs><g clip-path=\\\"url(#a)\\\"><path fill=\\\"url(#b)\\\" stroke=\\\"#72b9d5\\\" stroke-linecap=\\\"round\\\" stroke-linejoin=\\\"round\\\" stroke-width=\\\".5\\\" d=\\\"M46.66 36.2a16.66 16.66 0 01-16.78-16.55 16.29 16.29 0 01.55-4.15A16.56 16.56 0 1048.5 36.1c-.61.06-1.22.1-1.84.1z\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"10s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"-5 32 32; 15 32 32; -5 32 32\\\"></animateTransform></path></g><path fill=\\\"none\\\" stroke=\\\"#374151\\\" stroke-linecap=\\\"round\\\" stroke-linejoin=\\\"round\\\" stroke-width=\\\"2\\\" d=\\\"M16 42.5h11l5-4.5 5 4.5h11\\\"></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/moonrise.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/moonset.svg":
-/*!****************************************************!*\
-  !*** ./src/style/icons/animated_icons/moonset.svg ***!
-  \****************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"b\\\" x1=\\\"21.92\\\" x2=\\\"38.52\\\" y1=\\\"18.75\\\" y2=\\\"47.52\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#86c3db\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#86c3db\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#5eafcf\\\"></stop><animateTransform attributeName=\\\"gradientTransform\\\" dur=\\\"10s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"5 32 32; -15 32 32; 5 32 32\\\"></animateTransform></linearGradient><clipPath id=\\\"a\\\"><path fill=\\\"none\\\" d=\\\"M0 7.5h64v32H0z\\\"></path></clipPath></defs><g clip-path=\\\"url(#a)\\\"><path fill=\\\"url(#b)\\\" stroke=\\\"#72b9d5\\\" stroke-linecap=\\\"round\\\" stroke-linejoin=\\\"round\\\" stroke-width=\\\".5\\\" d=\\\"M46.66 36.2a16.66 16.66 0 01-16.78-16.55 16.29 16.29 0 01.55-4.15A16.56 16.56 0 1048.5 36.1c-.61.06-1.22.1-1.84.1z\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"10s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"-5 32 32; 15 32 32; -5 32 32\\\"></animateTransform></path></g><path fill=\\\"none\\\" stroke=\\\"#374151\\\" stroke-linecap=\\\"round\\\" stroke-linejoin=\\\"round\\\" stroke-width=\\\"2\\\" d=\\\"M16 42.5h11l5 4.5 5-4.5h11\\\"></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/moonset.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/not-available.svg":
-/*!**********************************************************!*\
-  !*** ./src/style/icons/animated_icons/not-available.svg ***!
-  \**********************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" viewBox=\\\"0 0 64 64\\\"><path fill=\\\"#374151\\\" d=\\\"M26.1 24.08a.83.83 0 01.16.56v13.48a.59.59 0 01-.72.71h-1.2a.75.75 0 01-.69-.35l-5.14-7.6a11.62 11.62 0 01-.85-1.5 19.708 19.708 0 01-.87-2.03h-.13s0 .23.12.66.15 1 .23 1.64a18 18 0 01.11 1.88v6.59a.77.77 0 01-.16.56.79.79 0 01-.55.15H15.3a.85.85 0 01-.57-.15.76.76 0 01-.17-.56V24.64a.78.78 0 01.17-.56.85.85 0 01.57-.15h1.19a.81.81 0 01.7.33l5.1 7.56a13 13 0 01.89 1.56c.27.55.48 1 .63 1.41s.23.59.24.6h.13s0-.25-.12-.67-.15-1-.23-1.63a16.11 16.11 0 01-.11-1.94v-6.51a.83.83 0 01.15-.56.82.82 0 01.56-.15h1.11a.82.82 0 01.56.15zM30.47 40a1 1 0 01-.54.12h-1.17c-.24 0-.4-.05-.46-.14a.43.43 0 010-.44l5.58-15a1.16 1.16 0 01.33-.46.94.94 0 01.53-.12H36c.24 0 .39.05.45.14a.5.5 0 010 .44l-5.59 15a1.06 1.06 0 01-.39.46zM48.89 38.83H47.8a2.4 2.4 0 01-.91-.12.78.78 0 01-.39-.51l-1-2.7h-5.76l-1 2.7a.78.78 0 01-.39.51 2.4 2.4 0 01-.91.12h-1q-.73 0-.48-.69l5.25-13.65a1.07 1.07 0 01.33-.47 1 1 0 01.55-.11h1.11a1.06 1.06 0 01.57.11.9.9 0 01.32.45l5.24 13.67q.3.69-.44.69zm-6-11.13c-.09-.43-.14-.76-.17-1v-.36h-.15a7.73 7.73 0 01-.46 2.54l-1.62 4.45h4.31l-1.6-4.43a10 10 0 01-.31-1.2z\\\"></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/not-available.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/overcast-day.svg":
-/*!*********************************************************!*\
-  !*** ./src/style/icons/animated_icons/overcast-day.svg ***!
-  \*********************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"a\\\" x1=\\\"16.5\\\" x2=\\\"21.5\\\" y1=\\\"19.67\\\" y2=\\\"28.33\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#fbbf24\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#fbbf24\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#f59e0b\\\"></stop></linearGradient><linearGradient id=\\\"b\\\" x1=\\\"40.76\\\" x2=\\\"50.83\\\" y1=\\\"23\\\" y2=\\\"40.46\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#9ca3af\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#9ca3af\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#6b7280\\\"></stop></linearGradient><linearGradient id=\\\"c\\\" x1=\\\"22.56\\\" x2=\\\"39.2\\\" y1=\\\"21.96\\\" y2=\\\"50.8\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#deeafb\\\"></stop></linearGradient></defs><circle cx=\\\"19\\\" cy=\\\"24\\\" r=\\\"5\\\" fill=\\\"url(#a)\\\" stroke=\\\"#f8af18\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\"></circle><path fill=\\\"none\\\" stroke=\\\"#fbbf24\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"2\\\" d=\\\"M19 15.67V12.5m0 23v-3.17m5.89-14.22l2.24-2.24M10.87 32.13l2.24-2.24m0-11.78l-2.24-2.24m16.26 16.26l-2.24-2.24M7.5 24h3.17m19.83 0h-3.17\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"45s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"0 19 24; 360 19 24\\\"></animateTransform></path><path fill=\\\"url(#b)\\\" stroke=\\\"#848b98\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\" d=\\\"M34.23 33.45a4.05 4.05 0 004.05 4h16.51a4.34 4.34 0 00.81-8.61 3.52 3.52 0 00.06-.66 4.06 4.06 0 00-6.13-3.48 6.08 6.08 0 00-11.25 3.19 6.34 6.34 0 00.18 1.46h-.18a4.05 4.05 0 00-4.05 4.1z\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"7s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"-2.1 0; 2.1 0; -2.1 0\\\"></animateTransform></path><path fill=\\\"url(#c)\\\" stroke=\\\"#e6effc\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\" d=\\\"M46.5 31.5h-.32a10.49 10.49 0 00-19.11-8 7 7 0 00-10.57 6 7.21 7.21 0 00.1 1.14A7.5 7.5 0 0018 45.5a4.19 4.19 0 00.5 0v0h28a7 7 0 000-14z\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"7s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"-3 0; 3 0; -3 0\\\"></animateTransform></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/overcast-day.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/overcast-night.svg":
-/*!***********************************************************!*\
-  !*** ./src/style/icons/animated_icons/overcast-night.svg ***!
-  \***********************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"a\\\" x1=\\\"13.58\\\" x2=\\\"24.15\\\" y1=\\\"15.57\\\" y2=\\\"33.87\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#86c3db\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#86c3db\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#5eafcf\\\"></stop><animateTransform attributeName=\\\"gradientTransform\\\" dur=\\\"10s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"10 19.22 24.293; -10 19.22 24.293; 10 19.22 24.293\\\"></animateTransform></linearGradient><linearGradient id=\\\"b\\\" x1=\\\"40.76\\\" x2=\\\"50.83\\\" y1=\\\"23\\\" y2=\\\"40.46\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#9ca3af\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#9ca3af\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#6b7280\\\"></stop></linearGradient><linearGradient id=\\\"c\\\" x1=\\\"22.56\\\" x2=\\\"39.2\\\" y1=\\\"21.96\\\" y2=\\\"50.8\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#deeafb\\\"></stop></linearGradient></defs><path fill=\\\"url(#a)\\\" stroke=\\\"#72b9d5\\\" stroke-linecap=\\\"round\\\" stroke-linejoin=\\\"round\\\" stroke-width=\\\".5\\\" d=\\\"M29.33 26.68a10.61 10.61 0 01-10.68-10.54A10.5 10.5 0 0119 13.5a10.54 10.54 0 1011.5 13.11 11.48 11.48 0 01-1.17.07z\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"10s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"-10 19.22 24.293; 10 19.22 24.293; -10 19.22 24.293\\\"></animateTransform></path><path fill=\\\"url(#b)\\\" stroke=\\\"#848b98\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\" d=\\\"M34.23 33.45a4.05 4.05 0 004.05 4h16.51a4.34 4.34 0 00.81-8.61 3.52 3.52 0 00.06-.66 4.06 4.06 0 00-6.13-3.48 6.08 6.08 0 00-11.25 3.19 6.34 6.34 0 00.18 1.46h-.18a4.05 4.05 0 00-4.05 4.1z\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"7s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"-2.1 0; 2.1 0; -2.1 0\\\"></animateTransform></path><path fill=\\\"url(#c)\\\" stroke=\\\"#e6effc\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\" d=\\\"M46.5 31.5h-.32a10.49 10.49 0 00-19.11-8 7 7 0 00-10.57 6 7.21 7.21 0 00.1 1.14A7.5 7.5 0 0018 45.5a4.19 4.19 0 00.5 0v0h28a7 7 0 000-14z\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"7s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"-3 0; 3 0; -3 0\\\"></animateTransform></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/overcast-night.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/overcast.svg":
-/*!*****************************************************!*\
-  !*** ./src/style/icons/animated_icons/overcast.svg ***!
-  \*****************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"a\\\" x1=\\\"40.76\\\" x2=\\\"50.83\\\" y1=\\\"23\\\" y2=\\\"40.46\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#9ca3af\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#9ca3af\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#6b7280\\\"></stop></linearGradient><linearGradient id=\\\"b\\\" x1=\\\"22.56\\\" x2=\\\"39.2\\\" y1=\\\"21.96\\\" y2=\\\"50.8\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#deeafb\\\"></stop></linearGradient></defs><path fill=\\\"url(#a)\\\" stroke=\\\"#848b98\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\" d=\\\"M34.23 33.45a4.05 4.05 0 004.05 4h16.51a4.34 4.34 0 00.81-8.61 3.52 3.52 0 00.06-.66 4.06 4.06 0 00-6.13-3.48 6.08 6.08 0 00-11.25 3.19 6.34 6.34 0 00.18 1.46h-.18a4.05 4.05 0 00-4.05 4.1z\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"7s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"-2.1 0; 2.1 0; -2.1 0\\\"></animateTransform></path><path fill=\\\"url(#b)\\\" stroke=\\\"#e6effc\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\" d=\\\"M46.5 31.5h-.32a10.49 10.49 0 00-19.11-8 7 7 0 00-10.57 6 7.21 7.21 0 00.1 1.14A7.5 7.5 0 0018 45.5a4.19 4.19 0 00.5 0v0h28a7 7 0 000-14z\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"7s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"-3 0; 3 0; -3 0\\\"></animateTransform></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/overcast.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/partly-cloudy-day-drizzle.svg":
-/*!**********************************************************************!*\
-  !*** ./src/style/icons/animated_icons/partly-cloudy-day-drizzle.svg ***!
-  \**********************************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" xmlns:xlink=\\\"http://www.w3.org/1999/xlink\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"b\\\" x1=\\\"16.5\\\" x2=\\\"21.5\\\" y1=\\\"19.67\\\" y2=\\\"28.33\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#fbbf24\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#fbbf24\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#f59e0b\\\"></stop></linearGradient><linearGradient id=\\\"c\\\" x1=\\\"22.56\\\" x2=\\\"39.2\\\" y1=\\\"21.96\\\" y2=\\\"50.8\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#deeafb\\\"></stop></linearGradient><linearGradient id=\\\"a\\\" x1=\\\"23.31\\\" x2=\\\"24.69\\\" y1=\\\"44.3\\\" y2=\\\"46.7\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#4286ee\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#4286ee\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#0950bc\\\"></stop></linearGradient><linearGradient id=\\\"d\\\" x1=\\\"30.31\\\" x2=\\\"31.69\\\" y1=\\\"44.3\\\" y2=\\\"46.7\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"e\\\" x1=\\\"37.31\\\" x2=\\\"38.69\\\" y1=\\\"44.3\\\" y2=\\\"46.7\\\" xlink:href=\\\"#a\\\"></linearGradient></defs><circle cx=\\\"19\\\" cy=\\\"24\\\" r=\\\"5\\\" fill=\\\"url(#b)\\\" stroke=\\\"#f8af18\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\"></circle><path fill=\\\"none\\\" stroke=\\\"#fbbf24\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"2\\\" d=\\\"M19 15.67V12.5m0 23v-3.17m5.89-14.22l2.24-2.24M10.87 32.13l2.24-2.24m0-11.78l-2.24-2.24m16.26 16.26l-2.24-2.24M7.5 24h3.17m19.83 0h-3.17\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"45s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"0 19 24; 360 19 24\\\"></animateTransform></path><path fill=\\\"url(#c)\\\" stroke=\\\"#e6effc\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\" d=\\\"M46.5 31.5h-.32a10.49 10.49 0 00-19.11-8 7 7 0 00-10.57 6 7.21 7.21 0 00.1 1.14A7.5 7.5 0 0018 45.5a4.19 4.19 0 00.5 0v0h28a7 7 0 000-14z\\\"></path><path fill=\\\"none\\\" stroke=\\\"url(#a)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"2\\\" d=\\\"M24.08 45.01l-.16.98\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"1.5s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"1 -5; -2 10\\\"></animateTransform><animate attributeName=\\\"opacity\\\" dur=\\\"1.5s\\\" repeatCount=\\\"indefinite\\\" values=\\\"0;1;1;0\\\"></animate></path><path fill=\\\"none\\\" stroke=\\\"url(#d)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"2\\\" d=\\\"M31.08 45.01l-.16.98\\\"><animateTransform attributeName=\\\"transform\\\" begin=\\\"-0.5s\\\" dur=\\\"1.5s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"1 -5; -2 10\\\"></animateTransform><animate attributeName=\\\"opacity\\\" begin=\\\"-0.5s\\\" dur=\\\"1.5s\\\" repeatCount=\\\"indefinite\\\" values=\\\"0;1;1;0\\\"></animate></path><path fill=\\\"none\\\" stroke=\\\"url(#e)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"2\\\" d=\\\"M38.08 45.01l-.16.98\\\"><animateTransform attributeName=\\\"transform\\\" begin=\\\"-1s\\\" dur=\\\"1.5s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"1 -5; -2 10\\\"></animateTransform><animate attributeName=\\\"opacity\\\" begin=\\\"-1s\\\" dur=\\\"1.5s\\\" repeatCount=\\\"indefinite\\\" values=\\\"0;1;1;0\\\"></animate></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/partly-cloudy-day-drizzle.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/partly-cloudy-day-fog.svg":
-/*!******************************************************************!*\
-  !*** ./src/style/icons/animated_icons/partly-cloudy-day-fog.svg ***!
-  \******************************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" xmlns:xlink=\\\"http://www.w3.org/1999/xlink\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"b\\\" x1=\\\"16.5\\\" x2=\\\"21.5\\\" y1=\\\"19.67\\\" y2=\\\"28.33\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#fbbf24\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#fbbf24\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#f59e0b\\\"></stop></linearGradient><linearGradient id=\\\"c\\\" x1=\\\"22.56\\\" x2=\\\"39.2\\\" y1=\\\"21.96\\\" y2=\\\"50.8\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#deeafb\\\"></stop></linearGradient><linearGradient id=\\\"a\\\" x1=\\\"27.5\\\" x2=\\\"36.5\\\" y1=\\\"50.21\\\" y2=\\\"65.79\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#d4d7dd\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#d4d7dd\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#bec1c6\\\"></stop></linearGradient><linearGradient id=\\\"d\\\" y1=\\\"44.21\\\" y2=\\\"59.79\\\" xlink:href=\\\"#a\\\"></linearGradient></defs><circle cx=\\\"19\\\" cy=\\\"24\\\" r=\\\"5\\\" fill=\\\"url(#b)\\\" stroke=\\\"#f8af18\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\"></circle><path fill=\\\"none\\\" stroke=\\\"#fbbf24\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"2\\\" d=\\\"M19 15.67V12.5m0 23v-3.17m5.89-14.22l2.24-2.24M10.87 32.13l2.24-2.24m0-11.78l-2.24-2.24m16.26 16.26l-2.24-2.24M7.5 24h3.17m19.83 0h-3.17\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"45s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"0 19 24; 360 19 24\\\"></animateTransform></path><path fill=\\\"url(#c)\\\" stroke=\\\"#e6effc\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\" d=\\\"M46.5 31.5h-.32a10.49 10.49 0 00-19.11-8 7 7 0 00-10.57 6 7.21 7.21 0 00.1 1.14A7.5 7.5 0 0018 45.5a4.19 4.19 0 00.5 0v0h28a7 7 0 000-14z\\\"></path><path fill=\\\"none\\\" stroke=\\\"url(#a)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M17 58h30\\\"><animateTransform attributeName=\\\"transform\\\" begin=\\\"0s\\\" dur=\\\"5s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"-4 0; 4 0; -4 0\\\"></animateTransform></path><path fill=\\\"none\\\" stroke=\\\"url(#d)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M17 52h30\\\"><animateTransform attributeName=\\\"transform\\\" begin=\\\"-4s\\\" dur=\\\"5s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"-4 0; 4 0; -4 0\\\"></animateTransform></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/partly-cloudy-day-fog.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/partly-cloudy-day-hail.svg":
-/*!*******************************************************************!*\
-  !*** ./src/style/icons/animated_icons/partly-cloudy-day-hail.svg ***!
-  \*******************************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" xmlns:xlink=\\\"http://www.w3.org/1999/xlink\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"b\\\" x1=\\\"16.5\\\" x2=\\\"21.5\\\" y1=\\\"19.67\\\" y2=\\\"28.33\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#fbbf24\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#fbbf24\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#f59e0b\\\"></stop></linearGradient><linearGradient id=\\\"c\\\" x1=\\\"22.56\\\" x2=\\\"39.2\\\" y1=\\\"21.96\\\" y2=\\\"50.8\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#deeafb\\\"></stop></linearGradient><linearGradient id=\\\"a\\\" x1=\\\"23.25\\\" x2=\\\"24.75\\\" y1=\\\"43.7\\\" y2=\\\"46.3\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#86c3db\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#86c3db\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#5eafcf\\\"></stop></linearGradient><linearGradient id=\\\"d\\\" x1=\\\"30.25\\\" x2=\\\"31.75\\\" y1=\\\"43.7\\\" y2=\\\"46.3\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"e\\\" x1=\\\"37.25\\\" x2=\\\"38.75\\\" y1=\\\"43.7\\\" y2=\\\"46.3\\\" xlink:href=\\\"#a\\\"></linearGradient></defs><circle cx=\\\"19\\\" cy=\\\"24\\\" r=\\\"5\\\" fill=\\\"url(#b)\\\" stroke=\\\"#f8af18\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\"></circle><path fill=\\\"none\\\" stroke=\\\"#fbbf24\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"2\\\" d=\\\"M19 15.67V12.5m0 23v-3.17m5.89-14.22l2.24-2.24M10.87 32.13l2.24-2.24m0-11.78l-2.24-2.24m16.26 16.26l-2.24-2.24M7.5 24h3.17m19.83 0h-3.17\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"45s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"0 19 24; 360 19 24\\\"></animateTransform></path><path fill=\\\"url(#c)\\\" stroke=\\\"#e6effc\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\" d=\\\"M46.5 31.5h-.32a10.49 10.49 0 00-19.11-8 7 7 0 00-10.57 6 7.21 7.21 0 00.1 1.14A7.5 7.5 0 0018 45.5a4.19 4.19 0 00.5 0v0h28a7 7 0 000-14z\\\"></path><path fill=\\\"url(#a)\\\" d=\\\"M24 43.5a1.5 1.5 0 101.5 1.5 1.5 1.5 0 00-1.5-1.5z\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"0.6s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"1 -5; -2 18; -4 14\\\"></animateTransform><animate attributeName=\\\"opacity\\\" dur=\\\"0.6s\\\" repeatCount=\\\"indefinite\\\" values=\\\"1;1;0\\\"></animate></path><path fill=\\\"url(#d)\\\" d=\\\"M31 43.5a1.5 1.5 0 101.5 1.5 1.5 1.5 0 00-1.5-1.5z\\\"><animateTransform attributeName=\\\"transform\\\" begin=\\\"-0.4s\\\" dur=\\\"0.6s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"1 -5; -2 18; -4 14\\\"></animateTransform><animate attributeName=\\\"opacity\\\" begin=\\\"-0.4s\\\" dur=\\\"0.6s\\\" repeatCount=\\\"indefinite\\\" values=\\\"1;1;0\\\"></animate></path><path fill=\\\"url(#e)\\\" d=\\\"M38 43.5a1.5 1.5 0 101.5 1.5 1.5 1.5 0 00-1.5-1.5z\\\"><animateTransform attributeName=\\\"transform\\\" begin=\\\"-0.2s\\\" dur=\\\"0.6s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"1 -5; -2 18; -4 14\\\"></animateTransform><animate attributeName=\\\"opacity\\\" begin=\\\"-0.2s\\\" dur=\\\"0.6s\\\" repeatCount=\\\"indefinite\\\" values=\\\"1;1;0\\\"></animate></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/partly-cloudy-day-hail.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/partly-cloudy-day-haze.svg":
-/*!*******************************************************************!*\
-  !*** ./src/style/icons/animated_icons/partly-cloudy-day-haze.svg ***!
-  \*******************************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" xmlns:xlink=\\\"http://www.w3.org/1999/xlink\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"b\\\" x1=\\\"16.5\\\" x2=\\\"21.5\\\" y1=\\\"19.67\\\" y2=\\\"28.33\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#fbbf24\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#fbbf24\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#f59e0b\\\"></stop></linearGradient><linearGradient id=\\\"c\\\" x1=\\\"22.56\\\" x2=\\\"39.2\\\" y1=\\\"21.96\\\" y2=\\\"50.8\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#deeafb\\\"></stop></linearGradient><linearGradient id=\\\"a\\\" x1=\\\"17.94\\\" x2=\\\"26.94\\\" y1=\\\"55.73\\\" y2=\\\"71.32\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#d4d7dd\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#d4d7dd\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#bec1c6\\\"></stop></linearGradient><linearGradient id=\\\"d\\\" x1=\\\"28.81\\\" x2=\\\"37.81\\\" y1=\\\"49.45\\\" y2=\\\"65.04\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"e\\\" x1=\\\"37.06\\\" x2=\\\"46.06\\\" y1=\\\"44.68\\\" y2=\\\"60.27\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"f\\\" x1=\\\"17.94\\\" x2=\\\"26.94\\\" y1=\\\"49.73\\\" y2=\\\"65.32\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"g\\\" x1=\\\"28.81\\\" x2=\\\"37.81\\\" y1=\\\"43.45\\\" y2=\\\"59.04\\\" xlink:href=\\\"#a\\\"></linearGradient></defs><circle cx=\\\"19\\\" cy=\\\"24\\\" r=\\\"5\\\" fill=\\\"url(#b)\\\" stroke=\\\"#f8af18\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\"></circle><path fill=\\\"none\\\" stroke=\\\"#fbbf24\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"2\\\" d=\\\"M19 15.67V12.5m0 23v-3.17m5.89-14.22l2.24-2.24M10.87 32.13l2.24-2.24m0-11.78l-2.24-2.24m16.26 16.26l-2.24-2.24M7.5 24h3.17m19.83 0h-3.17\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"45s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"0 19 24; 360 19 24\\\"></animateTransform></path><path fill=\\\"url(#c)\\\" stroke=\\\"#e6effc\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\" d=\\\"M46.5 31.5h-.32a10.49 10.49 0 00-19.11-8 7 7 0 00-10.57 6 7.21 7.21 0 00.1 1.14A7.5 7.5 0 0018 45.5a4.19 4.19 0 00.5 0v0h28a7 7 0 000-14z\\\"></path><g><path fill=\\\"none\\\" stroke=\\\"url(#c)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M17 58h4.5\\\"></path><path fill=\\\"none\\\" stroke=\\\"url(#a)\\\" stroke-dasharray=\\\"7 7\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M28.5 58H39\\\"></path><path fill=\\\"none\\\" stroke=\\\"url(#d)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M42.5 58H47\\\"></path><animateTransform attributeName=\\\"transform\\\" begin=\\\"0s\\\" dur=\\\"5s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"-3 0; 3 0; -3 0\\\"></animateTransform></g><g><path fill=\\\"none\\\" stroke=\\\"url(#e)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M17 52h4.5\\\"></path><path fill=\\\"none\\\" stroke=\\\"url(#f)\\\" stroke-dasharray=\\\"7 7\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M28.5 52H39\\\"></path><path fill=\\\"none\\\" stroke=\\\"url(#g)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M42.5 52H47\\\"></path><animateTransform attributeName=\\\"transform\\\" begin=\\\"-4s\\\" dur=\\\"5s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"-3 0; 3 0; -3 0\\\"></animateTransform></g></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/partly-cloudy-day-haze.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/partly-cloudy-day-rain.svg":
-/*!*******************************************************************!*\
-  !*** ./src/style/icons/animated_icons/partly-cloudy-day-rain.svg ***!
-  \*******************************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" xmlns:xlink=\\\"http://www.w3.org/1999/xlink\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"b\\\" x1=\\\"16.5\\\" x2=\\\"21.5\\\" y1=\\\"19.67\\\" y2=\\\"28.33\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#fbbf24\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#fbbf24\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#f59e0b\\\"></stop></linearGradient><linearGradient id=\\\"c\\\" x1=\\\"22.56\\\" x2=\\\"39.2\\\" y1=\\\"21.96\\\" y2=\\\"50.8\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#deeafb\\\"></stop></linearGradient><linearGradient id=\\\"a\\\" x1=\\\"22.53\\\" x2=\\\"25.47\\\" y1=\\\"42.95\\\" y2=\\\"48.05\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#4286ee\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#4286ee\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#0950bc\\\"></stop></linearGradient><linearGradient id=\\\"d\\\" x1=\\\"29.53\\\" x2=\\\"32.47\\\" y1=\\\"42.95\\\" y2=\\\"48.05\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"e\\\" x1=\\\"36.53\\\" x2=\\\"39.47\\\" y1=\\\"42.95\\\" y2=\\\"48.05\\\" xlink:href=\\\"#a\\\"></linearGradient></defs><circle cx=\\\"19\\\" cy=\\\"24\\\" r=\\\"5\\\" fill=\\\"url(#b)\\\" stroke=\\\"#f8af18\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\"></circle><path fill=\\\"none\\\" stroke=\\\"#fbbf24\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"2\\\" d=\\\"M19 15.67V12.5m0 23v-3.17m5.89-14.22l2.24-2.24M10.87 32.13l2.24-2.24m0-11.78l-2.24-2.24m16.26 16.26l-2.24-2.24M7.5 24h3.17m19.83 0h-3.17\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"45s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"0 19 24; 360 19 24\\\"></animateTransform></path><path fill=\\\"url(#c)\\\" stroke=\\\"#e6effc\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\" d=\\\"M46.5 31.5h-.32a10.49 10.49 0 00-19.11-8 7 7 0 00-10.57 6 7.21 7.21 0 00.1 1.14A7.5 7.5 0 0018 45.5a4.19 4.19 0 00.5 0v0h28a7 7 0 000-14z\\\"></path><path fill=\\\"none\\\" stroke=\\\"url(#a)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"2\\\" d=\\\"M24.39 43.03l-.78 4.94\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"0.7s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"1 -5; -2 10\\\"></animateTransform><animate attributeName=\\\"opacity\\\" dur=\\\"0.7s\\\" repeatCount=\\\"indefinite\\\" values=\\\"0;1;1;0\\\"></animate></path><path fill=\\\"none\\\" stroke=\\\"url(#d)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"2\\\" d=\\\"M31.39 43.03l-.78 4.94\\\"><animateTransform attributeName=\\\"transform\\\" begin=\\\"-0.4s\\\" dur=\\\"0.7s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"1 -5; -2 10\\\"></animateTransform><animate attributeName=\\\"opacity\\\" begin=\\\"-0.4s\\\" dur=\\\"0.7s\\\" repeatCount=\\\"indefinite\\\" values=\\\"0;1;1;0\\\"></animate></path><path fill=\\\"none\\\" stroke=\\\"url(#e)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"2\\\" d=\\\"M38.39 43.03l-.78 4.94\\\"><animateTransform attributeName=\\\"transform\\\" begin=\\\"-0.2s\\\" dur=\\\"0.7s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"1 -5; -2 10\\\"></animateTransform><animate attributeName=\\\"opacity\\\" begin=\\\"-0.2s\\\" dur=\\\"0.7s\\\" repeatCount=\\\"indefinite\\\" values=\\\"0;1;1;0\\\"></animate></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/partly-cloudy-day-rain.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/partly-cloudy-day-sleet.svg":
-/*!********************************************************************!*\
-  !*** ./src/style/icons/animated_icons/partly-cloudy-day-sleet.svg ***!
-  \********************************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" xmlns:xlink=\\\"http://www.w3.org/1999/xlink\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"c\\\" x1=\\\"16.5\\\" x2=\\\"21.5\\\" y1=\\\"19.67\\\" y2=\\\"28.33\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#fbbf24\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#fbbf24\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#f59e0b\\\"></stop></linearGradient><linearGradient id=\\\"d\\\" x1=\\\"22.56\\\" x2=\\\"39.2\\\" y1=\\\"21.96\\\" y2=\\\"50.8\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#deeafb\\\"></stop></linearGradient><linearGradient id=\\\"a\\\" x1=\\\"23.12\\\" x2=\\\"24.88\\\" y1=\\\"43.48\\\" y2=\\\"46.52\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#86c3db\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#86c3db\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#5eafcf\\\"></stop></linearGradient><linearGradient id=\\\"e\\\" x1=\\\"22.67\\\" x2=\\\"25.33\\\" y1=\\\"42.69\\\" y2=\\\"47.31\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"f\\\" x1=\\\"37.12\\\" x2=\\\"38.88\\\" y1=\\\"43.48\\\" y2=\\\"46.52\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"g\\\" x1=\\\"36.67\\\" x2=\\\"39.33\\\" y1=\\\"42.69\\\" y2=\\\"47.31\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"b\\\" x1=\\\"23.31\\\" x2=\\\"24.69\\\" y1=\\\"44.3\\\" y2=\\\"46.7\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#4286ee\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#4286ee\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#0950bc\\\"></stop></linearGradient><linearGradient id=\\\"h\\\" x1=\\\"30.31\\\" x2=\\\"31.69\\\" y1=\\\"44.3\\\" y2=\\\"46.7\\\" xlink:href=\\\"#b\\\"></linearGradient><linearGradient id=\\\"i\\\" x1=\\\"37.31\\\" x2=\\\"38.69\\\" y1=\\\"44.3\\\" y2=\\\"46.7\\\" xlink:href=\\\"#b\\\"></linearGradient></defs><circle cx=\\\"19\\\" cy=\\\"24\\\" r=\\\"5\\\" fill=\\\"url(#c)\\\" stroke=\\\"#f8af18\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\"></circle><path fill=\\\"none\\\" stroke=\\\"#fbbf24\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"2\\\" d=\\\"M19 15.67V12.5m0 23v-3.17m5.89-14.22l2.24-2.24M10.87 32.13l2.24-2.24m0-11.78l-2.24-2.24m16.26 16.26l-2.24-2.24M7.5 24h3.17m19.83 0h-3.17\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"45s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"0 19 24; 360 19 24\\\"></animateTransform></path><path fill=\\\"url(#d)\\\" stroke=\\\"#e6effc\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\" d=\\\"M46.5 31.5h-.32a10.49 10.49 0 00-19.11-8 7 7 0 00-10.57 6 7.21 7.21 0 00.1 1.14A7.5 7.5 0 0018 45.5a4.19 4.19 0 00.5 0v0h28a7 7 0 000-14z\\\"></path><g><circle cx=\\\"24\\\" cy=\\\"45\\\" r=\\\"1.25\\\" fill=\\\"none\\\" stroke=\\\"url(#a)\\\" stroke-miterlimit=\\\"10\\\"></circle><path fill=\\\"none\\\" stroke=\\\"url(#e)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" d=\\\"M26.17 46.25l-1.09-.63m-2.16-1.24l-1.09-.63M24 42.5v1.25m0 3.75v-1.25m-1.08-.63l-1.09.63m4.34-2.5l-1.09.63\\\"></path><animateTransform additive=\\\"sum\\\" attributeName=\\\"transform\\\" begin=\\\"-2s\\\" dur=\\\"4s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"1 -6; -1 12\\\"></animateTransform><animateTransform additive=\\\"sum\\\" attributeName=\\\"transform\\\" dur=\\\"9s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"0 24 45; 360 24 45\\\"></animateTransform><animate attributeName=\\\"opacity\\\" begin=\\\"-2s\\\" dur=\\\"4s\\\" repeatCount=\\\"indefinite\\\" values=\\\"0;1;1;1;0\\\"></animate></g><g><circle cx=\\\"38\\\" cy=\\\"45\\\" r=\\\"1.25\\\" fill=\\\"none\\\" stroke=\\\"url(#f)\\\" stroke-miterlimit=\\\"10\\\"></circle><path fill=\\\"none\\\" stroke=\\\"url(#g)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" d=\\\"M40.17 46.25l-1.09-.63m-2.16-1.24l-1.09-.63M38 42.5v1.25m0 3.75v-1.25m-1.08-.63l-1.09.63m4.34-2.5l-1.09.63\\\"></path><animateTransform additive=\\\"sum\\\" attributeName=\\\"transform\\\" begin=\\\"-1s\\\" dur=\\\"4s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"1 -6; -1 12\\\"></animateTransform><animateTransform additive=\\\"sum\\\" attributeName=\\\"transform\\\" dur=\\\"9s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"0 38 45; 360 38 45\\\"></animateTransform><animate attributeName=\\\"opacity\\\" begin=\\\"-1s\\\" dur=\\\"4s\\\" repeatCount=\\\"indefinite\\\" values=\\\"0;1;1;1;0\\\"></animate></g><path fill=\\\"none\\\" stroke=\\\"url(#b)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"2\\\" d=\\\"M24.08 45.01l-.16.98\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"1.5s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"1 -5; -2 10\\\"></animateTransform><animate attributeName=\\\"opacity\\\" dur=\\\"1.5s\\\" repeatCount=\\\"indefinite\\\" values=\\\"0;1;1;0\\\"></animate></path><path fill=\\\"none\\\" stroke=\\\"url(#h)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"2\\\" d=\\\"M31.08 45.01l-.16.98\\\"><animateTransform attributeName=\\\"transform\\\" begin=\\\"-0.5s\\\" dur=\\\"1.5s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"1 -5; -2 10\\\"></animateTransform><animate attributeName=\\\"opacity\\\" begin=\\\"-0.5s\\\" dur=\\\"1.5s\\\" repeatCount=\\\"indefinite\\\" values=\\\"0;1;1;0\\\"></animate></path><path fill=\\\"none\\\" stroke=\\\"url(#i)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"2\\\" d=\\\"M38.08 45.01l-.16.98\\\"><animateTransform attributeName=\\\"transform\\\" begin=\\\"-1s\\\" dur=\\\"1.5s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"1 -5; -2 10\\\"></animateTransform><animate attributeName=\\\"opacity\\\" begin=\\\"-1s\\\" dur=\\\"1.5s\\\" repeatCount=\\\"indefinite\\\" values=\\\"0;1;1;0\\\"></animate></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/partly-cloudy-day-sleet.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/partly-cloudy-day-smoke.svg":
-/*!********************************************************************!*\
-  !*** ./src/style/icons/animated_icons/partly-cloudy-day-smoke.svg ***!
-  \********************************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" xmlns:xlink=\\\"http://www.w3.org/1999/xlink\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"b\\\" x1=\\\"16.5\\\" x2=\\\"21.5\\\" y1=\\\"19.67\\\" y2=\\\"28.33\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#fbbf24\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#fbbf24\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#f59e0b\\\"></stop></linearGradient><linearGradient id=\\\"c\\\" x1=\\\"22.56\\\" x2=\\\"39.2\\\" y1=\\\"21.96\\\" y2=\\\"50.8\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#deeafb\\\"></stop></linearGradient><linearGradient id=\\\"a\\\" x1=\\\"30.25\\\" x2=\\\"33.25\\\" y1=\\\"48.4\\\" y2=\\\"53.6\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#b8bdc6\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#b8bdc6\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#a5aab2\\\"></stop></linearGradient><linearGradient id=\\\"d\\\" x1=\\\"23.5\\\" x2=\\\"28\\\" y1=\\\"38.1\\\" y2=\\\"45.9\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"e\\\" x1=\\\"33.75\\\" x2=\\\"39.75\\\" y1=\\\"28.8\\\" y2=\\\"39.2\\\" xlink:href=\\\"#a\\\"></linearGradient></defs><circle cx=\\\"19\\\" cy=\\\"24\\\" r=\\\"5\\\" fill=\\\"url(#b)\\\" stroke=\\\"#f8af18\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\"></circle><path fill=\\\"none\\\" stroke=\\\"#fbbf24\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"2\\\" d=\\\"M19 15.67V12.5m0 23v-3.17m5.89-14.22l2.24-2.24M10.87 32.13l2.24-2.24m0-11.78l-2.24-2.24m16.26 16.26l-2.24-2.24M7.5 24h3.17m19.83 0h-3.17\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"45s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"0 19 24; 360 19 24\\\"></animateTransform></path><path fill=\\\"url(#c)\\\" stroke=\\\"#e6effc\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\" d=\\\"M46.5 31.5h-.32a10.49 10.49 0 00-19.11-8 7 7 0 00-10.57 6 7.21 7.21 0 00.1 1.14A7.5 7.5 0 0018 45.5a4.19 4.19 0 00.5 0v0h28a7 7 0 000-14z\\\"></path><circle cx=\\\"31.75\\\" cy=\\\"51\\\" r=\\\"3\\\" fill=\\\"url(#a)\\\" stroke=\\\"#afb4bc\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"3s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"0 0; 0 -17;\\\"></animateTransform><animate attributeName=\\\"opacity\\\" dur=\\\"3s\\\" repeatCount=\\\"indefinite\\\" values=\\\"0; 1; 1; 1; 0\\\"></animate><animate attributeName=\\\"r\\\" dur=\\\"3s\\\" repeatCount=\\\"indefinite\\\" values=\\\"3; 4.5; 6\\\"></animate></circle><circle cx=\\\"25.75\\\" cy=\\\"51\\\" r=\\\"4.5\\\" fill=\\\"url(#d)\\\" stroke=\\\"#afb4bc\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\"><animateTransform attributeName=\\\"transform\\\" begin=\\\"-1s\\\" dur=\\\"3s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"0 0; 0 -17;\\\"></animateTransform><animate attributeName=\\\"opacity\\\" begin=\\\"-1s\\\" dur=\\\"3s\\\" repeatCount=\\\"indefinite\\\" values=\\\"0; 1; 1; 1; 0\\\"></animate><animate attributeName=\\\"r\\\" begin=\\\"-1s\\\" dur=\\\"3s\\\" repeatCount=\\\"indefinite\\\" values=\\\"3; 4.5; 6\\\"></animate><animate attributeName=\\\"cx\\\" begin=\\\"-1s\\\" dur=\\\"3s\\\" repeatCount=\\\"indefinite\\\" values=\\\"31.75; 25.75\\\"></animate></circle><circle cx=\\\"36.75\\\" cy=\\\"51\\\" r=\\\"6\\\" fill=\\\"url(#e)\\\" stroke=\\\"#afb4bc\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\"><animateTransform attributeName=\\\"transform\\\" begin=\\\"-2s\\\" dur=\\\"3s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"0 0; 0 -17;\\\"></animateTransform><animate attributeName=\\\"opacity\\\" begin=\\\"-2s\\\" dur=\\\"3s\\\" repeatCount=\\\"indefinite\\\" values=\\\"0; 1; 1; 1; 0\\\"></animate><animate attributeName=\\\"r\\\" begin=\\\"-2s\\\" dur=\\\"3s\\\" repeatCount=\\\"indefinite\\\" values=\\\"3; 4.5; 6\\\"></animate><animate attributeName=\\\"cx\\\" begin=\\\"-2s\\\" dur=\\\"3s\\\" repeatCount=\\\"indefinite\\\" values=\\\"31.75; 36.75\\\"></animate></circle></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/partly-cloudy-day-smoke.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/partly-cloudy-day-snow.svg":
-/*!*******************************************************************!*\
-  !*** ./src/style/icons/animated_icons/partly-cloudy-day-snow.svg ***!
-  \*******************************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" xmlns:xlink=\\\"http://www.w3.org/1999/xlink\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"b\\\" x1=\\\"16.5\\\" x2=\\\"21.5\\\" y1=\\\"19.67\\\" y2=\\\"28.33\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#fbbf24\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#fbbf24\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#f59e0b\\\"></stop></linearGradient><linearGradient id=\\\"c\\\" x1=\\\"22.56\\\" x2=\\\"39.2\\\" y1=\\\"21.96\\\" y2=\\\"50.8\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#deeafb\\\"></stop></linearGradient><linearGradient id=\\\"a\\\" x1=\\\"30.12\\\" x2=\\\"31.88\\\" y1=\\\"43.48\\\" y2=\\\"46.52\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#86c3db\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#86c3db\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#5eafcf\\\"></stop></linearGradient><linearGradient id=\\\"d\\\" x1=\\\"29.67\\\" x2=\\\"32.33\\\" y1=\\\"42.69\\\" y2=\\\"47.31\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"e\\\" x1=\\\"23.12\\\" x2=\\\"24.88\\\" y1=\\\"43.48\\\" y2=\\\"46.52\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"f\\\" x1=\\\"22.67\\\" x2=\\\"25.33\\\" y1=\\\"42.69\\\" y2=\\\"47.31\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"g\\\" x1=\\\"37.12\\\" x2=\\\"38.88\\\" y1=\\\"43.48\\\" y2=\\\"46.52\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"h\\\" x1=\\\"36.67\\\" x2=\\\"39.33\\\" y1=\\\"42.69\\\" y2=\\\"47.31\\\" xlink:href=\\\"#a\\\"></linearGradient></defs><circle cx=\\\"19\\\" cy=\\\"24\\\" r=\\\"5\\\" fill=\\\"url(#b)\\\" stroke=\\\"#f8af18\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\"></circle><path fill=\\\"none\\\" stroke=\\\"#fbbf24\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"2\\\" d=\\\"M19 15.67V12.5m0 23v-3.17m5.89-14.22l2.24-2.24M10.87 32.13l2.24-2.24m0-11.78l-2.24-2.24m16.26 16.26l-2.24-2.24M7.5 24h3.17m19.83 0h-3.17\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"45s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"0 19 24; 360 19 24\\\"></animateTransform></path><path fill=\\\"url(#c)\\\" stroke=\\\"#e6effc\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\" d=\\\"M46.5 31.5h-.32a10.49 10.49 0 00-19.11-8 7 7 0 00-10.57 6 7.21 7.21 0 00.1 1.14A7.5 7.5 0 0018 45.5a4.19 4.19 0 00.5 0v0h28a7 7 0 000-14z\\\"></path><g><circle cx=\\\"31\\\" cy=\\\"45\\\" r=\\\"1.25\\\" fill=\\\"none\\\" stroke=\\\"url(#a)\\\" stroke-miterlimit=\\\"10\\\"></circle><path fill=\\\"none\\\" stroke=\\\"url(#d)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" d=\\\"M33.17 46.25l-1.09-.63m-2.16-1.24l-1.09-.63M31 42.5v1.25m0 3.75v-1.25m-1.08-.63l-1.09.63m4.34-2.5l-1.09.63\\\"></path><animateTransform additive=\\\"sum\\\" attributeName=\\\"transform\\\" dur=\\\"4s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"-1 -6; 1 12\\\"></animateTransform><animateTransform additive=\\\"sum\\\" attributeName=\\\"transform\\\" dur=\\\"9s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"0 31 45; 360 31 45\\\"></animateTransform><animate attributeName=\\\"opacity\\\" dur=\\\"4s\\\" repeatCount=\\\"indefinite\\\" values=\\\"0;1;1;1;0\\\"></animate></g><g><circle cx=\\\"24\\\" cy=\\\"45\\\" r=\\\"1.25\\\" fill=\\\"none\\\" stroke=\\\"url(#e)\\\" stroke-miterlimit=\\\"10\\\"></circle><path fill=\\\"none\\\" stroke=\\\"url(#f)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" d=\\\"M26.17 46.25l-1.09-.63m-2.16-1.24l-1.09-.63M24 42.5v1.25m0 3.75v-1.25m-1.08-.63l-1.09.63m4.34-2.5l-1.09.63\\\"></path><animateTransform additive=\\\"sum\\\" attributeName=\\\"transform\\\" begin=\\\"-2s\\\" dur=\\\"4s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"1 -6; -1 12\\\"></animateTransform><animateTransform additive=\\\"sum\\\" attributeName=\\\"transform\\\" dur=\\\"9s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"0 24 45; 360 24 45\\\"></animateTransform><animate attributeName=\\\"opacity\\\" begin=\\\"-2s\\\" dur=\\\"4s\\\" repeatCount=\\\"indefinite\\\" values=\\\"0;1;1;1;0\\\"></animate></g><g><circle cx=\\\"38\\\" cy=\\\"45\\\" r=\\\"1.25\\\" fill=\\\"none\\\" stroke=\\\"url(#g)\\\" stroke-miterlimit=\\\"10\\\"></circle><path fill=\\\"none\\\" stroke=\\\"url(#h)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" d=\\\"M40.17 46.25l-1.09-.63m-2.16-1.24l-1.09-.63M38 42.5v1.25m0 3.75v-1.25m-1.08-.63l-1.09.63m4.34-2.5l-1.09.63\\\"></path><animateTransform additive=\\\"sum\\\" attributeName=\\\"transform\\\" begin=\\\"-1s\\\" dur=\\\"4s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"1 -6; -1 12\\\"></animateTransform><animateTransform additive=\\\"sum\\\" attributeName=\\\"transform\\\" dur=\\\"9s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"0 38 45; 360 38 45\\\"></animateTransform><animate attributeName=\\\"opacity\\\" begin=\\\"-1s\\\" dur=\\\"4s\\\" repeatCount=\\\"indefinite\\\" values=\\\"0;1;1;1;0\\\"></animate></g></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/partly-cloudy-day-snow.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/partly-cloudy-day.svg":
-/*!**************************************************************!*\
-  !*** ./src/style/icons/animated_icons/partly-cloudy-day.svg ***!
-  \**************************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"a\\\" x1=\\\"16.5\\\" x2=\\\"21.5\\\" y1=\\\"19.67\\\" y2=\\\"28.33\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#fbbf24\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#fbbf24\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#f59e0b\\\"></stop></linearGradient><linearGradient id=\\\"b\\\" x1=\\\"22.56\\\" x2=\\\"39.2\\\" y1=\\\"21.96\\\" y2=\\\"50.8\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#deeafb\\\"></stop></linearGradient></defs><circle cx=\\\"19\\\" cy=\\\"24\\\" r=\\\"5\\\" fill=\\\"url(#a)\\\" stroke=\\\"#f8af18\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\"></circle><path fill=\\\"none\\\" stroke=\\\"#fbbf24\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"2\\\" d=\\\"M19 15.67V12.5m0 23v-3.17m5.89-14.22l2.24-2.24M10.87 32.13l2.24-2.24m0-11.78l-2.24-2.24m16.26 16.26l-2.24-2.24M7.5 24h3.17m19.83 0h-3.17\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"45s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"0 19 24; 360 19 24\\\"></animateTransform></path><path fill=\\\"url(#b)\\\" stroke=\\\"#e6effc\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\" d=\\\"M46.5 31.5h-.32a10.49 10.49 0 00-19.11-8 7 7 0 00-10.57 6 7.21 7.21 0 00.1 1.14A7.5 7.5 0 0018 45.5a4.19 4.19 0 00.5 0v0h28a7 7 0 000-14z\\\"></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/partly-cloudy-day.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/partly-cloudy-night-drizzle.svg":
-/*!************************************************************************!*\
-  !*** ./src/style/icons/animated_icons/partly-cloudy-night-drizzle.svg ***!
-  \************************************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" xmlns:xlink=\\\"http://www.w3.org/1999/xlink\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"b\\\" x1=\\\"13.58\\\" x2=\\\"24.15\\\" y1=\\\"15.57\\\" y2=\\\"33.87\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#86c3db\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#86c3db\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#5eafcf\\\"></stop><animateTransform attributeName=\\\"gradientTransform\\\" dur=\\\"10s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"10 19.22 24.293; -10 19.22 24.293; 10 19.22 24.293\\\"></animateTransform></linearGradient><linearGradient id=\\\"c\\\" x1=\\\"22.56\\\" x2=\\\"39.2\\\" y1=\\\"21.96\\\" y2=\\\"50.8\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#deeafb\\\"></stop></linearGradient><linearGradient id=\\\"a\\\" x1=\\\"23.31\\\" x2=\\\"24.69\\\" y1=\\\"44.3\\\" y2=\\\"46.7\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#4286ee\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#4286ee\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#0950bc\\\"></stop></linearGradient><linearGradient id=\\\"d\\\" x1=\\\"30.31\\\" x2=\\\"31.69\\\" y1=\\\"44.3\\\" y2=\\\"46.7\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"e\\\" x1=\\\"37.31\\\" x2=\\\"38.69\\\" y1=\\\"44.3\\\" y2=\\\"46.7\\\" xlink:href=\\\"#a\\\"></linearGradient></defs><path fill=\\\"url(#b)\\\" stroke=\\\"#72b9d5\\\" stroke-linecap=\\\"round\\\" stroke-linejoin=\\\"round\\\" stroke-width=\\\".5\\\" d=\\\"M29.33 26.68a10.61 10.61 0 01-10.68-10.54A10.5 10.5 0 0119 13.5a10.54 10.54 0 1011.5 13.11 11.48 11.48 0 01-1.17.07z\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"10s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"-10 19.22 24.293; 10 19.22 24.293; -10 19.22 24.293\\\"></animateTransform></path><path fill=\\\"url(#c)\\\" stroke=\\\"#e6effc\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\" d=\\\"M46.5 31.5h-.32a10.49 10.49 0 00-19.11-8 7 7 0 00-10.57 6 7.21 7.21 0 00.1 1.14A7.5 7.5 0 0018 45.5a4.19 4.19 0 00.5 0v0h28a7 7 0 000-14z\\\"></path><path fill=\\\"none\\\" stroke=\\\"url(#a)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"2\\\" d=\\\"M24.08 45.01l-.16.98\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"1.5s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"1 -5; -2 10\\\"></animateTransform><animate attributeName=\\\"opacity\\\" dur=\\\"1.5s\\\" repeatCount=\\\"indefinite\\\" values=\\\"0;1;1;0\\\"></animate></path><path fill=\\\"none\\\" stroke=\\\"url(#d)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"2\\\" d=\\\"M31.08 45.01l-.16.98\\\"><animateTransform attributeName=\\\"transform\\\" begin=\\\"-0.5s\\\" dur=\\\"1.5s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"1 -5; -2 10\\\"></animateTransform><animate attributeName=\\\"opacity\\\" begin=\\\"-0.5s\\\" dur=\\\"1.5s\\\" repeatCount=\\\"indefinite\\\" values=\\\"0;1;1;0\\\"></animate></path><path fill=\\\"none\\\" stroke=\\\"url(#e)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"2\\\" d=\\\"M38.08 45.01l-.16.98\\\"><animateTransform attributeName=\\\"transform\\\" begin=\\\"-1s\\\" dur=\\\"1.5s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"1 -5; -2 10\\\"></animateTransform><animate attributeName=\\\"opacity\\\" begin=\\\"-1s\\\" dur=\\\"1.5s\\\" repeatCount=\\\"indefinite\\\" values=\\\"0;1;1;0\\\"></animate></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/partly-cloudy-night-drizzle.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/partly-cloudy-night-fog.svg":
-/*!********************************************************************!*\
-  !*** ./src/style/icons/animated_icons/partly-cloudy-night-fog.svg ***!
-  \********************************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" xmlns:xlink=\\\"http://www.w3.org/1999/xlink\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"b\\\" x1=\\\"13.58\\\" x2=\\\"24.15\\\" y1=\\\"15.57\\\" y2=\\\"33.87\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#86c3db\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#86c3db\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#5eafcf\\\"></stop><animateTransform attributeName=\\\"gradientTransform\\\" dur=\\\"45s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"360 19 24; 0 19 24\\\"></animateTransform></linearGradient><linearGradient id=\\\"c\\\" x1=\\\"22.56\\\" x2=\\\"39.2\\\" y1=\\\"21.96\\\" y2=\\\"50.8\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#deeafb\\\"></stop></linearGradient><linearGradient id=\\\"a\\\" x1=\\\"27.5\\\" x2=\\\"36.5\\\" y1=\\\"50.21\\\" y2=\\\"65.79\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#d4d7dd\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#d4d7dd\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#bec1c6\\\"></stop></linearGradient><linearGradient id=\\\"d\\\" y1=\\\"44.21\\\" y2=\\\"59.79\\\" xlink:href=\\\"#a\\\"></linearGradient></defs><path fill=\\\"url(#b)\\\" stroke=\\\"#72b9d5\\\" stroke-linecap=\\\"round\\\" stroke-linejoin=\\\"round\\\" stroke-width=\\\".5\\\" d=\\\"M29.33 26.68a10.61 10.61 0 01-10.68-10.54A10.5 10.5 0 0119 13.5a10.54 10.54 0 1011.5 13.11 11.48 11.48 0 01-1.17.07z\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"10s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"-10 19.22 24.293; 10 19.22 24.293; -10 19.22 24.293\\\"></animateTransform></path><path fill=\\\"url(#c)\\\" stroke=\\\"#e6effc\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\" d=\\\"M46.5 31.5h-.32a10.49 10.49 0 00-19.11-8 7 7 0 00-10.57 6 7.21 7.21 0 00.1 1.14A7.5 7.5 0 0018 45.5a4.19 4.19 0 00.5 0v0h28a7 7 0 000-14z\\\"></path><path fill=\\\"none\\\" stroke=\\\"url(#a)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M17 58h30\\\"><animateTransform attributeName=\\\"transform\\\" begin=\\\"0s\\\" dur=\\\"5s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"-4 0; 4 0; -4 0\\\"></animateTransform></path><path fill=\\\"none\\\" stroke=\\\"url(#d)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M17 52h30\\\"><animateTransform attributeName=\\\"transform\\\" begin=\\\"-4s\\\" dur=\\\"5s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"-4 0; 4 0; -4 0\\\"></animateTransform></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/partly-cloudy-night-fog.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/partly-cloudy-night-hail.svg":
-/*!*********************************************************************!*\
-  !*** ./src/style/icons/animated_icons/partly-cloudy-night-hail.svg ***!
-  \*********************************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" xmlns:xlink=\\\"http://www.w3.org/1999/xlink\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"a\\\" x1=\\\"13.58\\\" x2=\\\"24.15\\\" y1=\\\"15.57\\\" y2=\\\"33.87\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#86c3db\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#86c3db\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#5eafcf\\\"></stop><animateTransform attributeName=\\\"gradientTransform\\\" dur=\\\"10s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"10 19.22 24.293; -10 19.22 24.293; 10 19.22 24.293\\\"></animateTransform></linearGradient><linearGradient id=\\\"b\\\" x1=\\\"22.56\\\" x2=\\\"39.2\\\" y1=\\\"21.96\\\" y2=\\\"50.8\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#deeafb\\\"></stop></linearGradient><linearGradient id=\\\"c\\\" x1=\\\"23.25\\\" x2=\\\"24.75\\\" y1=\\\"43.7\\\" y2=\\\"46.3\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"d\\\" x1=\\\"30.25\\\" x2=\\\"31.75\\\" y1=\\\"43.7\\\" y2=\\\"46.3\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"e\\\" x1=\\\"37.25\\\" x2=\\\"38.75\\\" y1=\\\"43.7\\\" y2=\\\"46.3\\\" xlink:href=\\\"#a\\\"></linearGradient></defs><path fill=\\\"url(#a)\\\" stroke=\\\"#72b9d5\\\" stroke-linecap=\\\"round\\\" stroke-linejoin=\\\"round\\\" stroke-width=\\\".5\\\" d=\\\"M29.33 26.68a10.61 10.61 0 01-10.68-10.54A10.5 10.5 0 0119 13.5a10.54 10.54 0 1011.5 13.11 11.48 11.48 0 01-1.17.07z\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"10s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"-10 19.22 24.293; 10 19.22 24.293; -10 19.22 24.293\\\"></animateTransform></path><path fill=\\\"url(#b)\\\" stroke=\\\"#e6effc\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\" d=\\\"M46.5 31.5h-.32a10.49 10.49 0 00-19.11-8 7 7 0 00-10.57 6 7.21 7.21 0 00.1 1.14A7.5 7.5 0 0018 45.5a4.19 4.19 0 00.5 0v0h28a7 7 0 000-14z\\\"></path><path fill=\\\"url(#c)\\\" d=\\\"M24 43.5a1.5 1.5 0 101.5 1.5 1.5 1.5 0 00-1.5-1.5z\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"0.6s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"1 -5; -2 18; -4 14\\\"></animateTransform><animate attributeName=\\\"opacity\\\" dur=\\\"0.6s\\\" repeatCount=\\\"indefinite\\\" values=\\\"1;1;0\\\"></animate></path><path fill=\\\"url(#d)\\\" d=\\\"M31 43.5a1.5 1.5 0 101.5 1.5 1.5 1.5 0 00-1.5-1.5z\\\"><animateTransform attributeName=\\\"transform\\\" begin=\\\"-0.4s\\\" dur=\\\"0.6s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"1 -5; -2 18; -4 14\\\"></animateTransform><animate attributeName=\\\"opacity\\\" begin=\\\"-0.4s\\\" dur=\\\"0.6s\\\" repeatCount=\\\"indefinite\\\" values=\\\"1;1;0\\\"></animate></path><path fill=\\\"url(#e)\\\" d=\\\"M38 43.5a1.5 1.5 0 101.5 1.5 1.5 1.5 0 00-1.5-1.5z\\\"><animateTransform attributeName=\\\"transform\\\" begin=\\\"-0.2s\\\" dur=\\\"0.6s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"1 -5; -2 18; -4 14\\\"></animateTransform><animate attributeName=\\\"opacity\\\" begin=\\\"-0.2s\\\" dur=\\\"0.6s\\\" repeatCount=\\\"indefinite\\\" values=\\\"1;1;0\\\"></animate></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/partly-cloudy-night-hail.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/partly-cloudy-night-haze.svg":
-/*!*********************************************************************!*\
-  !*** ./src/style/icons/animated_icons/partly-cloudy-night-haze.svg ***!
-  \*********************************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" xmlns:xlink=\\\"http://www.w3.org/1999/xlink\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"b\\\" x1=\\\"13.58\\\" x2=\\\"24.15\\\" y1=\\\"15.57\\\" y2=\\\"33.87\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#86c3db\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#86c3db\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#5eafcf\\\"></stop><animateTransform attributeName=\\\"gradientTransform\\\" dur=\\\"10s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"10 19.22 24.293; -10 19.22 24.293; 10 19.22 24.293\\\"></animateTransform></linearGradient><linearGradient id=\\\"c\\\" x1=\\\"22.56\\\" x2=\\\"39.2\\\" y1=\\\"21.96\\\" y2=\\\"50.8\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#deeafb\\\"></stop></linearGradient><linearGradient id=\\\"a\\\" x1=\\\"17.94\\\" x2=\\\"26.94\\\" y1=\\\"55.73\\\" y2=\\\"71.32\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#d4d7dd\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#d4d7dd\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#bec1c6\\\"></stop></linearGradient><linearGradient id=\\\"d\\\" x1=\\\"28.81\\\" x2=\\\"37.81\\\" y1=\\\"49.45\\\" y2=\\\"65.04\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"e\\\" x1=\\\"37.06\\\" x2=\\\"46.06\\\" y1=\\\"44.68\\\" y2=\\\"60.27\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"f\\\" x1=\\\"17.94\\\" x2=\\\"26.94\\\" y1=\\\"49.73\\\" y2=\\\"65.32\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"g\\\" x1=\\\"28.81\\\" x2=\\\"37.81\\\" y1=\\\"43.45\\\" y2=\\\"59.04\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"h\\\" x1=\\\"37.06\\\" x2=\\\"46.06\\\" y1=\\\"38.68\\\" y2=\\\"54.27\\\" xlink:href=\\\"#a\\\"></linearGradient></defs><path fill=\\\"url(#b)\\\" stroke=\\\"#72b9d5\\\" stroke-linecap=\\\"round\\\" stroke-linejoin=\\\"round\\\" stroke-width=\\\".5\\\" d=\\\"M29.33 26.68a10.61 10.61 0 01-10.68-10.54A10.5 10.5 0 0119 13.5a10.54 10.54 0 1011.5 13.11 11.48 11.48 0 01-1.17.07z\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"10s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"-10 19.22 24.293; 10 19.22 24.293; -10 19.22 24.293\\\"></animateTransform></path><path fill=\\\"url(#c)\\\" stroke=\\\"#e6effc\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\" d=\\\"M46.5 31.5h-.32a10.49 10.49 0 00-19.11-8 7 7 0 00-10.57 6 7.21 7.21 0 00.1 1.14A7.5 7.5 0 0018 45.5a4.19 4.19 0 00.5 0v0h28a7 7 0 000-14z\\\"></path><g><path fill=\\\"none\\\" stroke=\\\"url(#a)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M17 58h4.5\\\"></path><path fill=\\\"none\\\" stroke=\\\"url(#d)\\\" stroke-dasharray=\\\"7 7\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M28.5 58H39\\\"></path><path fill=\\\"none\\\" stroke=\\\"url(#e)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M42.5 58H47\\\"></path><animateTransform attributeName=\\\"transform\\\" begin=\\\"0s\\\" dur=\\\"5s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"-3 0; 3 0; -3 0\\\"></animateTransform></g><g><path fill=\\\"none\\\" stroke=\\\"url(#f)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M17 52h4.5\\\"></path><path fill=\\\"none\\\" stroke=\\\"url(#g)\\\" stroke-dasharray=\\\"7 7\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M28.5 52H39\\\"></path><path fill=\\\"none\\\" stroke=\\\"url(#h)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M42.5 52H47\\\"></path><animateTransform attributeName=\\\"transform\\\" begin=\\\"-4s\\\" dur=\\\"5s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"-3 0; 3 0; -3 0\\\"></animateTransform></g></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/partly-cloudy-night-haze.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/partly-cloudy-night-rain.svg":
-/*!*********************************************************************!*\
-  !*** ./src/style/icons/animated_icons/partly-cloudy-night-rain.svg ***!
-  \*********************************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" xmlns:xlink=\\\"http://www.w3.org/1999/xlink\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"b\\\" x1=\\\"13.58\\\" x2=\\\"24.15\\\" y1=\\\"15.57\\\" y2=\\\"33.87\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#86c3db\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#86c3db\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#5eafcf\\\"></stop><animateTransform attributeName=\\\"gradientTransform\\\" dur=\\\"10s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"10 19.22 24.293; -10 19.22 24.293; 10 19.22 24.293\\\"></animateTransform></linearGradient><linearGradient id=\\\"c\\\" x1=\\\"22.56\\\" x2=\\\"39.2\\\" y1=\\\"21.96\\\" y2=\\\"50.8\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#deeafb\\\"></stop></linearGradient><linearGradient id=\\\"a\\\" x1=\\\"22.53\\\" x2=\\\"25.47\\\" y1=\\\"42.95\\\" y2=\\\"48.05\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#4286ee\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#4286ee\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#0950bc\\\"></stop></linearGradient><linearGradient id=\\\"d\\\" x1=\\\"29.53\\\" x2=\\\"32.47\\\" y1=\\\"42.95\\\" y2=\\\"48.05\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"e\\\" x1=\\\"36.53\\\" x2=\\\"39.47\\\" y1=\\\"42.95\\\" y2=\\\"48.05\\\" xlink:href=\\\"#a\\\"></linearGradient></defs><path fill=\\\"url(#b)\\\" stroke=\\\"#72b9d5\\\" stroke-linecap=\\\"round\\\" stroke-linejoin=\\\"round\\\" stroke-width=\\\".5\\\" d=\\\"M29.33 26.68a10.61 10.61 0 01-10.68-10.54A10.5 10.5 0 0119 13.5a10.54 10.54 0 1011.5 13.11 11.48 11.48 0 01-1.17.07z\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"10s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"-10 19.22 24.293; 10 19.22 24.293; -10 19.22 24.293\\\"></animateTransform></path><path fill=\\\"url(#c)\\\" stroke=\\\"#e6effc\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\" d=\\\"M46.5 31.5h-.32a10.49 10.49 0 00-19.11-8 7 7 0 00-10.57 6 7.21 7.21 0 00.1 1.14A7.5 7.5 0 0018 45.5a4.19 4.19 0 00.5 0v0h28a7 7 0 000-14z\\\"></path><path fill=\\\"none\\\" stroke=\\\"url(#a)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"2\\\" d=\\\"M24.39 43.03l-.78 4.94\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"0.7s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"1 -5; -2 10\\\"></animateTransform><animate attributeName=\\\"opacity\\\" dur=\\\"0.7s\\\" repeatCount=\\\"indefinite\\\" values=\\\"0;1;1;0\\\"></animate></path><path fill=\\\"none\\\" stroke=\\\"url(#d)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"2\\\" d=\\\"M31.39 43.03l-.78 4.94\\\"><animateTransform attributeName=\\\"transform\\\" begin=\\\"-0.4s\\\" dur=\\\"0.7s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"1 -5; -2 10\\\"></animateTransform><animate attributeName=\\\"opacity\\\" begin=\\\"-0.4s\\\" dur=\\\"0.7s\\\" repeatCount=\\\"indefinite\\\" values=\\\"0;1;1;0\\\"></animate></path><path fill=\\\"none\\\" stroke=\\\"url(#e)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"2\\\" d=\\\"M38.39 43.03l-.78 4.94\\\"><animateTransform attributeName=\\\"transform\\\" begin=\\\"-0.2s\\\" dur=\\\"0.7s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"1 -5; -2 10\\\"></animateTransform><animate attributeName=\\\"opacity\\\" begin=\\\"-0.2s\\\" dur=\\\"0.7s\\\" repeatCount=\\\"indefinite\\\" values=\\\"0;1;1;0\\\"></animate></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/partly-cloudy-night-rain.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/partly-cloudy-night-sleet.svg":
-/*!**********************************************************************!*\
-  !*** ./src/style/icons/animated_icons/partly-cloudy-night-sleet.svg ***!
-  \**********************************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" xmlns:xlink=\\\"http://www.w3.org/1999/xlink\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"a\\\" x1=\\\"13.58\\\" x2=\\\"24.15\\\" y1=\\\"15.57\\\" y2=\\\"33.87\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#86c3db\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#86c3db\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#5eafcf\\\"></stop><animateTransform attributeName=\\\"gradientTransform\\\" dur=\\\"10s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"10 19.22 24.293; -10 19.22 24.293; 10 19.22 24.293\\\"></animateTransform></linearGradient><linearGradient id=\\\"c\\\" x1=\\\"22.56\\\" x2=\\\"39.2\\\" y1=\\\"21.96\\\" y2=\\\"50.8\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#deeafb\\\"></stop></linearGradient><linearGradient id=\\\"d\\\" x1=\\\"23.12\\\" x2=\\\"24.88\\\" y1=\\\"43.48\\\" y2=\\\"46.52\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"e\\\" x1=\\\"22.67\\\" x2=\\\"25.33\\\" y1=\\\"42.69\\\" y2=\\\"47.31\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"f\\\" x1=\\\"37.12\\\" x2=\\\"38.88\\\" y1=\\\"43.48\\\" y2=\\\"46.52\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"g\\\" x1=\\\"36.67\\\" x2=\\\"39.33\\\" y1=\\\"42.69\\\" y2=\\\"47.31\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"b\\\" x1=\\\"23.31\\\" x2=\\\"24.69\\\" y1=\\\"44.3\\\" y2=\\\"46.7\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#4286ee\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#4286ee\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#0950bc\\\"></stop></linearGradient><linearGradient id=\\\"h\\\" x1=\\\"30.31\\\" x2=\\\"31.69\\\" y1=\\\"44.3\\\" y2=\\\"46.7\\\" xlink:href=\\\"#b\\\"></linearGradient><linearGradient id=\\\"i\\\" x1=\\\"37.31\\\" x2=\\\"38.69\\\" y1=\\\"44.3\\\" y2=\\\"46.7\\\" xlink:href=\\\"#b\\\"></linearGradient></defs><path fill=\\\"url(#a)\\\" stroke=\\\"#72b9d5\\\" stroke-linecap=\\\"round\\\" stroke-linejoin=\\\"round\\\" stroke-width=\\\".5\\\" d=\\\"M29.33 26.68a10.61 10.61 0 01-10.68-10.54A10.5 10.5 0 0119 13.5a10.54 10.54 0 1011.5 13.11 11.48 11.48 0 01-1.17.07z\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"10s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"-10 19.22 24.293; 10 19.22 24.293; -10 19.22 24.293\\\"></animateTransform></path><path fill=\\\"url(#c)\\\" stroke=\\\"#e6effc\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\" d=\\\"M46.5 31.5h-.32a10.49 10.49 0 00-19.11-8 7 7 0 00-10.57 6 7.21 7.21 0 00.1 1.14A7.5 7.5 0 0018 45.5a4.19 4.19 0 00.5 0v0h28a7 7 0 000-14z\\\"></path><g><circle cx=\\\"24\\\" cy=\\\"45\\\" r=\\\"1.25\\\" fill=\\\"none\\\" stroke=\\\"url(#d)\\\" stroke-miterlimit=\\\"10\\\"></circle><path fill=\\\"none\\\" stroke=\\\"url(#e)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" d=\\\"M26.17 46.25l-1.09-.63m-2.16-1.24l-1.09-.63M24 42.5v1.25m0 3.75v-1.25m-1.08-.63l-1.09.63m4.34-2.5l-1.09.63\\\"></path><animateTransform additive=\\\"sum\\\" attributeName=\\\"transform\\\" begin=\\\"-2s\\\" dur=\\\"4s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"1 -6; -1 12\\\"></animateTransform><animateTransform additive=\\\"sum\\\" attributeName=\\\"transform\\\" dur=\\\"9s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"0 24 45; 360 24 45\\\"></animateTransform><animate attributeName=\\\"opacity\\\" begin=\\\"-2s\\\" dur=\\\"4s\\\" repeatCount=\\\"indefinite\\\" values=\\\"0;1;1;1;0\\\"></animate></g><g><circle cx=\\\"38\\\" cy=\\\"45\\\" r=\\\"1.25\\\" fill=\\\"none\\\" stroke=\\\"url(#f)\\\" stroke-miterlimit=\\\"10\\\"></circle><path fill=\\\"none\\\" stroke=\\\"url(#g)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" d=\\\"M40.17 46.25l-1.09-.63m-2.16-1.24l-1.09-.63M38 42.5v1.25m0 3.75v-1.25m-1.08-.63l-1.09.63m4.34-2.5l-1.09.63\\\"></path><animateTransform additive=\\\"sum\\\" attributeName=\\\"transform\\\" begin=\\\"-1s\\\" dur=\\\"4s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"1 -6; -1 12\\\"></animateTransform><animateTransform additive=\\\"sum\\\" attributeName=\\\"transform\\\" dur=\\\"9s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"0 38 45; 360 38 45\\\"></animateTransform><animate attributeName=\\\"opacity\\\" begin=\\\"-1s\\\" dur=\\\"4s\\\" repeatCount=\\\"indefinite\\\" values=\\\"0;1;1;1;0\\\"></animate></g><path fill=\\\"none\\\" stroke=\\\"url(#b)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"2\\\" d=\\\"M24.08 45.01l-.16.98\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"1.5s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"1 -5; -2 10\\\"></animateTransform><animate attributeName=\\\"opacity\\\" dur=\\\"1.5s\\\" repeatCount=\\\"indefinite\\\" values=\\\"0;1;1;0\\\"></animate></path><path fill=\\\"none\\\" stroke=\\\"url(#h)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"2\\\" d=\\\"M31.08 45.01l-.16.98\\\"><animateTransform attributeName=\\\"transform\\\" begin=\\\"-0.5s\\\" dur=\\\"1.5s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"1 -5; -2 10\\\"></animateTransform><animate attributeName=\\\"opacity\\\" begin=\\\"-0.5s\\\" dur=\\\"1.5s\\\" repeatCount=\\\"indefinite\\\" values=\\\"0;1;1;0\\\"></animate></path><path fill=\\\"none\\\" stroke=\\\"url(#i)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"2\\\" d=\\\"M38.08 45.01l-.16.98\\\"><animateTransform attributeName=\\\"transform\\\" begin=\\\"-1s\\\" dur=\\\"1.5s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"1 -5; -2 10\\\"></animateTransform><animate attributeName=\\\"opacity\\\" begin=\\\"-1s\\\" dur=\\\"1.5s\\\" repeatCount=\\\"indefinite\\\" values=\\\"0;1;1;0\\\"></animate></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/partly-cloudy-night-sleet.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/partly-cloudy-night-smoke.svg":
-/*!**********************************************************************!*\
-  !*** ./src/style/icons/animated_icons/partly-cloudy-night-smoke.svg ***!
-  \**********************************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" xmlns:xlink=\\\"http://www.w3.org/1999/xlink\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"b\\\" x1=\\\"13.58\\\" x2=\\\"24.15\\\" y1=\\\"15.57\\\" y2=\\\"33.87\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#86c3db\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#86c3db\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#5eafcf\\\"></stop><animateTransform attributeName=\\\"gradientTransform\\\" dur=\\\"10s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"10 19.22 24.293; -10 19.22 24.293; 10 19.22 24.293\\\"></animateTransform></linearGradient><linearGradient id=\\\"c\\\" x1=\\\"22.56\\\" x2=\\\"39.2\\\" y1=\\\"21.96\\\" y2=\\\"50.8\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#deeafb\\\"></stop></linearGradient><linearGradient id=\\\"a\\\" x1=\\\"30.25\\\" x2=\\\"33.25\\\" y1=\\\"48.4\\\" y2=\\\"53.6\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#b8bdc6\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#b8bdc6\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#a5aab2\\\"></stop></linearGradient><linearGradient id=\\\"d\\\" x1=\\\"23.5\\\" x2=\\\"28\\\" y1=\\\"38.1\\\" y2=\\\"45.9\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"e\\\" x1=\\\"33.75\\\" x2=\\\"39.75\\\" y1=\\\"28.8\\\" y2=\\\"39.2\\\" xlink:href=\\\"#a\\\"></linearGradient></defs><path fill=\\\"url(#b)\\\" stroke=\\\"#72b9d5\\\" stroke-linecap=\\\"round\\\" stroke-linejoin=\\\"round\\\" stroke-width=\\\".5\\\" d=\\\"M29.33 26.68a10.61 10.61 0 01-10.68-10.54A10.5 10.5 0 0119 13.5a10.54 10.54 0 1011.5 13.11 11.48 11.48 0 01-1.17.07z\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"10s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"-10 19.22 24.293; 10 19.22 24.293; -10 19.22 24.293\\\"></animateTransform></path><path fill=\\\"url(#c)\\\" stroke=\\\"#e6effc\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\" d=\\\"M46.5 31.5h-.32a10.49 10.49 0 00-19.11-8 7 7 0 00-10.57 6 7.21 7.21 0 00.1 1.14A7.5 7.5 0 0018 45.5a4.19 4.19 0 00.5 0v0h28a7 7 0 000-14z\\\"></path><circle cx=\\\"31.75\\\" cy=\\\"51\\\" r=\\\"3\\\" fill=\\\"url(#a)\\\" stroke=\\\"#afb4bc\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"3s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"0 0; 0 -17;\\\"></animateTransform><animate attributeName=\\\"opacity\\\" dur=\\\"3s\\\" repeatCount=\\\"indefinite\\\" values=\\\"0; 1; 1; 1; 0\\\"></animate><animate attributeName=\\\"r\\\" dur=\\\"3s\\\" repeatCount=\\\"indefinite\\\" values=\\\"3; 4.5; 6\\\"></animate></circle><circle cx=\\\"25.75\\\" cy=\\\"51\\\" r=\\\"4.5\\\" fill=\\\"url(#d)\\\" stroke=\\\"#afb4bc\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\"><animateTransform attributeName=\\\"transform\\\" begin=\\\"-1s\\\" dur=\\\"3s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"0 0; 0 -17;\\\"></animateTransform><animate attributeName=\\\"opacity\\\" begin=\\\"-1s\\\" dur=\\\"3s\\\" repeatCount=\\\"indefinite\\\" values=\\\"0; 1; 1; 1; 0\\\"></animate><animate attributeName=\\\"r\\\" begin=\\\"-1s\\\" dur=\\\"3s\\\" repeatCount=\\\"indefinite\\\" values=\\\"3; 4.5; 6\\\"></animate><animate attributeName=\\\"cx\\\" begin=\\\"-1s\\\" dur=\\\"3s\\\" repeatCount=\\\"indefinite\\\" values=\\\"31.75; 25.75\\\"></animate></circle><circle cx=\\\"36.75\\\" cy=\\\"51\\\" r=\\\"6\\\" fill=\\\"url(#e)\\\" stroke=\\\"#afb4bc\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\"><animateTransform attributeName=\\\"transform\\\" begin=\\\"-2s\\\" dur=\\\"3s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"0 0; 0 -17;\\\"></animateTransform><animate attributeName=\\\"opacity\\\" begin=\\\"-2s\\\" dur=\\\"3s\\\" repeatCount=\\\"indefinite\\\" values=\\\"0; 1; 1; 1; 0\\\"></animate><animate attributeName=\\\"r\\\" begin=\\\"-2s\\\" dur=\\\"3s\\\" repeatCount=\\\"indefinite\\\" values=\\\"3; 4.5; 6\\\"></animate><animate attributeName=\\\"cx\\\" begin=\\\"-2s\\\" dur=\\\"3s\\\" repeatCount=\\\"indefinite\\\" values=\\\"31.75; 36.75\\\"></animate></circle></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/partly-cloudy-night-smoke.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/partly-cloudy-night-snow.svg":
-/*!*********************************************************************!*\
-  !*** ./src/style/icons/animated_icons/partly-cloudy-night-snow.svg ***!
-  \*********************************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" xmlns:xlink=\\\"http://www.w3.org/1999/xlink\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"a\\\" x1=\\\"13.58\\\" x2=\\\"24.15\\\" y1=\\\"15.57\\\" y2=\\\"33.87\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#86c3db\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#86c3db\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#5eafcf\\\"></stop><animateTransform attributeName=\\\"gradientTransform\\\" dur=\\\"10s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"10 19.22 24.293; -10 19.22 24.293; 10 19.22 24.293\\\"></animateTransform></linearGradient><linearGradient id=\\\"b\\\" x1=\\\"22.56\\\" x2=\\\"39.2\\\" y1=\\\"21.96\\\" y2=\\\"50.8\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#deeafb\\\"></stop></linearGradient><linearGradient id=\\\"c\\\" x1=\\\"30.12\\\" x2=\\\"31.88\\\" y1=\\\"43.48\\\" y2=\\\"46.52\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"d\\\" x1=\\\"29.67\\\" x2=\\\"32.33\\\" y1=\\\"42.69\\\" y2=\\\"47.31\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"e\\\" x1=\\\"23.12\\\" x2=\\\"24.88\\\" y1=\\\"43.48\\\" y2=\\\"46.52\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"f\\\" x1=\\\"22.67\\\" x2=\\\"25.33\\\" y1=\\\"42.69\\\" y2=\\\"47.31\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"g\\\" x1=\\\"37.12\\\" x2=\\\"38.88\\\" y1=\\\"43.48\\\" y2=\\\"46.52\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"h\\\" x1=\\\"36.67\\\" x2=\\\"39.33\\\" y1=\\\"42.69\\\" y2=\\\"47.31\\\" xlink:href=\\\"#a\\\"></linearGradient></defs><path fill=\\\"url(#a)\\\" stroke=\\\"#72b9d5\\\" stroke-linecap=\\\"round\\\" stroke-linejoin=\\\"round\\\" stroke-width=\\\".5\\\" d=\\\"M29.33 26.68a10.61 10.61 0 01-10.68-10.54A10.5 10.5 0 0119 13.5a10.54 10.54 0 1011.5 13.11 11.48 11.48 0 01-1.17.07z\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"10s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"-10 19.22 24.293; 10 19.22 24.293; -10 19.22 24.293\\\"></animateTransform></path><path fill=\\\"url(#b)\\\" stroke=\\\"#e6effc\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\" d=\\\"M46.5 31.5h-.32a10.49 10.49 0 00-19.11-8 7 7 0 00-10.57 6 7.21 7.21 0 00.1 1.14A7.5 7.5 0 0018 45.5a4.19 4.19 0 00.5 0v0h28a7 7 0 000-14z\\\"></path><g><circle cx=\\\"31\\\" cy=\\\"45\\\" r=\\\"1.25\\\" fill=\\\"none\\\" stroke=\\\"url(#c)\\\" stroke-miterlimit=\\\"10\\\"></circle><path fill=\\\"none\\\" stroke=\\\"url(#d)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" d=\\\"M33.17 46.25l-1.09-.63m-2.16-1.24l-1.09-.63M31 42.5v1.25m0 3.75v-1.25m-1.08-.63l-1.09.63m4.34-2.5l-1.09.63\\\"></path><animateTransform additive=\\\"sum\\\" attributeName=\\\"transform\\\" dur=\\\"4s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"-1 -6; 1 12\\\"></animateTransform><animateTransform additive=\\\"sum\\\" attributeName=\\\"transform\\\" dur=\\\"9s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"0 31 45; 360 31 45\\\"></animateTransform><animate attributeName=\\\"opacity\\\" dur=\\\"4s\\\" repeatCount=\\\"indefinite\\\" values=\\\"0;1;1;1;0\\\"></animate></g><g><circle cx=\\\"24\\\" cy=\\\"45\\\" r=\\\"1.25\\\" fill=\\\"none\\\" stroke=\\\"url(#e)\\\" stroke-miterlimit=\\\"10\\\"></circle><path fill=\\\"none\\\" stroke=\\\"url(#f)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" d=\\\"M26.17 46.25l-1.09-.63m-2.16-1.24l-1.09-.63M24 42.5v1.25m0 3.75v-1.25m-1.08-.63l-1.09.63m4.34-2.5l-1.09.63\\\"></path><animateTransform additive=\\\"sum\\\" attributeName=\\\"transform\\\" begin=\\\"-2s\\\" dur=\\\"4s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"1 -6; -1 12\\\"></animateTransform><animateTransform additive=\\\"sum\\\" attributeName=\\\"transform\\\" dur=\\\"9s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"0 24 45; 360 24 45\\\"></animateTransform><animate attributeName=\\\"opacity\\\" begin=\\\"-2s\\\" dur=\\\"4s\\\" repeatCount=\\\"indefinite\\\" values=\\\"0;1;1;1;0\\\"></animate></g><g><circle cx=\\\"38\\\" cy=\\\"45\\\" r=\\\"1.25\\\" fill=\\\"none\\\" stroke=\\\"url(#g)\\\" stroke-miterlimit=\\\"10\\\"></circle><path fill=\\\"none\\\" stroke=\\\"url(#h)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" d=\\\"M40.17 46.25l-1.09-.63m-2.16-1.24l-1.09-.63M38 42.5v1.25m0 3.75v-1.25m-1.08-.63l-1.09.63m4.34-2.5l-1.09.63\\\"></path><animateTransform additive=\\\"sum\\\" attributeName=\\\"transform\\\" begin=\\\"-1s\\\" dur=\\\"4s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"1 -6; -1 12\\\"></animateTransform><animateTransform additive=\\\"sum\\\" attributeName=\\\"transform\\\" dur=\\\"9s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"0 38 45; 360 38 45\\\"></animateTransform><animate attributeName=\\\"opacity\\\" begin=\\\"-1s\\\" dur=\\\"4s\\\" repeatCount=\\\"indefinite\\\" values=\\\"0;1;1;1;0\\\"></animate></g></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/partly-cloudy-night-snow.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/partly-cloudy-night.svg":
-/*!****************************************************************!*\
-  !*** ./src/style/icons/animated_icons/partly-cloudy-night.svg ***!
-  \****************************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"a\\\" x1=\\\"13.58\\\" x2=\\\"24.15\\\" y1=\\\"15.57\\\" y2=\\\"33.87\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#86c3db\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#86c3db\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#5eafcf\\\"></stop><animateTransform attributeName=\\\"gradientTransform\\\" dur=\\\"10s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"10 19.22 24.293; -10 19.22 24.293; 10 19.22 24.293\\\"></animateTransform></linearGradient><linearGradient id=\\\"b\\\" x1=\\\"22.56\\\" x2=\\\"39.2\\\" y1=\\\"21.96\\\" y2=\\\"50.8\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#deeafb\\\"></stop></linearGradient></defs><path fill=\\\"url(#a)\\\" stroke=\\\"#72b9d5\\\" stroke-linecap=\\\"round\\\" stroke-linejoin=\\\"round\\\" stroke-width=\\\".5\\\" d=\\\"M29.33 26.68a10.61 10.61 0 01-10.68-10.54A10.5 10.5 0 0119 13.5a10.54 10.54 0 1011.5 13.11 11.48 11.48 0 01-1.17.07z\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"10s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"-10 19.22 24.293; 10 19.22 24.293; -10 19.22 24.293\\\"></animateTransform></path><path fill=\\\"url(#b)\\\" stroke=\\\"#e6effc\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\" d=\\\"M46.5 31.5h-.32a10.49 10.49 0 00-19.11-8 7 7 0 00-10.57 6 7.21 7.21 0 00.1 1.14A7.5 7.5 0 0018 45.5a4.19 4.19 0 00.5 0v0h28a7 7 0 000-14z\\\"></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/partly-cloudy-night.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/pressure-high-alt.svg":
-/*!**************************************************************!*\
-  !*** ./src/style/icons/animated_icons/pressure-high-alt.svg ***!
-  \**************************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"a\\\" x1=\\\"21.91\\\" x2=\\\"42.09\\\" y1=\\\"14.52\\\" y2=\\\"49.48\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#f87171\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#f87171\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#dc2626\\\"></stop></linearGradient></defs><path fill=\\\"url(#a)\\\" stroke=\\\"#ef4444\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\" d=\\\"M38 14H26a12 12 0 00-12 12v12a12 12 0 0012 12h12a12 12 0 0012-12V26a12 12 0 00-12-12zm2 27h-4.17v-7.76h-7.66V41H24V23h4.17v6.91h7.66V23H40z\\\"></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/pressure-high-alt.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/pressure-high.svg":
-/*!**********************************************************!*\
-  !*** ./src/style/icons/animated_icons/pressure-high.svg ***!
-  \**********************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" viewBox=\\\"0 0 64 64\\\"><path fill=\\\"none\\\" stroke=\\\"#ef4444\\\" stroke-linecap=\\\"round\\\" stroke-linejoin=\\\"round\\\" stroke-width=\\\"3\\\" d=\\\"M32 44V20l-5.79 6.89L32 20l5.78 6.89\\\"><animateTransform attributeName=\\\"transform\\\" begin=\\\"0s\\\" dur=\\\"1.5s\\\" keyTimes=\\\"0.0; 0.5; 0.9; 1.0\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"0 0; 0 0; 0 -9; 0 -9\\\"></animateTransform><animate attributeName=\\\"opacity\\\" dur=\\\"1.5s\\\" keyTimes=\\\"0.0; 0.3; 0.8; 0.9; 1.0\\\" repeatCount=\\\"indefinite\\\" values=\\\"0; 1; 1; 0; 0\\\"></animate></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/pressure-high.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/pressure-low-alt.svg":
-/*!*************************************************************!*\
-  !*** ./src/style/icons/animated_icons/pressure-low-alt.svg ***!
-  \*************************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"a\\\" x1=\\\"21.91\\\" x2=\\\"42.09\\\" y1=\\\"14.52\\\" y2=\\\"49.48\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#3392d6\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#3392d6\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#2477b2\\\"></stop></linearGradient></defs><path fill=\\\"url(#a)\\\" stroke=\\\"#2885c7\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\" d=\\\"M38 14H26a12 12 0 00-12 12v12a12 12 0 0012 12h12a12 12 0 0012-12V26a12 12 0 00-12-12zm.5 27h-13V23h4v14.67h9z\\\"></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/pressure-low-alt.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/pressure-low.svg":
-/*!*********************************************************!*\
-  !*** ./src/style/icons/animated_icons/pressure-low.svg ***!
-  \*********************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" viewBox=\\\"0 0 64 64\\\"><path fill=\\\"none\\\" stroke=\\\"#2885c7\\\" stroke-linecap=\\\"round\\\" stroke-linejoin=\\\"round\\\" stroke-width=\\\"3\\\" d=\\\"M32 20v24l-5.79-6.89L32 44l5.78-6.89\\\"><animateTransform attributeName=\\\"transform\\\" begin=\\\"0s\\\" dur=\\\"1.5s\\\" keyTimes=\\\"0.0; 0.5; 0.9; 1.0\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"0 0; 0 0; 0 9; 0 9\\\"></animateTransform><animate attributeName=\\\"opacity\\\" dur=\\\"1.5s\\\" keyTimes=\\\"0.0; 0.3; 0.8; 0.9; 1.0\\\" repeatCount=\\\"indefinite\\\" values=\\\"0; 1; 1; 0; 0\\\"></animate></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/pressure-low.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/rain.svg":
-/*!*************************************************!*\
-  !*** ./src/style/icons/animated_icons/rain.svg ***!
-  \*************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" xmlns:xlink=\\\"http://www.w3.org/1999/xlink\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"b\\\" x1=\\\"22.56\\\" x2=\\\"39.2\\\" y1=\\\"21.96\\\" y2=\\\"50.8\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#deeafb\\\"></stop></linearGradient><linearGradient id=\\\"a\\\" x1=\\\"22.53\\\" x2=\\\"25.47\\\" y1=\\\"42.95\\\" y2=\\\"48.05\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#4286ee\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#4286ee\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#0950bc\\\"></stop></linearGradient><linearGradient id=\\\"c\\\" x1=\\\"29.53\\\" x2=\\\"32.47\\\" y1=\\\"42.95\\\" y2=\\\"48.05\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"d\\\" x1=\\\"36.53\\\" x2=\\\"39.47\\\" y1=\\\"42.95\\\" y2=\\\"48.05\\\" xlink:href=\\\"#a\\\"></linearGradient></defs><path fill=\\\"url(#b)\\\" stroke=\\\"#e6effc\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\" d=\\\"M46.5 31.5h-.32a10.49 10.49 0 00-19.11-8 7 7 0 00-10.57 6 7.21 7.21 0 00.1 1.14A7.5 7.5 0 0018 45.5a4.19 4.19 0 00.5 0v0h28a7 7 0 000-14z\\\"></path><path fill=\\\"none\\\" stroke=\\\"url(#a)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"2\\\" d=\\\"M24.39 43.03l-.78 4.94\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"0.7s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"1 -5; -2 10\\\"></animateTransform><animate attributeName=\\\"opacity\\\" dur=\\\"0.7s\\\" repeatCount=\\\"indefinite\\\" values=\\\"0;1;1;0\\\"></animate></path><path fill=\\\"none\\\" stroke=\\\"url(#c)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"2\\\" d=\\\"M31.39 43.03l-.78 4.94\\\"><animateTransform attributeName=\\\"transform\\\" begin=\\\"-0.4s\\\" dur=\\\"0.7s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"1 -5; -2 10\\\"></animateTransform><animate attributeName=\\\"opacity\\\" begin=\\\"-0.4s\\\" dur=\\\"0.7s\\\" repeatCount=\\\"indefinite\\\" values=\\\"0;1;1;0\\\"></animate></path><path fill=\\\"none\\\" stroke=\\\"url(#d)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"2\\\" d=\\\"M38.39 43.03l-.78 4.94\\\"><animateTransform attributeName=\\\"transform\\\" begin=\\\"-0.2s\\\" dur=\\\"0.7s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"1 -5; -2 10\\\"></animateTransform><animate attributeName=\\\"opacity\\\" begin=\\\"-0.2s\\\" dur=\\\"0.7s\\\" repeatCount=\\\"indefinite\\\" values=\\\"0;1;1;0\\\"></animate></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/rain.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/raindrop.svg":
-/*!*****************************************************!*\
-  !*** ./src/style/icons/animated_icons/raindrop.svg ***!
-  \*****************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"a\\\" x1=\\\"23.61\\\" x2=\\\"37.27\\\" y1=\\\"21.85\\\" y2=\\\"45.52\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#3392d6\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#3392d6\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#2477b2\\\"></stop></linearGradient></defs><path fill=\\\"url(#a)\\\" stroke=\\\"#2885c7\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\" d=\\\"M32 17c-6.09 9-10 14.62-10 20.09a10 10 0 0020 0C42 31.62 38.09 26 32 17z\\\"><animateTransform attributeName=\\\"transform\\\" calcMode=\\\"spline\\\" dur=\\\"5s\\\" keySplines=\\\"0.5 0 0.5 1; 0.5 0 0.5 1\\\" repeatCount=\\\"indefinite\\\" type=\\\"scale\\\" values=\\\"1 1; 1 .9; 1 1\\\"></animateTransform></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/raindrop.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/raindrops.svg":
-/*!******************************************************!*\
-  !*** ./src/style/icons/animated_icons/raindrops.svg ***!
-  \******************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" xmlns:xlink=\\\"http://www.w3.org/1999/xlink\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"a\\\" x1=\\\"17.61\\\" x2=\\\"31.27\\\" y1=\\\"21.85\\\" y2=\\\"45.52\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#3392d6\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#3392d6\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#2477b2\\\"></stop></linearGradient><linearGradient id=\\\"b\\\" x1=\\\"29.61\\\" x2=\\\"43.27\\\" y1=\\\"21.85\\\" y2=\\\"45.52\\\" xlink:href=\\\"#a\\\"></linearGradient></defs><path fill=\\\"url(#a)\\\" stroke=\\\"#2885c7\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\" d=\\\"M26 17c-6.09 9-10 14.62-10 20.09a10 10 0 0020 0C36 31.62 32.09 26 26 17z\\\"><animateTransform attributeName=\\\"transform\\\" calcMode=\\\"spline\\\" dur=\\\"5s\\\" keySplines=\\\"0.5 0 0.5 1; 0.5 0 0.5 1\\\" repeatCount=\\\"indefinite\\\" type=\\\"scale\\\" values=\\\"1 1; 1 .9; 1 1\\\"></animateTransform></path><path fill=\\\"url(#b)\\\" stroke=\\\"#2885c7\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\" d=\\\"M38 17c-6.09 9-10 14.62-10 20.09a10 10 0 0020 0C48 31.62 44.09 26 38 17z\\\"><animateTransform attributeName=\\\"transform\\\" begin=\\\"-3s\\\" calcMode=\\\"spline\\\" dur=\\\"5s\\\" keySplines=\\\"0.5 0 0.5 1; 0.5 0 0.5 1\\\" repeatCount=\\\"indefinite\\\" type=\\\"scale\\\" values=\\\"1 1; 1 .9; 1 1\\\"></animateTransform></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/raindrops.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/sleet.svg":
-/*!**************************************************!*\
-  !*** ./src/style/icons/animated_icons/sleet.svg ***!
-  \**************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" xmlns:xlink=\\\"http://www.w3.org/1999/xlink\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"c\\\" x1=\\\"22.56\\\" x2=\\\"39.2\\\" y1=\\\"21.96\\\" y2=\\\"50.8\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#deeafb\\\"></stop></linearGradient><linearGradient id=\\\"a\\\" x1=\\\"23.12\\\" x2=\\\"24.88\\\" y1=\\\"43.48\\\" y2=\\\"46.52\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#86c3db\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#86c3db\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#5eafcf\\\"></stop></linearGradient><linearGradient id=\\\"d\\\" x1=\\\"22.67\\\" x2=\\\"25.33\\\" y1=\\\"42.69\\\" y2=\\\"47.31\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"e\\\" x1=\\\"37.12\\\" x2=\\\"38.88\\\" y1=\\\"43.48\\\" y2=\\\"46.52\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"f\\\" x1=\\\"36.67\\\" x2=\\\"39.33\\\" y1=\\\"42.69\\\" y2=\\\"47.31\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"b\\\" x1=\\\"23.31\\\" x2=\\\"24.69\\\" y1=\\\"44.3\\\" y2=\\\"46.7\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#4286ee\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#4286ee\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#0950bc\\\"></stop></linearGradient><linearGradient id=\\\"g\\\" x1=\\\"30.31\\\" x2=\\\"31.69\\\" y1=\\\"44.3\\\" y2=\\\"46.7\\\" xlink:href=\\\"#b\\\"></linearGradient><linearGradient id=\\\"h\\\" x1=\\\"37.31\\\" x2=\\\"38.69\\\" y1=\\\"44.3\\\" y2=\\\"46.7\\\" xlink:href=\\\"#b\\\"></linearGradient></defs><path fill=\\\"url(#c)\\\" stroke=\\\"#e6effc\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\" d=\\\"M46.5 31.5h-.32a10.49 10.49 0 00-19.11-8 7 7 0 00-10.57 6 7.21 7.21 0 00.1 1.14A7.5 7.5 0 0018 45.5a4.19 4.19 0 00.5 0v0h28a7 7 0 000-14z\\\"></path><g><circle cx=\\\"24\\\" cy=\\\"45\\\" r=\\\"1.25\\\" fill=\\\"none\\\" stroke=\\\"url(#a)\\\" stroke-miterlimit=\\\"10\\\"></circle><path fill=\\\"none\\\" stroke=\\\"url(#d)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" d=\\\"M26.17 46.25l-1.09-.63m-2.16-1.24l-1.09-.63M24 42.5v1.25m0 3.75v-1.25m-1.08-.63l-1.09.63m4.34-2.5l-1.09.63\\\"></path><animateTransform additive=\\\"sum\\\" attributeName=\\\"transform\\\" begin=\\\"-2s\\\" dur=\\\"4s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"1 -6; -1 12\\\"></animateTransform><animateTransform additive=\\\"sum\\\" attributeName=\\\"transform\\\" dur=\\\"9s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"0 24 45; 360 24 45\\\"></animateTransform><animate attributeName=\\\"opacity\\\" begin=\\\"-2s\\\" dur=\\\"4s\\\" repeatCount=\\\"indefinite\\\" values=\\\"0;1;1;1;0\\\"></animate></g><g><circle cx=\\\"38\\\" cy=\\\"45\\\" r=\\\"1.25\\\" fill=\\\"none\\\" stroke=\\\"url(#e)\\\" stroke-miterlimit=\\\"10\\\"></circle><path fill=\\\"none\\\" stroke=\\\"url(#f)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" d=\\\"M40.17 46.25l-1.09-.63m-2.16-1.24l-1.09-.63M38 42.5v1.25m0 3.75v-1.25m-1.08-.63l-1.09.63m4.34-2.5l-1.09.63\\\"></path><animateTransform additive=\\\"sum\\\" attributeName=\\\"transform\\\" begin=\\\"-1s\\\" dur=\\\"4s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"1 -6; -1 12\\\"></animateTransform><animateTransform additive=\\\"sum\\\" attributeName=\\\"transform\\\" dur=\\\"9s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"0 38 45; 360 38 45\\\"></animateTransform><animate attributeName=\\\"opacity\\\" begin=\\\"-1s\\\" dur=\\\"4s\\\" repeatCount=\\\"indefinite\\\" values=\\\"0;1;1;1;0\\\"></animate></g><path fill=\\\"none\\\" stroke=\\\"url(#b)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"2\\\" d=\\\"M24.08 45.01l-.16.98\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"1.5s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"1 -5; -2 10\\\"></animateTransform><animate attributeName=\\\"opacity\\\" dur=\\\"1.5s\\\" repeatCount=\\\"indefinite\\\" values=\\\"0;1;1;0\\\"></animate></path><path fill=\\\"none\\\" stroke=\\\"url(#g)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"2\\\" d=\\\"M31.08 45.01l-.16.98\\\"><animateTransform attributeName=\\\"transform\\\" begin=\\\"-0.5s\\\" dur=\\\"1.5s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"1 -5; -2 10\\\"></animateTransform><animate attributeName=\\\"opacity\\\" begin=\\\"-0.5s\\\" dur=\\\"1.5s\\\" repeatCount=\\\"indefinite\\\" values=\\\"0;1;1;0\\\"></animate></path><path fill=\\\"none\\\" stroke=\\\"url(#h)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"2\\\" d=\\\"M38.08 45.01l-.16.98\\\"><animateTransform attributeName=\\\"transform\\\" begin=\\\"-1s\\\" dur=\\\"1.5s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"1 -5; -2 10\\\"></animateTransform><animate attributeName=\\\"opacity\\\" begin=\\\"-1s\\\" dur=\\\"1.5s\\\" repeatCount=\\\"indefinite\\\" values=\\\"0;1;1;0\\\"></animate></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/sleet.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/smoke-particles.svg":
-/*!************************************************************!*\
-  !*** ./src/style/icons/animated_icons/smoke-particles.svg ***!
-  \************************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" xmlns:xlink=\\\"http://www.w3.org/1999/xlink\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"a\\\" x1=\\\"30.25\\\" x2=\\\"33.25\\\" y1=\\\"39.4\\\" y2=\\\"44.6\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#b8bdc6\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#b8bdc6\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#a5aab2\\\"></stop></linearGradient><linearGradient id=\\\"b\\\" x1=\\\"23.5\\\" x2=\\\"28\\\" y1=\\\"29.1\\\" y2=\\\"36.9\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"c\\\" x1=\\\"33.75\\\" x2=\\\"39.75\\\" y1=\\\"19.8\\\" y2=\\\"30.2\\\" xlink:href=\\\"#a\\\"></linearGradient></defs><circle cx=\\\"31.75\\\" cy=\\\"42\\\" r=\\\"3\\\" fill=\\\"url(#a)\\\" stroke=\\\"#afb4bc\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"3s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"0 0; 0 -17;\\\"></animateTransform><animate attributeName=\\\"opacity\\\" dur=\\\"3s\\\" repeatCount=\\\"indefinite\\\" values=\\\"0; 1; 1; 1; 0\\\"></animate><animate attributeName=\\\"r\\\" dur=\\\"3s\\\" repeatCount=\\\"indefinite\\\" values=\\\"3; 4.5; 6\\\"></animate></circle><circle cx=\\\"25.75\\\" cy=\\\"42\\\" r=\\\"4.5\\\" fill=\\\"url(#b)\\\" stroke=\\\"#afb4bc\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\"><animateTransform attributeName=\\\"transform\\\" begin=\\\"-1s\\\" dur=\\\"3s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"0 0; 0 -17;\\\"></animateTransform><animate attributeName=\\\"opacity\\\" begin=\\\"-1s\\\" dur=\\\"3s\\\" repeatCount=\\\"indefinite\\\" values=\\\"0; 1; 1; 1; 0\\\"></animate><animate attributeName=\\\"r\\\" begin=\\\"-1s\\\" dur=\\\"3s\\\" repeatCount=\\\"indefinite\\\" values=\\\"3; 4.5; 6\\\"></animate><animate attributeName=\\\"cx\\\" begin=\\\"-1s\\\" dur=\\\"3s\\\" repeatCount=\\\"indefinite\\\" values=\\\"31.75; 25.75\\\"></animate></circle><circle cx=\\\"36.75\\\" cy=\\\"42\\\" r=\\\"6\\\" fill=\\\"url(#c)\\\" stroke=\\\"#afb4bc\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\"><animateTransform attributeName=\\\"transform\\\" begin=\\\"-2s\\\" dur=\\\"3s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"0 0; 0 -17;\\\"></animateTransform><animate attributeName=\\\"opacity\\\" begin=\\\"-2s\\\" dur=\\\"3s\\\" repeatCount=\\\"indefinite\\\" values=\\\"0; 1; 1; 1; 0\\\"></animate><animate attributeName=\\\"r\\\" begin=\\\"-2s\\\" dur=\\\"3s\\\" repeatCount=\\\"indefinite\\\" values=\\\"3; 4.5; 6\\\"></animate><animate attributeName=\\\"cx\\\" begin=\\\"-2s\\\" dur=\\\"3s\\\" repeatCount=\\\"indefinite\\\" values=\\\"31.75; 36.75\\\"></animate></circle></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/smoke-particles.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/smoke.svg":
-/*!**************************************************!*\
-  !*** ./src/style/icons/animated_icons/smoke.svg ***!
-  \**************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" xmlns:xlink=\\\"http://www.w3.org/1999/xlink\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"b\\\" x1=\\\"22.56\\\" x2=\\\"39.2\\\" y1=\\\"21.96\\\" y2=\\\"50.8\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#deeafb\\\"></stop></linearGradient><linearGradient id=\\\"a\\\" x1=\\\"30.25\\\" x2=\\\"33.25\\\" y1=\\\"48.4\\\" y2=\\\"53.6\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#b8bdc6\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#b8bdc6\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#a5aab2\\\"></stop></linearGradient><linearGradient id=\\\"c\\\" x1=\\\"23.5\\\" x2=\\\"28\\\" y1=\\\"38.1\\\" y2=\\\"45.9\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"d\\\" x1=\\\"33.75\\\" x2=\\\"39.75\\\" y1=\\\"28.8\\\" y2=\\\"39.2\\\" xlink:href=\\\"#a\\\"></linearGradient></defs><path fill=\\\"url(#b)\\\" stroke=\\\"#e6effc\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\" d=\\\"M46.5 31.5h-.32a10.49 10.49 0 00-19.11-8 7 7 0 00-10.57 6 7.21 7.21 0 00.1 1.14A7.5 7.5 0 0018 45.5a4.19 4.19 0 00.5 0v0h28a7 7 0 000-14z\\\"></path><circle cx=\\\"31.75\\\" cy=\\\"51\\\" r=\\\"3\\\" fill=\\\"url(#a)\\\" stroke=\\\"#afb4bc\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"3s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"0 0; 0 -17;\\\"></animateTransform><animate attributeName=\\\"opacity\\\" dur=\\\"3s\\\" repeatCount=\\\"indefinite\\\" values=\\\"0; 1; 1; 1; 0\\\"></animate><animate attributeName=\\\"r\\\" dur=\\\"3s\\\" repeatCount=\\\"indefinite\\\" values=\\\"3; 4.5; 6\\\"></animate></circle><circle cx=\\\"25.75\\\" cy=\\\"51\\\" r=\\\"4.5\\\" fill=\\\"url(#c)\\\" stroke=\\\"#afb4bc\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\"><animateTransform attributeName=\\\"transform\\\" begin=\\\"-1s\\\" dur=\\\"3s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"0 0; 0 -17;\\\"></animateTransform><animate attributeName=\\\"opacity\\\" begin=\\\"-1s\\\" dur=\\\"3s\\\" repeatCount=\\\"indefinite\\\" values=\\\"0; 1; 1; 1; 0\\\"></animate><animate attributeName=\\\"r\\\" begin=\\\"-1s\\\" dur=\\\"3s\\\" repeatCount=\\\"indefinite\\\" values=\\\"3; 4.5; 6\\\"></animate><animate attributeName=\\\"cx\\\" begin=\\\"-1s\\\" dur=\\\"3s\\\" repeatCount=\\\"indefinite\\\" values=\\\"31.75; 25.75\\\"></animate></circle><circle cx=\\\"36.75\\\" cy=\\\"51\\\" r=\\\"6\\\" fill=\\\"url(#d)\\\" stroke=\\\"#afb4bc\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\"><animateTransform attributeName=\\\"transform\\\" begin=\\\"-2s\\\" dur=\\\"3s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"0 0; 0 -17;\\\"></animateTransform><animate attributeName=\\\"opacity\\\" begin=\\\"-2s\\\" dur=\\\"3s\\\" repeatCount=\\\"indefinite\\\" values=\\\"0; 1; 1; 1; 0\\\"></animate><animate attributeName=\\\"r\\\" begin=\\\"-2s\\\" dur=\\\"3s\\\" repeatCount=\\\"indefinite\\\" values=\\\"3; 4.5; 6\\\"></animate><animate attributeName=\\\"cx\\\" begin=\\\"-2s\\\" dur=\\\"3s\\\" repeatCount=\\\"indefinite\\\" values=\\\"31.75; 36.75\\\"></animate></circle></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/smoke.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/snow.svg":
-/*!*************************************************!*\
-  !*** ./src/style/icons/animated_icons/snow.svg ***!
-  \*************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" xmlns:xlink=\\\"http://www.w3.org/1999/xlink\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"b\\\" x1=\\\"22.56\\\" x2=\\\"39.2\\\" y1=\\\"21.96\\\" y2=\\\"50.8\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#deeafb\\\"></stop></linearGradient><linearGradient id=\\\"a\\\" x1=\\\"30.12\\\" x2=\\\"31.88\\\" y1=\\\"43.48\\\" y2=\\\"46.52\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#86c3db\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#86c3db\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#5eafcf\\\"></stop></linearGradient><linearGradient id=\\\"c\\\" x1=\\\"29.67\\\" x2=\\\"32.33\\\" y1=\\\"42.69\\\" y2=\\\"47.31\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"d\\\" x1=\\\"23.12\\\" x2=\\\"24.88\\\" y1=\\\"43.48\\\" y2=\\\"46.52\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"e\\\" x1=\\\"22.67\\\" x2=\\\"25.33\\\" y1=\\\"42.69\\\" y2=\\\"47.31\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"f\\\" x1=\\\"37.12\\\" x2=\\\"38.88\\\" y1=\\\"43.48\\\" y2=\\\"46.52\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"g\\\" x1=\\\"36.67\\\" x2=\\\"39.33\\\" y1=\\\"42.69\\\" y2=\\\"47.31\\\" xlink:href=\\\"#a\\\"></linearGradient></defs><path fill=\\\"url(#b)\\\" stroke=\\\"#e6effc\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\" d=\\\"M46.5 31.5h-.32a10.49 10.49 0 00-19.11-8 7 7 0 00-10.57 6 7.21 7.21 0 00.1 1.14A7.5 7.5 0 0018 45.5a4.19 4.19 0 00.5 0v0h28a7 7 0 000-14z\\\"></path><g><circle cx=\\\"31\\\" cy=\\\"45\\\" r=\\\"1.25\\\" fill=\\\"none\\\" stroke=\\\"url(#a)\\\" stroke-miterlimit=\\\"10\\\"></circle><path fill=\\\"none\\\" stroke=\\\"url(#c)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" d=\\\"M33.17 46.25l-1.09-.63m-2.16-1.24l-1.09-.63M31 42.5v1.25m0 3.75v-1.25m-1.08-.63l-1.09.63m4.34-2.5l-1.09.63\\\"></path><animateTransform additive=\\\"sum\\\" attributeName=\\\"transform\\\" dur=\\\"4s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"-1 -6; 1 12\\\"></animateTransform><animateTransform additive=\\\"sum\\\" attributeName=\\\"transform\\\" dur=\\\"9s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"0 31 45; 360 31 45\\\"></animateTransform><animate attributeName=\\\"opacity\\\" dur=\\\"4s\\\" repeatCount=\\\"indefinite\\\" values=\\\"0;1;1;1;0\\\"></animate></g><g><circle cx=\\\"24\\\" cy=\\\"45\\\" r=\\\"1.25\\\" fill=\\\"none\\\" stroke=\\\"url(#d)\\\" stroke-miterlimit=\\\"10\\\"></circle><path fill=\\\"none\\\" stroke=\\\"url(#e)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" d=\\\"M26.17 46.25l-1.09-.63m-2.16-1.24l-1.09-.63M24 42.5v1.25m0 3.75v-1.25m-1.08-.63l-1.09.63m4.34-2.5l-1.09.63\\\"></path><animateTransform additive=\\\"sum\\\" attributeName=\\\"transform\\\" begin=\\\"-2s\\\" dur=\\\"4s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"1 -6; -1 12\\\"></animateTransform><animateTransform additive=\\\"sum\\\" attributeName=\\\"transform\\\" dur=\\\"9s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"0 24 45; 360 24 45\\\"></animateTransform><animate attributeName=\\\"opacity\\\" begin=\\\"-2s\\\" dur=\\\"4s\\\" repeatCount=\\\"indefinite\\\" values=\\\"0;1;1;1;0\\\"></animate></g><g><circle cx=\\\"38\\\" cy=\\\"45\\\" r=\\\"1.25\\\" fill=\\\"none\\\" stroke=\\\"url(#f)\\\" stroke-miterlimit=\\\"10\\\"></circle><path fill=\\\"none\\\" stroke=\\\"url(#g)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" d=\\\"M40.17 46.25l-1.09-.63m-2.16-1.24l-1.09-.63M38 42.5v1.25m0 3.75v-1.25m-1.08-.63l-1.09.63m4.34-2.5l-1.09.63\\\"></path><animateTransform additive=\\\"sum\\\" attributeName=\\\"transform\\\" begin=\\\"-1s\\\" dur=\\\"4s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"1 -6; -1 12\\\"></animateTransform><animateTransform additive=\\\"sum\\\" attributeName=\\\"transform\\\" dur=\\\"9s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"0 38 45; 360 38 45\\\"></animateTransform><animate attributeName=\\\"opacity\\\" begin=\\\"-1s\\\" dur=\\\"4s\\\" repeatCount=\\\"indefinite\\\" values=\\\"0;1;1;1;0\\\"></animate></g></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/snow.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/snowflake.svg":
-/*!******************************************************!*\
-  !*** ./src/style/icons/animated_icons/snowflake.svg ***!
-  \******************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" xmlns:xlink=\\\"http://www.w3.org/1999/xlink\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"a\\\" x1=\\\"26.75\\\" x2=\\\"37.25\\\" y1=\\\"22.91\\\" y2=\\\"41.09\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#86c3db\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#86c3db\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#5eafcf\\\"></stop></linearGradient><linearGradient id=\\\"b\\\" x1=\\\"24\\\" x2=\\\"40\\\" y1=\\\"18.15\\\" y2=\\\"45.85\\\" xlink:href=\\\"#a\\\"></linearGradient></defs><g><circle cx=\\\"32\\\" cy=\\\"32\\\" r=\\\"7.5\\\" fill=\\\"none\\\" stroke=\\\"url(#a)\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"6\\\"></circle><path fill=\\\"none\\\" stroke=\\\"url(#b)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"6\\\" d=\\\"M45 39.5l-6.5-3.75m-13-7.5L19 24.5M32 17v7.5M32 47v-7.5m-6.5-3.75L19 39.5m26-15l-6.5 3.75\\\"></path><animateTransform attributeName=\\\"transform\\\" dur=\\\"18s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"0 32 32; 360 32 32\\\"></animateTransform></g></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/snowflake.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/solar-eclipse.svg":
-/*!**********************************************************!*\
-  !*** ./src/style/icons/animated_icons/solar-eclipse.svg ***!
-  \**********************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"b\\\" x1=\\\"26.75\\\" x2=\\\"37.25\\\" y1=\\\"22.91\\\" y2=\\\"41.09\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#fbbf24\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#fbbf24\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#f59e0b\\\"></stop></linearGradient><linearGradient id=\\\"c\\\" x1=\\\"21.92\\\" x2=\\\"38.52\\\" y1=\\\"18.75\\\" y2=\\\"47.52\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#86c3db\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#86c3db\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#5eafcf\\\"></stop></linearGradient><clipPath id=\\\"a\\\"><path fill=\\\"none\\\" d=\\\"M29 16V7h28v30h-9l-9-1-10-10V16z\\\"></path></clipPath></defs><g stroke-miterlimit=\\\"10\\\" clip-path=\\\"url(#a)\\\"><circle cx=\\\"32\\\" cy=\\\"32\\\" r=\\\"10.5\\\" fill=\\\"url(#b)\\\" stroke=\\\"#f8af18\\\" stroke-width=\\\".5\\\"></circle><path fill=\\\"none\\\" stroke=\\\"#fbbf24\\\" stroke-linecap=\\\"round\\\" stroke-width=\\\"3\\\" d=\\\"M32 15.71V9.5m0 45v-6.21m11.52-27.81l4.39-4.39M16.09 47.91l4.39-4.39m0-23l-4.39-4.39m31.82 31.78l-4.39-4.39M15.71 32H9.5m45 0h-6.21\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"45s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"0 32 32; 360 32 32\\\"></animateTransform></path></g><path fill=\\\"url(#c)\\\" stroke=\\\"#72b9d5\\\" stroke-linecap=\\\"round\\\" stroke-linejoin=\\\"round\\\" stroke-width=\\\".5\\\" d=\\\"M46.66 36.2a16.66 16.66 0 01-16.78-16.55 16.29 16.29 0 01.55-4.15A16.56 16.56 0 1048.5 36.1c-.61.06-1.22.1-1.84.1z\\\"></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/solar-eclipse.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/star.svg":
-/*!*************************************************!*\
-  !*** ./src/style/icons/animated_icons/star.svg ***!
-  \*************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"a\\\" x1=\\\"23.22\\\" x2=\\\"40.78\\\" y1=\\\"16.8\\\" y2=\\\"47.2\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#fcd966\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#fcd966\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#fccd34\\\"></stop><animateTransform attributeName=\\\"gradientTransform\\\" dur=\\\"18s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"0 32 32; 360 32 32\\\"></animateTransform></linearGradient></defs><path fill=\\\"url(#a)\\\" stroke=\\\"#fcd34d\\\" stroke-linecap=\\\"round\\\" stroke-linejoin=\\\"round\\\" stroke-width=\\\".5\\\" d=\\\"M33 23l9.06-4.25a2.39 2.39 0 013.18 3.18L41 31a2.42 2.42 0 000 2l4.25 9.06a2.39 2.39 0 01-3.18 3.18L33 41a2.42 2.42 0 00-2 0l-9.06 4.25a2.39 2.39 0 01-3.18-3.18L23 33a2.42 2.42 0 000-2l-4.25-9.06a2.39 2.39 0 013.18-3.18L31 23a2.42 2.42 0 002 0z\\\"><animate attributeName=\\\"opacity\\\" dur=\\\"3s\\\" repeatCount=\\\"indefinite\\\" values=\\\"1; 0.4; 1\\\"></animate><animateTransform attributeName=\\\"transform\\\" dur=\\\"18s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"360 32 32; 0 32 32\\\"></animateTransform></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/star.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/starry-night.svg":
-/*!*********************************************************!*\
-  !*** ./src/style/icons/animated_icons/starry-night.svg ***!
-  \*********************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" xmlns:xlink=\\\"http://www.w3.org/1999/xlink\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"a\\\" x1=\\\"36.88\\\" x2=\\\"41.12\\\" y1=\\\"15.33\\\" y2=\\\"22.67\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#fcd966\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#fcd966\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#fccd34\\\"></stop></linearGradient><linearGradient id=\\\"b\\\" x1=\\\"43.79\\\" x2=\\\"48.21\\\" y1=\\\"25.17\\\" y2=\\\"32.83\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"c\\\" x1=\\\"36.78\\\" x2=\\\"39.21\\\" y1=\\\"24.9\\\" y2=\\\"29.1\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"d\\\" x1=\\\"21.92\\\" x2=\\\"38.52\\\" y1=\\\"18.75\\\" y2=\\\"47.52\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#86c3db\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#86c3db\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#5eafcf\\\"></stop><animateTransform attributeName=\\\"gradientTransform\\\" dur=\\\"10s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"5 32 32; -15 32 32; 5 32 32\\\"></animateTransform></linearGradient></defs><path fill=\\\"url(#a)\\\" stroke=\\\"#fcd34d\\\" stroke-linecap=\\\"round\\\" stroke-linejoin=\\\"round\\\" stroke-width=\\\".5\\\" d=\\\"M35.44 16.87l1.3 2.13a.55.55 0 01.06.5l-.8 2.36a.59.59 0 00.87.7l2.13-1.3a.55.55 0 01.5-.06l2.36.8a.59.59 0 00.7-.87L41.26 19a.55.55 0 01-.06-.5l.8-2.36a.59.59 0 00-.87-.7L39 16.74a.55.55 0 01-.5.06l-2.36-.8a.59.59 0 00-.7.87z\\\"><animate attributeName=\\\"opacity\\\" dur=\\\"3s\\\" repeatCount=\\\"indefinite\\\" values=\\\"1; 0; 1\\\"></animate></path><path fill=\\\"url(#b)\\\" stroke=\\\"#fcd34d\\\" stroke-linecap=\\\"round\\\" stroke-linejoin=\\\"round\\\" stroke-width=\\\".5\\\" d=\\\"M42.27 30.82l2.49.07a.62.62 0 01.46.22l1.53 2a.6.6 0 001.07-.35l.07-2.49a.62.62 0 01.22-.46l2-1.53a.6.6 0 00-.35-1.07l-2.49-.07a.62.62 0 01-.46-.22l-1.53-2a.6.6 0 00-1.07.35l-.07 2.49a.62.62 0 01-.22.46l-2 1.53a.6.6 0 00.35 1.07z\\\"><animate attributeName=\\\"opacity\\\" begin=\\\"-1s\\\" dur=\\\"3s\\\" repeatCount=\\\"indefinite\\\" values=\\\"1; 0; 1\\\"></animate></path><path fill=\\\"url(#c)\\\" stroke=\\\"#fcd34d\\\" stroke-linecap=\\\"round\\\" stroke-linejoin=\\\"round\\\" stroke-width=\\\".5\\\" d=\\\"M35.31 26.35l1.25 1.1a.4.4 0 01.14.31v1.66a.39.39 0 00.69.27l1.1-1.25a.4.4 0 01.31-.14h1.66a.39.39 0 00.27-.69l-1.25-1.1a.4.4 0 01-.14-.31v-1.66a.39.39 0 00-.69-.27l-1.1 1.25a.4.4 0 01-.31.14h-1.66a.39.39 0 00-.27.69z\\\"><animate attributeName=\\\"opacity\\\" begin=\\\"-2s\\\" dur=\\\"3s\\\" repeatCount=\\\"indefinite\\\" values=\\\"1; 0; 1\\\"></animate></path><path fill=\\\"url(#d)\\\" stroke=\\\"#72b9d5\\\" stroke-linecap=\\\"round\\\" stroke-linejoin=\\\"round\\\" stroke-width=\\\".5\\\" d=\\\"M46.66 36.2a16.66 16.66 0 01-16.78-16.55 16.29 16.29 0 01.55-4.15A16.56 16.56 0 1048.5 36.1c-.61.06-1.22.1-1.84.1z\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"10s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"-5 32 32;15 32 32;-5 32 32\\\"></animateTransform><animateTransform attributeName=\\\"transform\\\" dur=\\\"10s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"-5 32 32; 15 32 32; -5 32 32\\\"></animateTransform></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/starry-night.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/sunrise.svg":
-/*!****************************************************!*\
-  !*** ./src/style/icons/animated_icons/sunrise.svg ***!
-  \****************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"b\\\" x1=\\\"26.75\\\" x2=\\\"37.25\\\" y1=\\\"29.91\\\" y2=\\\"48.09\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#fbbf24\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#fbbf24\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#f59e0b\\\"></stop></linearGradient><clipPath id=\\\"a\\\"><path fill=\\\"none\\\" d=\\\"M0 7.5h64v32H0z\\\"></path></clipPath></defs><g stroke-miterlimit=\\\"10\\\" clip-path=\\\"url(#a)\\\"><circle cx=\\\"32\\\" cy=\\\"39\\\" r=\\\"10.5\\\" fill=\\\"url(#b)\\\" stroke=\\\"#f8af18\\\" stroke-width=\\\".5\\\"></circle><path fill=\\\"none\\\" stroke=\\\"#fbbf24\\\" stroke-linecap=\\\"round\\\" stroke-width=\\\"3\\\" d=\\\"M32 22.71V16.5m0 45v-6.21m11.52-27.81l4.39-4.39M16.09 54.91l4.39-4.39m0-23l-4.39-4.39m31.82 31.78l-4.39-4.39M15.71 39H9.5m45 0h-6.21\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"45s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"0 32 39; 360 32 39\\\"></animateTransform></path></g><path fill=\\\"none\\\" stroke=\\\"#374151\\\" stroke-linecap=\\\"round\\\" stroke-linejoin=\\\"round\\\" stroke-width=\\\"2\\\" d=\\\"M16 42.5h11l5-4.5 5 4.5h11\\\"></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/sunrise.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/sunset.svg":
-/*!***************************************************!*\
-  !*** ./src/style/icons/animated_icons/sunset.svg ***!
-  \***************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"b\\\" x1=\\\"26.75\\\" x2=\\\"37.25\\\" y1=\\\"29.91\\\" y2=\\\"48.09\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#fbbf24\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#fbbf24\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#f59e0b\\\"></stop></linearGradient><clipPath id=\\\"a\\\"><path fill=\\\"none\\\" d=\\\"M0 7.5h64v32H0z\\\"></path></clipPath></defs><g stroke-miterlimit=\\\"10\\\" clip-path=\\\"url(#a)\\\"><circle cx=\\\"32\\\" cy=\\\"39\\\" r=\\\"10.5\\\" fill=\\\"url(#b)\\\" stroke=\\\"#f8af18\\\" stroke-width=\\\".5\\\"></circle><path fill=\\\"none\\\" stroke=\\\"#fbbf24\\\" stroke-linecap=\\\"round\\\" stroke-width=\\\"3\\\" d=\\\"M32 22.71V16.5m0 45v-6.21m11.52-27.81l4.39-4.39M16.09 54.91l4.39-4.39m0-23l-4.39-4.39m31.82 31.78l-4.39-4.39M15.71 39H9.5m45 0h-6.21\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"45s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"0 32 39; 360 32 39\\\"></animateTransform></path></g><path fill=\\\"none\\\" stroke=\\\"#374151\\\" stroke-linecap=\\\"round\\\" stroke-linejoin=\\\"round\\\" stroke-width=\\\"2\\\" d=\\\"M16 42.5h11l5 4.5 5-4.5h11\\\"></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/sunset.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/thermometer-celsius.svg":
-/*!****************************************************************!*\
-  !*** ./src/style/icons/animated_icons/thermometer-celsius.svg ***!
-  \****************************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"a\\\" x1=\\\"23.73\\\" x2=\\\"39.18\\\" y1=\\\"19.16\\\" y2=\\\"45.93\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#515a69\\\" stop-opacity=\\\".05\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#6b7280\\\" stop-opacity=\\\".05\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#384354\\\" stop-opacity=\\\".1\\\"></stop></linearGradient><linearGradient id=\\\"b\\\" x1=\\\"23.48\\\" x2=\\\"39.43\\\" y1=\\\"18.73\\\" y2=\\\"46.36\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#d4d7dd\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#d4d7dd\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#bec1c6\\\"></stop></linearGradient></defs><circle cx=\\\"32\\\" cy=\\\"42\\\" r=\\\"4.5\\\" fill=\\\"#ef4444\\\"></circle><path fill=\\\"none\\\" stroke=\\\"#ef4444\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M32 27v15\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"1s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"0 0; 0 1; 0 0\\\"></animateTransform></path><path fill=\\\"url(#a)\\\" stroke=\\\"url(#b)\\\" stroke-linecap=\\\"round\\\" stroke-linejoin=\\\"round\\\" d=\\\"M39 41.9a7 7 0 11-14 0 7.12 7.12 0 013-5.83v-17a4 4 0 118 0v17a7.12 7.12 0 013 5.83zM32.5 25H36m-3.5-4H36m-3.5 8H36\\\"></path><path fill=\\\"#374151\\\" d=\\\"M42.44 35a2 2 0 11.56-1.47 2 2 0 01-.56 1.47zm-2-.79a.89.89 0 001.26 0 .88.88 0 000-1.25.83.83 0 00-.63-.27.86.86 0 00-.63.27.89.89 0 00-.26.63.85.85 0 00.21.57zM45 32.29a3.68 3.68 0 012.61-.85c1.75 0 2.87.68 3.35 2.06a.37.37 0 01-.26.54l-.67.23a.46.46 0 01-.34 0 .49.49 0 01-.19-.28 1.79 1.79 0 00-1.89-1.13 2.13 2.13 0 00-1.46.45 1.61 1.61 0 00-.52 1.3v2.73a1.62 1.62 0 00.52 1.3 2.08 2.08 0 001.46.46 1.78 1.78 0 001.88-1.1.53.53 0 01.21-.29.5.5 0 01.33 0l.66.24a.38.38 0 01.28.54c-.49 1.38-1.61 2.07-3.37 2.07a3.68 3.68 0 01-2.6-.85 3.09 3.09 0 01-.92-2.37v-2.7a3.07 3.07 0 01.92-2.35z\\\"></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/thermometer-celsius.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/thermometer-colder.svg":
-/*!***************************************************************!*\
-  !*** ./src/style/icons/animated_icons/thermometer-colder.svg ***!
-  \***************************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"a\\\" x1=\\\"23.73\\\" x2=\\\"39.18\\\" y1=\\\"19.16\\\" y2=\\\"45.93\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#515a69\\\" stop-opacity=\\\".05\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#6b7280\\\" stop-opacity=\\\".05\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#384354\\\" stop-opacity=\\\".1\\\"></stop></linearGradient><linearGradient id=\\\"b\\\" x1=\\\"23.48\\\" x2=\\\"39.43\\\" y1=\\\"18.73\\\" y2=\\\"46.36\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#d4d7dd\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#d4d7dd\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#bec1c6\\\"></stop></linearGradient></defs><circle cx=\\\"32\\\" cy=\\\"42\\\" r=\\\"4.5\\\" fill=\\\"#ef4444\\\"></circle><path fill=\\\"none\\\" stroke=\\\"#ef4444\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M32 33v9\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"1s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"0 0; 0 1; 0 0\\\"></animateTransform></path><path fill=\\\"url(#a)\\\" stroke=\\\"url(#b)\\\" stroke-linecap=\\\"round\\\" stroke-linejoin=\\\"round\\\" d=\\\"M32.5 29H36m3 12.9a7 7 0 11-14 0 7.12 7.12 0 013-5.83v-17a4 4 0 118 0v17a7.12 7.12 0 013 5.83zM32.5 25H36m-3.5-4H36\\\"></path><path fill=\\\"none\\\" stroke=\\\"#2885c7\\\" stroke-linecap=\\\"round\\\" stroke-linejoin=\\\"round\\\" stroke-width=\\\"2\\\" d=\\\"M44 26v12l-3-3.45L44 38l3-3.45\\\"><animateTransform attributeName=\\\"transform\\\" begin=\\\"0s\\\" dur=\\\"1.5s\\\" keyTimes=\\\"0.0; 0.5; 0.9; 1.0\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"0 0; 0 0; 0 6; 0 6\\\"></animateTransform><animate attributeName=\\\"opacity\\\" dur=\\\"1.5s\\\" keyTimes=\\\"0.0; 0.3; 0.8; 0.9; 1.0\\\" repeatCount=\\\"indefinite\\\" values=\\\"0; 1; 1; 0; 0\\\"></animate></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/thermometer-colder.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/thermometer-fahrenheit.svg":
-/*!*******************************************************************!*\
-  !*** ./src/style/icons/animated_icons/thermometer-fahrenheit.svg ***!
-  \*******************************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"a\\\" x1=\\\"23.73\\\" x2=\\\"39.18\\\" y1=\\\"19.16\\\" y2=\\\"45.93\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#515a69\\\" stop-opacity=\\\".05\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#6b7280\\\" stop-opacity=\\\".05\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#384354\\\" stop-opacity=\\\".1\\\"></stop></linearGradient><linearGradient id=\\\"b\\\" x1=\\\"23.48\\\" x2=\\\"39.43\\\" y1=\\\"18.73\\\" y2=\\\"46.36\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#d4d7dd\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#d4d7dd\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#bec1c6\\\"></stop></linearGradient></defs><circle cx=\\\"32\\\" cy=\\\"42\\\" r=\\\"4.5\\\" fill=\\\"#ef4444\\\"></circle><path fill=\\\"none\\\" stroke=\\\"#ef4444\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M32 27v15\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"1s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"0 0; 0 1; 0 0\\\"></animateTransform></path><path fill=\\\"url(#a)\\\" stroke=\\\"url(#b)\\\" stroke-linecap=\\\"round\\\" stroke-linejoin=\\\"round\\\" d=\\\"M39 41.9a7 7 0 11-14 0 7.12 7.12 0 013-5.83v-17a4 4 0 118 0v17a7.12 7.12 0 013 5.83zM32.5 25H36m-3.5-4H36m-3.5 8H36\\\"></path><path fill=\\\"#374151\\\" d=\\\"M42.72 34.92a2.18 2.18 0 11-1.53-3.72 2.17 2.17 0 011.53 3.72zm-2.21-.86a.91.91 0 00.68.28.93.93 0 00.68-.28.89.89 0 00.28-.67.93.93 0 00-.28-.68.87.87 0 00-.68-.29.89.89 0 00-.68.29.93.93 0 00-.28.68.89.89 0 00.28.67zM50.89 31.41a.47.47 0 01.11.35v.66a.46.46 0 01-.11.35.5.5 0 01-.36.1h-4.09v2.46h3.44a.55.55 0 01.36.1.5.5 0 01.11.36v.65a.5.5 0 01-.11.36.51.51 0 01-.36.1h-3.44v3.44a.38.38 0 01-.45.46h-.76a.55.55 0 01-.36-.1.46.46 0 01-.11-.36v-8.58a.43.43 0 01.11-.35.5.5 0 01.36-.1h5.3a.5.5 0 01.36.1z\\\"></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/thermometer-fahrenheit.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/thermometer-glass-celsius.svg":
-/*!**********************************************************************!*\
-  !*** ./src/style/icons/animated_icons/thermometer-glass-celsius.svg ***!
-  \**********************************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"a\\\" x1=\\\"23.73\\\" x2=\\\"39.18\\\" y1=\\\"19.16\\\" y2=\\\"45.93\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#515a69\\\" stop-opacity=\\\".05\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#6b7280\\\" stop-opacity=\\\".05\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#384354\\\" stop-opacity=\\\".1\\\"></stop></linearGradient><linearGradient id=\\\"b\\\" x1=\\\"23.48\\\" x2=\\\"39.43\\\" y1=\\\"18.73\\\" y2=\\\"46.36\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#d4d7dd\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#d4d7dd\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#bec1c6\\\"></stop></linearGradient></defs><path fill=\\\"url(#a)\\\" stroke=\\\"url(#b)\\\" stroke-linecap=\\\"round\\\" stroke-linejoin=\\\"round\\\" d=\\\"M39 41.9a7 7 0 11-14 0 7.12 7.12 0 013-5.83v-17a4 4 0 118 0v17a7.12 7.12 0 013 5.83zM32.5 25H36m-3.5-4H36m-3.5 8H36\\\"></path><path fill=\\\"#374151\\\" d=\\\"M42.44 35a2 2 0 11.56-1.47 2 2 0 01-.56 1.47zm-2-.79a.89.89 0 001.26 0 .88.88 0 000-1.25.83.83 0 00-.63-.27.86.86 0 00-.63.27.89.89 0 00-.26.63.85.85 0 00.21.57zM45 32.29a3.68 3.68 0 012.61-.85c1.75 0 2.87.68 3.35 2.06a.37.37 0 01-.26.54l-.67.23a.46.46 0 01-.34 0 .49.49 0 01-.19-.28 1.79 1.79 0 00-1.89-1.13 2.13 2.13 0 00-1.46.45 1.61 1.61 0 00-.52 1.3v2.73a1.62 1.62 0 00.52 1.3 2.08 2.08 0 001.46.46 1.78 1.78 0 001.88-1.1.53.53 0 01.21-.29.5.5 0 01.33 0l.66.24a.38.38 0 01.28.54c-.49 1.38-1.61 2.07-3.37 2.07a3.68 3.68 0 01-2.6-.85 3.09 3.09 0 01-.92-2.37v-2.7a3.07 3.07 0 01.92-2.35z\\\"></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/thermometer-glass-celsius.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/thermometer-glass-fahrenheit.svg":
-/*!*************************************************************************!*\
-  !*** ./src/style/icons/animated_icons/thermometer-glass-fahrenheit.svg ***!
-  \*************************************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"a\\\" x1=\\\"23.73\\\" x2=\\\"39.18\\\" y1=\\\"19.16\\\" y2=\\\"45.93\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#515a69\\\" stop-opacity=\\\".05\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#6b7280\\\" stop-opacity=\\\".05\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#384354\\\" stop-opacity=\\\".1\\\"></stop></linearGradient><linearGradient id=\\\"b\\\" x1=\\\"23.48\\\" x2=\\\"39.43\\\" y1=\\\"18.73\\\" y2=\\\"46.36\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#d4d7dd\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#d4d7dd\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#bec1c6\\\"></stop></linearGradient></defs><path fill=\\\"url(#a)\\\" stroke=\\\"url(#b)\\\" stroke-linecap=\\\"round\\\" stroke-linejoin=\\\"round\\\" d=\\\"M39 41.9a7 7 0 11-14 0 7.12 7.12 0 013-5.83v-17a4 4 0 118 0v17a7.12 7.12 0 013 5.83zM32.5 25H36m-3.5-4H36m-3.5 8H36\\\"></path><path fill=\\\"#374151\\\" d=\\\"M42.72 34.92a2.18 2.18 0 11-1.53-3.72 2.17 2.17 0 011.53 3.72zm-2.21-.86a.91.91 0 00.68.28.93.93 0 00.68-.28.89.89 0 00.28-.67.93.93 0 00-.28-.68.87.87 0 00-.68-.29.89.89 0 00-.68.29.93.93 0 00-.28.68.89.89 0 00.28.67zM50.89 31.41a.47.47 0 01.11.35v.66a.46.46 0 01-.11.35.5.5 0 01-.36.1h-4.09v2.46h3.44a.55.55 0 01.36.1.5.5 0 01.11.36v.65a.5.5 0 01-.11.36.51.51 0 01-.36.1h-3.44v3.44a.38.38 0 01-.45.46h-.76a.55.55 0 01-.36-.1.46.46 0 01-.11-.36v-8.58a.43.43 0 01.11-.35.5.5 0 01.36-.1h5.3a.5.5 0 01.36.1z\\\"></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/thermometer-glass-fahrenheit.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/thermometer-glass.svg":
-/*!**************************************************************!*\
-  !*** ./src/style/icons/animated_icons/thermometer-glass.svg ***!
-  \**************************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"a\\\" x1=\\\"23.73\\\" x2=\\\"39.18\\\" y1=\\\"19.16\\\" y2=\\\"45.93\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#515a69\\\" stop-opacity=\\\".05\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#6b7280\\\" stop-opacity=\\\".05\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#384354\\\" stop-opacity=\\\".1\\\"></stop></linearGradient><linearGradient id=\\\"b\\\" x1=\\\"23.48\\\" x2=\\\"39.43\\\" y1=\\\"18.73\\\" y2=\\\"46.36\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#d4d7dd\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#d4d7dd\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#bec1c6\\\"></stop></linearGradient></defs><path fill=\\\"url(#a)\\\" stroke=\\\"url(#b)\\\" stroke-linecap=\\\"round\\\" stroke-linejoin=\\\"round\\\" d=\\\"M39 41.9a7 7 0 11-14 0 7.12 7.12 0 013-5.83v-17a4 4 0 118 0v17a7.12 7.12 0 013 5.83zM32.5 25H36m-3.5-4H36m-3.5 8H36\\\"></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/thermometer-glass.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/thermometer-mercury-cold.svg":
-/*!*********************************************************************!*\
-  !*** ./src/style/icons/animated_icons/thermometer-mercury-cold.svg ***!
-  \*********************************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" viewBox=\\\"0 0 64 64\\\"><circle cx=\\\"32\\\" cy=\\\"42\\\" r=\\\"4.5\\\" fill=\\\"#2885c7\\\"></circle><path fill=\\\"none\\\" stroke=\\\"#2885c7\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M32 27v15\\\"></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/thermometer-mercury-cold.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/thermometer-mercury.svg":
-/*!****************************************************************!*\
-  !*** ./src/style/icons/animated_icons/thermometer-mercury.svg ***!
-  \****************************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" viewBox=\\\"0 0 64 64\\\"><circle cx=\\\"32\\\" cy=\\\"42\\\" r=\\\"4.5\\\" fill=\\\"#ef4444\\\"></circle><path fill=\\\"none\\\" stroke=\\\"#ef4444\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M32 27v15\\\"></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/thermometer-mercury.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/thermometer-warmer.svg":
-/*!***************************************************************!*\
-  !*** ./src/style/icons/animated_icons/thermometer-warmer.svg ***!
-  \***************************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"a\\\" x1=\\\"23.73\\\" x2=\\\"39.18\\\" y1=\\\"19.16\\\" y2=\\\"45.93\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#515a69\\\" stop-opacity=\\\".05\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#6b7280\\\" stop-opacity=\\\".05\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#384354\\\" stop-opacity=\\\".1\\\"></stop></linearGradient><linearGradient id=\\\"b\\\" x1=\\\"23.48\\\" x2=\\\"39.43\\\" y1=\\\"18.73\\\" y2=\\\"46.36\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#d4d7dd\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#d4d7dd\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#bec1c6\\\"></stop></linearGradient></defs><circle cx=\\\"32\\\" cy=\\\"42\\\" r=\\\"4.5\\\" fill=\\\"#ef4444\\\"></circle><path fill=\\\"none\\\" stroke=\\\"#ef4444\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M32 19v23\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"1s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"0 0; 0 1; 0 0\\\"></animateTransform></path><path fill=\\\"url(#a)\\\" stroke=\\\"url(#b)\\\" stroke-linecap=\\\"round\\\" stroke-linejoin=\\\"round\\\" d=\\\"M32.5 29H36m3 12.9a7 7 0 11-14 0 7.12 7.12 0 013-5.83v-17a4 4 0 118 0v17a7.12 7.12 0 013 5.83zM32.5 25H36m-3.5-4H36\\\"></path><path fill=\\\"none\\\" stroke=\\\"#ef4444\\\" stroke-linecap=\\\"round\\\" stroke-linejoin=\\\"round\\\" stroke-width=\\\"2\\\" d=\\\"M44 38V26l-3 3.45L44 26l3 3.45\\\"><animateTransform attributeName=\\\"transform\\\" begin=\\\"0s\\\" dur=\\\"1.5s\\\" keyTimes=\\\"0.0; 0.5; 0.9; 1.0\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"0 0; 0 0; 0 -6; 0 -6\\\"></animateTransform><animate attributeName=\\\"opacity\\\" dur=\\\"1.5s\\\" keyTimes=\\\"0.0; 0.3; 0.8; 0.9; 1.0\\\" repeatCount=\\\"indefinite\\\" values=\\\"0; 1; 1; 0; 0\\\"></animate></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/thermometer-warmer.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/thermometer.svg":
-/*!********************************************************!*\
-  !*** ./src/style/icons/animated_icons/thermometer.svg ***!
-  \********************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"a\\\" x1=\\\"23.73\\\" x2=\\\"39.18\\\" y1=\\\"19.16\\\" y2=\\\"45.93\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#515a69\\\" stop-opacity=\\\".05\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#6b7280\\\" stop-opacity=\\\".05\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#384354\\\" stop-opacity=\\\".1\\\"></stop></linearGradient><linearGradient id=\\\"b\\\" x1=\\\"23.48\\\" x2=\\\"39.43\\\" y1=\\\"18.73\\\" y2=\\\"46.36\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#d4d7dd\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#d4d7dd\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#bec1c6\\\"></stop></linearGradient></defs><circle cx=\\\"32\\\" cy=\\\"42\\\" r=\\\"4.5\\\" fill=\\\"#ef4444\\\"></circle><path fill=\\\"none\\\" stroke=\\\"#ef4444\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M32 27v15\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"1s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"0 0; 0 1; 0 0\\\"></animateTransform></path><path fill=\\\"url(#a)\\\" stroke=\\\"url(#b)\\\" stroke-linecap=\\\"round\\\" stroke-linejoin=\\\"round\\\" d=\\\"M39 41.9a7 7 0 11-14 0 7.12 7.12 0 013-5.83v-17a4 4 0 118 0v17a7.12 7.12 0 013 5.83zM32.5 25H36m-3.5-4H36m-3.5 8H36\\\"></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/thermometer.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/thunderstorms-day-rain.svg":
-/*!*******************************************************************!*\
-  !*** ./src/style/icons/animated_icons/thunderstorms-day-rain.svg ***!
-  \*******************************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" xmlns:xlink=\\\"http://www.w3.org/1999/xlink\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"b\\\" x1=\\\"16.5\\\" x2=\\\"21.5\\\" y1=\\\"19.67\\\" y2=\\\"28.33\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#fbbf24\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#fbbf24\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#f59e0b\\\"></stop></linearGradient><linearGradient id=\\\"c\\\" x1=\\\"22.56\\\" x2=\\\"39.2\\\" y1=\\\"21.96\\\" y2=\\\"50.8\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#deeafb\\\"></stop></linearGradient><linearGradient id=\\\"a\\\" x1=\\\"22.53\\\" x2=\\\"25.47\\\" y1=\\\"42.95\\\" y2=\\\"48.05\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#4286ee\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#4286ee\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#0950bc\\\"></stop></linearGradient><linearGradient id=\\\"d\\\" x1=\\\"29.53\\\" x2=\\\"32.47\\\" y1=\\\"42.95\\\" y2=\\\"48.05\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"e\\\" x1=\\\"36.53\\\" x2=\\\"39.47\\\" y1=\\\"42.95\\\" y2=\\\"48.05\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"f\\\" x1=\\\"26.74\\\" x2=\\\"35.76\\\" y1=\\\"37.88\\\" y2=\\\"53.52\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#f7b23b\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#f7b23b\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#f59e0b\\\"></stop></linearGradient></defs><circle cx=\\\"19\\\" cy=\\\"24\\\" r=\\\"5\\\" fill=\\\"url(#b)\\\" stroke=\\\"#f8af18\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\"></circle><path fill=\\\"none\\\" stroke=\\\"#fbbf24\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"2\\\" d=\\\"M19 15.67V12.5m0 23v-3.17m5.89-14.22l2.24-2.24M10.87 32.13l2.24-2.24m0-11.78l-2.24-2.24m16.26 16.26l-2.24-2.24M7.5 24h3.17m19.83 0h-3.17\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"45s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"0 19 24; 360 19 24\\\"></animateTransform></path><path fill=\\\"url(#c)\\\" stroke=\\\"#e6effc\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\" d=\\\"M46.5 31.5h-.32a10.49 10.49 0 00-19.11-8 7 7 0 00-10.57 6 7.21 7.21 0 00.1 1.14A7.5 7.5 0 0018 45.5a4.19 4.19 0 00.5 0v0h28a7 7 0 000-14z\\\"></path><path fill=\\\"none\\\" stroke=\\\"url(#a)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"2\\\" d=\\\"M24.39 43.03l-.78 4.94\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"0.7s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"1 -5; -2 10\\\"></animateTransform><animate attributeName=\\\"opacity\\\" dur=\\\"0.7s\\\" repeatCount=\\\"indefinite\\\" values=\\\"0;1;1;0\\\"></animate></path><path fill=\\\"none\\\" stroke=\\\"url(#d)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"2\\\" d=\\\"M31.39 43.03l-.78 4.94\\\"><animateTransform attributeName=\\\"transform\\\" begin=\\\"-0.4s\\\" dur=\\\"0.7s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"1 -5; -2 10\\\"></animateTransform><animate attributeName=\\\"opacity\\\" begin=\\\"-0.4s\\\" dur=\\\"0.7s\\\" repeatCount=\\\"indefinite\\\" values=\\\"0;1;1;0\\\"></animate></path><path fill=\\\"none\\\" stroke=\\\"url(#e)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"2\\\" d=\\\"M38.39 43.03l-.78 4.94\\\"><animateTransform attributeName=\\\"transform\\\" begin=\\\"-0.2s\\\" dur=\\\"0.7s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"1 -5; -2 10\\\"></animateTransform><animate attributeName=\\\"opacity\\\" begin=\\\"-0.2s\\\" dur=\\\"0.7s\\\" repeatCount=\\\"indefinite\\\" values=\\\"0;1;1;0\\\"></animate></path><path fill=\\\"url(#f)\\\" stroke=\\\"#f6a823\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\" d=\\\"M30 36l-4 12h4l-2 10 10-14h-6l4-8h-6z\\\"><animate attributeName=\\\"opacity\\\" dur=\\\"2s\\\" repeatCount=\\\"indefinite\\\" values=\\\"1; 1; 1; 1; 1; 1; 0.1; 1; 0.1; 1; 1; 0.1; 1; 0.1; 1\\\"></animate></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/thunderstorms-day-rain.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/thunderstorms-day-snow.svg":
-/*!*******************************************************************!*\
-  !*** ./src/style/icons/animated_icons/thunderstorms-day-snow.svg ***!
-  \*******************************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" xmlns:xlink=\\\"http://www.w3.org/1999/xlink\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"b\\\" x1=\\\"16.5\\\" x2=\\\"21.5\\\" y1=\\\"19.67\\\" y2=\\\"28.33\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#fbbf24\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#fbbf24\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#f59e0b\\\"></stop></linearGradient><linearGradient id=\\\"c\\\" x1=\\\"22.56\\\" x2=\\\"39.2\\\" y1=\\\"21.96\\\" y2=\\\"50.8\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#deeafb\\\"></stop></linearGradient><linearGradient id=\\\"a\\\" x1=\\\"30.12\\\" x2=\\\"31.88\\\" y1=\\\"43.48\\\" y2=\\\"46.52\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#86c3db\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#86c3db\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#5eafcf\\\"></stop></linearGradient><linearGradient id=\\\"d\\\" x1=\\\"29.67\\\" x2=\\\"32.33\\\" y1=\\\"42.69\\\" y2=\\\"47.31\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"e\\\" x1=\\\"23.12\\\" x2=\\\"24.88\\\" y1=\\\"43.48\\\" y2=\\\"46.52\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"f\\\" x1=\\\"22.67\\\" x2=\\\"25.33\\\" y1=\\\"42.69\\\" y2=\\\"47.31\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"g\\\" x1=\\\"37.12\\\" x2=\\\"38.88\\\" y1=\\\"43.48\\\" y2=\\\"46.52\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"h\\\" x1=\\\"36.67\\\" x2=\\\"39.33\\\" y1=\\\"42.69\\\" y2=\\\"47.31\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"i\\\" x1=\\\"26.74\\\" x2=\\\"35.76\\\" y1=\\\"37.88\\\" y2=\\\"53.52\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#f7b23b\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#f7b23b\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#f59e0b\\\"></stop></linearGradient></defs><circle cx=\\\"19\\\" cy=\\\"24\\\" r=\\\"5\\\" fill=\\\"url(#b)\\\" stroke=\\\"#f8af18\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\"></circle><path fill=\\\"none\\\" stroke=\\\"#fbbf24\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"2\\\" d=\\\"M19 15.67V12.5m0 23v-3.17m5.89-14.22l2.24-2.24M10.87 32.13l2.24-2.24m0-11.78l-2.24-2.24m16.26 16.26l-2.24-2.24M7.5 24h3.17m19.83 0h-3.17\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"45s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"0 19 24; 360 19 24\\\"></animateTransform></path><path fill=\\\"url(#c)\\\" stroke=\\\"#e6effc\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\" d=\\\"M46.5 31.5h-.32a10.49 10.49 0 00-19.11-8 7 7 0 00-10.57 6 7.21 7.21 0 00.1 1.14A7.5 7.5 0 0018 45.5a4.19 4.19 0 00.5 0v0h28a7 7 0 000-14z\\\"></path><g><circle cx=\\\"31\\\" cy=\\\"45\\\" r=\\\"1.25\\\" fill=\\\"none\\\" stroke=\\\"url(#a)\\\" stroke-miterlimit=\\\"10\\\"></circle><path fill=\\\"none\\\" stroke=\\\"url(#d)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" d=\\\"M33.17 46.25l-1.09-.63m-2.16-1.24l-1.09-.63M31 42.5v1.25m0 3.75v-1.25m-1.08-.63l-1.09.63m4.34-2.5l-1.09.63\\\"></path><animateTransform additive=\\\"sum\\\" attributeName=\\\"transform\\\" dur=\\\"4s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"-1 -6; 1 12\\\"></animateTransform><animateTransform additive=\\\"sum\\\" attributeName=\\\"transform\\\" dur=\\\"9s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"0 31 45; 360 31 45\\\"></animateTransform><animate attributeName=\\\"opacity\\\" dur=\\\"4s\\\" repeatCount=\\\"indefinite\\\" values=\\\"0;1;1;1;0\\\"></animate></g><g><circle cx=\\\"24\\\" cy=\\\"45\\\" r=\\\"1.25\\\" fill=\\\"none\\\" stroke=\\\"url(#e)\\\" stroke-miterlimit=\\\"10\\\"></circle><path fill=\\\"none\\\" stroke=\\\"url(#f)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" d=\\\"M26.17 46.25l-1.09-.63m-2.16-1.24l-1.09-.63M24 42.5v1.25m0 3.75v-1.25m-1.08-.63l-1.09.63m4.34-2.5l-1.09.63\\\"></path><animateTransform additive=\\\"sum\\\" attributeName=\\\"transform\\\" begin=\\\"-2s\\\" dur=\\\"4s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"1 -6; -1 12\\\"></animateTransform><animateTransform additive=\\\"sum\\\" attributeName=\\\"transform\\\" dur=\\\"9s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"0 24 45; 360 24 45\\\"></animateTransform><animate attributeName=\\\"opacity\\\" begin=\\\"-2s\\\" dur=\\\"4s\\\" repeatCount=\\\"indefinite\\\" values=\\\"0;1;1;1;0\\\"></animate></g><g><circle cx=\\\"38\\\" cy=\\\"45\\\" r=\\\"1.25\\\" fill=\\\"none\\\" stroke=\\\"url(#g)\\\" stroke-miterlimit=\\\"10\\\"></circle><path fill=\\\"none\\\" stroke=\\\"url(#h)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" d=\\\"M40.17 46.25l-1.09-.63m-2.16-1.24l-1.09-.63M38 42.5v1.25m0 3.75v-1.25m-1.08-.63l-1.09.63m4.34-2.5l-1.09.63\\\"></path><animateTransform additive=\\\"sum\\\" attributeName=\\\"transform\\\" begin=\\\"-1s\\\" dur=\\\"4s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"1 -6; -1 12\\\"></animateTransform><animateTransform additive=\\\"sum\\\" attributeName=\\\"transform\\\" dur=\\\"9s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"0 38 45; 360 38 45\\\"></animateTransform><animate attributeName=\\\"opacity\\\" begin=\\\"-1s\\\" dur=\\\"4s\\\" repeatCount=\\\"indefinite\\\" values=\\\"0;1;1;1;0\\\"></animate></g><path fill=\\\"url(#i)\\\" stroke=\\\"#f6a823\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\" d=\\\"M30 36l-4 12h4l-2 10 10-14h-6l4-8h-6z\\\"><animate attributeName=\\\"opacity\\\" dur=\\\"2s\\\" repeatCount=\\\"indefinite\\\" values=\\\"1; 1; 1; 1; 1; 1; 0.1; 1; 0.1; 1; 1; 0.1; 1; 0.1; 1\\\"></animate></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/thunderstorms-day-snow.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/thunderstorms-day.svg":
-/*!**************************************************************!*\
-  !*** ./src/style/icons/animated_icons/thunderstorms-day.svg ***!
-  \**************************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"a\\\" x1=\\\"16.5\\\" x2=\\\"21.5\\\" y1=\\\"19.67\\\" y2=\\\"28.33\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#fbbf24\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#fbbf24\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#f59e0b\\\"></stop></linearGradient><linearGradient id=\\\"b\\\" x1=\\\"22.56\\\" x2=\\\"39.2\\\" y1=\\\"21.96\\\" y2=\\\"50.8\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#deeafb\\\"></stop></linearGradient><linearGradient id=\\\"c\\\" x1=\\\"26.74\\\" x2=\\\"35.76\\\" y1=\\\"37.88\\\" y2=\\\"53.52\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#f7b23b\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#f7b23b\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#f59e0b\\\"></stop></linearGradient></defs><circle cx=\\\"19\\\" cy=\\\"24\\\" r=\\\"5\\\" fill=\\\"url(#a)\\\" stroke=\\\"#f8af18\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\"></circle><path fill=\\\"none\\\" stroke=\\\"#fbbf24\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"2\\\" d=\\\"M19 15.67V12.5m0 23v-3.17m5.89-14.22l2.24-2.24M10.87 32.13l2.24-2.24m0-11.78l-2.24-2.24m16.26 16.26l-2.24-2.24M7.5 24h3.17m19.83 0h-3.17\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"45s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"0 19 24; 360 19 24\\\"></animateTransform></path><path fill=\\\"url(#b)\\\" stroke=\\\"#e6effc\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\" d=\\\"M46.5 31.5h-.32a10.49 10.49 0 00-19.11-8 7 7 0 00-10.57 6 7.21 7.21 0 00.1 1.14A7.5 7.5 0 0018 45.5a4.19 4.19 0 00.5 0v0h28a7 7 0 000-14z\\\"></path><path fill=\\\"url(#c)\\\" stroke=\\\"#f6a823\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\" d=\\\"M30 36l-4 12h4l-2 10 10-14h-6l4-8h-6z\\\"><animate attributeName=\\\"opacity\\\" dur=\\\"2s\\\" repeatCount=\\\"indefinite\\\" values=\\\"1; 1; 1; 1; 1; 1; 0.1; 1; 0.1; 1; 1; 0.1; 1; 0.1; 1\\\"></animate></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/thunderstorms-day.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/thunderstorms-night-rain.svg":
-/*!*********************************************************************!*\
-  !*** ./src/style/icons/animated_icons/thunderstorms-night-rain.svg ***!
-  \*********************************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" xmlns:xlink=\\\"http://www.w3.org/1999/xlink\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"b\\\" x1=\\\"13.58\\\" x2=\\\"24.15\\\" y1=\\\"15.57\\\" y2=\\\"33.87\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#86c3db\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#86c3db\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#5eafcf\\\"></stop><animateTransform attributeName=\\\"gradientTransform\\\" dur=\\\"10s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"10 19.22 24.293; -10 19.22 24.293; 10 19.22 24.293\\\"></animateTransform></linearGradient><linearGradient id=\\\"c\\\" x1=\\\"22.56\\\" x2=\\\"39.2\\\" y1=\\\"21.96\\\" y2=\\\"50.8\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#deeafb\\\"></stop></linearGradient><linearGradient id=\\\"a\\\" x1=\\\"22.53\\\" x2=\\\"25.47\\\" y1=\\\"42.95\\\" y2=\\\"48.05\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#4286ee\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#4286ee\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#0950bc\\\"></stop></linearGradient><linearGradient id=\\\"d\\\" x1=\\\"29.53\\\" x2=\\\"32.47\\\" y1=\\\"42.95\\\" y2=\\\"48.05\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"e\\\" x1=\\\"36.53\\\" x2=\\\"39.47\\\" y1=\\\"42.95\\\" y2=\\\"48.05\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"f\\\" x1=\\\"26.74\\\" x2=\\\"35.76\\\" y1=\\\"37.88\\\" y2=\\\"53.52\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#f7b23b\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#f7b23b\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#f59e0b\\\"></stop></linearGradient></defs><g><path fill=\\\"url(#b)\\\" stroke=\\\"#72b9d5\\\" stroke-linecap=\\\"round\\\" stroke-linejoin=\\\"round\\\" stroke-width=\\\".5\\\" d=\\\"M29.33 26.68a10.61 10.61 0 01-10.68-10.54A10.5 10.5 0 0119 13.5a10.54 10.54 0 1011.5 13.11 11.48 11.48 0 01-1.17.07z\\\"></path><animateTransform attributeName=\\\"transform\\\" dur=\\\"10s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"-10 19.22 24.293; 10 19.22 24.293; -10 19.22 24.293\\\"></animateTransform></g><path fill=\\\"url(#c)\\\" stroke=\\\"#e6effc\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\" d=\\\"M46.5 31.5h-.32a10.49 10.49 0 00-19.11-8 7 7 0 00-10.57 6 7.21 7.21 0 00.1 1.14A7.5 7.5 0 0018 45.5a4.19 4.19 0 00.5 0v0h28a7 7 0 000-14z\\\"></path><path fill=\\\"none\\\" stroke=\\\"url(#a)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"2\\\" d=\\\"M24.39 43.03l-.78 4.94\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"0.7s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"1 -5; -2 10\\\"></animateTransform><animate attributeName=\\\"opacity\\\" dur=\\\"0.7s\\\" repeatCount=\\\"indefinite\\\" values=\\\"0;1;1;0\\\"></animate></path><path fill=\\\"none\\\" stroke=\\\"url(#d)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"2\\\" d=\\\"M31.39 43.03l-.78 4.94\\\"><animateTransform attributeName=\\\"transform\\\" begin=\\\"-0.4s\\\" dur=\\\"0.7s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"1 -5; -2 10\\\"></animateTransform><animate attributeName=\\\"opacity\\\" begin=\\\"-0.4s\\\" dur=\\\"0.7s\\\" repeatCount=\\\"indefinite\\\" values=\\\"0;1;1;0\\\"></animate></path><path fill=\\\"none\\\" stroke=\\\"url(#e)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"2\\\" d=\\\"M38.39 43.03l-.78 4.94\\\"><animateTransform attributeName=\\\"transform\\\" begin=\\\"-0.2s\\\" dur=\\\"0.7s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"1 -5; -2 10\\\"></animateTransform><animate attributeName=\\\"opacity\\\" begin=\\\"-0.2s\\\" dur=\\\"0.7s\\\" repeatCount=\\\"indefinite\\\" values=\\\"0;1;1;0\\\"></animate></path><path fill=\\\"url(#f)\\\" stroke=\\\"#f6a823\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\" d=\\\"M30 36l-4 12h4l-2 10 10-14h-6l4-8h-6z\\\"><animate attributeName=\\\"opacity\\\" dur=\\\"2s\\\" repeatCount=\\\"indefinite\\\" values=\\\"1; 1; 1; 1; 1; 1; 0.1; 1; 0.1; 1; 1; 0.1; 1; 0.1; 1\\\"></animate></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/thunderstorms-night-rain.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/thunderstorms-night-snow.svg":
-/*!*********************************************************************!*\
-  !*** ./src/style/icons/animated_icons/thunderstorms-night-snow.svg ***!
-  \*********************************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" xmlns:xlink=\\\"http://www.w3.org/1999/xlink\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"a\\\" x1=\\\"13.58\\\" x2=\\\"24.15\\\" y1=\\\"15.57\\\" y2=\\\"33.87\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#86c3db\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#86c3db\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#5eafcf\\\"></stop><animateTransform attributeName=\\\"gradientTransform\\\" dur=\\\"10s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"10 19.22 24.293; -10 19.22 24.293; 10 19.22 24.293\\\"></animateTransform></linearGradient><linearGradient id=\\\"b\\\" x1=\\\"22.56\\\" x2=\\\"39.2\\\" y1=\\\"21.96\\\" y2=\\\"50.8\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#deeafb\\\"></stop></linearGradient><linearGradient id=\\\"c\\\" x1=\\\"30.12\\\" x2=\\\"31.88\\\" y1=\\\"43.48\\\" y2=\\\"46.52\\\" xlink:href=\\\"#a\\\"><animateTransform additive=\\\"sum\\\" attributeName=\\\"gradientTransform\\\" dur=\\\"9s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"360 31 45; 0 31 45\\\"></animateTransform></linearGradient><linearGradient id=\\\"d\\\" x1=\\\"29.67\\\" x2=\\\"32.33\\\" y1=\\\"42.69\\\" y2=\\\"47.31\\\" xlink:href=\\\"#a\\\"><animateTransform additive=\\\"sum\\\" attributeName=\\\"gradientTransform\\\" dur=\\\"9s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"360 31 45; 0 31 45\\\"></animateTransform></linearGradient><linearGradient id=\\\"e\\\" x1=\\\"23.12\\\" x2=\\\"24.88\\\" y1=\\\"43.48\\\" y2=\\\"46.52\\\" xlink:href=\\\"#a\\\"><animateTransform additive=\\\"sum\\\" attributeName=\\\"gradientTransform\\\" dur=\\\"9s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"360 31 45; 0 31 45\\\"></animateTransform></linearGradient><linearGradient id=\\\"f\\\" x1=\\\"22.67\\\" x2=\\\"25.33\\\" y1=\\\"42.69\\\" y2=\\\"47.31\\\" xlink:href=\\\"#a\\\"><animateTransform additive=\\\"sum\\\" attributeName=\\\"gradientTransform\\\" dur=\\\"9s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"360 31 45; 0 31 45\\\"></animateTransform></linearGradient><linearGradient id=\\\"g\\\" x1=\\\"37.12\\\" x2=\\\"38.88\\\" y1=\\\"43.48\\\" y2=\\\"46.52\\\" xlink:href=\\\"#a\\\"><animateTransform additive=\\\"sum\\\" attributeName=\\\"gradientTransform\\\" dur=\\\"9s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"360 31 45; 0 31 45\\\"></animateTransform></linearGradient><linearGradient id=\\\"h\\\" x1=\\\"36.67\\\" x2=\\\"39.33\\\" y1=\\\"42.69\\\" y2=\\\"47.31\\\" xlink:href=\\\"#a\\\"><animateTransform additive=\\\"sum\\\" attributeName=\\\"gradientTransform\\\" dur=\\\"9s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"360 31 45; 0 31 45\\\"></animateTransform></linearGradient><linearGradient id=\\\"i\\\" x1=\\\"26.74\\\" x2=\\\"35.76\\\" y1=\\\"37.88\\\" y2=\\\"53.52\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#f7b23b\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#f7b23b\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#f59e0b\\\"></stop></linearGradient></defs><g><path fill=\\\"url(#a)\\\" stroke=\\\"#72b9d5\\\" stroke-linecap=\\\"round\\\" stroke-linejoin=\\\"round\\\" stroke-width=\\\".5\\\" d=\\\"M29.33 26.68a10.61 10.61 0 01-10.68-10.54A10.5 10.5 0 0119 13.5a10.54 10.54 0 1011.5 13.11 11.48 11.48 0 01-1.17.07z\\\"></path><animateTransform attributeName=\\\"transform\\\" dur=\\\"10s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"-10 19.22 24.293; 10 19.22 24.293; -10 19.22 24.293\\\"></animateTransform></g><path fill=\\\"url(#b)\\\" stroke=\\\"#e6effc\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\" d=\\\"M46.5 31.5h-.32a10.49 10.49 0 00-19.11-8 7 7 0 00-10.57 6 7.21 7.21 0 00.1 1.14A7.5 7.5 0 0018 45.5a4.19 4.19 0 00.5 0v0h28a7 7 0 000-14z\\\"></path><g><circle cx=\\\"31\\\" cy=\\\"45\\\" r=\\\"1.25\\\" fill=\\\"none\\\" stroke=\\\"url(#c)\\\" stroke-miterlimit=\\\"10\\\"></circle><path fill=\\\"none\\\" stroke=\\\"url(#d)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" d=\\\"M33.17 46.25l-1.09-.63m-2.16-1.24l-1.09-.63M31 42.5v1.25m0 3.75v-1.25m-1.08-.63l-1.09.63m4.34-2.5l-1.09.63\\\"></path><animateTransform additive=\\\"sum\\\" attributeName=\\\"transform\\\" dur=\\\"4s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"-1 -6; 1 12\\\"></animateTransform><animateTransform additive=\\\"sum\\\" attributeName=\\\"transform\\\" dur=\\\"9s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"0 31 45; 360 31 45\\\"></animateTransform><animate attributeName=\\\"opacity\\\" dur=\\\"4s\\\" repeatCount=\\\"indefinite\\\" values=\\\"0;1;1;1;0\\\"></animate></g><g><circle cx=\\\"24\\\" cy=\\\"45\\\" r=\\\"1.25\\\" fill=\\\"none\\\" stroke=\\\"url(#e)\\\" stroke-miterlimit=\\\"10\\\"></circle><path fill=\\\"none\\\" stroke=\\\"url(#f)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" d=\\\"M26.17 46.25l-1.09-.63m-2.16-1.24l-1.09-.63M24 42.5v1.25m0 3.75v-1.25m-1.08-.63l-1.09.63m4.34-2.5l-1.09.63\\\"></path><animateTransform additive=\\\"sum\\\" attributeName=\\\"transform\\\" begin=\\\"-2s\\\" dur=\\\"4s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"1 -6; -1 12\\\"></animateTransform><animateTransform additive=\\\"sum\\\" attributeName=\\\"transform\\\" dur=\\\"9s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"0 24 45; 360 24 45\\\"></animateTransform><animate attributeName=\\\"opacity\\\" begin=\\\"-2s\\\" dur=\\\"4s\\\" repeatCount=\\\"indefinite\\\" values=\\\"0;1;1;1;0\\\"></animate></g><g><circle cx=\\\"38\\\" cy=\\\"45\\\" r=\\\"1.25\\\" fill=\\\"none\\\" stroke=\\\"url(#g)\\\" stroke-miterlimit=\\\"10\\\"></circle><path fill=\\\"none\\\" stroke=\\\"url(#h)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" d=\\\"M40.17 46.25l-1.09-.63m-2.16-1.24l-1.09-.63M38 42.5v1.25m0 3.75v-1.25m-1.08-.63l-1.09.63m4.34-2.5l-1.09.63\\\"></path><animateTransform additive=\\\"sum\\\" attributeName=\\\"transform\\\" begin=\\\"-1s\\\" dur=\\\"4s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"1 -6; -1 12\\\"></animateTransform><animateTransform additive=\\\"sum\\\" attributeName=\\\"transform\\\" dur=\\\"9s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"0 38 45; 360 38 45\\\"></animateTransform><animate attributeName=\\\"opacity\\\" begin=\\\"-1s\\\" dur=\\\"4s\\\" repeatCount=\\\"indefinite\\\" values=\\\"0;1;1;1;0\\\"></animate></g><path fill=\\\"url(#i)\\\" stroke=\\\"#f6a823\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\" d=\\\"M30 36l-4 12h4l-2 10 10-14h-6l4-8h-6z\\\"><animate attributeName=\\\"opacity\\\" dur=\\\"2s\\\" repeatCount=\\\"indefinite\\\" values=\\\"1; 1; 1; 1; 1; 1; 0.1; 1; 0.1; 1; 1; 0.1; 1; 0.1; 1\\\"></animate></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/thunderstorms-night-snow.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/thunderstorms-night.svg":
-/*!****************************************************************!*\
-  !*** ./src/style/icons/animated_icons/thunderstorms-night.svg ***!
-  \****************************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"a\\\" x1=\\\"13.58\\\" x2=\\\"24.15\\\" y1=\\\"15.57\\\" y2=\\\"33.87\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#86c3db\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#86c3db\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#5eafcf\\\"></stop><animateTransform attributeName=\\\"gradientTransform\\\" dur=\\\"10s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"10 19.22 24.293; -10 19.22 24.293; 10 19.22 24.293\\\"></animateTransform></linearGradient><linearGradient id=\\\"b\\\" x1=\\\"22.56\\\" x2=\\\"39.2\\\" y1=\\\"21.96\\\" y2=\\\"50.8\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#deeafb\\\"></stop></linearGradient><linearGradient id=\\\"c\\\" x1=\\\"26.74\\\" x2=\\\"35.76\\\" y1=\\\"37.88\\\" y2=\\\"53.52\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#f7b23b\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#f7b23b\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#f59e0b\\\"></stop></linearGradient></defs><path fill=\\\"url(#a)\\\" stroke=\\\"#72b9d5\\\" stroke-linecap=\\\"round\\\" stroke-linejoin=\\\"round\\\" stroke-width=\\\".5\\\" d=\\\"M29.33 26.68a10.61 10.61 0 01-10.68-10.54A10.5 10.5 0 0119 13.5a10.54 10.54 0 1011.5 13.11 11.48 11.48 0 01-1.17.07z\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"10s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"-10 19.22 24.293; 10 19.22 24.293; -10 19.22 24.293\\\"></animateTransform></path><path fill=\\\"url(#b)\\\" stroke=\\\"#e6effc\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\" d=\\\"M46.5 31.5h-.32a10.49 10.49 0 00-19.11-8 7 7 0 00-10.57 6 7.21 7.21 0 00.1 1.14A7.5 7.5 0 0018 45.5a4.19 4.19 0 00.5 0v0h28a7 7 0 000-14z\\\"></path><path fill=\\\"url(#c)\\\" stroke=\\\"#f6a823\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\" d=\\\"M30 36l-4 12h4l-2 10 10-14h-6l4-8h-6z\\\"><animate attributeName=\\\"opacity\\\" dur=\\\"2s\\\" repeatCount=\\\"indefinite\\\" values=\\\"1; 1; 1; 1; 1; 1; 0.1; 1; 0.1; 1; 1; 0.1; 1; 0.1; 1\\\"></animate></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/thunderstorms-night.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/thunderstorms-rain.svg":
-/*!***************************************************************!*\
-  !*** ./src/style/icons/animated_icons/thunderstorms-rain.svg ***!
-  \***************************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" xmlns:xlink=\\\"http://www.w3.org/1999/xlink\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"b\\\" x1=\\\"22.56\\\" x2=\\\"39.2\\\" y1=\\\"21.96\\\" y2=\\\"50.8\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#deeafb\\\"></stop></linearGradient><linearGradient id=\\\"a\\\" x1=\\\"22.53\\\" x2=\\\"25.47\\\" y1=\\\"42.95\\\" y2=\\\"48.05\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#4286ee\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#4286ee\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#0950bc\\\"></stop></linearGradient><linearGradient id=\\\"c\\\" x1=\\\"29.53\\\" x2=\\\"32.47\\\" y1=\\\"42.95\\\" y2=\\\"48.05\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"d\\\" x1=\\\"36.53\\\" x2=\\\"39.47\\\" y1=\\\"42.95\\\" y2=\\\"48.05\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"e\\\" x1=\\\"26.74\\\" x2=\\\"35.76\\\" y1=\\\"37.88\\\" y2=\\\"53.52\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#f7b23b\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#f7b23b\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#f59e0b\\\"></stop></linearGradient></defs><path fill=\\\"url(#b)\\\" stroke=\\\"#e6effc\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\" d=\\\"M46.5 31.5h-.32a10.49 10.49 0 00-19.11-8 7 7 0 00-10.57 6 7.21 7.21 0 00.1 1.14A7.5 7.5 0 0018 45.5a4.19 4.19 0 00.5 0v0h28a7 7 0 000-14z\\\"></path><path fill=\\\"none\\\" stroke=\\\"url(#a)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"2\\\" d=\\\"M24.39 43.03l-.78 4.94\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"0.7s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"1 -5; -2 10\\\"></animateTransform><animate attributeName=\\\"opacity\\\" dur=\\\"0.7s\\\" repeatCount=\\\"indefinite\\\" values=\\\"0;1;1;0\\\"></animate></path><path fill=\\\"none\\\" stroke=\\\"url(#c)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"2\\\" d=\\\"M31.39 43.03l-.78 4.94\\\"><animateTransform attributeName=\\\"transform\\\" begin=\\\"-0.4s\\\" dur=\\\"0.7s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"1 -5; -2 10\\\"></animateTransform><animate attributeName=\\\"opacity\\\" begin=\\\"-0.4s\\\" dur=\\\"0.7s\\\" repeatCount=\\\"indefinite\\\" values=\\\"0;1;1;0\\\"></animate></path><path fill=\\\"none\\\" stroke=\\\"url(#d)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"2\\\" d=\\\"M38.39 43.03l-.78 4.94\\\"><animateTransform attributeName=\\\"transform\\\" begin=\\\"-0.2s\\\" dur=\\\"0.7s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"1 -5; -2 10\\\"></animateTransform><animate attributeName=\\\"opacity\\\" begin=\\\"-0.2s\\\" dur=\\\"0.7s\\\" repeatCount=\\\"indefinite\\\" values=\\\"0;1;1;0\\\"></animate></path><path fill=\\\"url(#e)\\\" stroke=\\\"#f6a823\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\" d=\\\"M30 36l-4 12h4l-2 10 10-14h-6l4-8h-6z\\\"><animate attributeName=\\\"opacity\\\" dur=\\\"2s\\\" repeatCount=\\\"indefinite\\\" values=\\\"1; 1; 1; 1; 1; 1; 0.1; 1; 0.1; 1; 1; 0.1; 1; 0.1; 1\\\"></animate></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/thunderstorms-rain.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/thunderstorms-snow.svg":
-/*!***************************************************************!*\
-  !*** ./src/style/icons/animated_icons/thunderstorms-snow.svg ***!
-  \***************************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" xmlns:xlink=\\\"http://www.w3.org/1999/xlink\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"b\\\" x1=\\\"22.56\\\" x2=\\\"39.2\\\" y1=\\\"21.96\\\" y2=\\\"50.8\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#deeafb\\\"></stop></linearGradient><linearGradient id=\\\"a\\\" x1=\\\"30.12\\\" x2=\\\"31.88\\\" y1=\\\"43.48\\\" y2=\\\"46.52\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#86c3db\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#86c3db\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#5eafcf\\\"></stop><animateTransform additive=\\\"sum\\\" attributeName=\\\"gradientTransform\\\" dur=\\\"9s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"360 31 45; 0 31 45\\\"></animateTransform></linearGradient><linearGradient id=\\\"c\\\" x1=\\\"29.67\\\" x2=\\\"32.33\\\" y1=\\\"42.69\\\" y2=\\\"47.31\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"d\\\" x1=\\\"23.12\\\" x2=\\\"24.88\\\" y1=\\\"43.48\\\" y2=\\\"46.52\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"e\\\" x1=\\\"22.67\\\" x2=\\\"25.33\\\" y1=\\\"42.69\\\" y2=\\\"47.31\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"f\\\" x1=\\\"37.12\\\" x2=\\\"38.88\\\" y1=\\\"43.48\\\" y2=\\\"46.52\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"g\\\" x1=\\\"36.67\\\" x2=\\\"39.33\\\" y1=\\\"42.69\\\" y2=\\\"47.31\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"h\\\" x1=\\\"26.74\\\" x2=\\\"35.76\\\" y1=\\\"37.88\\\" y2=\\\"53.52\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#f7b23b\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#f7b23b\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#f59e0b\\\"></stop></linearGradient></defs><path fill=\\\"url(#b)\\\" stroke=\\\"#e6effc\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\" d=\\\"M46.5 31.5h-.32a10.49 10.49 0 00-19.11-8 7 7 0 00-10.57 6 7.21 7.21 0 00.1 1.14A7.5 7.5 0 0018 45.5a4.19 4.19 0 00.5 0v0h28a7 7 0 000-14z\\\"></path><g><circle cx=\\\"31\\\" cy=\\\"45\\\" r=\\\"1.25\\\" fill=\\\"none\\\" stroke=\\\"url(#a)\\\" stroke-miterlimit=\\\"10\\\"></circle><path fill=\\\"none\\\" stroke=\\\"url(#c)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" d=\\\"M33.17 46.25l-1.09-.63m-2.16-1.24l-1.09-.63M31 42.5v1.25m0 3.75v-1.25m-1.08-.63l-1.09.63m4.34-2.5l-1.09.63\\\"></path><animateTransform additive=\\\"sum\\\" attributeName=\\\"transform\\\" dur=\\\"4s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"-1 -6; 1 12\\\"></animateTransform><animateTransform additive=\\\"sum\\\" attributeName=\\\"transform\\\" dur=\\\"9s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"0 31 45; 360 31 45\\\"></animateTransform><animate attributeName=\\\"opacity\\\" dur=\\\"4s\\\" repeatCount=\\\"indefinite\\\" values=\\\"0;1;1;1;0\\\"></animate></g><g><circle cx=\\\"24\\\" cy=\\\"45\\\" r=\\\"1.25\\\" fill=\\\"none\\\" stroke=\\\"url(#d)\\\" stroke-miterlimit=\\\"10\\\"></circle><path fill=\\\"none\\\" stroke=\\\"url(#e)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" d=\\\"M26.17 46.25l-1.09-.63m-2.16-1.24l-1.09-.63M24 42.5v1.25m0 3.75v-1.25m-1.08-.63l-1.09.63m4.34-2.5l-1.09.63\\\"></path><animateTransform additive=\\\"sum\\\" attributeName=\\\"transform\\\" begin=\\\"-2s\\\" dur=\\\"4s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"1 -6; -1 12\\\"></animateTransform><animateTransform additive=\\\"sum\\\" attributeName=\\\"transform\\\" dur=\\\"9s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"0 24 45; 360 24 45\\\"></animateTransform><animate attributeName=\\\"opacity\\\" begin=\\\"-2s\\\" dur=\\\"4s\\\" repeatCount=\\\"indefinite\\\" values=\\\"0;1;1;1;0\\\"></animate></g><g><circle cx=\\\"38\\\" cy=\\\"45\\\" r=\\\"1.25\\\" fill=\\\"none\\\" stroke=\\\"url(#f)\\\" stroke-miterlimit=\\\"10\\\"></circle><path fill=\\\"none\\\" stroke=\\\"url(#g)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" d=\\\"M40.17 46.25l-1.09-.63m-2.16-1.24l-1.09-.63M38 42.5v1.25m0 3.75v-1.25m-1.08-.63l-1.09.63m4.34-2.5l-1.09.63\\\"></path><animateTransform additive=\\\"sum\\\" attributeName=\\\"transform\\\" begin=\\\"-1s\\\" dur=\\\"4s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"1 -6; -1 12\\\"></animateTransform><animateTransform additive=\\\"sum\\\" attributeName=\\\"transform\\\" dur=\\\"9s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"0 38 45; 360 38 45\\\"></animateTransform><animate attributeName=\\\"opacity\\\" begin=\\\"-1s\\\" dur=\\\"4s\\\" repeatCount=\\\"indefinite\\\" values=\\\"0;1;1;1;0\\\"></animate></g><path fill=\\\"url(#h)\\\" stroke=\\\"#f6a823\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\" d=\\\"M30 36l-4 12h4l-2 10 10-14h-6l4-8h-6z\\\"><animate attributeName=\\\"opacity\\\" dur=\\\"2s\\\" repeatCount=\\\"indefinite\\\" values=\\\"1; 1; 1; 1; 1; 1; 0.1; 1; 0.1; 1; 1; 0.1; 1; 0.1; 1\\\"></animate></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/thunderstorms-snow.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/thunderstorms.svg":
-/*!**********************************************************!*\
-  !*** ./src/style/icons/animated_icons/thunderstorms.svg ***!
-  \**********************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"a\\\" x1=\\\"22.56\\\" x2=\\\"39.2\\\" y1=\\\"21.96\\\" y2=\\\"50.8\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#f3f7fe\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#deeafb\\\"></stop></linearGradient><linearGradient id=\\\"b\\\" x1=\\\"26.74\\\" x2=\\\"35.76\\\" y1=\\\"37.88\\\" y2=\\\"53.52\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#f7b23b\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#f7b23b\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#f59e0b\\\"></stop></linearGradient></defs><path fill=\\\"url(#a)\\\" stroke=\\\"#e6effc\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\" d=\\\"M46.5 31.5h-.32a10.49 10.49 0 00-19.11-8 7 7 0 00-10.57 6 7.21 7.21 0 00.1 1.14A7.5 7.5 0 0018 45.5a4.19 4.19 0 00.5 0v0h28a7 7 0 000-14z\\\"></path><path fill=\\\"url(#b)\\\" stroke=\\\"#f6a823\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\" d=\\\"M30 36l-4 12h4l-2 10 10-14h-6l4-8h-6z\\\"><animate attributeName=\\\"opacity\\\" dur=\\\"2s\\\" repeatCount=\\\"indefinite\\\" values=\\\"1; 1; 1; 1; 1; 1; 0.1; 1; 0.1; 1; 1; 0.1; 1; 0.1; 1\\\"></animate></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/thunderstorms.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/tornado.svg":
-/*!****************************************************!*\
-  !*** ./src/style/icons/animated_icons/tornado.svg ***!
-  \****************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" xmlns:xlink=\\\"http://www.w3.org/1999/xlink\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"a\\\" x1=\\\"27.5\\\" x2=\\\"36.5\\\" y1=\\\"12.21\\\" y2=\\\"27.79\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#d4d7dd\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#d4d7dd\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#bec1c6\\\"></stop></linearGradient><linearGradient id=\\\"b\\\" x1=\\\"28\\\" x2=\\\"36\\\" y1=\\\"19.07\\\" y2=\\\"32.93\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"c\\\" x1=\\\"28.63\\\" x2=\\\"35.38\\\" y1=\\\"26.15\\\" y2=\\\"37.85\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"d\\\" x1=\\\"29.25\\\" x2=\\\"34.75\\\" y1=\\\"33.24\\\" y2=\\\"42.76\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"e\\\" x1=\\\"30.25\\\" x2=\\\"33.75\\\" y1=\\\"40.97\\\" y2=\\\"47.03\\\" xlink:href=\\\"#a\\\"></linearGradient></defs><path fill=\\\"none\\\" stroke=\\\"url(#a)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M17 20h30\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"2s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"-3 0; 3 0; -3 0\\\"></animateTransform></path><path fill=\\\"none\\\" stroke=\\\"url(#b)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M19 26h26\\\"><animateTransform attributeName=\\\"transform\\\" begin=\\\"-0.2s\\\" dur=\\\"2s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"-4 0; 4 0; -4 0\\\"></animateTransform></path><path fill=\\\"none\\\" stroke=\\\"url(#c)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M21.5 32h21\\\"><animateTransform attributeName=\\\"transform\\\" begin=\\\"-0.4s\\\" dur=\\\"2s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"-5 0; 5 0; -5 0\\\"></animateTransform></path><path fill=\\\"none\\\" stroke=\\\"url(#d)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M24 38h16\\\"><animateTransform attributeName=\\\"transform\\\" begin=\\\"-0.6s\\\" dur=\\\"2s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"-6 0; 6 0; -6 0\\\"></animateTransform></path><path fill=\\\"none\\\" stroke=\\\"url(#e)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M28 44h8\\\"><animateTransform attributeName=\\\"transform\\\" begin=\\\"-0.8s\\\" dur=\\\"2s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"-7 0; 7 0; -7 0\\\"></animateTransform></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/tornado.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/umbrella.svg":
-/*!*****************************************************!*\
-  !*** ./src/style/icons/animated_icons/umbrella.svg ***!
-  \*****************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"a\\\" x1=\\\"22.66\\\" x2=\\\"37.25\\\" y1=\\\"20.66\\\" y2=\\\"45.94\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#d4d7dd\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#d4d7dd\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#bec1c6\\\"></stop></linearGradient><linearGradient id=\\\"b\\\" x1=\\\"25.63\\\" x2=\\\"36.33\\\" y1=\\\"19.89\\\" y2=\\\"38.42\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#f87171\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#f87171\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#dc2626\\\"></stop></linearGradient></defs><path fill=\\\"none\\\" stroke=\\\"url(#a)\\\" stroke-linecap=\\\"round\\\" stroke-linejoin=\\\"round\\\" stroke-width=\\\"3\\\" d=\\\"M32 31.19v14M32 17v2m-6 26.5a3 3 0 006 0\\\"></path><g><path fill=\\\"url(#b)\\\" stroke=\\\"#ef4444\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\" d=\\\"M45.5 33.12c0-8.28-6-15-13.5-15s-13.5 6.72-13.5 15l1.43-.91a6 6 0 016.58.08l1.24.83.77-.54a6 6 0 017 0l.77.54 1.24-.83a6 6 0 016.58-.08z\\\"></path><path fill=\\\"none\\\" stroke=\\\"#ef4444\\\" stroke-linecap=\\\"round\\\" stroke-linejoin=\\\"round\\\" stroke-width=\\\".5\\\" d=\\\"M32 18.12s-5 6.63-4.25 15M36.25 33.13c.75-8.38-4.25-15-4.25-15\\\"></path><animateTransform attributeName=\\\"transform\\\" dur=\\\"2s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"0 0; 0 0.5; 0 0\\\"></animateTransform></g></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/umbrella.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/uv-index-1.svg":
-/*!*******************************************************!*\
-  !*** ./src/style/icons/animated_icons/uv-index-1.svg ***!
-  \*******************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"a\\\" x1=\\\"26.75\\\" x2=\\\"37.25\\\" y1=\\\"22.91\\\" y2=\\\"41.09\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#fbbf24\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#fbbf24\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#f59e0b\\\"></stop></linearGradient></defs><circle cx=\\\"32\\\" cy=\\\"32\\\" r=\\\"10.5\\\" fill=\\\"url(#a)\\\" stroke=\\\"#f8af18\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\"></circle><path fill=\\\"none\\\" stroke=\\\"#fbbf24\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M32 15.71V9.5m0 45v-6.21m11.52-27.81l4.39-4.39M16.09 47.91l4.39-4.39m0-23l-4.39-4.39m31.82 31.78l-4.39-4.39M15.71 32H9.5m45 0h-6.21\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"45s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"0 32 32; 360 32 32\\\"></animateTransform></path><rect width=\\\"21\\\" height=\\\"21\\\" x=\\\"33.5\\\" y=\\\"33.5\\\" fill=\\\"#91c700\\\" stroke=\\\"#fff\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"2\\\" rx=\\\"6\\\"></rect><path fill=\\\"#fff\\\" d=\\\"M45.4 40.1a.5.5 0 01.1.36v7.08a.5.5 0 01-.1.36.46.46 0 01-.35.1h-.89a.46.46 0 01-.35-.1.5.5 0 01-.1-.36v-5.29l-1.07.62a.42.42 0 01-.68-.18l-.38-.69a.45.45 0 01-.07-.35.64.64 0 01.29-.27l2-1.18a1.24 1.24 0 01.64-.18h.63a.46.46 0 01.33.08z\\\"></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/uv-index-1.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/uv-index-10.svg":
-/*!********************************************************!*\
-  !*** ./src/style/icons/animated_icons/uv-index-10.svg ***!
-  \********************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"a\\\" x1=\\\"26.75\\\" x2=\\\"37.25\\\" y1=\\\"22.91\\\" y2=\\\"41.09\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#fbbf24\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#fbbf24\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#f59e0b\\\"></stop></linearGradient></defs><circle cx=\\\"32\\\" cy=\\\"32\\\" r=\\\"10.5\\\" fill=\\\"url(#a)\\\" stroke=\\\"#f8af18\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\"></circle><path fill=\\\"none\\\" stroke=\\\"#fbbf24\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M32 15.71V9.5m0 45v-6.21m11.52-27.81l4.39-4.39M16.09 47.91l4.39-4.39m0-23l-4.39-4.39m31.82 31.78l-4.39-4.39M15.71 32H9.5m45 0h-6.21\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"45s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"0 32 32; 360 32 32\\\"></animateTransform></path><rect width=\\\"21\\\" height=\\\"21\\\" x=\\\"33.5\\\" y=\\\"33.5\\\" fill=\\\"#ff3c00\\\" stroke=\\\"#fff\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"2\\\" rx=\\\"6\\\"></rect><path fill=\\\"#fff\\\" d=\\\"M41.9 40.1a.5.5 0 01.1.36v7.08a.5.5 0 01-.1.36.46.46 0 01-.35.1h-.89a.46.46 0 01-.35-.1.5.5 0 01-.1-.36v-5.29l-1.07.62a.42.42 0 01-.68-.18l-.38-.69a.45.45 0 01-.07-.35.64.64 0 01.29-.27l2-1.18a1.24 1.24 0 01.64-.18h.63a.46.46 0 01.33.08zM44.8 40.72a3.74 3.74 0 014.41 0 2.54 2.54 0 01.79 2v2.6a2.53 2.53 0 01-.79 2A3.09 3.09 0 0147 48a3.14 3.14 0 01-2.21-.73 2.53 2.53 0 01-.8-2v-2.6a2.51 2.51 0 01.81-1.95zm3.1 1.16a1.33 1.33 0 00-.89-.27 1.35 1.35 0 00-.91.27 1 1 0 00-.32.79v2.65a1 1 0 00.32.79 1.31 1.31 0 00.91.28 1.28 1.28 0 00.89-.28 1 1 0 00.32-.79v-2.65a1 1 0 00-.32-.79z\\\"></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/uv-index-10.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/uv-index-11.svg":
-/*!********************************************************!*\
-  !*** ./src/style/icons/animated_icons/uv-index-11.svg ***!
-  \********************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"a\\\" x1=\\\"26.75\\\" x2=\\\"37.25\\\" y1=\\\"22.91\\\" y2=\\\"41.09\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#fbbf24\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#fbbf24\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#f59e0b\\\"></stop></linearGradient></defs><circle cx=\\\"32\\\" cy=\\\"32\\\" r=\\\"10.5\\\" fill=\\\"url(#a)\\\" stroke=\\\"#f8af18\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\"></circle><path fill=\\\"none\\\" stroke=\\\"#fbbf24\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M32 15.71V9.5m0 45v-6.21m11.52-27.81l4.39-4.39M16.09 47.91l4.39-4.39m0-23l-4.39-4.39m31.82 31.78l-4.39-4.39M15.71 32H9.5m45 0h-6.21\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"45s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"0 32 32; 360 32 32\\\"></animateTransform></path><rect width=\\\"21\\\" height=\\\"21\\\" x=\\\"33.5\\\" y=\\\"33.5\\\" fill=\\\"#9936d4\\\" stroke=\\\"#fff\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"2\\\" rx=\\\"6\\\"></rect><path fill=\\\"#fff\\\" d=\\\"M42.9 40.1a.5.5 0 01.1.36v7.08a.5.5 0 01-.1.36.46.46 0 01-.35.1h-.89a.46.46 0 01-.35-.1.5.5 0 01-.1-.36v-5.29l-1.07.62a.42.42 0 01-.68-.18l-.39-.69a.43.43 0 010-.35.56.56 0 01.28-.27l2-1.18a1.18 1.18 0 01.63-.18h.63a.46.46 0 01.29.08zM47.9 40.1a.5.5 0 01.1.36v7.08a.5.5 0 01-.1.36.46.46 0 01-.35.1h-.89a.46.46 0 01-.35-.1.5.5 0 01-.1-.36v-5.29l-1.07.62a.42.42 0 01-.68-.18l-.38-.69a.45.45 0 01-.07-.35.64.64 0 01.29-.27l2-1.18a1.24 1.24 0 01.64-.18h.63a.46.46 0 01.33.08z\\\"></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/uv-index-11.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/uv-index-2.svg":
-/*!*******************************************************!*\
-  !*** ./src/style/icons/animated_icons/uv-index-2.svg ***!
-  \*******************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"a\\\" x1=\\\"26.75\\\" x2=\\\"37.25\\\" y1=\\\"22.91\\\" y2=\\\"41.09\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#fbbf24\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#fbbf24\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#f59e0b\\\"></stop></linearGradient></defs><circle cx=\\\"32\\\" cy=\\\"32\\\" r=\\\"10.5\\\" fill=\\\"url(#a)\\\" stroke=\\\"#f8af18\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\"></circle><path fill=\\\"none\\\" stroke=\\\"#fbbf24\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M32 15.71V9.5m0 45v-6.21m11.52-27.81l4.39-4.39M16.09 47.91l4.39-4.39m0-23l-4.39-4.39m31.82 31.78l-4.39-4.39M15.71 32H9.5m45 0h-6.21\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"45s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"0 32 32; 360 32 32\\\"></animateTransform></path><rect width=\\\"21\\\" height=\\\"21\\\" x=\\\"33.5\\\" y=\\\"33.5\\\" fill=\\\"#91c700\\\" stroke=\\\"#fff\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"2\\\" rx=\\\"6\\\"></rect><path fill=\\\"#fff\\\" d=\\\"M44.13 40a2.93 2.93 0 012.09.73 2.38 2.38 0 01.78 1.8 2.53 2.53 0 01-.65 1.85 7 7 0 01-2.35 1.3l-.27.09-.28.1-.24.1a.54.54 0 00-.2.14.28.28 0 00-.06.18v.09h3.45a.51.51 0 01.37.1.46.46 0 01.1.35v.72a.47.47 0 01-.1.35.51.51 0 01-.37.1h-4.95a.46.46 0 01-.35-.1.47.47 0 01-.1-.35v-.84a2.33 2.33 0 01.18-1 1.79 1.79 0 01.53-.7 4.36 4.36 0 01.67-.45 7.23 7.23 0 01.8-.36 6.56 6.56 0 001.41-.68 1.22 1.22 0 00.5-1 .9.9 0 00-.28-.68 1.05 1.05 0 00-.75-.28 1.26 1.26 0 00-1.24.81.78.78 0 01-.24.31.54.54 0 01-.35 0l-.88-.31c-.3-.11-.4-.3-.28-.58A3 3 0 0144.13 40z\\\"></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/uv-index-2.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/uv-index-3.svg":
-/*!*******************************************************!*\
-  !*** ./src/style/icons/animated_icons/uv-index-3.svg ***!
-  \*******************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"a\\\" x1=\\\"26.75\\\" x2=\\\"37.25\\\" y1=\\\"22.91\\\" y2=\\\"41.09\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#fbbf24\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#fbbf24\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#f59e0b\\\"></stop></linearGradient></defs><circle cx=\\\"32\\\" cy=\\\"32\\\" r=\\\"10.5\\\" fill=\\\"url(#a)\\\" stroke=\\\"#f8af18\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\"></circle><path fill=\\\"none\\\" stroke=\\\"#fbbf24\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M32 15.71V9.5m0 45v-6.21m11.52-27.81l4.39-4.39M16.09 47.91l4.39-4.39m0-23l-4.39-4.39m31.82 31.78l-4.39-4.39M15.71 32H9.5m45 0h-6.21\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"45s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"0 32 32; 360 32 32\\\"></animateTransform></path><rect width=\\\"21\\\" height=\\\"21\\\" x=\\\"33.5\\\" y=\\\"33.5\\\" fill=\\\"#ffb800\\\" stroke=\\\"#fff\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"2\\\" rx=\\\"6\\\"></rect><path fill=\\\"#fff\\\" d=\\\"M45.94 43.82a1.86 1.86 0 011.06 1.8 2.17 2.17 0 01-.73 1.74 3.18 3.18 0 01-2.16.64A2.9 2.9 0 0141 46.18a.39.39 0 01.27-.56l.82-.29a.4.4 0 01.35 0 .58.58 0 01.22.3 1.18 1.18 0 00.46.61 1.61 1.61 0 00.89.19c.73 0 1.09-.28 1.09-.84s-.3-.85-.91-.85h-.86a.51.51 0 01-.35-.09.43.43 0 01-.1-.34v-.67a.49.49 0 01.1-.35.51.51 0 01.35-.09H44a1.15 1.15 0 00.69-.2.68.68 0 00.27-.59c0-.53-.32-.8-1-.8a1.48 1.48 0 00-.83.18 1.24 1.24 0 00-.42.62.55.55 0 01-.22.29.52.52 0 01-.35 0l-.82-.29a.38.38 0 01-.27-.56 2.64 2.64 0 011.06-1.37 3.66 3.66 0 012-.45 2.88 2.88 0 012 .6 2 2 0 01.7 1.62 1.76 1.76 0 01-.87 1.57z\\\"></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/uv-index-3.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/uv-index-4.svg":
-/*!*******************************************************!*\
-  !*** ./src/style/icons/animated_icons/uv-index-4.svg ***!
-  \*******************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"a\\\" x1=\\\"26.75\\\" x2=\\\"37.25\\\" y1=\\\"22.91\\\" y2=\\\"41.09\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#fbbf24\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#fbbf24\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#f59e0b\\\"></stop></linearGradient></defs><circle cx=\\\"32\\\" cy=\\\"32\\\" r=\\\"10.5\\\" fill=\\\"url(#a)\\\" stroke=\\\"#f8af18\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\"></circle><path fill=\\\"none\\\" stroke=\\\"#fbbf24\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M32 15.71V9.5m0 45v-6.21m11.52-27.81l4.39-4.39M16.09 47.91l4.39-4.39m0-23l-4.39-4.39m31.82 31.78l-4.39-4.39M15.71 32H9.5m45 0h-6.21\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"45s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"0 32 32; 360 32 32\\\"></animateTransform></path><rect width=\\\"21\\\" height=\\\"21\\\" x=\\\"33.5\\\" y=\\\"33.5\\\" fill=\\\"#ffb800\\\" stroke=\\\"#fff\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"2\\\" rx=\\\"6\\\"></rect><path fill=\\\"#fff\\\" d=\\\"M47.4 44.87a.53.53 0 01.1.36v.63a.55.55 0 01-.1.36.54.54 0 01-.38.1h-.64v1.22a.5.5 0 01-.11.36.51.51 0 01-.37.1h-.81a.51.51 0 01-.37-.1.5.5 0 01-.11-.36v-1.22H41a.54.54 0 01-.38-.1.5.5 0 01-.1-.36v-.56a1.44 1.44 0 010-.35.92.92 0 01.17-.25l3.66-4.37a1 1 0 01.3-.26A.81.81 0 0145 40h.86a.51.51 0 01.37.1.5.5 0 01.11.36v4.31H47a.54.54 0 01.4.1zm-4.79-.1h2v-2.38z\\\"></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/uv-index-4.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/uv-index-5.svg":
-/*!*******************************************************!*\
-  !*** ./src/style/icons/animated_icons/uv-index-5.svg ***!
-  \*******************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"a\\\" x1=\\\"26.75\\\" x2=\\\"37.25\\\" y1=\\\"22.91\\\" y2=\\\"41.09\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#fbbf24\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#fbbf24\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#f59e0b\\\"></stop></linearGradient></defs><circle cx=\\\"32\\\" cy=\\\"32\\\" r=\\\"10.5\\\" fill=\\\"url(#a)\\\" stroke=\\\"#f8af18\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\"></circle><path fill=\\\"none\\\" stroke=\\\"#fbbf24\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M32 15.71V9.5m0 45v-6.21m11.52-27.81l4.39-4.39M16.09 47.91l4.39-4.39m0-23l-4.39-4.39m31.82 31.78l-4.39-4.39M15.71 32H9.5m45 0h-6.21\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"45s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"0 32 32; 360 32 32\\\"></animateTransform></path><rect width=\\\"21\\\" height=\\\"21\\\" x=\\\"33.5\\\" y=\\\"33.5\\\" fill=\\\"#ffb800\\\" stroke=\\\"#fff\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"2\\\" rx=\\\"6\\\"></rect><path fill=\\\"#fff\\\" d=\\\"M46.58 40.1a.47.47 0 01.1.35v.73a.46.46 0 01-.1.35.47.47 0 01-.35.1h-2.91l-.11 1.16h1a2.77 2.77 0 012.07.72 2.51 2.51 0 01.7 1.84 2.57 2.57 0 01-.77 1.89 2.83 2.83 0 01-2.09.76c-1.62 0-2.65-.61-3.1-1.82a.52.52 0 010-.37.5.5 0 01.29-.21l.85-.3a.45.45 0 01.35 0 .49.49 0 01.22.3 1.23 1.23 0 00.47.59 1.69 1.69 0 00.88.2 1 1 0 00.75-.27 1 1 0 00.28-.77.85.85 0 00-.29-.69 1.08 1.08 0 00-.75-.25h-2.3a.47.47 0 01-.38-.12.52.52 0 01-.08-.4l.33-3.22a.7.7 0 01.19-.5.75.75 0 01.53-.14h3.87a.47.47 0 01.35.07z\\\"></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/uv-index-5.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/uv-index-6.svg":
-/*!*******************************************************!*\
-  !*** ./src/style/icons/animated_icons/uv-index-6.svg ***!
-  \*******************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"a\\\" x1=\\\"26.75\\\" x2=\\\"37.25\\\" y1=\\\"22.91\\\" y2=\\\"41.09\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#fbbf24\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#fbbf24\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#f59e0b\\\"></stop></linearGradient></defs><circle cx=\\\"32\\\" cy=\\\"32\\\" r=\\\"10.5\\\" fill=\\\"url(#a)\\\" stroke=\\\"#f8af18\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\"></circle><path fill=\\\"none\\\" stroke=\\\"#fbbf24\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M32 15.71V9.5m0 45v-6.21m11.52-27.81l4.39-4.39M16.09 47.91l4.39-4.39m0-23l-4.39-4.39m31.82 31.78l-4.39-4.39M15.71 32H9.5m45 0h-6.21\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"45s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"0 32 32; 360 32 32\\\"></animateTransform></path><rect width=\\\"21\\\" height=\\\"21\\\" x=\\\"33.5\\\" y=\\\"33.5\\\" fill=\\\"#ff8d00\\\" stroke=\\\"#fff\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"2\\\" rx=\\\"6\\\"></rect><path fill=\\\"#fff\\\" d=\\\"M44.11 43C46 43 47 43.8 47 45.47a2.26 2.26 0 01-.8 1.85A3.29 3.29 0 0144 48a3 3 0 01-2.23-.76 2.84 2.84 0 01-.77-2.12v-2.24a2.81 2.81 0 01.78-2.12A3 3 0 0144 40a2.73 2.73 0 012.87 1.73.37.37 0 010 .35.53.53 0 01-.3.21l-.77.29a.42.42 0 01-.34 0 .67.67 0 01-.22-.31 1.23 1.23 0 00-1.24-.66 1.11 1.11 0 00-1.27 1.25v.23a6.56 6.56 0 011.38-.09zM44 46.41q1.26 0 1.26-.93a.84.84 0 00-.29-.7 1.63 1.63 0 00-1-.23 3.7 3.7 0 00-1.26.17v.49q.03 1.2 1.29 1.2z\\\"></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/uv-index-6.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/uv-index-7.svg":
-/*!*******************************************************!*\
-  !*** ./src/style/icons/animated_icons/uv-index-7.svg ***!
-  \*******************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"a\\\" x1=\\\"26.75\\\" x2=\\\"37.25\\\" y1=\\\"22.91\\\" y2=\\\"41.09\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#fbbf24\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#fbbf24\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#f59e0b\\\"></stop></linearGradient></defs><circle cx=\\\"32\\\" cy=\\\"32\\\" r=\\\"10.5\\\" fill=\\\"url(#a)\\\" stroke=\\\"#f8af18\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\"></circle><path fill=\\\"none\\\" stroke=\\\"#fbbf24\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M32 15.71V9.5m0 45v-6.21m11.52-27.81l4.39-4.39M16.09 47.91l4.39-4.39m0-23l-4.39-4.39m31.82 31.78l-4.39-4.39M15.71 32H9.5m45 0h-6.21\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"45s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"0 32 32; 360 32 32\\\"></animateTransform></path><rect width=\\\"21\\\" height=\\\"21\\\" x=\\\"33.5\\\" y=\\\"33.5\\\" fill=\\\"#ff8d00\\\" stroke=\\\"#fff\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"2\\\" rx=\\\"6\\\"></rect><path fill=\\\"#fff\\\" d=\\\"M46.9 40.1a.5.5 0 01.1.36V41a1.51 1.51 0 01-.15.65l-2.8 5.93a.61.61 0 01-.27.34 1.88 1.88 0 01-.6.07h-.92c-.28 0-.36-.15-.23-.46l2.79-5.87h-3.36a.53.53 0 01-.36-.1.49.49 0 01-.1-.35v-.76a.5.5 0 01.1-.36.48.48 0 01.36-.1h5.07a.53.53 0 01.37.11z\\\"></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/uv-index-7.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/uv-index-8.svg":
-/*!*******************************************************!*\
-  !*** ./src/style/icons/animated_icons/uv-index-8.svg ***!
-  \*******************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"a\\\" x1=\\\"26.75\\\" x2=\\\"37.25\\\" y1=\\\"22.91\\\" y2=\\\"41.09\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#fbbf24\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#fbbf24\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#f59e0b\\\"></stop></linearGradient></defs><circle cx=\\\"32\\\" cy=\\\"32\\\" r=\\\"10.5\\\" fill=\\\"url(#a)\\\" stroke=\\\"#f8af18\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\"></circle><path fill=\\\"none\\\" stroke=\\\"#fbbf24\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M32 15.71V9.5m0 45v-6.21m11.52-27.81l4.39-4.39M16.09 47.91l4.39-4.39m0-23l-4.39-4.39m31.82 31.78l-4.39-4.39M15.71 32H9.5m45 0h-6.21\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"45s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"0 32 32; 360 32 32\\\"></animateTransform></path><rect width=\\\"21\\\" height=\\\"21\\\" x=\\\"33.5\\\" y=\\\"33.5\\\" fill=\\\"#ff3c00\\\" stroke=\\\"#fff\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"2\\\" rx=\\\"6\\\"></rect><path fill=\\\"#fff\\\" d=\\\"M42 40.6a3 3 0 012-.6 3.26 3.26 0 012.06.55 1.87 1.87 0 01.7 1.57 1.91 1.91 0 01-.86 1.65 2 2 0 011.1 1.88 2.12 2.12 0 01-.74 1.72A3.45 3.45 0 0144 48c-2 0-3-.72-3-2.15A2 2 0 0142.11 44a2 2 0 01-.87-1.78A2 2 0 0142 40.6zm3.17 4.83a.48.48 0 00-.09-.19.53.53 0 00-.17-.16L44.7 45a1.58 1.58 0 00-.26-.1l-.28-.07-.33-.08-.35-.08a1.09 1.09 0 00-.73 1c0 .55.41.83 1.24.83a1.54 1.54 0 00.92-.21.72.72 0 00.28-.62.62.62 0 00-.04-.24zm-.37-3.74a1.31 1.31 0 00-.77-.2c-.68 0-1 .27-1 .79a.64.64 0 00.24.55 2.3 2.3 0 00.73.32l.45.11a1 1 0 00.65-1 .68.68 0 00-.32-.57z\\\"></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/uv-index-8.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/uv-index-9.svg":
-/*!*******************************************************!*\
-  !*** ./src/style/icons/animated_icons/uv-index-9.svg ***!
-  \*******************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"a\\\" x1=\\\"26.75\\\" x2=\\\"37.25\\\" y1=\\\"22.91\\\" y2=\\\"41.09\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#fbbf24\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#fbbf24\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#f59e0b\\\"></stop></linearGradient></defs><circle cx=\\\"32\\\" cy=\\\"32\\\" r=\\\"10.5\\\" fill=\\\"url(#a)\\\" stroke=\\\"#f8af18\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\"></circle><path fill=\\\"none\\\" stroke=\\\"#fbbf24\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M32 15.71V9.5m0 45v-6.21m11.52-27.81l4.39-4.39M16.09 47.91l4.39-4.39m0-23l-4.39-4.39m31.82 31.78l-4.39-4.39M15.71 32H9.5m45 0h-6.21\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"45s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"0 32 32; 360 32 32\\\"></animateTransform></path><rect width=\\\"21\\\" height=\\\"21\\\" x=\\\"33.5\\\" y=\\\"33.5\\\" fill=\\\"#ff3c00\\\" stroke=\\\"#fff\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"2\\\" rx=\\\"6\\\"></rect><path fill=\\\"#fff\\\" d=\\\"M43.89 45a3.21 3.21 0 01-2.18-.63 2.38 2.38 0 01-.71-1.84 2.25 2.25 0 01.8-1.85A3.29 3.29 0 0144 40a3 3 0 012.23.76 2.84 2.84 0 01.77 2.12v2.24a2.81 2.81 0 01-.78 2.12A3 3 0 0144 48a2.75 2.75 0 01-2.88-1.73.4.4 0 010-.35.53.53 0 01.29-.21l.78-.29a.42.42 0 01.34 0 .75.75 0 01.22.31 1.21 1.21 0 001.26.69 1.11 1.11 0 001.27-1.25v-.23a6.78 6.78 0 01-1.39.06zm.11-3.41q-1.26 0-1.26.93a.84.84 0 00.29.7 1.63 1.63 0 001 .23 3.43 3.43 0 001.26-.18v-.48q-.03-1.2-1.29-1.2z\\\"></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/uv-index-9.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/uv-index.svg":
-/*!*****************************************************!*\
-  !*** ./src/style/icons/animated_icons/uv-index.svg ***!
-  \*****************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"b\\\" x1=\\\"26.75\\\" x2=\\\"37.25\\\" y1=\\\"22.91\\\" y2=\\\"41.09\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#fbbf24\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#fbbf24\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#f59e0b\\\"></stop></linearGradient><clipPath id=\\\"a\\\"><path fill=\\\"none\\\" d=\\\"M33.5 48.5v-9a6 6 0 016-6h17v-26h-49v49h28V53a6 6 0 01-2-4.5z\\\"></path></clipPath></defs><g stroke-miterlimit=\\\"10\\\" clip-path=\\\"url(#a)\\\"><circle cx=\\\"32\\\" cy=\\\"32\\\" r=\\\"10.5\\\" fill=\\\"url(#b)\\\" stroke=\\\"#f8af18\\\" stroke-width=\\\".5\\\"></circle><path fill=\\\"none\\\" stroke=\\\"#fbbf24\\\" stroke-linecap=\\\"round\\\" stroke-width=\\\"3\\\" d=\\\"M32 15.71V9.5m0 45v-6.21m11.52-27.81l4.39-4.39M16.09 47.91l4.39-4.39m0-23l-4.39-4.39m31.82 31.78l-4.39-4.39M15.71 32H9.5m45 0h-6.21\\\"><animateTransform attributeName=\\\"transform\\\" dur=\\\"45s\\\" repeatCount=\\\"indefinite\\\" type=\\\"rotate\\\" values=\\\"0 32 32; 360 32 32\\\"></animateTransform></path></g><path fill=\\\"#374151\\\" d=\\\"M41.69 46.56A1.87 1.87 0 0043 47c1.17 0 1.76-.52 1.76-1.56v-5.87a.66.66 0 01.12-.45.64.64 0 01.44-.12h1.12a.46.46 0 01.57.57v5.77A3.5 3.5 0 0146 48a4.17 4.17 0 01-3 1 4.14 4.14 0 01-3-1 3.5 3.5 0 01-1-2.68v-5.75a.46.46 0 01.57-.57h1.12a.6.6 0 01.43.12.66.66 0 01.12.45v5.83a1.47 1.47 0 00.45 1.16zM57.44 39.56l-3.17 9a.72.72 0 01-.25.38.81.81 0 01-.45.1h-1.13a.89.89 0 01-.45-.09.63.63 0 01-.24-.36l-3.19-9c-.14-.37 0-.56.37-.56h1a1.6 1.6 0 01.73.11.67.67 0 01.3.41l1.63 5.25c.06.23.13.48.19.77s.1.5.13.67v.25h.11a9.3 9.3 0 01.35-1.67l1.6-5.27a.61.61 0 01.3-.41 1.51 1.51 0 01.71-.11h1c.48-.03.6.16.46.53z\\\"></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/uv-index.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/wind-beaufort-0.svg":
-/*!************************************************************!*\
-  !*** ./src/style/icons/animated_icons/wind-beaufort-0.svg ***!
-  \************************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" xmlns:xlink=\\\"http://www.w3.org/1999/xlink\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"a\\\" x1=\\\"27.56\\\" x2=\\\"38.27\\\" y1=\\\"17.64\\\" y2=\\\"36.19\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#d4d7dd\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#d4d7dd\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#bec1c6\\\"></stop></linearGradient><linearGradient id=\\\"b\\\" x1=\\\"19.96\\\" x2=\\\"31.37\\\" y1=\\\"29.03\\\" y2=\\\"48.8\\\" xlink:href=\\\"#a\\\"></linearGradient></defs><path fill=\\\"none\\\" stroke=\\\"url(#a)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M43.64 20a5 5 0 113.61 8.46h-35.5\\\"></path><path fill=\\\"none\\\" stroke=\\\"url(#b)\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M29.14 44a5 5 0 103.61-8.46h-21\\\"></path><path fill=\\\"#374151\\\" d=\\\"M46.08 35.46a4.08 4.08 0 012.92-1 4.08 4.08 0 012.92 1 3.44 3.44 0 011 2.64V42a3.49 3.49 0 01-1 2.66 4.12 4.12 0 01-2.92 1 4.12 4.12 0 01-2.92-1A3.46 3.46 0 0145 42v-3.9a3.41 3.41 0 011.08-2.64zm4.46 1.26a2.66 2.66 0 00-3.08 0 1.78 1.78 0 00-.54 1.38V42a1.78 1.78 0 00.54 1.38 2.67 2.67 0 003.08 0 1.78 1.78 0 00.54-1.38v-3.9a1.78 1.78 0 00-.54-1.38z\\\"></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/wind-beaufort-0.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/wind-beaufort-1.svg":
-/*!************************************************************!*\
-  !*** ./src/style/icons/animated_icons/wind-beaufort-1.svg ***!
-  \************************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" xmlns:xlink=\\\"http://www.w3.org/1999/xlink\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"a\\\" x1=\\\"27.56\\\" x2=\\\"38.27\\\" y1=\\\"17.64\\\" y2=\\\"36.19\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#d4d7dd\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#d4d7dd\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#bec1c6\\\"></stop></linearGradient><linearGradient id=\\\"b\\\" x1=\\\"19.96\\\" x2=\\\"31.37\\\" y1=\\\"29.03\\\" y2=\\\"48.8\\\" xlink:href=\\\"#a\\\"></linearGradient></defs><path fill=\\\"none\\\" stroke=\\\"url(#a)\\\" stroke-dasharray=\\\"35 22\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M43.64 20a5 5 0 113.61 8.46h-35.5\\\"><animate attributeName=\\\"stroke-dashoffset\\\" dur=\\\"2.1s\\\" repeatCount=\\\"indefinite\\\" values=\\\"-57; 57\\\"></animate></path><path fill=\\\"none\\\" stroke=\\\"url(#b)\\\" stroke-dasharray=\\\"24 15\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M29.14 44a5 5 0 103.61-8.46h-21\\\"><animate attributeName=\\\"stroke-dashoffset\\\" begin=\\\"-.525s\\\" dur=\\\"2.1s\\\" repeatCount=\\\"indefinite\\\" values=\\\"-39; 39\\\"></animate></path><path fill=\\\"#374151\\\" d=\\\"M51 34.82a.52.52 0 01.11.39v9.64a.51.51 0 01-.11.39.52.52 0 01-.4.12h-.85a.43.43 0 01-.51-.51V37l-2.1 1.17a.62.62 0 01-.46.12.57.57 0 01-.3-.31l-.38-.69a.58.58 0 01-.07-.4.67.67 0 01.31-.29l2.93-1.68a1.34 1.34 0 01.72-.21h.71a.52.52 0 01.4.11z\\\"></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/wind-beaufort-1.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/wind-beaufort-10.svg":
-/*!*************************************************************!*\
-  !*** ./src/style/icons/animated_icons/wind-beaufort-10.svg ***!
-  \*************************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" xmlns:xlink=\\\"http://www.w3.org/1999/xlink\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"a\\\" x1=\\\"27.56\\\" x2=\\\"38.27\\\" y1=\\\"17.64\\\" y2=\\\"36.19\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#d4d7dd\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#d4d7dd\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#bec1c6\\\"></stop></linearGradient><linearGradient id=\\\"b\\\" x1=\\\"19.96\\\" x2=\\\"31.37\\\" y1=\\\"29.03\\\" y2=\\\"48.8\\\" xlink:href=\\\"#a\\\"></linearGradient></defs><path fill=\\\"none\\\" stroke=\\\"url(#a)\\\" stroke-dasharray=\\\"35 22\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M43.64 20a5 5 0 113.61 8.46h-35.5\\\"><animate attributeName=\\\"stroke-dashoffset\\\" dur=\\\"1.2s\\\" repeatCount=\\\"indefinite\\\" values=\\\"-57; 57\\\"></animate></path><path fill=\\\"none\\\" stroke=\\\"url(#b)\\\" stroke-dasharray=\\\"24 15\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M29.14 44a5 5 0 103.61-8.46h-21\\\"><animate attributeName=\\\"stroke-dashoffset\\\" begin=\\\"-.3s\\\" dur=\\\"1.2s\\\" repeatCount=\\\"indefinite\\\" values=\\\"-39; 39\\\"></animate></path><path fill=\\\"#374151\\\" d=\\\"M46.28 34.82a.57.57 0 01.11.39v9.64a.43.43 0 01-.51.51H45a.52.52 0 01-.4-.12.51.51 0 01-.11-.39V37l-2.1 1.17a.65.65 0 01-.47.12.6.6 0 01-.3-.31l-.37-.67a.53.53 0 01-.07-.4c0-.1.14-.19.31-.29l2.92-1.68a1.37 1.37 0 01.72-.21h.72a.55.55 0 01.43.09zM49.38 35.46a4.84 4.84 0 015.84 0 3.44 3.44 0 011 2.64V42a3.49 3.49 0 01-1 2.66 4.88 4.88 0 01-5.84 0A3.42 3.42 0 0148.33 42v-3.9a3.38 3.38 0 011.05-2.64zm4.46 1.26a2.66 2.66 0 00-3.08 0 1.78 1.78 0 00-.55 1.38V42a1.78 1.78 0 00.55 1.38 2.67 2.67 0 003.08 0 1.78 1.78 0 00.54-1.38v-3.9a1.78 1.78 0 00-.54-1.38z\\\"></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/wind-beaufort-10.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/wind-beaufort-11.svg":
-/*!*************************************************************!*\
-  !*** ./src/style/icons/animated_icons/wind-beaufort-11.svg ***!
-  \*************************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" xmlns:xlink=\\\"http://www.w3.org/1999/xlink\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"a\\\" x1=\\\"27.56\\\" x2=\\\"38.27\\\" y1=\\\"17.64\\\" y2=\\\"36.19\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#d4d7dd\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#d4d7dd\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#bec1c6\\\"></stop></linearGradient><linearGradient id=\\\"b\\\" x1=\\\"19.96\\\" x2=\\\"31.37\\\" y1=\\\"29.03\\\" y2=\\\"48.8\\\" xlink:href=\\\"#a\\\"></linearGradient></defs><path fill=\\\"none\\\" stroke=\\\"url(#a)\\\" stroke-dasharray=\\\"35 22\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M43.64 20a5 5 0 113.61 8.46h-35.5\\\"><animate attributeName=\\\"stroke-dashoffset\\\" dur=\\\"1.1s\\\" repeatCount=\\\"indefinite\\\" values=\\\"-57; 57\\\"></animate></path><path fill=\\\"none\\\" stroke=\\\"url(#b)\\\" stroke-dasharray=\\\"24 15\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M29.14 44a5 5 0 103.61-8.46h-21\\\"><animate attributeName=\\\"stroke-dashoffset\\\" begin=\\\"-.275s\\\" dur=\\\"1.1s\\\" repeatCount=\\\"indefinite\\\" values=\\\"-39; 39\\\"></animate></path><path fill=\\\"#374151\\\" d=\\\"M47.73 34.82a.52.52 0 01.11.39v9.64a.51.51 0 01-.11.39.52.52 0 01-.4.12h-.85a.43.43 0 01-.51-.51V37l-2.1 1.17a.62.62 0 01-.46.12.57.57 0 01-.3-.31l-.38-.67a.58.58 0 01-.07-.4.67.67 0 01.34-.31l2.93-1.68a1.34 1.34 0 01.72-.21h.71a.52.52 0 01.37.11zM54.33 34.82a.52.52 0 01.11.39v9.64a.51.51 0 01-.11.39.53.53 0 01-.4.12h-.85a.43.43 0 01-.51-.51V37l-2.1 1.17a.63.63 0 01-.47.12.55.55 0 01-.29-.31l-.38-.67a.58.58 0 01-.07-.4.67.67 0 01.31-.29l2.93-1.68a1.31 1.31 0 01.71-.21h.72a.53.53 0 01.4.09z\\\"></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/wind-beaufort-11.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/wind-beaufort-12.svg":
-/*!*************************************************************!*\
-  !*** ./src/style/icons/animated_icons/wind-beaufort-12.svg ***!
-  \*************************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" xmlns:xlink=\\\"http://www.w3.org/1999/xlink\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"a\\\" x1=\\\"27.56\\\" x2=\\\"38.27\\\" y1=\\\"17.64\\\" y2=\\\"36.19\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#d4d7dd\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#d4d7dd\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#bec1c6\\\"></stop></linearGradient><linearGradient id=\\\"b\\\" x1=\\\"19.96\\\" x2=\\\"31.37\\\" y1=\\\"29.03\\\" y2=\\\"48.8\\\" xlink:href=\\\"#a\\\"></linearGradient></defs><path fill=\\\"none\\\" stroke=\\\"url(#a)\\\" stroke-dasharray=\\\"35 22\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M43.64 20a5 5 0 113.61 8.46h-35.5\\\"><animate attributeName=\\\"stroke-dashoffset\\\" dur=\\\"1s\\\" repeatCount=\\\"indefinite\\\" values=\\\"-57; 57\\\"></animate></path><path fill=\\\"none\\\" stroke=\\\"url(#b)\\\" stroke-dasharray=\\\"24 15\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M29.14 44a5 5 0 103.61-8.46h-21\\\"><animate attributeName=\\\"stroke-dashoffset\\\" begin=\\\"-.25s\\\" dur=\\\"1s\\\" repeatCount=\\\"indefinite\\\" values=\\\"-39; 39\\\"></animate></path><path fill=\\\"#374151\\\" d=\\\"M46.55 34.82a.57.57 0 01.11.39v9.64a.43.43 0 01-.51.51h-.86a.43.43 0 01-.5-.51V37l-2.11 1.17a.62.62 0 01-.46.12.6.6 0 01-.3-.31l-.38-.67a.52.52 0 01-.06-.4c0-.1.14-.19.31-.29l2.92-1.68a1.37 1.37 0 01.72-.21h.72a.55.55 0 01.4.09zM52.51 34.48a3.64 3.64 0 012.65 1 3.23 3.23 0 011 2.37 3.29 3.29 0 01-.9 2.48 10.49 10.49 0 01-3.26 1.8l-.22.08-.23.09-.22.09a.92.92 0 00-.23.12l-.19.11a1 1 0 00-.18.15l-.13.16a.34.34 0 00-.09.19.76.76 0 000 .21v.27h5a.58.58 0 01.4.11.55.55 0 01.11.4v.74a.51.51 0 01-.11.39.53.53 0 01-.4.12H49a.43.43 0 01-.51-.51v-1.13a3.33 3.33 0 01.23-1.28 2.32 2.32 0 01.71-.93 5.73 5.73 0 01.9-.61c.28-.15.65-.31 1.11-.5a8.51 8.51 0 001.94-.93 1.84 1.84 0 00.79-1.55 1.66 1.66 0 00-.48-1.2 1.74 1.74 0 00-1.26-.49 2.09 2.09 0 00-2.07 1.34.64.64 0 01-.25.35.54.54 0 01-.41 0l-.81-.3c-.34-.13-.45-.34-.33-.64a3.87 3.87 0 013.95-2.5z\\\"></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/wind-beaufort-12.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/wind-beaufort-2.svg":
-/*!************************************************************!*\
-  !*** ./src/style/icons/animated_icons/wind-beaufort-2.svg ***!
-  \************************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" xmlns:xlink=\\\"http://www.w3.org/1999/xlink\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"a\\\" x1=\\\"27.56\\\" x2=\\\"38.27\\\" y1=\\\"17.64\\\" y2=\\\"36.19\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#d4d7dd\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#d4d7dd\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#bec1c6\\\"></stop></linearGradient><linearGradient id=\\\"b\\\" x1=\\\"19.96\\\" x2=\\\"31.37\\\" y1=\\\"29.03\\\" y2=\\\"48.8\\\" xlink:href=\\\"#a\\\"></linearGradient></defs><path fill=\\\"none\\\" stroke=\\\"url(#a)\\\" stroke-dasharray=\\\"35 22\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M43.64 20a5 5 0 113.61 8.46h-35.5\\\"><animate attributeName=\\\"stroke-dashoffset\\\" dur=\\\"2s\\\" repeatCount=\\\"indefinite\\\" values=\\\"-57; 57\\\"></animate></path><path fill=\\\"none\\\" stroke=\\\"url(#b)\\\" stroke-dasharray=\\\"24 15\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M29.14 44a5 5 0 103.61-8.46h-21\\\"><animate attributeName=\\\"stroke-dashoffset\\\" begin=\\\"-.5s\\\" dur=\\\"2s\\\" repeatCount=\\\"indefinite\\\" values=\\\"-39; 39\\\"></animate></path><path fill=\\\"#374151\\\" d=\\\"M49.21 34.48a3.64 3.64 0 012.65 1 3.23 3.23 0 011 2.37 3.29 3.29 0 01-.9 2.48 10.49 10.49 0 01-3.28 1.82l-.22.08-.23.09-.22.09a.92.92 0 00-.23.12l-.19.11a1 1 0 00-.18.15l-.13.16a.34.34 0 00-.09.19.76.76 0 000 .21v.27h5a.58.58 0 01.4.11.55.55 0 01.11.4v.74a.51.51 0 01-.11.39.53.53 0 01-.4.12H45.7a.43.43 0 01-.51-.51v-1.15a3.33 3.33 0 01.23-1.28 2.32 2.32 0 01.71-.93 5.73 5.73 0 01.9-.61c.28-.15.65-.31 1.11-.5a8.51 8.51 0 001.94-.93 1.84 1.84 0 00.79-1.55 1.66 1.66 0 00-.48-1.2 1.74 1.74 0 00-1.26-.49 2.09 2.09 0 00-2.07 1.34.64.64 0 01-.25.35.54.54 0 01-.41 0l-.81-.3c-.34-.13-.45-.34-.33-.64a3.87 3.87 0 013.95-2.5z\\\"></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/wind-beaufort-2.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/wind-beaufort-3.svg":
-/*!************************************************************!*\
-  !*** ./src/style/icons/animated_icons/wind-beaufort-3.svg ***!
-  \************************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" xmlns:xlink=\\\"http://www.w3.org/1999/xlink\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"a\\\" x1=\\\"27.56\\\" x2=\\\"38.27\\\" y1=\\\"17.64\\\" y2=\\\"36.19\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#d4d7dd\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#d4d7dd\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#bec1c6\\\"></stop></linearGradient><linearGradient id=\\\"b\\\" x1=\\\"19.96\\\" x2=\\\"31.37\\\" y1=\\\"29.03\\\" y2=\\\"48.8\\\" xlink:href=\\\"#a\\\"></linearGradient></defs><path fill=\\\"none\\\" stroke=\\\"url(#a)\\\" stroke-dasharray=\\\"35 22\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M43.64 20a5 5 0 113.61 8.46h-35.5\\\"><animate attributeName=\\\"stroke-dashoffset\\\" dur=\\\"1.9s\\\" repeatCount=\\\"indefinite\\\" values=\\\"-57; 57\\\"></animate></path><path fill=\\\"none\\\" stroke=\\\"url(#b)\\\" stroke-dasharray=\\\"24 15\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M29.14 44a5 5 0 103.61-8.46h-21\\\"><animate attributeName=\\\"stroke-dashoffset\\\" begin=\\\"-.475s\\\" dur=\\\"1.9s\\\" repeatCount=\\\"indefinite\\\" values=\\\"-39; 39\\\"></animate></path><path fill=\\\"#374151\\\" d=\\\"M51.44 39.79A2.54 2.54 0 0153 42.32a3 3 0 01-1 2.38 4.15 4.15 0 01-2.88.88q-3.18 0-4.07-2.52a.47.47 0 01.33-.66l.81-.28a.55.55 0 01.41 0 .69.69 0 01.25.34 2.07 2.07 0 00.75 1.06 2.74 2.74 0 001.52.33q1.89 0 1.89-1.53t-1.56-1.5h-1.58a.58.58 0 01-.4-.1.53.53 0 01-.11-.4v-.68a.55.55 0 01.11-.4.58.58 0 01.4-.11h1.29a1.65 1.65 0 001.14-.38 1.31 1.31 0 00.43-1c0-1-.56-1.46-1.68-1.46a2.5 2.5 0 00-1.42.32 2.21 2.21 0 00-.71 1.07.6.6 0 01-.24.33.56.56 0 01-.42 0l-.81-.29a.46.46 0 01-.33-.66 3.56 3.56 0 011.38-1.96 4.69 4.69 0 012.58-.62 3.8 3.8 0 012.6.81 2.82 2.82 0 01.93 2.24 2.4 2.4 0 01-1.17 2.26z\\\"></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/wind-beaufort-3.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/wind-beaufort-4.svg":
-/*!************************************************************!*\
-  !*** ./src/style/icons/animated_icons/wind-beaufort-4.svg ***!
-  \************************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" xmlns:xlink=\\\"http://www.w3.org/1999/xlink\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"a\\\" x1=\\\"27.56\\\" x2=\\\"38.27\\\" y1=\\\"17.64\\\" y2=\\\"36.19\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#d4d7dd\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#d4d7dd\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#bec1c6\\\"></stop></linearGradient><linearGradient id=\\\"b\\\" x1=\\\"19.96\\\" x2=\\\"31.37\\\" y1=\\\"29.03\\\" y2=\\\"48.8\\\" xlink:href=\\\"#a\\\"></linearGradient></defs><path fill=\\\"none\\\" stroke=\\\"url(#a)\\\" stroke-dasharray=\\\"35 22\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M43.64 20a5 5 0 113.61 8.46h-35.5\\\"><animate attributeName=\\\"stroke-dashoffset\\\" dur=\\\"1.8s\\\" repeatCount=\\\"indefinite\\\" values=\\\"-57; 57\\\"></animate></path><path fill=\\\"none\\\" stroke=\\\"url(#b)\\\" stroke-dasharray=\\\"24 15\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M29.14 44a5 5 0 103.61-8.46h-21\\\"><animate attributeName=\\\"stroke-dashoffset\\\" begin=\\\"-.45s\\\" dur=\\\"1.8s\\\" repeatCount=\\\"indefinite\\\" values=\\\"-39; 39\\\"></animate></path><path fill=\\\"#374151\\\" d=\\\"M53.25 41.33a.57.57 0 01.11.39v.65a.6.6 0 01-.11.4.56.56 0 01-.4.11h-1v2a.43.43 0 01-.51.51h-.73a.55.55 0 01-.4-.12.51.51 0 01-.11-.39v-2h-5a.6.6 0 01-.4-.11.55.55 0 01-.11-.4v-.54a1 1 0 01.18-.62l5-6.17a.88.88 0 01.72-.36h.82a.6.6 0 01.4.1.59.59 0 01.11.41v6h1a.55.55 0 01.43.14zm-6.45-.12h3.26v-4z\\\"></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/wind-beaufort-4.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/wind-beaufort-5.svg":
-/*!************************************************************!*\
-  !*** ./src/style/icons/animated_icons/wind-beaufort-5.svg ***!
-  \************************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" xmlns:xlink=\\\"http://www.w3.org/1999/xlink\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"a\\\" x1=\\\"27.56\\\" x2=\\\"38.27\\\" y1=\\\"17.64\\\" y2=\\\"36.19\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#d4d7dd\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#d4d7dd\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#bec1c6\\\"></stop></linearGradient><linearGradient id=\\\"b\\\" x1=\\\"19.96\\\" x2=\\\"31.37\\\" y1=\\\"29.03\\\" y2=\\\"48.8\\\" xlink:href=\\\"#a\\\"></linearGradient></defs><path fill=\\\"none\\\" stroke=\\\"url(#a)\\\" stroke-dasharray=\\\"35 22\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M43.64 20a5 5 0 113.61 8.46h-35.5\\\"><animate attributeName=\\\"stroke-dashoffset\\\" dur=\\\"1.7s\\\" repeatCount=\\\"indefinite\\\" values=\\\"-57; 57\\\"></animate></path><path fill=\\\"none\\\" stroke=\\\"url(#b)\\\" stroke-dasharray=\\\"24 15\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M29.14 44a5 5 0 103.61-8.46h-21\\\"><animate attributeName=\\\"stroke-dashoffset\\\" begin=\\\"-.425s\\\" dur=\\\"1.7s\\\" repeatCount=\\\"indefinite\\\" values=\\\"-39; 39\\\"></animate></path><path fill=\\\"#374151\\\" d=\\\"M52.37 34.82a.57.57 0 01.11.39V36a.42.42 0 01-.51.51h-4.29l-.22 2.21h1.81a3.62 3.62 0 012.71.95 3.32 3.32 0 01.94 2.33 3.42 3.42 0 01-1 2.52 3.69 3.69 0 01-2.75 1c-2.12 0-3.48-.81-4.07-2.45a.46.46 0 01.32-.66l.83-.28a.54.54 0 01.4 0 .62.62 0 01.24.36 2.15 2.15 0 002.26 1.31 1.8 1.8 0 001.31-.47 1.71 1.71 0 00.47-1.33 1.53 1.53 0 00-.48-1.19 1.82 1.82 0 00-1.28-.45H46a.55.55 0 01-.45-.14.6.6 0 01-.09-.46l.45-4.36a1 1 0 01.22-.58 1 1 0 01.61-.15H52a.55.55 0 01.37.15z\\\"></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/wind-beaufort-5.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/wind-beaufort-6.svg":
-/*!************************************************************!*\
-  !*** ./src/style/icons/animated_icons/wind-beaufort-6.svg ***!
-  \************************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" xmlns:xlink=\\\"http://www.w3.org/1999/xlink\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"a\\\" x1=\\\"27.56\\\" x2=\\\"38.27\\\" y1=\\\"17.64\\\" y2=\\\"36.19\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#d4d7dd\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#d4d7dd\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#bec1c6\\\"></stop></linearGradient><linearGradient id=\\\"b\\\" x1=\\\"19.96\\\" x2=\\\"31.37\\\" y1=\\\"29.03\\\" y2=\\\"48.8\\\" xlink:href=\\\"#a\\\"></linearGradient></defs><path fill=\\\"none\\\" stroke=\\\"url(#a)\\\" stroke-dasharray=\\\"35 22\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M43.64 20a5 5 0 113.61 8.46h-35.5\\\"><animate attributeName=\\\"stroke-dashoffset\\\" dur=\\\"1.6s\\\" repeatCount=\\\"indefinite\\\" values=\\\"-57; 57\\\"></animate></path><path fill=\\\"none\\\" stroke=\\\"url(#b)\\\" stroke-dasharray=\\\"24 15\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M29.14 44a5 5 0 103.61-8.46h-21\\\"><animate attributeName=\\\"stroke-dashoffset\\\" begin=\\\"-.4s\\\" dur=\\\"1.6s\\\" repeatCount=\\\"indefinite\\\" values=\\\"-39; 39\\\"></animate></path><path fill=\\\"#374151\\\" d=\\\"M49.21 38.72c2.59 0 3.88 1.15 3.88 3.42A3.13 3.13 0 0152 44.66a4.41 4.41 0 01-3 .92 4.11 4.11 0 01-3-1 3.87 3.87 0 01-1-2.87v-3.32a3.88 3.88 0 011-2.88 4.1 4.1 0 013-1q3 0 3.87 2.37a.56.56 0 010 .41.73.73 0 01-.35.25l-.8.28a.46.46 0 01-.4 0 .69.69 0 01-.25-.35 2.05 2.05 0 00-2.11-1.25 1.91 1.91 0 00-2.16 2.15V39a8.91 8.91 0 012.41-.28zm-.15 5.1a2.66 2.66 0 001.61-.42 1.49 1.49 0 00.55-1.26 1.56 1.56 0 00-.5-1.25 2.65 2.65 0 00-1.64-.41 5.3 5.3 0 00-2.18.34v.86a1.9 1.9 0 002.16 2.14z\\\"></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/wind-beaufort-6.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/wind-beaufort-7.svg":
-/*!************************************************************!*\
-  !*** ./src/style/icons/animated_icons/wind-beaufort-7.svg ***!
-  \************************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" xmlns:xlink=\\\"http://www.w3.org/1999/xlink\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"a\\\" x1=\\\"27.56\\\" x2=\\\"38.27\\\" y1=\\\"17.64\\\" y2=\\\"36.19\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#d4d7dd\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#d4d7dd\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#bec1c6\\\"></stop></linearGradient><linearGradient id=\\\"b\\\" x1=\\\"19.96\\\" x2=\\\"31.37\\\" y1=\\\"29.03\\\" y2=\\\"48.8\\\" xlink:href=\\\"#a\\\"></linearGradient></defs><path fill=\\\"none\\\" stroke=\\\"url(#a)\\\" stroke-dasharray=\\\"35 22\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M43.64 20a5 5 0 113.61 8.46h-35.5\\\"><animate attributeName=\\\"stroke-dashoffset\\\" dur=\\\"1.5s\\\" repeatCount=\\\"indefinite\\\" values=\\\"-57; 57\\\"></animate></path><path fill=\\\"none\\\" stroke=\\\"url(#b)\\\" stroke-dasharray=\\\"24 15\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M29.14 44a5 5 0 103.61-8.46h-21\\\"><animate attributeName=\\\"stroke-dashoffset\\\" begin=\\\"-.375s\\\" dur=\\\"1.5s\\\" repeatCount=\\\"indefinite\\\" values=\\\"-39; 39\\\"></animate></path><path fill=\\\"#374151\\\" d=\\\"M52.69 34.82a.52.52 0 01.11.39v.53a1.94 1.94 0 01-.15.72l-3.79 8.44a.64.64 0 01-.29.37 1.65 1.65 0 01-.66.09h-.82c-.33 0-.42-.17-.26-.51l3.81-8.39h-4.83a.43.43 0 01-.51-.46v-.74a.52.52 0 01.12-.39.51.51 0 01.39-.11h6.48a.53.53 0 01.4.06z\\\"></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/wind-beaufort-7.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/wind-beaufort-8.svg":
-/*!************************************************************!*\
-  !*** ./src/style/icons/animated_icons/wind-beaufort-8.svg ***!
-  \************************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" xmlns:xlink=\\\"http://www.w3.org/1999/xlink\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"a\\\" x1=\\\"27.56\\\" x2=\\\"38.27\\\" y1=\\\"17.64\\\" y2=\\\"36.19\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#d4d7dd\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#d4d7dd\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#bec1c6\\\"></stop></linearGradient><linearGradient id=\\\"b\\\" x1=\\\"19.96\\\" x2=\\\"31.37\\\" y1=\\\"29.03\\\" y2=\\\"48.8\\\" xlink:href=\\\"#a\\\"></linearGradient></defs><path fill=\\\"none\\\" stroke=\\\"url(#a)\\\" stroke-dasharray=\\\"35 22\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M43.64 20a5 5 0 113.61 8.46h-35.5\\\"><animate attributeName=\\\"stroke-dashoffset\\\" dur=\\\"1.4s\\\" repeatCount=\\\"indefinite\\\" values=\\\"-57; 57\\\"></animate></path><path fill=\\\"none\\\" stroke=\\\"url(#b)\\\" stroke-dasharray=\\\"24 15\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M29.14 44a5 5 0 103.61-8.46h-21\\\"><animate attributeName=\\\"stroke-dashoffset\\\" begin=\\\"-.35s\\\" dur=\\\"1.4s\\\" repeatCount=\\\"indefinite\\\" values=\\\"-39; 39\\\"></animate></path><path fill=\\\"#374151\\\" d=\\\"M46.26 35.27a4.25 4.25 0 012.74-.79 4.53 4.53 0 012.79.73 2.53 2.53 0 011 2.12 2.7 2.7 0 01-1.53 2.45 3.53 3.53 0 011.37 1 2.58 2.58 0 01.49 1.66 2.84 2.84 0 01-1 2.29 4.71 4.71 0 01-3.09.84q-4.07 0-4.06-2.89A2.9 2.9 0 0146.76 40a2.77 2.77 0 01-1.49-2.56 2.65 2.65 0 01.99-2.17zm4.81 6.82a.77.77 0 00-.15-.33l-.2-.24a.75.75 0 00-.28-.21l-.33-.16-.4-.13-.42-.11-.47-.12-.47-.1a1.89 1.89 0 00-1.52 1.8c0 1 .73 1.46 2.18 1.46a2.68 2.68 0 001.62-.38 1.3 1.3 0 00.48-1.1 2.33 2.33 0 00-.04-.38zm-.66-5.62a2.36 2.36 0 00-1.4-.35c-1.23 0-1.85.46-1.85 1.39a1.15 1.15 0 00.45 1 4.17 4.17 0 001.35.56l.6.15a1.85 1.85 0 001.35-1.71 1.17 1.17 0 00-.5-1.04z\\\"></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/wind-beaufort-8.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/wind-beaufort-9.svg":
-/*!************************************************************!*\
-  !*** ./src/style/icons/animated_icons/wind-beaufort-9.svg ***!
-  \************************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" xmlns:xlink=\\\"http://www.w3.org/1999/xlink\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"a\\\" x1=\\\"27.56\\\" x2=\\\"38.27\\\" y1=\\\"17.64\\\" y2=\\\"36.19\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#d4d7dd\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#d4d7dd\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#bec1c6\\\"></stop></linearGradient><linearGradient id=\\\"b\\\" x1=\\\"19.96\\\" x2=\\\"31.37\\\" y1=\\\"29.03\\\" y2=\\\"48.8\\\" xlink:href=\\\"#a\\\"></linearGradient></defs><path fill=\\\"none\\\" stroke=\\\"url(#a)\\\" stroke-dasharray=\\\"35 22\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M43.64 20a5 5 0 113.61 8.46h-35.5\\\"><animate attributeName=\\\"stroke-dashoffset\\\" dur=\\\"1.3s\\\" repeatCount=\\\"indefinite\\\" values=\\\"-57; 57\\\"></animate></path><path fill=\\\"none\\\" stroke=\\\"url(#b)\\\" stroke-dasharray=\\\"24 15\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M29.14 44a5 5 0 103.61-8.46h-21\\\"><animate attributeName=\\\"stroke-dashoffset\\\" begin=\\\"-.325s\\\" dur=\\\"1.3s\\\" repeatCount=\\\"indefinite\\\" values=\\\"-39; 39\\\"></animate></path><path fill=\\\"#374151\\\" d=\\\"M48.79 41.34q-3.88 0-3.88-3.42A3.15 3.15 0 0146 35.4a4.41 4.41 0 013-.92 4.06 4.06 0 013 1 3.85 3.85 0 011 2.87v3.28a3.84 3.84 0 01-1 2.88 4.05 4.05 0 01-3 1 3.74 3.74 0 01-3.89-2.37.65.65 0 010-.41.73.73 0 01.35-.25l.8-.28a.49.49 0 01.4 0 .69.69 0 01.25.35 2 2 0 002.11 1.24 1.9 1.9 0 002.16-2.14v-.63a8.91 8.91 0 01-2.39.32zm1.75-4.56a2.2 2.2 0 00-1.6-.55 2.66 2.66 0 00-1.61.43 1.5 1.5 0 00-.55 1.26 1.56 1.56 0 00.5 1.25 2.65 2.65 0 001.64.41 5.11 5.11 0 002.18-.35v-.85a2.12 2.12 0 00-.56-1.6z\\\"></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/wind-beaufort-9.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/wind.svg":
-/*!*************************************************!*\
-  !*** ./src/style/icons/animated_icons/wind.svg ***!
-  \*************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" xmlns:xlink=\\\"http://www.w3.org/1999/xlink\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"a\\\" x1=\\\"27.56\\\" x2=\\\"38.27\\\" y1=\\\"17.64\\\" y2=\\\"36.19\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#d4d7dd\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#d4d7dd\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#bec1c6\\\"></stop></linearGradient><linearGradient id=\\\"b\\\" x1=\\\"19.96\\\" x2=\\\"31.37\\\" y1=\\\"29.03\\\" y2=\\\"48.8\\\" xlink:href=\\\"#a\\\"></linearGradient></defs><path fill=\\\"none\\\" stroke=\\\"url(#a)\\\" stroke-dasharray=\\\"35 22\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M43.64 20a5 5 0 113.61 8.46h-35.5\\\"><animate attributeName=\\\"stroke-dashoffset\\\" dur=\\\"2s\\\" repeatCount=\\\"indefinite\\\" values=\\\"-57; 57\\\"></animate></path><path fill=\\\"none\\\" stroke=\\\"url(#b)\\\" stroke-dasharray=\\\"24 15\\\" stroke-linecap=\\\"round\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\"3\\\" d=\\\"M29.14 44a5 5 0 103.61-8.46h-21\\\"><animate attributeName=\\\"stroke-dashoffset\\\" begin=\\\"-1.5s\\\" dur=\\\"2s\\\" repeatCount=\\\"indefinite\\\" values=\\\"-39; 39\\\"></animate></path></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/wind.svg?");
-
-/***/ }),
-
-/***/ "./src/style/icons/animated_icons/windsock.svg":
-/*!*****************************************************!*\
-  !*** ./src/style/icons/animated_icons/windsock.svg ***!
-  \*****************************************************/
-/***/ ((module) => {
-
-eval("module.exports = \"<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" xmlns:xlink=\\\"http://www.w3.org/1999/xlink\\\" viewBox=\\\"0 0 64 64\\\"><defs><linearGradient id=\\\"b\\\" x1=\\\"11.25\\\" x2=\\\"25.75\\\" y1=\\\"19.45\\\" y2=\\\"44.55\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#d4d7dd\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#d4d7dd\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#bec1c6\\\"></stop></linearGradient><linearGradient id=\\\"a\\\" x1=\\\"22.43\\\" x2=\\\"28.34\\\" y1=\\\"17.8\\\" y2=\\\"28.04\\\" gradientUnits=\\\"userSpaceOnUse\\\"><stop offset=\\\"0\\\" stop-color=\\\"#f87171\\\"></stop><stop offset=\\\".45\\\" stop-color=\\\"#f87171\\\"></stop><stop offset=\\\"1\\\" stop-color=\\\"#dc2626\\\"></stop></linearGradient><linearGradient id=\\\"c\\\" x1=\\\"31.57\\\" x2=\\\"36.49\\\" y1=\\\"18.65\\\" y2=\\\"27.19\\\" xlink:href=\\\"#a\\\"></linearGradient><linearGradient id=\\\"d\\\" x1=\\\"40.71\\\" x2=\\\"44.65\\\" y1=\\\"19.5\\\" y2=\\\"26.34\\\" xlink:href=\\\"#a\\\"></linearGradient></defs><path fill=\\\"none\\\" stroke=\\\"url(#b)\\\" stroke-linecap=\\\"round\\\" stroke-linejoin=\\\"round\\\" stroke-width=\\\"3\\\" d=\\\"M18.5 47V17\\\"></path><g><path fill=\\\"url(#a)\\\" stroke=\\\"#ef4444\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\" d=\\\"M23.93 17.13l3.59.53a.79.79 0 01.68.79v9.21a.8.8 0 01-.68.79l-3.59.55a.8.8 0 01-.92-.79V17.92a.81.81 0 01.92-.79z\\\"></path><animateTransform attributeName=\\\"transform\\\" begin=\\\"0s\\\" dur=\\\"1s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"-0.1 1; 0 0; -0.1 -1; 0 0; -0.1 1\\\"></animateTransform></g><g><path fill=\\\"url(#c)\\\" stroke=\\\"#ef4444\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\" d=\\\"M32.58 18.27l3.59.52a.8.8 0 01.68.79v6.94a.8.8 0 01-.68.79l-3.59.53a.8.8 0 01-.92-.79v-8a.8.8 0 01.92-.78z\\\"></path><animateTransform attributeName=\\\"transform\\\" begin=\\\"-0.1s\\\" dur=\\\"1s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"-0.1 1; 0 0; -0.1 -1; 0 0; -0.1 1\\\"></animateTransform></g><g><path fill=\\\"url(#d)\\\" stroke=\\\"#ef4444\\\" stroke-miterlimit=\\\"10\\\" stroke-width=\\\".5\\\" d=\\\"M41.22 19.4l3.6.53a.79.79 0 01.68.79v4.67a.8.8 0 01-.68.79l-3.6.52a.79.79 0 01-.91-.79v-5.72a.8.8 0 01.91-.79z\\\"></path><animateTransform attributeName=\\\"transform\\\" begin=\\\"-0.2s\\\" dur=\\\"1s\\\" repeatCount=\\\"indefinite\\\" type=\\\"translate\\\" values=\\\"-0.1 1; 0 0; -0.1 -1; 0 0; -0.1 1\\\"></animateTransform></g></svg>\"\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/windsock.svg?");
-
-/***/ }),
-
 /***/ "./src/scripts/dataExtractor.js":
 /*!**************************************!*\
   !*** ./src/scripts/dataExtractor.js ***!
@@ -2413,7 +137,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   updateOverview: () => (/* binding */ updateOverview)\n/* harmony export */ });\n/* harmony import */ var _index__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./index */ \"./src/scripts/index.js\");\n/* harmony import */ var date_fns__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! date-fns */ \"./node_modules/date-fns/format.mjs\");\n/* harmony import */ var _icons__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./icons */ \"./src/scripts/icons.js\");\n\r\n\r\n\r\n\r\nconst city = document.querySelector('.overview .city');\r\nconst state = document.querySelector('.overview .state');\r\nconst country = document.querySelector('.overview .country');\r\nconst icon = document.querySelector('.overview .icon');\r\nconst feelslike = document.querySelector('.feelslike .tempVal');\r\nconst tempswitch = document.querySelectorAll('.feelslike input[type=\"radio\"]');\r\nconst actualTemp = document.querySelector('.overview .actualTemp');\r\nconst tempUnit = document.querySelectorAll('.temperature .unit');\r\nconst day = document.querySelector('.date-time .day');\r\nconst date = document.querySelector('.date-time .date');\r\nconst time = document.querySelector('.date-time .time');\r\n\r\nconst search = document.getElementById('search');\r\nconst searchButton = document.querySelector('.search button');\r\nlet measureSystem = 'imperial';\r\n\r\ntempswitch.forEach((s) => {\r\n    s.addEventListener('click', () => {\r\n        if (s.id === measureSystem) {\r\n            return;\r\n        }\r\n\r\n        measureSystem = s.id;\r\n    });\r\n});\r\n\r\nsearchButton.addEventListener('click', () => {\r\n    const location = search.value;\r\n\r\n    if (!location) {\r\n        // ERROR Message\r\n        return;\r\n    }\r\n\r\n    (0,_index__WEBPACK_IMPORTED_MODULE_0__.getLocationWeather)(location)\r\n        .then((data) => {\r\n            updateOverview(data.location, data.current);\r\n        })\r\n        .catch((e) => {\r\n            console.error(e);\r\n        });\r\n});\r\n\r\n/**\r\n * Update contents of overview display\r\n * @param {*} location - location data from Weather API\r\n * @param {*} current - current day data from Weather API\r\n */\r\nfunction updateOverview(location, current) {\r\n    const localtime = new Date(location.localtime);\r\n\r\n    city.textContent = location.name;\r\n    state.textContent = location.region;\r\n    country.textContent = location.country;\r\n\r\n    // Icon stuff\r\n    getIcon(current.code, current.is_day);\r\n\r\n    if (measureSystem === 'imperial') {\r\n        feelslike.textContent = current.feelslike_f;\r\n        actualTemp.textContent = current.temp_f;\r\n    } else {\r\n        feelslike.textContent = current.feelslike_c;\r\n        actualTemp.textContent = current.temp_c;\r\n    }\r\n\r\n    day.textContent = (0,date_fns__WEBPACK_IMPORTED_MODULE_2__.format)(localtime, 'EEEE');\r\n    date.textContent = (0,date_fns__WEBPACK_IMPORTED_MODULE_2__.format)(localtime, 'PPP');\r\n    time.textContent = (0,date_fns__WEBPACK_IMPORTED_MODULE_2__.format)(localtime, 'p');\r\n}\r\n\r\n/**\r\n * Return icon source link\r\n * @param {integer} code - weather code\r\n * @param {boolean} day - day or night\r\n */\r\nfunction getIcon(code, day) {\r\n    day = day ? 'day' : 'night';\r\n    const keyword = _icons__WEBPACK_IMPORTED_MODULE_1__.dictionary[code][day];\r\n}\r\n\n\n//# sourceURL=webpack://weather-app/./src/scripts/display.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   updateOverview: () => (/* binding */ updateOverview)\n/* harmony export */ });\n/* harmony import */ var _index__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./index */ \"./src/scripts/index.js\");\n/* harmony import */ var date_fns__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! date-fns */ \"./node_modules/date-fns/format.mjs\");\n/* harmony import */ var _icons__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./icons */ \"./src/scripts/icons.js\");\n\r\n\r\n\r\n\r\nconst city = document.querySelector('.overview .city');\r\nconst state = document.querySelector('.overview .state');\r\nconst country = document.querySelector('.overview .country');\r\nconst icon = document.querySelector('.overview .icon img');\r\nconst feelslike = document.querySelector('.feelslike .tempVal');\r\nconst tempswitch = document.querySelectorAll('.feelslike input[type=\"radio\"]');\r\nconst actualTemp = document.querySelector('.overview .actualTemp');\r\nconst tempUnit = document.querySelectorAll('.temperature .unit');\r\nconst day = document.querySelector('.date-time .day');\r\nconst date = document.querySelector('.date-time .date');\r\nconst time = document.querySelector('.date-time .time');\r\n\r\nconst search = document.getElementById('search');\r\nconst searchButton = document.querySelector('.search button');\r\nlet measureSystem = 'imperial';\r\n\r\ntempswitch.forEach((s) => {\r\n    s.addEventListener('click', () => {\r\n        if (s.id === measureSystem) {\r\n            return;\r\n        }\r\n\r\n        measureSystem = s.id;\r\n    });\r\n});\r\n\r\nsearchButton.addEventListener('click', () => {\r\n    const location = search.value;\r\n\r\n    if (!location) {\r\n        // ERROR Message\r\n        return;\r\n    }\r\n\r\n    (0,_index__WEBPACK_IMPORTED_MODULE_0__.getLocationWeather)(location)\r\n        .then((data) => {\r\n            updateOverview(data.location, data.current);\r\n        })\r\n        .catch((e) => {\r\n            console.error(e);\r\n        });\r\n});\r\n\r\n/**\r\n * Update contents of overview display\r\n * @param {*} location - location data from Weather API\r\n * @param {*} current - current day data from Weather API\r\n */\r\nfunction updateOverview(location, current) {\r\n    const localtime = new Date(location.localtime);\r\n\r\n    city.textContent = location.name;\r\n    state.textContent = location.region;\r\n    country.textContent = location.country;\r\n\r\n    // Icon stuff\r\n    icon.src = _icons__WEBPACK_IMPORTED_MODULE_1__.getIcon(current.code, current.is_day);\r\n\r\n    if (measureSystem === 'imperial') {\r\n        feelslike.textContent = current.feelslike_f;\r\n        actualTemp.textContent = current.temp_f;\r\n    } else {\r\n        feelslike.textContent = current.feelslike_c;\r\n        actualTemp.textContent = current.temp_c;\r\n    }\r\n\r\n    day.textContent = (0,date_fns__WEBPACK_IMPORTED_MODULE_2__.format)(localtime, 'EEEE');\r\n    date.textContent = (0,date_fns__WEBPACK_IMPORTED_MODULE_2__.format)(localtime, 'PPP');\r\n    time.textContent = (0,date_fns__WEBPACK_IMPORTED_MODULE_2__.format)(localtime, 'p');\r\n}\r\n\n\n//# sourceURL=webpack://weather-app/./src/scripts/display.js?");
 
 /***/ }),
 
@@ -2424,7 +148,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   animated_icons: () => (/* binding */ animated_icons),\n/* harmony export */   base_day_icons: () => (/* binding */ base_day_icons),\n/* harmony export */   base_night_icons: () => (/* binding */ base_night_icons),\n/* harmony export */   dictionary: () => (/* binding */ dictionary)\n/* harmony export */ });\nfunction importAll(r) {\r\n    let images = {};\r\n\r\n    r.keys().map((item) => {\r\n        images[item.replace('./', '').replace(/\\.(png|jpe?g|svg)$/, '')] =\r\n            r(item);\r\n    });\r\n\r\n    return images;\r\n}\r\n\r\nconst animated_icons = importAll(\r\n    __webpack_require__(\"./src/style/icons/animated_icons sync \\\\.(png%7Cjpe?g%7Csvg)$\")\r\n);\r\n\r\nconst base_day_icons = importAll(\r\n    __webpack_require__(\"./src/style/icons/base_icons/day sync \\\\.(png%7Cjpe?g%7Csvg)$\")\r\n);\r\n\r\nconst base_night_icons = importAll(\r\n    __webpack_require__(\"./src/style/icons/base_icons/night sync \\\\.(png%7Cjpe?g%7Csvg)$\")\r\n);\r\n\r\n/**\r\n * Dictionary to translate response codes into icon names\r\n * https://github.com/basmilius/weather-icons\r\n *\r\n * <response code> : {\r\n *      day:   <day animated icon key>\r\n *      night: <night animated icon key>\r\n *      icon:  <base icon key>\r\n * }\r\n */\r\nconst dictionary = {\r\n    1000: {\r\n        day: 'clear-day',\r\n        night: 'clear-night',\r\n        icon: 113,\r\n    },\r\n    1003: {\r\n        day: 'partly-cloudy-day',\r\n        night: 'partly-cloudy-night',\r\n        icon: 116,\r\n    },\r\n    1006: {\r\n        day: 'cloudy',\r\n        night: 'cloudy',\r\n        icon: 119,\r\n    },\r\n    1009: {\r\n        day: 'overcast-day',\r\n        night: 'overcast-night',\r\n        icon: 122,\r\n    },\r\n    1030: {\r\n        day: 'mist',\r\n        night: 'mist',\r\n        icon: 143,\r\n    },\r\n    1063: {\r\n        day: 'partly-cloudy-day-rain',\r\n        night: 'partly-cloudy-night-rain',\r\n        icon: 176,\r\n    },\r\n    1066: {\r\n        day: 'partly-cloudy-day-snow',\r\n        night: 'partly-cloudy-night-snow',\r\n        icon: 179,\r\n    },\r\n    1069: {\r\n        day: 'partly-cloudy-day-sleet',\r\n        night: 'partly-cloudy-night-sleet',\r\n        icon: 182,\r\n    },\r\n    1072: {\r\n        day: null,\r\n        night: null,\r\n        icon: 185,\r\n    },\r\n    1087: {\r\n        day: 'thunderstorms-day',\r\n        night: 'thunderstorms-night',\r\n        icon: 200,\r\n    },\r\n    1114: {\r\n        day: null,\r\n        night: null,\r\n        icon: 227,\r\n    },\r\n    1117: {\r\n        day: null,\r\n        night: null,\r\n        icon: 230,\r\n    },\r\n    1135: {\r\n        day: 'fog-day',\r\n        night: 'fog-night',\r\n        icon: 248,\r\n    },\r\n    1147: {\r\n        day: null,\r\n        night: null,\r\n        icon: 260,\r\n    },\r\n    1150: {\r\n        day: 'drizzle',\r\n        night: 'drizzle',\r\n        icon: 263,\r\n    },\r\n    1153: {\r\n        day: 'drizzle',\r\n        night: 'drizzle',\r\n        icon: 266,\r\n    },\r\n    1168: {\r\n        day: 'drizzle',\r\n        night: 'drizzle',\r\n        icon: 281,\r\n    },\r\n    1171: {\r\n        day: null,\r\n        night: null,\r\n        icon: 284,\r\n    },\r\n    1180: {\r\n        day: 'partly-cloudy-day-rain',\r\n        night: '\tpartly-cloudy-night-rain',\r\n        icon: 293,\r\n    },\r\n    1183: {\r\n        day: 'rain',\r\n        night: 'rain',\r\n        icon: 296,\r\n    },\r\n    1186: {\r\n        day: 'partly-cloudy-day-rain',\r\n        night: 'partly-cloudy-night-rain',\r\n        icon: 299,\r\n    },\r\n    1189: {\r\n        day: 'rain',\r\n        night: 'rain',\r\n        icon: 302,\r\n    },\r\n    1192: {\r\n        day: 'partly-cloudy-day-rain',\r\n        night: 'partly-cloudy-day-rain',\r\n        icon: 305,\r\n    },\r\n    1195: {\r\n        day: 'rain',\r\n        night: 'rain',\r\n        icon: 308,\r\n    },\r\n    1198: {\r\n        day: null,\r\n        night: null,\r\n        icon: 311,\r\n    },\r\n    1201: {\r\n        day: null,\r\n        night: null,\r\n        icon: 314,\r\n    },\r\n    1204: {\r\n        day: 'sleet',\r\n        night: 'sleet',\r\n        icon: 317,\r\n    },\r\n    1207: {\r\n        day: 'sleet',\r\n        night: 'sleet',\r\n        icon: 320,\r\n    },\r\n    1210: {\r\n        day: 'partly-cloudy-day-snow',\r\n        night: 'partly-cloudy-night-snow',\r\n        icon: 323,\r\n    },\r\n    1213: {\r\n        day: 'snow',\r\n        night: 'snow',\r\n        icon: 326,\r\n    },\r\n    1216: {\r\n        day: 'partly-cloudy-day-snow',\r\n        night: 'partly-cloudy-night-snow',\r\n        icon: 329,\r\n    },\r\n    1219: {\r\n        day: 'snow',\r\n        night: 'snow',\r\n        icon: 332,\r\n    },\r\n    1222: {\r\n        day: 'partly-cloudy-day-snow',\r\n        night: 'partly-cloudy-night-snow',\r\n        icon: 335,\r\n    },\r\n    1225: {\r\n        day: 'snow',\r\n        night: 'snow',\r\n        icon: 338,\r\n    },\r\n    1237: {\r\n        day: 'hail',\r\n        night: 'hail',\r\n        icon: 350,\r\n    },\r\n    1240: {\r\n        day: 'partly-cloudy-day-rain',\r\n        night: 'partly-cloudy-night-rain',\r\n        icon: 353,\r\n    },\r\n    1243: {\r\n        day: 'partly-cloudy-day-rain',\r\n        night: 'partly-cloudy-night-rain',\r\n        icon: 356,\r\n    },\r\n    1246: {\r\n        day: 'rain',\r\n        night: 'rain',\r\n        icon: 359,\r\n    },\r\n    1249: {\r\n        day: 'partly-cloudy-day-sleet',\r\n        night: 'partly-cloudy-night-sleet',\r\n        icon: 362,\r\n    },\r\n    1252: {\r\n        day: 'partly-cloudy-day-sleet',\r\n        night: 'partly-cloudy-night-sleet',\r\n        icon: 365,\r\n    },\r\n    1255: {\r\n        day: 'partly-cloudy-day-snow',\r\n        night: 'partly-cloudy-night-snow',\r\n        icon: 368,\r\n    },\r\n    1258: {\r\n        day: 'partly-cloudy-day-snow',\r\n        night: 'partly-cloudy-night-snow',\r\n        icon: 371,\r\n    },\r\n    1261: {\r\n        day: 'partly-cloudy-day-hail',\r\n        night: 'partly-cloudy-night-hail',\r\n        icon: 374,\r\n    },\r\n    1264: {\r\n        day: 'partly-cloudy-day-hail',\r\n        night: 'partly-cloudy-night-hail',\r\n        icon: 377,\r\n    },\r\n    1273: {\r\n        day: 'thunderstorms-day-rain',\r\n        night: 'thunderstorms-night-rain',\r\n        icon: 386,\r\n    },\r\n    1276: {\r\n        day: 'thunderstorms-rain',\r\n        night: 'thunderstorms-rain',\r\n        icon: 389,\r\n    },\r\n    1279: {\r\n        day: 'thunderstorms-day-snow',\r\n        night: 'thunderstorms-night-snow',\r\n        icon: 392,\r\n    },\r\n    1282: {\r\n        day: 'thunderstorms-snow',\r\n        night: 'thunderstorms-snow',\r\n        icon: 395,\r\n    },\r\n};\r\n\n\n//# sourceURL=webpack://weather-app/./src/scripts/icons.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   getIcon: () => (/* binding */ getIcon)\n/* harmony export */ });\n/**\r\n * Return icon source link\r\n * @param {integer} code - weather code\r\n * @param {boolean} period - day or night\r\n */\r\nfunction getIcon(code, period) {\r\n    period = period ? 'day' : 'night';\r\n\r\n    let key = dictionary[code][period];\r\n\r\n    if (key) {\r\n        return animated_icons[key];\r\n    }\r\n\r\n    // No animated icon, so we will get the base icon\r\n    key = dictionary[code]['icon'];\r\n\r\n    if (period === day) {\r\n        return base_day_icons[key];\r\n    }\r\n\r\n    return base_night_icons[key];\r\n}\r\n\r\nfunction importAll(r) {\r\n    let images = {};\r\n\r\n    r.keys().map((item) => {\r\n        images[item.replace('./', '').replace(/\\.(png|jpe?g|svg)$/, '')] =\r\n            r(item);\r\n    });\r\n\r\n    return images;\r\n}\r\n\r\nconst animated_icons = importAll(\r\n    __webpack_require__(\"./src/style/icons/animated_icons sync \\\\.(png%7Cjpe?g%7Csvg)$\")\r\n);\r\n\r\nconst base_day_icons = importAll(\r\n    __webpack_require__(\"./src/style/icons/base_icons/day sync \\\\.(png%7Cjpe?g%7Csvg)$\")\r\n);\r\n\r\nconst base_night_icons = importAll(\r\n    __webpack_require__(\"./src/style/icons/base_icons/night sync \\\\.(png%7Cjpe?g%7Csvg)$\")\r\n);\r\n\r\n/**\r\n * Dictionary to translate response codes into icon names\r\n * https://github.com/basmilius/weather-icons\r\n *\r\n * <response code> : {\r\n *      day:   <day animated icon key>\r\n *      night: <night animated icon key>\r\n *      icon:  <base icon key>\r\n * }\r\n */\r\nconst dictionary = {\r\n    1000: {\r\n        day: 'clear-day',\r\n        night: 'clear-night',\r\n        icon: 113,\r\n    },\r\n    1003: {\r\n        day: 'partly-cloudy-day',\r\n        night: 'partly-cloudy-night',\r\n        icon: 116,\r\n    },\r\n    1006: {\r\n        day: 'cloudy',\r\n        night: 'cloudy',\r\n        icon: 119,\r\n    },\r\n    1009: {\r\n        day: 'overcast-day',\r\n        night: 'overcast-night',\r\n        icon: 122,\r\n    },\r\n    1030: {\r\n        day: 'mist',\r\n        night: 'mist',\r\n        icon: 143,\r\n    },\r\n    1063: {\r\n        day: 'partly-cloudy-day-rain',\r\n        night: 'partly-cloudy-night-rain',\r\n        icon: 176,\r\n    },\r\n    1066: {\r\n        day: 'partly-cloudy-day-snow',\r\n        night: 'partly-cloudy-night-snow',\r\n        icon: 179,\r\n    },\r\n    1069: {\r\n        day: 'partly-cloudy-day-sleet',\r\n        night: 'partly-cloudy-night-sleet',\r\n        icon: 182,\r\n    },\r\n    1072: {\r\n        day: null,\r\n        night: null,\r\n        icon: 185,\r\n    },\r\n    1087: {\r\n        day: 'thunderstorms-day',\r\n        night: 'thunderstorms-night',\r\n        icon: 200,\r\n    },\r\n    1114: {\r\n        day: null,\r\n        night: null,\r\n        icon: 227,\r\n    },\r\n    1117: {\r\n        day: null,\r\n        night: null,\r\n        icon: 230,\r\n    },\r\n    1135: {\r\n        day: 'fog-day',\r\n        night: 'fog-night',\r\n        icon: 248,\r\n    },\r\n    1147: {\r\n        day: null,\r\n        night: null,\r\n        icon: 260,\r\n    },\r\n    1150: {\r\n        day: 'drizzle',\r\n        night: 'drizzle',\r\n        icon: 263,\r\n    },\r\n    1153: {\r\n        day: 'drizzle',\r\n        night: 'drizzle',\r\n        icon: 266,\r\n    },\r\n    1168: {\r\n        day: 'drizzle',\r\n        night: 'drizzle',\r\n        icon: 281,\r\n    },\r\n    1171: {\r\n        day: null,\r\n        night: null,\r\n        icon: 284,\r\n    },\r\n    1180: {\r\n        day: 'partly-cloudy-day-rain',\r\n        night: '\tpartly-cloudy-night-rain',\r\n        icon: 293,\r\n    },\r\n    1183: {\r\n        day: 'rain',\r\n        night: 'rain',\r\n        icon: 296,\r\n    },\r\n    1186: {\r\n        day: 'partly-cloudy-day-rain',\r\n        night: 'partly-cloudy-night-rain',\r\n        icon: 299,\r\n    },\r\n    1189: {\r\n        day: 'rain',\r\n        night: 'rain',\r\n        icon: 302,\r\n    },\r\n    1192: {\r\n        day: 'partly-cloudy-day-rain',\r\n        night: 'partly-cloudy-day-rain',\r\n        icon: 305,\r\n    },\r\n    1195: {\r\n        day: 'rain',\r\n        night: 'rain',\r\n        icon: 308,\r\n    },\r\n    1198: {\r\n        day: null,\r\n        night: null,\r\n        icon: 311,\r\n    },\r\n    1201: {\r\n        day: null,\r\n        night: null,\r\n        icon: 314,\r\n    },\r\n    1204: {\r\n        day: 'sleet',\r\n        night: 'sleet',\r\n        icon: 317,\r\n    },\r\n    1207: {\r\n        day: 'sleet',\r\n        night: 'sleet',\r\n        icon: 320,\r\n    },\r\n    1210: {\r\n        day: 'partly-cloudy-day-snow',\r\n        night: 'partly-cloudy-night-snow',\r\n        icon: 323,\r\n    },\r\n    1213: {\r\n        day: 'snow',\r\n        night: 'snow',\r\n        icon: 326,\r\n    },\r\n    1216: {\r\n        day: 'partly-cloudy-day-snow',\r\n        night: 'partly-cloudy-night-snow',\r\n        icon: 329,\r\n    },\r\n    1219: {\r\n        day: 'snow',\r\n        night: 'snow',\r\n        icon: 332,\r\n    },\r\n    1222: {\r\n        day: 'partly-cloudy-day-snow',\r\n        night: 'partly-cloudy-night-snow',\r\n        icon: 335,\r\n    },\r\n    1225: {\r\n        day: 'snow',\r\n        night: 'snow',\r\n        icon: 338,\r\n    },\r\n    1237: {\r\n        day: 'hail',\r\n        night: 'hail',\r\n        icon: 350,\r\n    },\r\n    1240: {\r\n        day: 'partly-cloudy-day-rain',\r\n        night: 'partly-cloudy-night-rain',\r\n        icon: 353,\r\n    },\r\n    1243: {\r\n        day: 'partly-cloudy-day-rain',\r\n        night: 'partly-cloudy-night-rain',\r\n        icon: 356,\r\n    },\r\n    1246: {\r\n        day: 'rain',\r\n        night: 'rain',\r\n        icon: 359,\r\n    },\r\n    1249: {\r\n        day: 'partly-cloudy-day-sleet',\r\n        night: 'partly-cloudy-night-sleet',\r\n        icon: 362,\r\n    },\r\n    1252: {\r\n        day: 'partly-cloudy-day-sleet',\r\n        night: 'partly-cloudy-night-sleet',\r\n        icon: 365,\r\n    },\r\n    1255: {\r\n        day: 'partly-cloudy-day-snow',\r\n        night: 'partly-cloudy-night-snow',\r\n        icon: 368,\r\n    },\r\n    1258: {\r\n        day: 'partly-cloudy-day-snow',\r\n        night: 'partly-cloudy-night-snow',\r\n        icon: 371,\r\n    },\r\n    1261: {\r\n        day: 'partly-cloudy-day-hail',\r\n        night: 'partly-cloudy-night-hail',\r\n        icon: 374,\r\n    },\r\n    1264: {\r\n        day: 'partly-cloudy-day-hail',\r\n        night: 'partly-cloudy-night-hail',\r\n        icon: 377,\r\n    },\r\n    1273: {\r\n        day: 'thunderstorms-day-rain',\r\n        night: 'thunderstorms-night-rain',\r\n        icon: 386,\r\n    },\r\n    1276: {\r\n        day: 'thunderstorms-rain',\r\n        night: 'thunderstorms-rain',\r\n        icon: 389,\r\n    },\r\n    1279: {\r\n        day: 'thunderstorms-day-snow',\r\n        night: 'thunderstorms-night-snow',\r\n        icon: 392,\r\n    },\r\n    1282: {\r\n        day: 'thunderstorms-snow',\r\n        night: 'thunderstorms-snow',\r\n        icon: 395,\r\n    },\r\n};\r\n\n\n//# sourceURL=webpack://weather-app/./src/scripts/icons.js?");
 
 /***/ }),
 
@@ -2477,6 +201,2404 @@ eval("var map = {\n\t\"./113.png\": \"./src/style/icons/base_icons/day/113.png\"
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
 eval("var map = {\n\t\"./113.png\": \"./src/style/icons/base_icons/night/113.png\",\n\t\"./116.png\": \"./src/style/icons/base_icons/night/116.png\",\n\t\"./119.png\": \"./src/style/icons/base_icons/night/119.png\",\n\t\"./122.png\": \"./src/style/icons/base_icons/night/122.png\",\n\t\"./143.png\": \"./src/style/icons/base_icons/night/143.png\",\n\t\"./176.png\": \"./src/style/icons/base_icons/night/176.png\",\n\t\"./179.png\": \"./src/style/icons/base_icons/night/179.png\",\n\t\"./182.png\": \"./src/style/icons/base_icons/night/182.png\",\n\t\"./185.png\": \"./src/style/icons/base_icons/night/185.png\",\n\t\"./200.png\": \"./src/style/icons/base_icons/night/200.png\",\n\t\"./227.png\": \"./src/style/icons/base_icons/night/227.png\",\n\t\"./230.png\": \"./src/style/icons/base_icons/night/230.png\",\n\t\"./248.png\": \"./src/style/icons/base_icons/night/248.png\",\n\t\"./260.png\": \"./src/style/icons/base_icons/night/260.png\",\n\t\"./263.png\": \"./src/style/icons/base_icons/night/263.png\",\n\t\"./266.png\": \"./src/style/icons/base_icons/night/266.png\",\n\t\"./281.png\": \"./src/style/icons/base_icons/night/281.png\",\n\t\"./284.png\": \"./src/style/icons/base_icons/night/284.png\",\n\t\"./293.png\": \"./src/style/icons/base_icons/night/293.png\",\n\t\"./296.png\": \"./src/style/icons/base_icons/night/296.png\",\n\t\"./299.png\": \"./src/style/icons/base_icons/night/299.png\",\n\t\"./302.png\": \"./src/style/icons/base_icons/night/302.png\",\n\t\"./305.png\": \"./src/style/icons/base_icons/night/305.png\",\n\t\"./308.png\": \"./src/style/icons/base_icons/night/308.png\",\n\t\"./311.png\": \"./src/style/icons/base_icons/night/311.png\",\n\t\"./314.png\": \"./src/style/icons/base_icons/night/314.png\",\n\t\"./317.png\": \"./src/style/icons/base_icons/night/317.png\",\n\t\"./320.png\": \"./src/style/icons/base_icons/night/320.png\",\n\t\"./323.png\": \"./src/style/icons/base_icons/night/323.png\",\n\t\"./326.png\": \"./src/style/icons/base_icons/night/326.png\",\n\t\"./329.png\": \"./src/style/icons/base_icons/night/329.png\",\n\t\"./332.png\": \"./src/style/icons/base_icons/night/332.png\",\n\t\"./335.png\": \"./src/style/icons/base_icons/night/335.png\",\n\t\"./338.png\": \"./src/style/icons/base_icons/night/338.png\",\n\t\"./350.png\": \"./src/style/icons/base_icons/night/350.png\",\n\t\"./353.png\": \"./src/style/icons/base_icons/night/353.png\",\n\t\"./356.png\": \"./src/style/icons/base_icons/night/356.png\",\n\t\"./359.png\": \"./src/style/icons/base_icons/night/359.png\",\n\t\"./362.png\": \"./src/style/icons/base_icons/night/362.png\",\n\t\"./365.png\": \"./src/style/icons/base_icons/night/365.png\",\n\t\"./368.png\": \"./src/style/icons/base_icons/night/368.png\",\n\t\"./371.png\": \"./src/style/icons/base_icons/night/371.png\",\n\t\"./374.png\": \"./src/style/icons/base_icons/night/374.png\",\n\t\"./377.png\": \"./src/style/icons/base_icons/night/377.png\",\n\t\"./386.png\": \"./src/style/icons/base_icons/night/386.png\",\n\t\"./389.png\": \"./src/style/icons/base_icons/night/389.png\",\n\t\"./392.png\": \"./src/style/icons/base_icons/night/392.png\",\n\t\"./395.png\": \"./src/style/icons/base_icons/night/395.png\"\n};\n\n\nfunction webpackContext(req) {\n\tvar id = webpackContextResolve(req);\n\treturn __webpack_require__(id);\n}\nfunction webpackContextResolve(req) {\n\tif(!__webpack_require__.o(map, req)) {\n\t\tvar e = new Error(\"Cannot find module '\" + req + \"'\");\n\t\te.code = 'MODULE_NOT_FOUND';\n\t\tthrow e;\n\t}\n\treturn map[req];\n}\nwebpackContext.keys = function webpackContextKeys() {\n\treturn Object.keys(map);\n};\nwebpackContext.resolve = webpackContextResolve;\nmodule.exports = webpackContext;\nwebpackContext.id = \"./src/style/icons/base_icons/night sync \\\\.(png%7Cjpe?g%7Csvg)$\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/_sync_nonrecursive_\\.(png%257Cjpe?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/barometer.svg":
+/*!******************************************************!*\
+  !*** ./src/style/icons/animated_icons/barometer.svg ***!
+  \******************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"8b6e33cb1de88118509b.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/barometer.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/celsius.svg":
+/*!****************************************************!*\
+  !*** ./src/style/icons/animated_icons/celsius.svg ***!
+  \****************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"e06a9dc80356170d57df.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/celsius.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/clear-day.svg":
+/*!******************************************************!*\
+  !*** ./src/style/icons/animated_icons/clear-day.svg ***!
+  \******************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"54288da67b71b4b19483.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/clear-day.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/clear-night.svg":
+/*!********************************************************!*\
+  !*** ./src/style/icons/animated_icons/clear-night.svg ***!
+  \********************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"9ed9031b8fd64da63790.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/clear-night.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/cloudy.svg":
+/*!***************************************************!*\
+  !*** ./src/style/icons/animated_icons/cloudy.svg ***!
+  \***************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"f6e6108ec3b4605bda2a.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/cloudy.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/compass.svg":
+/*!****************************************************!*\
+  !*** ./src/style/icons/animated_icons/compass.svg ***!
+  \****************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"9ead3f7e874a03099e4b.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/compass.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/drizzle.svg":
+/*!****************************************************!*\
+  !*** ./src/style/icons/animated_icons/drizzle.svg ***!
+  \****************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"ae14aba413100d921c3c.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/drizzle.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/dust-day.svg":
+/*!*****************************************************!*\
+  !*** ./src/style/icons/animated_icons/dust-day.svg ***!
+  \*****************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"4677c89ea6c9fb38570d.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/dust-day.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/dust-night.svg":
+/*!*******************************************************!*\
+  !*** ./src/style/icons/animated_icons/dust-night.svg ***!
+  \*******************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"f8354d6ab76d282b783b.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/dust-night.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/dust-wind.svg":
+/*!******************************************************!*\
+  !*** ./src/style/icons/animated_icons/dust-wind.svg ***!
+  \******************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"5c2dfea669e5394c4c1d.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/dust-wind.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/dust.svg":
+/*!*************************************************!*\
+  !*** ./src/style/icons/animated_icons/dust.svg ***!
+  \*************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"d93c86712b64112123b4.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/dust.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/fahrenheit.svg":
+/*!*******************************************************!*\
+  !*** ./src/style/icons/animated_icons/fahrenheit.svg ***!
+  \*******************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"9f35fa2f8c2a52243fd4.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/fahrenheit.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/falling-stars.svg":
+/*!**********************************************************!*\
+  !*** ./src/style/icons/animated_icons/falling-stars.svg ***!
+  \**********************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"9c118fd2eb3214057073.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/falling-stars.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/fog-day.svg":
+/*!****************************************************!*\
+  !*** ./src/style/icons/animated_icons/fog-day.svg ***!
+  \****************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"8642a433dd0d7213070b.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/fog-day.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/fog-night.svg":
+/*!******************************************************!*\
+  !*** ./src/style/icons/animated_icons/fog-night.svg ***!
+  \******************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"58a5eb744cc42f8bea36.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/fog-night.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/fog.svg":
+/*!************************************************!*\
+  !*** ./src/style/icons/animated_icons/fog.svg ***!
+  \************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"0103d56b08041516e25c.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/fog.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/hail.svg":
+/*!*************************************************!*\
+  !*** ./src/style/icons/animated_icons/hail.svg ***!
+  \*************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"c776640194db6fa9fe92.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/hail.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/haze-day.svg":
+/*!*****************************************************!*\
+  !*** ./src/style/icons/animated_icons/haze-day.svg ***!
+  \*****************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"fda09aa383493051cf53.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/haze-day.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/haze-night.svg":
+/*!*******************************************************!*\
+  !*** ./src/style/icons/animated_icons/haze-night.svg ***!
+  \*******************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"7c71037cdf1436213474.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/haze-night.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/haze.svg":
+/*!*************************************************!*\
+  !*** ./src/style/icons/animated_icons/haze.svg ***!
+  \*************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"4a31f4dd437c47397fe5.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/haze.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/horizon.svg":
+/*!****************************************************!*\
+  !*** ./src/style/icons/animated_icons/horizon.svg ***!
+  \****************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"a471d7d512916708b4b5.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/horizon.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/humidity.svg":
+/*!*****************************************************!*\
+  !*** ./src/style/icons/animated_icons/humidity.svg ***!
+  \*****************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"f6f97c5f6b692e20bbb1.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/humidity.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/hurricane.svg":
+/*!******************************************************!*\
+  !*** ./src/style/icons/animated_icons/hurricane.svg ***!
+  \******************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"bf143542f66ac1d6a941.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/hurricane.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/lightning-bolt.svg":
+/*!***********************************************************!*\
+  !*** ./src/style/icons/animated_icons/lightning-bolt.svg ***!
+  \***********************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"8e2e97190917f56050f4.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/lightning-bolt.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/mist.svg":
+/*!*************************************************!*\
+  !*** ./src/style/icons/animated_icons/mist.svg ***!
+  \*************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"e61faee5b9692f9897af.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/mist.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/moon-first-quarter.svg":
+/*!***************************************************************!*\
+  !*** ./src/style/icons/animated_icons/moon-first-quarter.svg ***!
+  \***************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"0028165c150a8df852df.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/moon-first-quarter.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/moon-full.svg":
+/*!******************************************************!*\
+  !*** ./src/style/icons/animated_icons/moon-full.svg ***!
+  \******************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"988cf6a96c957dba8270.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/moon-full.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/moon-last-quarter.svg":
+/*!**************************************************************!*\
+  !*** ./src/style/icons/animated_icons/moon-last-quarter.svg ***!
+  \**************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"413f8fc99dcf1f6276e3.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/moon-last-quarter.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/moon-new.svg":
+/*!*****************************************************!*\
+  !*** ./src/style/icons/animated_icons/moon-new.svg ***!
+  \*****************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"2ed69244b1af9c4b3426.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/moon-new.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/moon-waning-crescent.svg":
+/*!*****************************************************************!*\
+  !*** ./src/style/icons/animated_icons/moon-waning-crescent.svg ***!
+  \*****************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"d4ab139ad03a4fdaa10b.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/moon-waning-crescent.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/moon-waning-gibbous.svg":
+/*!****************************************************************!*\
+  !*** ./src/style/icons/animated_icons/moon-waning-gibbous.svg ***!
+  \****************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"cd28ac6e52b509a6651e.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/moon-waning-gibbous.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/moon-waxing-crescent.svg":
+/*!*****************************************************************!*\
+  !*** ./src/style/icons/animated_icons/moon-waxing-crescent.svg ***!
+  \*****************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"6de8c45d034100c72c59.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/moon-waxing-crescent.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/moon-waxing-gibbous.svg":
+/*!****************************************************************!*\
+  !*** ./src/style/icons/animated_icons/moon-waxing-gibbous.svg ***!
+  \****************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"4e3333d2bf0e042e8db2.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/moon-waxing-gibbous.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/moonrise.svg":
+/*!*****************************************************!*\
+  !*** ./src/style/icons/animated_icons/moonrise.svg ***!
+  \*****************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"cde04f73e82fd6667b13.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/moonrise.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/moonset.svg":
+/*!****************************************************!*\
+  !*** ./src/style/icons/animated_icons/moonset.svg ***!
+  \****************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"7d3bfe651218734fb9d6.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/moonset.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/not-available.svg":
+/*!**********************************************************!*\
+  !*** ./src/style/icons/animated_icons/not-available.svg ***!
+  \**********************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"28474c0c0732eb5c31b4.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/not-available.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/overcast-day.svg":
+/*!*********************************************************!*\
+  !*** ./src/style/icons/animated_icons/overcast-day.svg ***!
+  \*********************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"8632010bebb9d500d568.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/overcast-day.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/overcast-night.svg":
+/*!***********************************************************!*\
+  !*** ./src/style/icons/animated_icons/overcast-night.svg ***!
+  \***********************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"be323821eaff61f0a14e.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/overcast-night.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/overcast.svg":
+/*!*****************************************************!*\
+  !*** ./src/style/icons/animated_icons/overcast.svg ***!
+  \*****************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"45e9e87bb18e1c2ae6b3.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/overcast.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/partly-cloudy-day-drizzle.svg":
+/*!**********************************************************************!*\
+  !*** ./src/style/icons/animated_icons/partly-cloudy-day-drizzle.svg ***!
+  \**********************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"98fb423873c7868ae5d1.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/partly-cloudy-day-drizzle.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/partly-cloudy-day-fog.svg":
+/*!******************************************************************!*\
+  !*** ./src/style/icons/animated_icons/partly-cloudy-day-fog.svg ***!
+  \******************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"e72963cc243121753bb8.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/partly-cloudy-day-fog.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/partly-cloudy-day-hail.svg":
+/*!*******************************************************************!*\
+  !*** ./src/style/icons/animated_icons/partly-cloudy-day-hail.svg ***!
+  \*******************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"9404b76b1e9fa14d46fd.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/partly-cloudy-day-hail.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/partly-cloudy-day-haze.svg":
+/*!*******************************************************************!*\
+  !*** ./src/style/icons/animated_icons/partly-cloudy-day-haze.svg ***!
+  \*******************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"d35bf0271ccbf9d14a20.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/partly-cloudy-day-haze.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/partly-cloudy-day-rain.svg":
+/*!*******************************************************************!*\
+  !*** ./src/style/icons/animated_icons/partly-cloudy-day-rain.svg ***!
+  \*******************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"4c0668cce0f70c7678d5.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/partly-cloudy-day-rain.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/partly-cloudy-day-sleet.svg":
+/*!********************************************************************!*\
+  !*** ./src/style/icons/animated_icons/partly-cloudy-day-sleet.svg ***!
+  \********************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"693b6fbf65578bbac4cc.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/partly-cloudy-day-sleet.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/partly-cloudy-day-smoke.svg":
+/*!********************************************************************!*\
+  !*** ./src/style/icons/animated_icons/partly-cloudy-day-smoke.svg ***!
+  \********************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"c0da0d500c5b7b546011.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/partly-cloudy-day-smoke.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/partly-cloudy-day-snow.svg":
+/*!*******************************************************************!*\
+  !*** ./src/style/icons/animated_icons/partly-cloudy-day-snow.svg ***!
+  \*******************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"aa9fe108c5c9d0307b01.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/partly-cloudy-day-snow.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/partly-cloudy-day.svg":
+/*!**************************************************************!*\
+  !*** ./src/style/icons/animated_icons/partly-cloudy-day.svg ***!
+  \**************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"9a86613b2a5a0aebf924.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/partly-cloudy-day.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/partly-cloudy-night-drizzle.svg":
+/*!************************************************************************!*\
+  !*** ./src/style/icons/animated_icons/partly-cloudy-night-drizzle.svg ***!
+  \************************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"0989c3627db1c87d0cfb.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/partly-cloudy-night-drizzle.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/partly-cloudy-night-fog.svg":
+/*!********************************************************************!*\
+  !*** ./src/style/icons/animated_icons/partly-cloudy-night-fog.svg ***!
+  \********************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"b8e4f85fee34f983c00b.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/partly-cloudy-night-fog.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/partly-cloudy-night-hail.svg":
+/*!*********************************************************************!*\
+  !*** ./src/style/icons/animated_icons/partly-cloudy-night-hail.svg ***!
+  \*********************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"ecbd8faddcb8f5204834.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/partly-cloudy-night-hail.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/partly-cloudy-night-haze.svg":
+/*!*********************************************************************!*\
+  !*** ./src/style/icons/animated_icons/partly-cloudy-night-haze.svg ***!
+  \*********************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"cdbdaf32fa67aea3df73.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/partly-cloudy-night-haze.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/partly-cloudy-night-rain.svg":
+/*!*********************************************************************!*\
+  !*** ./src/style/icons/animated_icons/partly-cloudy-night-rain.svg ***!
+  \*********************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"6a1e50d9ab2bd155f819.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/partly-cloudy-night-rain.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/partly-cloudy-night-sleet.svg":
+/*!**********************************************************************!*\
+  !*** ./src/style/icons/animated_icons/partly-cloudy-night-sleet.svg ***!
+  \**********************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"9a9df5ac0027382212e8.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/partly-cloudy-night-sleet.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/partly-cloudy-night-smoke.svg":
+/*!**********************************************************************!*\
+  !*** ./src/style/icons/animated_icons/partly-cloudy-night-smoke.svg ***!
+  \**********************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"cd142d5c6f449f03bc77.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/partly-cloudy-night-smoke.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/partly-cloudy-night-snow.svg":
+/*!*********************************************************************!*\
+  !*** ./src/style/icons/animated_icons/partly-cloudy-night-snow.svg ***!
+  \*********************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"074350e602f6d17efcb5.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/partly-cloudy-night-snow.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/partly-cloudy-night.svg":
+/*!****************************************************************!*\
+  !*** ./src/style/icons/animated_icons/partly-cloudy-night.svg ***!
+  \****************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"4aca209bd8bd9e66fcec.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/partly-cloudy-night.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/pressure-high-alt.svg":
+/*!**************************************************************!*\
+  !*** ./src/style/icons/animated_icons/pressure-high-alt.svg ***!
+  \**************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"b55ac962466eb879c403.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/pressure-high-alt.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/pressure-high.svg":
+/*!**********************************************************!*\
+  !*** ./src/style/icons/animated_icons/pressure-high.svg ***!
+  \**********************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"80df05ed42d21e4b1f65.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/pressure-high.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/pressure-low-alt.svg":
+/*!*************************************************************!*\
+  !*** ./src/style/icons/animated_icons/pressure-low-alt.svg ***!
+  \*************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"c6028b18b9d5a0b196f9.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/pressure-low-alt.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/pressure-low.svg":
+/*!*********************************************************!*\
+  !*** ./src/style/icons/animated_icons/pressure-low.svg ***!
+  \*********************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"5565c61566cac091a2ae.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/pressure-low.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/rain.svg":
+/*!*************************************************!*\
+  !*** ./src/style/icons/animated_icons/rain.svg ***!
+  \*************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"6f43169e2db3a96adc41.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/rain.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/raindrop.svg":
+/*!*****************************************************!*\
+  !*** ./src/style/icons/animated_icons/raindrop.svg ***!
+  \*****************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"1a4b41e574e032c9fec5.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/raindrop.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/raindrops.svg":
+/*!******************************************************!*\
+  !*** ./src/style/icons/animated_icons/raindrops.svg ***!
+  \******************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"a164ac4f8560e3bef832.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/raindrops.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/sleet.svg":
+/*!**************************************************!*\
+  !*** ./src/style/icons/animated_icons/sleet.svg ***!
+  \**************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"132391bc69732cc2373c.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/sleet.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/smoke-particles.svg":
+/*!************************************************************!*\
+  !*** ./src/style/icons/animated_icons/smoke-particles.svg ***!
+  \************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"af6a507cce73b5096dd2.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/smoke-particles.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/smoke.svg":
+/*!**************************************************!*\
+  !*** ./src/style/icons/animated_icons/smoke.svg ***!
+  \**************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"14e1644a197f271de878.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/smoke.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/snow.svg":
+/*!*************************************************!*\
+  !*** ./src/style/icons/animated_icons/snow.svg ***!
+  \*************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"ef3313dae88a5d1dbccb.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/snow.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/snowflake.svg":
+/*!******************************************************!*\
+  !*** ./src/style/icons/animated_icons/snowflake.svg ***!
+  \******************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"bed7105cef7f982bdb73.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/snowflake.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/solar-eclipse.svg":
+/*!**********************************************************!*\
+  !*** ./src/style/icons/animated_icons/solar-eclipse.svg ***!
+  \**********************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"196dacfa705e4cd3085f.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/solar-eclipse.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/star.svg":
+/*!*************************************************!*\
+  !*** ./src/style/icons/animated_icons/star.svg ***!
+  \*************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"e4f1743eab9b247cfe29.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/star.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/starry-night.svg":
+/*!*********************************************************!*\
+  !*** ./src/style/icons/animated_icons/starry-night.svg ***!
+  \*********************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"509aeabb26c7a8f18dc5.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/starry-night.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/sunrise.svg":
+/*!****************************************************!*\
+  !*** ./src/style/icons/animated_icons/sunrise.svg ***!
+  \****************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"749e354e586c2010362b.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/sunrise.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/sunset.svg":
+/*!***************************************************!*\
+  !*** ./src/style/icons/animated_icons/sunset.svg ***!
+  \***************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"89562883e8691c69a12f.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/sunset.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/thermometer-celsius.svg":
+/*!****************************************************************!*\
+  !*** ./src/style/icons/animated_icons/thermometer-celsius.svg ***!
+  \****************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"1831b1d8c56c1573f170.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/thermometer-celsius.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/thermometer-colder.svg":
+/*!***************************************************************!*\
+  !*** ./src/style/icons/animated_icons/thermometer-colder.svg ***!
+  \***************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"88b91af5f3ec11036126.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/thermometer-colder.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/thermometer-fahrenheit.svg":
+/*!*******************************************************************!*\
+  !*** ./src/style/icons/animated_icons/thermometer-fahrenheit.svg ***!
+  \*******************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"c83507be1a64a237dd88.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/thermometer-fahrenheit.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/thermometer-glass-celsius.svg":
+/*!**********************************************************************!*\
+  !*** ./src/style/icons/animated_icons/thermometer-glass-celsius.svg ***!
+  \**********************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"affa308cd0af4b62b6dd.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/thermometer-glass-celsius.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/thermometer-glass-fahrenheit.svg":
+/*!*************************************************************************!*\
+  !*** ./src/style/icons/animated_icons/thermometer-glass-fahrenheit.svg ***!
+  \*************************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"b86238751736503a9284.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/thermometer-glass-fahrenheit.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/thermometer-glass.svg":
+/*!**************************************************************!*\
+  !*** ./src/style/icons/animated_icons/thermometer-glass.svg ***!
+  \**************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"1986852857f002edfdb2.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/thermometer-glass.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/thermometer-mercury-cold.svg":
+/*!*********************************************************************!*\
+  !*** ./src/style/icons/animated_icons/thermometer-mercury-cold.svg ***!
+  \*********************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"39a9e7fff8d72b9b5d15.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/thermometer-mercury-cold.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/thermometer-mercury.svg":
+/*!****************************************************************!*\
+  !*** ./src/style/icons/animated_icons/thermometer-mercury.svg ***!
+  \****************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"9e51497fb71415082110.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/thermometer-mercury.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/thermometer-warmer.svg":
+/*!***************************************************************!*\
+  !*** ./src/style/icons/animated_icons/thermometer-warmer.svg ***!
+  \***************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"5f9dfc8ccdb911dfa0fe.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/thermometer-warmer.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/thermometer.svg":
+/*!********************************************************!*\
+  !*** ./src/style/icons/animated_icons/thermometer.svg ***!
+  \********************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"08fc871be54f08b6c0e3.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/thermometer.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/thunderstorms-day-rain.svg":
+/*!*******************************************************************!*\
+  !*** ./src/style/icons/animated_icons/thunderstorms-day-rain.svg ***!
+  \*******************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"db6e82d0b5e11ac86867.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/thunderstorms-day-rain.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/thunderstorms-day-snow.svg":
+/*!*******************************************************************!*\
+  !*** ./src/style/icons/animated_icons/thunderstorms-day-snow.svg ***!
+  \*******************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"6863d8b64fbacb94f270.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/thunderstorms-day-snow.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/thunderstorms-day.svg":
+/*!**************************************************************!*\
+  !*** ./src/style/icons/animated_icons/thunderstorms-day.svg ***!
+  \**************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"448033cc79df4a46e805.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/thunderstorms-day.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/thunderstorms-night-rain.svg":
+/*!*********************************************************************!*\
+  !*** ./src/style/icons/animated_icons/thunderstorms-night-rain.svg ***!
+  \*********************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"3a065a9f1834eadf2423.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/thunderstorms-night-rain.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/thunderstorms-night-snow.svg":
+/*!*********************************************************************!*\
+  !*** ./src/style/icons/animated_icons/thunderstorms-night-snow.svg ***!
+  \*********************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"bb79cce423d25d76d6fd.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/thunderstorms-night-snow.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/thunderstorms-night.svg":
+/*!****************************************************************!*\
+  !*** ./src/style/icons/animated_icons/thunderstorms-night.svg ***!
+  \****************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"8bb7d6ca40bd47c4aa1b.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/thunderstorms-night.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/thunderstorms-rain.svg":
+/*!***************************************************************!*\
+  !*** ./src/style/icons/animated_icons/thunderstorms-rain.svg ***!
+  \***************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"54936cd75ec331bd16bc.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/thunderstorms-rain.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/thunderstorms-snow.svg":
+/*!***************************************************************!*\
+  !*** ./src/style/icons/animated_icons/thunderstorms-snow.svg ***!
+  \***************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"40d7240a211624990315.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/thunderstorms-snow.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/thunderstorms.svg":
+/*!**********************************************************!*\
+  !*** ./src/style/icons/animated_icons/thunderstorms.svg ***!
+  \**********************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"639df886958499f6f0fc.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/thunderstorms.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/tornado.svg":
+/*!****************************************************!*\
+  !*** ./src/style/icons/animated_icons/tornado.svg ***!
+  \****************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"1eea9a31a5b14ad2be44.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/tornado.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/umbrella.svg":
+/*!*****************************************************!*\
+  !*** ./src/style/icons/animated_icons/umbrella.svg ***!
+  \*****************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"2c29f38f8eb2d23a97f3.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/umbrella.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/uv-index-1.svg":
+/*!*******************************************************!*\
+  !*** ./src/style/icons/animated_icons/uv-index-1.svg ***!
+  \*******************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"204a72e2997edba5e97c.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/uv-index-1.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/uv-index-10.svg":
+/*!********************************************************!*\
+  !*** ./src/style/icons/animated_icons/uv-index-10.svg ***!
+  \********************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"9dc9b4de8bc5a37b67c8.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/uv-index-10.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/uv-index-11.svg":
+/*!********************************************************!*\
+  !*** ./src/style/icons/animated_icons/uv-index-11.svg ***!
+  \********************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"e8918bd4bcc37e30f99b.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/uv-index-11.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/uv-index-2.svg":
+/*!*******************************************************!*\
+  !*** ./src/style/icons/animated_icons/uv-index-2.svg ***!
+  \*******************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"8490fcd9726846b9b0b1.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/uv-index-2.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/uv-index-3.svg":
+/*!*******************************************************!*\
+  !*** ./src/style/icons/animated_icons/uv-index-3.svg ***!
+  \*******************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"065638033c14b7cb6973.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/uv-index-3.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/uv-index-4.svg":
+/*!*******************************************************!*\
+  !*** ./src/style/icons/animated_icons/uv-index-4.svg ***!
+  \*******************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"cdd609cf8b1e0931d124.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/uv-index-4.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/uv-index-5.svg":
+/*!*******************************************************!*\
+  !*** ./src/style/icons/animated_icons/uv-index-5.svg ***!
+  \*******************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"f269b842ab03faaef697.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/uv-index-5.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/uv-index-6.svg":
+/*!*******************************************************!*\
+  !*** ./src/style/icons/animated_icons/uv-index-6.svg ***!
+  \*******************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"310db877b591c741a366.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/uv-index-6.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/uv-index-7.svg":
+/*!*******************************************************!*\
+  !*** ./src/style/icons/animated_icons/uv-index-7.svg ***!
+  \*******************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"05148bf1c2bc37b93ab7.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/uv-index-7.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/uv-index-8.svg":
+/*!*******************************************************!*\
+  !*** ./src/style/icons/animated_icons/uv-index-8.svg ***!
+  \*******************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"f0760315a45daada4816.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/uv-index-8.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/uv-index-9.svg":
+/*!*******************************************************!*\
+  !*** ./src/style/icons/animated_icons/uv-index-9.svg ***!
+  \*******************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"75be40aa8918f7dbd732.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/uv-index-9.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/uv-index.svg":
+/*!*****************************************************!*\
+  !*** ./src/style/icons/animated_icons/uv-index.svg ***!
+  \*****************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"90f496ccc9b831620b55.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/uv-index.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/wind-beaufort-0.svg":
+/*!************************************************************!*\
+  !*** ./src/style/icons/animated_icons/wind-beaufort-0.svg ***!
+  \************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"e4dba835659c97112518.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/wind-beaufort-0.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/wind-beaufort-1.svg":
+/*!************************************************************!*\
+  !*** ./src/style/icons/animated_icons/wind-beaufort-1.svg ***!
+  \************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"d71b4b8bb051ffcd41db.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/wind-beaufort-1.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/wind-beaufort-10.svg":
+/*!*************************************************************!*\
+  !*** ./src/style/icons/animated_icons/wind-beaufort-10.svg ***!
+  \*************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"31cf58544e914ce1069c.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/wind-beaufort-10.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/wind-beaufort-11.svg":
+/*!*************************************************************!*\
+  !*** ./src/style/icons/animated_icons/wind-beaufort-11.svg ***!
+  \*************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"d1d54bff63a8fe6bceeb.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/wind-beaufort-11.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/wind-beaufort-12.svg":
+/*!*************************************************************!*\
+  !*** ./src/style/icons/animated_icons/wind-beaufort-12.svg ***!
+  \*************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"851552750dcf4ccb5e04.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/wind-beaufort-12.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/wind-beaufort-2.svg":
+/*!************************************************************!*\
+  !*** ./src/style/icons/animated_icons/wind-beaufort-2.svg ***!
+  \************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"819e114339c32f7994fb.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/wind-beaufort-2.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/wind-beaufort-3.svg":
+/*!************************************************************!*\
+  !*** ./src/style/icons/animated_icons/wind-beaufort-3.svg ***!
+  \************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"8da80a53c10e14b41ac8.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/wind-beaufort-3.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/wind-beaufort-4.svg":
+/*!************************************************************!*\
+  !*** ./src/style/icons/animated_icons/wind-beaufort-4.svg ***!
+  \************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"e40e8ebd30f8d930fa29.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/wind-beaufort-4.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/wind-beaufort-5.svg":
+/*!************************************************************!*\
+  !*** ./src/style/icons/animated_icons/wind-beaufort-5.svg ***!
+  \************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"237d4abf766128d8fbf8.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/wind-beaufort-5.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/wind-beaufort-6.svg":
+/*!************************************************************!*\
+  !*** ./src/style/icons/animated_icons/wind-beaufort-6.svg ***!
+  \************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"3db2d59c576e6bd0d101.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/wind-beaufort-6.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/wind-beaufort-7.svg":
+/*!************************************************************!*\
+  !*** ./src/style/icons/animated_icons/wind-beaufort-7.svg ***!
+  \************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"a21017724b48b224583b.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/wind-beaufort-7.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/wind-beaufort-8.svg":
+/*!************************************************************!*\
+  !*** ./src/style/icons/animated_icons/wind-beaufort-8.svg ***!
+  \************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"6d3200db6d5927d35b0d.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/wind-beaufort-8.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/wind-beaufort-9.svg":
+/*!************************************************************!*\
+  !*** ./src/style/icons/animated_icons/wind-beaufort-9.svg ***!
+  \************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"f68b287e1654fbd0d8be.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/wind-beaufort-9.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/wind.svg":
+/*!*************************************************!*\
+  !*** ./src/style/icons/animated_icons/wind.svg ***!
+  \*************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"7666ea56edeecb3eff02.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/wind.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/animated_icons/windsock.svg":
+/*!*****************************************************!*\
+  !*** ./src/style/icons/animated_icons/windsock.svg ***!
+  \*****************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"d9375c49d9a7e66ed965.svg\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/animated_icons/windsock.svg?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/day/113.png":
+/*!************************************************!*\
+  !*** ./src/style/icons/base_icons/day/113.png ***!
+  \************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"17608b0baa1391eb05a0.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/113.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/day/116.png":
+/*!************************************************!*\
+  !*** ./src/style/icons/base_icons/day/116.png ***!
+  \************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"8ea9e73debaf4c25a8cf.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/116.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/day/119.png":
+/*!************************************************!*\
+  !*** ./src/style/icons/base_icons/day/119.png ***!
+  \************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"e740cebbccd7be04d824.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/119.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/day/122.png":
+/*!************************************************!*\
+  !*** ./src/style/icons/base_icons/day/122.png ***!
+  \************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"036a7f4b9402e1d74535.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/122.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/day/143.png":
+/*!************************************************!*\
+  !*** ./src/style/icons/base_icons/day/143.png ***!
+  \************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"a93c5cdce8f09616fc0e.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/143.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/day/176.png":
+/*!************************************************!*\
+  !*** ./src/style/icons/base_icons/day/176.png ***!
+  \************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"307889846f4a6877a9ea.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/176.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/day/179.png":
+/*!************************************************!*\
+  !*** ./src/style/icons/base_icons/day/179.png ***!
+  \************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"ff6c626ccae29522a258.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/179.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/day/182.png":
+/*!************************************************!*\
+  !*** ./src/style/icons/base_icons/day/182.png ***!
+  \************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"6fe62e8748f042a1cbc4.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/182.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/day/185.png":
+/*!************************************************!*\
+  !*** ./src/style/icons/base_icons/day/185.png ***!
+  \************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"b29c7a91f5f0986860ea.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/185.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/day/200.png":
+/*!************************************************!*\
+  !*** ./src/style/icons/base_icons/day/200.png ***!
+  \************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"cc1054a285a2ec8fecca.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/200.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/day/227.png":
+/*!************************************************!*\
+  !*** ./src/style/icons/base_icons/day/227.png ***!
+  \************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"b129e818f96bfd5302e9.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/227.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/day/230.png":
+/*!************************************************!*\
+  !*** ./src/style/icons/base_icons/day/230.png ***!
+  \************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"b8b0bf9be35bccc67ed8.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/230.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/day/248.png":
+/*!************************************************!*\
+  !*** ./src/style/icons/base_icons/day/248.png ***!
+  \************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"b2a1d4434712ee44f9ba.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/248.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/day/260.png":
+/*!************************************************!*\
+  !*** ./src/style/icons/base_icons/day/260.png ***!
+  \************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"83e24a5eb9c1903d153a.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/260.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/day/263.png":
+/*!************************************************!*\
+  !*** ./src/style/icons/base_icons/day/263.png ***!
+  \************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"9f768941645c662c7fad.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/263.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/day/266.png":
+/*!************************************************!*\
+  !*** ./src/style/icons/base_icons/day/266.png ***!
+  \************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"9f768941645c662c7fad.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/266.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/day/281.png":
+/*!************************************************!*\
+  !*** ./src/style/icons/base_icons/day/281.png ***!
+  \************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"b29c7a91f5f0986860ea.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/281.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/day/284.png":
+/*!************************************************!*\
+  !*** ./src/style/icons/base_icons/day/284.png ***!
+  \************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"56ec9edb8b4e68fe86cd.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/284.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/day/293.png":
+/*!************************************************!*\
+  !*** ./src/style/icons/base_icons/day/293.png ***!
+  \************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"307889846f4a6877a9ea.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/293.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/day/296.png":
+/*!************************************************!*\
+  !*** ./src/style/icons/base_icons/day/296.png ***!
+  \************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"be8d48a6fb6962fa1edd.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/296.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/day/299.png":
+/*!************************************************!*\
+  !*** ./src/style/icons/base_icons/day/299.png ***!
+  \************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"307889846f4a6877a9ea.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/299.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/day/302.png":
+/*!************************************************!*\
+  !*** ./src/style/icons/base_icons/day/302.png ***!
+  \************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"be8d48a6fb6962fa1edd.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/302.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/day/305.png":
+/*!************************************************!*\
+  !*** ./src/style/icons/base_icons/day/305.png ***!
+  \************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"b79f79a47ff26675bbb6.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/305.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/day/308.png":
+/*!************************************************!*\
+  !*** ./src/style/icons/base_icons/day/308.png ***!
+  \************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"abccde130cb90d6b8d28.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/308.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/day/311.png":
+/*!************************************************!*\
+  !*** ./src/style/icons/base_icons/day/311.png ***!
+  \************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"a856df694720212e414a.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/311.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/day/314.png":
+/*!************************************************!*\
+  !*** ./src/style/icons/base_icons/day/314.png ***!
+  \************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"a856df694720212e414a.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/314.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/day/317.png":
+/*!************************************************!*\
+  !*** ./src/style/icons/base_icons/day/317.png ***!
+  \************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"21cb978b0b5bc99863da.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/317.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/day/320.png":
+/*!************************************************!*\
+  !*** ./src/style/icons/base_icons/day/320.png ***!
+  \************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"21cb978b0b5bc99863da.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/320.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/day/323.png":
+/*!************************************************!*\
+  !*** ./src/style/icons/base_icons/day/323.png ***!
+  \************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"ff6c626ccae29522a258.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/323.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/day/326.png":
+/*!************************************************!*\
+  !*** ./src/style/icons/base_icons/day/326.png ***!
+  \************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"997f80887a654d8e2bd8.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/326.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/day/329.png":
+/*!************************************************!*\
+  !*** ./src/style/icons/base_icons/day/329.png ***!
+  \************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"ff6c626ccae29522a258.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/329.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/day/332.png":
+/*!************************************************!*\
+  !*** ./src/style/icons/base_icons/day/332.png ***!
+  \************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"997f80887a654d8e2bd8.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/332.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/day/335.png":
+/*!************************************************!*\
+  !*** ./src/style/icons/base_icons/day/335.png ***!
+  \************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"f112e7b7295449ca0f2c.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/335.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/day/338.png":
+/*!************************************************!*\
+  !*** ./src/style/icons/base_icons/day/338.png ***!
+  \************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"33ecc25ad9b9bcdead64.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/338.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/day/350.png":
+/*!************************************************!*\
+  !*** ./src/style/icons/base_icons/day/350.png ***!
+  \************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"e2ffeba8f660e868882d.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/350.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/day/353.png":
+/*!************************************************!*\
+  !*** ./src/style/icons/base_icons/day/353.png ***!
+  \************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"307889846f4a6877a9ea.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/353.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/day/356.png":
+/*!************************************************!*\
+  !*** ./src/style/icons/base_icons/day/356.png ***!
+  \************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"b79f79a47ff26675bbb6.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/356.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/day/359.png":
+/*!************************************************!*\
+  !*** ./src/style/icons/base_icons/day/359.png ***!
+  \************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"a4e620fd4749c3b4e4e0.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/359.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/day/362.png":
+/*!************************************************!*\
+  !*** ./src/style/icons/base_icons/day/362.png ***!
+  \************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"6fe62e8748f042a1cbc4.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/362.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/day/365.png":
+/*!************************************************!*\
+  !*** ./src/style/icons/base_icons/day/365.png ***!
+  \************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"de693c69934c56d7621b.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/365.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/day/368.png":
+/*!************************************************!*\
+  !*** ./src/style/icons/base_icons/day/368.png ***!
+  \************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"ff6c626ccae29522a258.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/368.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/day/371.png":
+/*!************************************************!*\
+  !*** ./src/style/icons/base_icons/day/371.png ***!
+  \************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"f112e7b7295449ca0f2c.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/371.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/day/374.png":
+/*!************************************************!*\
+  !*** ./src/style/icons/base_icons/day/374.png ***!
+  \************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"bbb2a9027eb47dd6fc81.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/374.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/day/377.png":
+/*!************************************************!*\
+  !*** ./src/style/icons/base_icons/day/377.png ***!
+  \************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"d5b7ec94bf807ad7a1f5.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/377.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/day/386.png":
+/*!************************************************!*\
+  !*** ./src/style/icons/base_icons/day/386.png ***!
+  \************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"cc1054a285a2ec8fecca.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/386.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/day/389.png":
+/*!************************************************!*\
+  !*** ./src/style/icons/base_icons/day/389.png ***!
+  \************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"f01fba5ae744838fbf95.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/389.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/day/392.png":
+/*!************************************************!*\
+  !*** ./src/style/icons/base_icons/day/392.png ***!
+  \************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"654b4a200e85db363fc9.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/392.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/day/395.png":
+/*!************************************************!*\
+  !*** ./src/style/icons/base_icons/day/395.png ***!
+  \************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"1cb8e1c8dd3b23368d56.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/day/395.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/night/113.png":
+/*!**************************************************!*\
+  !*** ./src/style/icons/base_icons/night/113.png ***!
+  \**************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"9a181351a22b54059f46.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/113.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/night/116.png":
+/*!**************************************************!*\
+  !*** ./src/style/icons/base_icons/night/116.png ***!
+  \**************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"337f58255916e54ea1e1.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/116.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/night/119.png":
+/*!**************************************************!*\
+  !*** ./src/style/icons/base_icons/night/119.png ***!
+  \**************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"877a68f87ae89bb957ef.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/119.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/night/122.png":
+/*!**************************************************!*\
+  !*** ./src/style/icons/base_icons/night/122.png ***!
+  \**************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"fe1ad0ff1820050f573a.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/122.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/night/143.png":
+/*!**************************************************!*\
+  !*** ./src/style/icons/base_icons/night/143.png ***!
+  \**************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"3a38774211eb11741b54.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/143.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/night/176.png":
+/*!**************************************************!*\
+  !*** ./src/style/icons/base_icons/night/176.png ***!
+  \**************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"2274b0f9afde269933e5.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/176.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/night/179.png":
+/*!**************************************************!*\
+  !*** ./src/style/icons/base_icons/night/179.png ***!
+  \**************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"a05c0ed9c03235edca96.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/179.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/night/182.png":
+/*!**************************************************!*\
+  !*** ./src/style/icons/base_icons/night/182.png ***!
+  \**************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"17b97c48fb138ff20843.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/182.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/night/185.png":
+/*!**************************************************!*\
+  !*** ./src/style/icons/base_icons/night/185.png ***!
+  \**************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"73c62dfd22eaf889b373.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/185.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/night/200.png":
+/*!**************************************************!*\
+  !*** ./src/style/icons/base_icons/night/200.png ***!
+  \**************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"a85bb9589ece1a589e53.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/200.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/night/227.png":
+/*!**************************************************!*\
+  !*** ./src/style/icons/base_icons/night/227.png ***!
+  \**************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"a417dc841fb787a3121e.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/227.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/night/230.png":
+/*!**************************************************!*\
+  !*** ./src/style/icons/base_icons/night/230.png ***!
+  \**************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"af63c80cb02f1b88520b.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/230.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/night/248.png":
+/*!**************************************************!*\
+  !*** ./src/style/icons/base_icons/night/248.png ***!
+  \**************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"360b1cd2a1b3bf3eccf0.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/248.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/night/260.png":
+/*!**************************************************!*\
+  !*** ./src/style/icons/base_icons/night/260.png ***!
+  \**************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"cb1570c9ecb894bc1087.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/260.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/night/263.png":
+/*!**************************************************!*\
+  !*** ./src/style/icons/base_icons/night/263.png ***!
+  \**************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"3e3495b8348354827949.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/263.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/night/266.png":
+/*!**************************************************!*\
+  !*** ./src/style/icons/base_icons/night/266.png ***!
+  \**************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"3e3495b8348354827949.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/266.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/night/281.png":
+/*!**************************************************!*\
+  !*** ./src/style/icons/base_icons/night/281.png ***!
+  \**************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"73c62dfd22eaf889b373.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/281.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/night/284.png":
+/*!**************************************************!*\
+  !*** ./src/style/icons/base_icons/night/284.png ***!
+  \**************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"bf216d4d2f4aa9d2a734.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/284.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/night/293.png":
+/*!**************************************************!*\
+  !*** ./src/style/icons/base_icons/night/293.png ***!
+  \**************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"2274b0f9afde269933e5.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/293.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/night/296.png":
+/*!**************************************************!*\
+  !*** ./src/style/icons/base_icons/night/296.png ***!
+  \**************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"e15944de07d227742faa.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/296.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/night/299.png":
+/*!**************************************************!*\
+  !*** ./src/style/icons/base_icons/night/299.png ***!
+  \**************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"2274b0f9afde269933e5.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/299.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/night/302.png":
+/*!**************************************************!*\
+  !*** ./src/style/icons/base_icons/night/302.png ***!
+  \**************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"e15944de07d227742faa.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/302.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/night/305.png":
+/*!**************************************************!*\
+  !*** ./src/style/icons/base_icons/night/305.png ***!
+  \**************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"f3012ddd8e268e19eb2e.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/305.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/night/308.png":
+/*!**************************************************!*\
+  !*** ./src/style/icons/base_icons/night/308.png ***!
+  \**************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"3b4d7dcbbedd8be85713.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/308.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/night/311.png":
+/*!**************************************************!*\
+  !*** ./src/style/icons/base_icons/night/311.png ***!
+  \**************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"32aa06f17c3f7cfb3a99.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/311.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/night/314.png":
+/*!**************************************************!*\
+  !*** ./src/style/icons/base_icons/night/314.png ***!
+  \**************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"32aa06f17c3f7cfb3a99.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/314.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/night/317.png":
+/*!**************************************************!*\
+  !*** ./src/style/icons/base_icons/night/317.png ***!
+  \**************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"5b39c4234abc34044d08.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/317.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/night/320.png":
+/*!**************************************************!*\
+  !*** ./src/style/icons/base_icons/night/320.png ***!
+  \**************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"5b39c4234abc34044d08.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/320.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/night/323.png":
+/*!**************************************************!*\
+  !*** ./src/style/icons/base_icons/night/323.png ***!
+  \**************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"a05c0ed9c03235edca96.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/323.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/night/326.png":
+/*!**************************************************!*\
+  !*** ./src/style/icons/base_icons/night/326.png ***!
+  \**************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"66cad1fd4ea2b425476d.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/326.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/night/329.png":
+/*!**************************************************!*\
+  !*** ./src/style/icons/base_icons/night/329.png ***!
+  \**************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"a05c0ed9c03235edca96.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/329.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/night/332.png":
+/*!**************************************************!*\
+  !*** ./src/style/icons/base_icons/night/332.png ***!
+  \**************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"66cad1fd4ea2b425476d.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/332.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/night/335.png":
+/*!**************************************************!*\
+  !*** ./src/style/icons/base_icons/night/335.png ***!
+  \**************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"a05c0ed9c03235edca96.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/335.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/night/338.png":
+/*!**************************************************!*\
+  !*** ./src/style/icons/base_icons/night/338.png ***!
+  \**************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"68e33fb0d2d3d215a5fe.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/338.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/night/350.png":
+/*!**************************************************!*\
+  !*** ./src/style/icons/base_icons/night/350.png ***!
+  \**************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"1c33e3dd2cb58a8c51b7.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/350.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/night/353.png":
+/*!**************************************************!*\
+  !*** ./src/style/icons/base_icons/night/353.png ***!
+  \**************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"2274b0f9afde269933e5.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/353.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/night/356.png":
+/*!**************************************************!*\
+  !*** ./src/style/icons/base_icons/night/356.png ***!
+  \**************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"f3012ddd8e268e19eb2e.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/356.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/night/359.png":
+/*!**************************************************!*\
+  !*** ./src/style/icons/base_icons/night/359.png ***!
+  \**************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"f0ea4e443a205a9cfbbf.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/359.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/night/362.png":
+/*!**************************************************!*\
+  !*** ./src/style/icons/base_icons/night/362.png ***!
+  \**************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"17b97c48fb138ff20843.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/362.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/night/365.png":
+/*!**************************************************!*\
+  !*** ./src/style/icons/base_icons/night/365.png ***!
+  \**************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"3e3b2a1ad34b9471b980.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/365.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/night/368.png":
+/*!**************************************************!*\
+  !*** ./src/style/icons/base_icons/night/368.png ***!
+  \**************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"a05c0ed9c03235edca96.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/368.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/night/371.png":
+/*!**************************************************!*\
+  !*** ./src/style/icons/base_icons/night/371.png ***!
+  \**************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"2c7b41d4dea564886958.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/371.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/night/374.png":
+/*!**************************************************!*\
+  !*** ./src/style/icons/base_icons/night/374.png ***!
+  \**************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"42f4df0e587e14e2ec2d.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/374.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/night/377.png":
+/*!**************************************************!*\
+  !*** ./src/style/icons/base_icons/night/377.png ***!
+  \**************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"2821934c72b0870a790d.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/377.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/night/386.png":
+/*!**************************************************!*\
+  !*** ./src/style/icons/base_icons/night/386.png ***!
+  \**************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"a85bb9589ece1a589e53.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/386.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/night/389.png":
+/*!**************************************************!*\
+  !*** ./src/style/icons/base_icons/night/389.png ***!
+  \**************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"815a9988eef459cc98c3.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/389.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/night/392.png":
+/*!**************************************************!*\
+  !*** ./src/style/icons/base_icons/night/392.png ***!
+  \**************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"972cf01edfd40c105c6c.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/392.png?");
+
+/***/ }),
+
+/***/ "./src/style/icons/base_icons/night/395.png":
+/*!**************************************************!*\
+  !*** ./src/style/icons/base_icons/night/395.png ***!
+  \**************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("module.exports = __webpack_require__.p + \"1cb8e1c8dd3b23368d56.png\";\n\n//# sourceURL=webpack://weather-app/./src/style/icons/base_icons/night/395.png?");
 
 /***/ }),
 
