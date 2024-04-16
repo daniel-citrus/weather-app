@@ -1,5 +1,6 @@
 import { getLocationWeather } from './index';
 import { format } from 'date-fns';
+import { icons } from './icons';
 
 const city = document.querySelector('.overview .city');
 const state = document.querySelector('.overview .state');
@@ -37,7 +38,6 @@ searchButton.addEventListener('click', () => {
 
     getLocationWeather(location)
         .then((data) => {
-            console.log(data);
             updateOverview(data.location, data.current);
         })
         .catch((e) => {
@@ -58,8 +58,9 @@ export function updateOverview(location, current) {
     country.textContent = location.country;
 
     // Icon stuff
+    getIcon(current.code, current.is_day);
+    console.log();
 
-    console.log(location);
     if (measureSystem === 'imperial') {
         feelslike.textContent = current.feelslike_f;
         actualTemp.textContent = current.temp_f;
@@ -71,4 +72,14 @@ export function updateOverview(location, current) {
     day.textContent = format(localtime, 'EEEE');
     date.textContent = format(localtime, 'PPP');
     time.textContent = format(localtime, 'p');
+}
+
+/**
+ * Return icon source link
+ * @param {integer} code - weather code
+ * @param {boolean} day - day or night
+ */
+function getIcon(code, day) {
+    day = day ? 'day' : 'night';
+    const keyword = icons[code][day];
 }

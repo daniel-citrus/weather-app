@@ -2,7 +2,7 @@
  * Dictionary to translate response codes into animated icons.
  * https://github.com/basmilius/weather-icons
  */
-const icons = {
+export const icons = {
     1000: {
         day: 'clear-day',
         night: 'clear-night',
