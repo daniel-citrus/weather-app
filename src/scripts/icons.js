@@ -4,6 +4,10 @@
  * @param {boolean} period - day or night
  */
 export function getIcon(code, period) {
+    if (!code || !period) {
+        return null;
+    }
+
     period = period ? 'day' : 'night';
 
     let key = dictionary[code][period];
@@ -15,7 +19,7 @@ export function getIcon(code, period) {
     // No animated icon, so we will get the base icon
     key = dictionary[code]['icon'];
 
-    if (period === day) {
+    if (period === 'day') {
         return base_day_icons[key];
     }
 

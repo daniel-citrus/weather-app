@@ -8,6 +8,8 @@ import * as display from './display';
  * @returns {object} Weather API data object
  */
 async function startUp() {
+    display.updateOverview();
+    display.updateForecastCards();
     const coords = await weather.getUserCoords();
     const weatherData = await getLocationWeather(null, coords);
     return weatherData;
@@ -15,7 +17,7 @@ async function startUp() {
 
 /**
  * Get weather data using
-*/
+ */
 export async function getLocationWeather(location = null, coords = null) {
     const weatherData = await weather.getWeather(location, coords);
     const data = await weatherData.json();
@@ -25,18 +27,19 @@ export async function getLocationWeather(location = null, coords = null) {
 
 document.addEventListener('DOMContentLoaded', () => {
     startUp()
-    .then((data) => {
-        let { current, forecast, location } = data;
-        
-        console.log(data);
-        console.log(`Current:`);
-        console.log(current);
-        console.log(`Forecast:`);
-        console.log(forecast);
-        console.log(`Location:`);
-        console.log(location);
-        
-        display.updateOverview(location, current);
+        .then((data) => {
+            let { current, forecast, location } = data;
+
+            console.log(data);
+            console.log(`Current:`);
+            console.log(current);
+            console.log(`Forecast:`);
+            console.log(forecast);
+            console.log(`Location:`);
+            console.log(location);
+
+            display.updateOverview(location, current);
+            display.updateForecastCards(forecast);
         })
         .catch((e) => {
             console.error(e);

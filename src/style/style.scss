@@ -167,6 +167,10 @@ body {
 
     form.tempSwitch {
         display: inline;
+
+        input:checked + label {
+            background: red;
+        }
     }
 }
 
@@ -179,14 +183,17 @@ body {
     .cards {
         display: grid;
         grid-template: 1fr / repeat(3, 1fr);
-        border: 1px solid red;
     }
 
     .card {
+        display: flex;
+        flex-flow: column nowrap;
+        justify-content: center;
+        align-items: center;
         border: 1px solid black;
 
         .icon {
-            height: 40px;
+            height: 50px;
             width: auto;
         }
     }
@@ -217,11 +224,5 @@ body {
             height: 100px;
             width: 100px;
         }
-    }
-}
-
-.tempSwitch {
-    input:checked + label {
-        background: red;
     }
 }
