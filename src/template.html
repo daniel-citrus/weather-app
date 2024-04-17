@@ -6,7 +6,7 @@
         <title>Document</title>
     </head>
     <body>
-        <div class="main">
+        <div class="main" data-unit="imperial">
             <div class="search">
                 <form>
                     <input
@@ -33,18 +33,32 @@
                     <div class="temperature">
                         <div class="feelslike">
                             <div class="title">Feels Like</div>
-                            <span class="tempVal">--</span>
-                            <span class="tempSwitch">
+                            <span class="temperature">
+                                <span class="imperial" title="Feels like">
+                                    --
+                                </span>
+                                <span class="metric" title="Feels like">
+                                    --
+                                </span>
+                            </span>
+                            <form class="tempSwitch">
                                 <input type="radio" name="measureSystem" value="imperial" id="imperial" checked>
                                 <label for="imperial">°F</label> | 
                                 <input type="radio" name="measureSystem" value="metric" id="metric">
                                 <label for="metric">°C</label>
+                            </form>
                             </span>
                         </div>
                         <div class="actual">
                             Actual:
-                            <span class="actualTemp">--</span>°
-                            <span class="unit">F</span>
+                            <span class="actualTemp">
+                                <span class="imperial" title="Actual temperature">
+                                    --°
+                                </span>
+                                <span class="metric" title="Actual temperature">
+                                    --°
+                                </span>
+                            </span>
                         </div>
                     </div>
                     <div>
@@ -60,12 +74,14 @@
                 <div class="cards">
                     <div class="card">
                         <div class="day">Monday</div>
-                        <div class='icon'>Sunny</div>
+                        <img class="icon" src="" alt="">
                         <span class="temperature">
-                            <span class="hightemp">--</span>°
-                            <span class="unit">F</span> /
-                            <span class="lowtemp">--</span>°
-                            <span class="unit">F</span>
+                            <span class="hightemp" title="Max temperature">
+                                --°
+                            </span> /
+                            <span class="lowtemp" title="Min temperature">
+                                --°
+                            </span>
                         </span>
                     </div>
                     <div class="card">Card 2</div>
@@ -81,11 +97,9 @@
                             <div class="icon">Icon</div>
                             <div class="text">High / Low</div>
                             <div class="info">
-                                <span class="temperature"
-                                    ><span class="hightemp">--</span>°
-                                    <span class="unit">F</span> /
+                                <span class="temperature">
+                                    <span class="hightemp">--</span>°
                                     <span class="lowtemp">--</span>°
-                                    <span class="unit">F</span>
                                 </span>
                             </div>
                         </div>
@@ -95,7 +109,6 @@
                             <div class="info">
                                 <span class="temperature">
                                     <span class="avgtemp">--</span>°
-                                    <span class="unit">F</span>
                                 </span>
                             </div>
                         </div>

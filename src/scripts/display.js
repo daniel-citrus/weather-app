@@ -2,34 +2,13 @@ import { getLocationWeather } from './index';
 import { format, parseISO } from 'date-fns';
 import * as icons from './icons';
 
-const city = document.querySelector('.overview .city');
-const state = document.querySelector('.overview .state');
-const country = document.querySelector('.overview .country');
-const icon = document.querySelector('.overview .icon img');
-const description = document.querySelector('.overview .description');
-const feelslike = document.querySelector('.feelslike .tempVal');
-const tempswitch = document.querySelectorAll('.feelslike input[type="radio"]');
-const actualTemp = document.querySelector('.overview .actualTemp');
-const tempUnit = document.querySelectorAll('.temperature .unit');
-const day = document.querySelector('.date-time .day');
-const date = document.querySelector('.date-time .date');
-const time = document.querySelector('.date-time .time');
-
+const overview = document.querySelector('.overview');
+const main = document.querySelector('.main');
+const unitSwitch = document.querySelector('form.tempSwitch');
 const cards = document.querySelector('.board .cards');
-
 const search = document.getElementById('search');
 const searchButton = document.querySelector('.search button');
 let measureSystem = 'imperial';
-
-tempswitch.forEach((s) => {
-    s.addEventListener('click', () => {
-        if (s.id === measureSystem) {
-            return;
-        }
-
-        measureSystem = s.id;
-    });
-});
 
 searchButton.addEventListener('click', () => {
     const location = search.value;
@@ -49,6 +28,15 @@ searchButton.addEventListener('click', () => {
         });
 });
 
+export function updateUnit(unit) {
+    if (unit === measureSystem) {
+        return;
+    }
+
+    main.dataset.unit = unit;
+    measureSystem = unit;
+}
+
 /**
  * Update contents of overview display
  * @param {*} location - location data from Weather API
@@ -56,27 +44,97 @@ searchButton.addEventListener('click', () => {
  */
 export function updateOverview(location, current) {
     const localtime = new Date(location.localtime);
-
-    city.textContent = location.name;
-    state.textContent = location.region;
-    country.textContent = location.country;
-
-    // Icon stuff
-    icon.src = icons.getIcon(current.code, current.is_day);
-
-    description.textContent = current.description;
+    let feelslike_temp;
+    let actual_temp;
 
     if (measureSystem === 'imperial') {
-        feelslike.textContent = current.feelslike_f;
-        actualTemp.textContent = current.temp_f;
+        feelslike_temp = current.feelslike_f;
+        actual_temp = current.temp_f;
     } else {
-        feelslike.textContent = current.feelslike_c;
-        actualTemp.textContent = current.temp_c;
+        feelslike_temp = current.feelslike_c;
+        actual_temp = current.temp_c;
     }
 
-    day.textContent = format(localtime, 'EEEE');
-    date.textContent = format(localtime, 'PPP');
-    time.textContent = format(localtime, 'p');
+    overview.innerHTML = `
+            <div class="overview">
+                <div class="title">
+                    Weather Today in
+                    <span class="city">${location.name}</span>, 
+                    <span class="state">${location.region}</span>, 
+                    <span class="country">${location.country}</span>
+                </div>
+                <div class="content">
+                    <div class="icon">
+                        <img src="${icons.getIcon(
+                            current.code,
+                            current.is_day
+                        )}" alt="${current.description}" title="${
+        current.description
+    }">
+                        <div class="description">${current.description}</div>
+                    </div>
+                    <div class="temperature">
+                        <div class="feelslike">
+                            <div class="title">Feels Like</div>
+                            <span class="temperature">
+                                <span class="imperial" title="Feels like">
+                                    ${current.feelslike_f}
+                                </span>
+                                <span class="metric" title="Feels like">
+                                    ${current.feelslike_c}
+                                </span>
+                            </span>
+                            <form class="tempSwitch">
+                                <input type="radio" name="measureSystem" value="imperial" id="imperial">
+                                <label for="imperial">°F</label> | 
+                                <input type="radio" name="measureSystem" value="metric" id="metric">
+                                <label for="metric">°C</label>
+                            </form>
+                            </span>
+                        </div>
+                        <div class="actual">
+                            Actual:
+                            <span class="actualTemp">
+                                <span class="imperial" title="Actual temperature">
+                                    ${current.temp_f}°
+                                </span>
+                                <span class="metric" title="Actual temperature">
+                                    ${current.temp_c}°
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="date-time">
+                            <div class="day" title="Day">${format(
+                                localtime,
+                                'EEEE'
+                            )}</div>
+                            <div class="date" title="Date">${format(
+                                localtime,
+                                'PPP'
+                            )}</div>
+                            <div class="time" title="Local Time">${format(
+                                localtime,
+                                'p'
+                            )}</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+    `;
+
+    const unitSwitches = document.querySelectorAll('form.tempSwitch input');
+
+    unitSwitches.forEach((s) => {
+        s.addEventListener('click', () => {
+            updateUnit(s.id);
+        });
+    });
+
+    document.querySelector(
+        `form.tempSwitch input#${measureSystem}`
+    ).checked = true;
 }
 
 function updateForecastCards(data) {
@@ -91,7 +149,8 @@ function clearCards() {
 }
 
 /**
- * Create weather cards to display forecast.
+ * Insert weather cards into the display
+ * @param {object} data
  */
 function createCards(data) {
     for (let i = 0; i < data.length; i++) {
@@ -99,6 +158,12 @@ function createCards(data) {
     }
 }
 
+/**
+ * Create a 'card' element to display daily weather data
+ * @param {number} id
+ * @param {object} data
+ * @returns {element} card element
+ */
 function createCard(id, data) {
     const card = buildElement('div', 'card');
     const day = format(new Date(parseISO(data.date)), 'EEEE');
@@ -107,21 +172,27 @@ function createCard(id, data) {
 
     card.innerHTML = `
     <div class="day">${day}</div>
-    <img class="icon" src="${icon}">
+    <img class="icon" src="${icon}" title="${data.description}">
     <div class="temperature">
         <span class="hightemp">
-            <span class="imperial">${data.maxtemp_f}</span>
-            <span class="metric">${data.maxtemp_c}</span>°
+            <span class="imperial">${data.maxtemp_f}°</span>
+            <span class="metric">${data.maxtemp_c}°</span>
         </span> /
         <span class="lowtemp">
-            <span class="imperial">${data.mintemp_f}</span>
-            <span class="metric">${data.mintemp_c}</span>°
+            <span class="imperial">${data.mintemp_f}°</span>
+            <span class="metric">${data.mintemp_c}°</span>
         </span>
     </div>
     `;
 
+    card.addEventListener('click', () => {
+        console.log('Display information');
+    });
+
     return card;
 }
+
+function updateDisplay(data) {}
 
 function buildElement(elementType, ...classes) {
     const element = document.createElement(elementType);

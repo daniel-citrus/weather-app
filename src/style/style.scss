@@ -152,6 +152,22 @@ body {
         padding: 10px 10px 0 10px;
         margin: 0 auto;
     }
+
+    &[data-unit='imperial'] {
+        .temperature .metric {
+            display: none;
+        }
+    }
+
+    &[data-unit='metric'] {
+        .temperature .imperial {
+            display: none;
+        }
+    }
+
+    form.tempSwitch {
+        display: inline;
+    }
 }
 
 .board {

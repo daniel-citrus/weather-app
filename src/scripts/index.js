@@ -1,6 +1,6 @@
 import '../style/style.scss';
 import { extractData as extractor } from './dataExtractor';
-import { getWeather, getUserCoords } from './weather';
+import * as weather from './weather';
 import * as display from './display';
 
 /**
@@ -8,16 +8,16 @@ import * as display from './display';
  * @returns {object} Weather API data object
  */
 async function startUp() {
-    const coords = await getUserCoords();
+    const coords = await weather.getUserCoords();
     const weatherData = await getLocationWeather(null, coords);
     return weatherData;
 }
 
 /**
  * Get weather data using
- */
+*/
 export async function getLocationWeather(location = null, coords = null) {
-    const weatherData = await getWeather(location, coords);
+    const weatherData = await weather.getWeather(location, coords);
     const data = await weatherData.json();
     console.log(data);
     return extractor(data);
@@ -25,18 +25,18 @@ export async function getLocationWeather(location = null, coords = null) {
 
 document.addEventListener('DOMContentLoaded', () => {
     startUp()
-        .then((data) => {
-            let { current, forecast, location } = data;
-
-            console.log(data);
-            console.log(`Current:`);
-            console.log(current);
-            console.log(`Forecast:`);
-            console.log(forecast);
-            console.log(`Location:`);
-            console.log(location);
-
-            display.updateOverview(location, current);
+    .then((data) => {
+        let { current, forecast, location } = data;
+        
+        console.log(data);
+        console.log(`Current:`);
+        console.log(current);
+        console.log(`Forecast:`);
+        console.log(forecast);
+        console.log(`Location:`);
+        console.log(location);
+        
+        display.updateOverview(location, current);
         })
         .catch((e) => {
             console.error(e);
