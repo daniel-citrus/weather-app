@@ -22,10 +22,12 @@ searchButton.addEventListener('click', () => {
         .then((data) => {
             updateOverview(data.location, data.current);
             updateForecastCards(data.forecast);
+            updateDisplay(data.forecast[0]);
         })
         .catch((e) => {
             updateOverview();
             updateForecastCards();
+            updateDisplay();
             console.error(e);
         });
 });
@@ -236,11 +238,25 @@ function createCard(id = 0, data = null) {
  * Update display window with selected day information
  * @param {object} data
  */
-function updateDisplay(data) {
+export function updateDisplay(data) {
     let description = '--',
-        icon = '--',
+        tempicon = '--',
         maxtemp_f = '--',
-        maxtemp_c = '--';
+        maxtemp_c = '--',
+        mintemp_f = '--',
+        mintemp_c = '--',
+        averageicon = '--',
+        avgtemp_f = '--',
+        avgtemp_c = '--',
+        rainicon = '--',
+        rainchance = '--',
+        snowicon = '--',
+        snowchance = '--',
+
+
+
+    if (data) {
+    }
 
     display.innerHTML = `
         <div class="details">
@@ -248,44 +264,49 @@ function updateDisplay(data) {
                 <div class="description">Sunny</div>
                 </div>
             </div>
-            <div class="line">
+            <div class="line temperature">
                 <div class="icon">Icon</div>
                 <div class="text">High / Low</div>
                 <div class="info">
                     <span class="temperature">
-                        <span class="hightemp">--</span>°
-                        <span class="lowtemp">--</span>°
+                        <span class="hightemp">
+                            <span class="imperial">${maxtemp_f}°</span>
+                            <span class="metric">${maxtemp_c}°</span>
+                        </span> / 
+                        <span class="lowtemp">
+                            <span class="imperial">${'=='}°</span>
+                            <span class="metric">${'='}°</span>
+                        </span>
                     </span>
                 </div>
             </div>
-            <div class="line">
+            <div class="line averageTemp">
                 <div class="icon">Icon</div>
                 <div class="text">Average</div>
                 <div class="info">
                     <span class="temperature">
-                        <span class="avgtemp">--</span>°
+                        <span class="avgtemp">
+                            <span class="imperial">${'=='}°</span>
+                            <span class="metric">${'='}°</span>
+                        </span>°
                     </span>
                 </div>
             </div>
-            <div class="line">
+            <div class="line rain">
                 <div class="icon">Icon</div>
                 <div class="text">Chance of Rain</div>
                 <div class="info">
-                    <span class="rainChance">
-                        <span class="value">--</span>%
-                    </span>
+                    <span class="rainChance">--%</span>
                 </div>
             </div>
-            <div class="line">
+            <div class="line snow">
                 <div class="icon">Icon</div>
                 <div class="text">Chance of Snow</div>
                 <div class="info">
-                    <span class="snowChance">
-                        <span class="value">--</span>%
-                    </span>
+                    <span class="snowChance">--</span>
                 </div>
             </div>
-            <div class="line">
+            <div class="line humidity">
                 <div class="icon">Icon</div>
                 <div class="text">Humidity</div>
                 <div class="info">
@@ -294,7 +315,7 @@ function updateDisplay(data) {
                     </div>
                 </div>
             </div>
-            <div class="line">
+            <div class="line wind">
                 <div class="icon">Icon</div>
                 <div class="text">Wind</div>
                 <div class="info">
@@ -305,7 +326,7 @@ function updateDisplay(data) {
                     </span>
                 </div>
             </div>
-            <div class="line">
+            <div class="line uvIndex">
                 <div class="icon">Icon</div>
                 <div class="text">UV Index</div>
                 <div class="info">

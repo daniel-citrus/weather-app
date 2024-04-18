@@ -10,6 +10,7 @@ import * as display from './display';
 async function startUp() {
     display.updateOverview();
     display.updateForecastCards();
+    display.updateDisplay();
     const coords = await weather.getUserCoords();
     const weatherData = await getLocationWeather(null, coords);
     return weatherData;
