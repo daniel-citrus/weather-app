@@ -228,7 +228,7 @@ function createCard(id = 0, data = null) {
     `;
 
     card.addEventListener('click', () => {
-        console.log('Display information');
+        updateDisplay(data);
     });
 
     return card;
@@ -245,23 +245,36 @@ export function updateDisplay(data) {
         maxtemp_c = '--',
         mintemp_f = '--',
         mintemp_c = '--',
-        averageicon = '--',
+        averageicon_f = '--',
+        averageicon_c = '--',
         avgtemp_f = '--',
         avgtemp_c = '--',
         rainicon = '--',
         rainchance = '--',
         snowicon = '--',
         snowchance = '--',
-
-
+        humidityicon = '--',
+        humidity = '--',
+        windicon = '--',
+        windspeed = '--',
+        uvindexicon = '--',
+        uvindex = '--';
 
     if (data) {
+        description = data.description;
+        tempicon = icons.getIcon(data.code, true);
+        maxtemp_f = data.maxtemp_f;
+        maxtemp_c = data.maxtemp_c;
+        mintemp_f = data.mintemp_f;
+        mintemp_c = data.mintemp_c;
+        averageicon_f = icons.getAnimatedIcon('thermometer-glass-fahrenheit');
+        averageicon_c = icons.getAnimatedIcon('thermometer-glass-celsius');
     }
 
     display.innerHTML = `
         <div class="details">
             <div class="line">
-                <div class="description">Sunny</div>
+                <div class="description">${description}</div>
                 </div>
             </div>
             <div class="line temperature">
@@ -281,14 +294,17 @@ export function updateDisplay(data) {
                 </div>
             </div>
             <div class="line averageTemp">
-                <div class="icon">Icon</div>
+                <div class="icons">
+                    <img class="icon imperial" src="${averageicon_f}" alt="Farenheit Thermometer">
+                    <img class="icon metric" src="${averageicon_c}" alt="Celsius Thermometer">
+                </div>
                 <div class="text">Average</div>
                 <div class="info">
                     <span class="temperature">
                         <span class="avgtemp">
                             <span class="imperial">${'=='}°</span>
-                            <span class="metric">${'='}°</span>
-                        </span>°
+                            <span class="metric">${'--'}°</span>
+                        </span>
                     </span>
                 </div>
             </div>

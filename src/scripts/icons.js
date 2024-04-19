@@ -1,7 +1,7 @@
 /**
  * Return icon source link
- * @param {integer} code - weather code
- * @param {boolean} period - day or night
+ * @param {integer} code weather code
+ * @param {boolean} period true = day, false = night
  */
 export function getIcon(code, period) {
     if (!code || !period) {

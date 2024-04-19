@@ -154,12 +154,14 @@ body {
     }
 
     &[data-unit='imperial'] {
+        .icons .metric,
         .temperature .metric {
             display: none;
         }
     }
 
     &[data-unit='metric'] {
+        .icons .imperial,
         .temperature .imperial {
             display: none;
         }
@@ -205,7 +207,13 @@ body {
     .line {
         display: flex;
         flex-flow: row nowrap;
+        align-items: center;
         gap: 10px;
+
+        .icon {
+            height: 30px;
+            width: auto;
+        }
     }
 }
 
