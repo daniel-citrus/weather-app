@@ -40,6 +40,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
             display.updateOverview(location, current);
             display.updateForecastCards(forecast);
+            display.updateDisplay(forecast[0]); // Display today's data
         })
         .catch((e) => {
             console.error(e);

@@ -39,3 +39,82 @@ export async function getUserCoords() {
         throw new Error(e.message);
     }
 }
+
+/**
+ *
+ * @param {*} windspeed in mph
+ * @returns {object} { bfn - Beaufort force number , description - description of wind }
+ */
+export function beaufortWindScale(windspeed) {
+    let bfn, description;
+
+    if (windspeed < 1) {
+        bfn = 0;
+        description = 'Calm';
+    } else if (windspeed >= 1 && windspeed < 4) {
+        bfn = 1;
+        description = 'Light Air';
+    } else if (windspeed >= 4 && windspeed < 8) {
+        bfn = 2;
+        description = 'Light Breeze';
+    } else if (windspeed >= 8 && windspeed < 13) {
+        bfn = 3;
+        description = 'Gentle Breeze';
+    } else if (windspeed >= 13 && windspeed < 19) {
+        bfn = 4;
+        description = 'Moderate Breeze';
+    } else if (windspeed >= 19 && windspeed < 25) {
+        bfn = 5;
+        description = 'Fresh Breeze';
+    } else if (windspeed >= 25 && windspeed < 32) {
+        bfn = 6;
+        description = 'Strong Breeze';
+    } else if (windspeed >= 32 && windspeed < 39) {
+        bfn = 7;
+        description = 'Near Gale';
+    } else if (windspeed >= 39 && windspeed < 47) {
+        bfn = 8;
+        description = 'Gale';
+    } else if (windspeed >= 47 && windspeed < 55) {
+        bfn = 9;
+        description = 'Severe Gale';
+    } else if (windspeed >= 55 && windspeed < 64) {
+        bfn = 10;
+        description = 'Storm';
+    } else if (windspeed >= 64 && windspeed < 72) {
+        bfn = 11;
+        description = 'Violent Storm';
+    } else if (windspeed >= 72) {
+        bfn = 12;
+        description = 'Hurricane';
+    }
+
+    return {
+        bfn,
+        description,
+    };
+}
+
+export function uvIndexRisk(uvIndex) {
+    let risk = '';
+
+    switch (uvIndex) {
+        case uvIndex <= 2:
+            risk = 'Low';
+            break;
+        case uvIndex >= 3 && uvindex <= 5:
+            risk = 'Moderate';
+            break;
+        case uvIndex >= 6 && uvindex <= 7:
+            risk = 'High';
+            break;
+        case uvIndex >= 8 && uvindex <= 10:
+            risk = 'Very High';
+            break;
+        case uvIndex >= 8 && uvindex <= 10:
+            risk = 'Extreme';
+            break;
+    }
+
+    return risk;
+}

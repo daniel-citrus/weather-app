@@ -1,4 +1,5 @@
 import { getLocationWeather } from './index';
+import { beaufortWindScale, uvIndexRisk } from './weather';
 import { format, parseISO } from 'date-fns';
 import * as icons from './icons';
 
@@ -240,35 +241,49 @@ function createCard(id = 0, data = null) {
  */
 export function updateDisplay(data) {
     let description = '--',
-        tempicon = '--',
         maxtemp_f = '--',
         maxtemp_c = '--',
         mintemp_f = '--',
         mintemp_c = '--',
-        averageicon_f = '--',
-        averageicon_c = '--',
+        averageicon_f = icons.getAnimatedIcon('thermometer-fahrenheit'),
+        averageicon_c = icons.getAnimatedIcon('thermometer-celsius'),
         avgtemp_f = '--',
         avgtemp_c = '--',
-        rainicon = '--',
+        rainicon = icons.getAnimatedIcon('raindrop'),
         rainchance = '--',
-        snowicon = '--',
+        snowicon = icons.getAnimatedIcon('snowflake'),
         snowchance = '--',
-        humidityicon = '--',
+        humidityicon = icons.getAnimatedIcon('humidity'),
         humidity = '--',
-        windicon = '--',
-        windspeed = '--',
-        uvindexicon = '--',
+        windicon = icons.getAnimatedIcon('wind'),
+        beaufortForce,
+        windDescription = '',
+        maxwind_kph = '--',
+        maxwind_mph = '--',
+        uvindexicon = icons.getAnimatedIcon('uv-index'),
         uvindex = '--';
 
     if (data) {
         description = data.description;
-        tempicon = icons.getIcon(data.code, true);
         maxtemp_f = data.maxtemp_f;
         maxtemp_c = data.maxtemp_c;
         mintemp_f = data.mintemp_f;
         mintemp_c = data.mintemp_c;
-        averageicon_f = icons.getAnimatedIcon('thermometer-glass-fahrenheit');
-        averageicon_c = icons.getAnimatedIcon('thermometer-glass-celsius');
+        avgtemp_f = data.avgtemp_f;
+        avgtemp_c = data.avgtemp_c;
+        rainchance = data.daily_chance_of_rain;
+        snowchance = data.daily_chance_of_snow;
+        humidity = data.avghumidity;
+
+        maxwind_kph = data.maxwind_kph;
+        maxwind_mph = data.maxwind_mph;
+        ({ bfn: beaufortForce, description: windDescription } =
+            beaufortWindScale(maxwind_mph));
+
+        windicon = icons.getAnimatedIcon(`wind-beaufort-${beaufortForce}`);
+
+        uvindex = data.uv;
+        uvindexicon = icons.getAnimatedIcon(`uv-index-${data.uv}`);
     }
 
     display.innerHTML = `
@@ -278,7 +293,8 @@ export function updateDisplay(data) {
                 </div>
             </div>
             <div class="line temperature">
-                <div class="icon">Icon</div>
+                <img class="icon imperial" src="${averageicon_f}" alt="Farenheit Thermometer">
+                <img class="icon metric" src="${averageicon_c}" alt="Celsius Thermometer">
                 <div class="text">High / Low</div>
                 <div class="info">
                     <span class="temperature">
@@ -287,8 +303,8 @@ export function updateDisplay(data) {
                             <span class="metric">${maxtemp_c}°</span>
                         </span> / 
                         <span class="lowtemp">
-                            <span class="imperial">${'=='}°</span>
-                            <span class="metric">${'='}°</span>
+                            <span class="imperial">${mintemp_f}°</span>
+                            <span class="metric">${avgtemp_c}°</span>
                         </span>
                     </span>
                 </div>
@@ -302,52 +318,52 @@ export function updateDisplay(data) {
                 <div class="info">
                     <span class="temperature">
                         <span class="avgtemp">
-                            <span class="imperial">${'=='}°</span>
-                            <span class="metric">${'--'}°</span>
+                            <span class="imperial">${avgtemp_f}°</span>
+                            <span class="metric">${avgtemp_c}°</span>
                         </span>
                     </span>
                 </div>
             </div>
-            <div class="line rain">
-                <div class="icon">Icon</div>
+            <div class="line rain" title="Chance of rain">
+                <img class="icon" src="${rainicon}" alt="raindrop">
                 <div class="text">Chance of Rain</div>
                 <div class="info">
-                    <span class="rainChance">--%</span>
+                    <span class="rainChance">${rainchance}%</span>
                 </div>
             </div>
-            <div class="line snow">
-                <div class="icon">Icon</div>
+            <div class="line snow" title="Chance of snow">
+                <img class="icon" src="${snowicon}" alt="snowflake">
                 <div class="text">Chance of Snow</div>
                 <div class="info">
-                    <span class="snowChance">--</span>
+                    <span class="snowChance">${snowchance}%</span>
                 </div>
             </div>
-            <div class="line humidity">
-                <div class="icon">Icon</div>
+            <div class="line humidity" title="Humidity">
+                <img class="icon" src="${humidityicon}" alt="raindrop with percent synbol">
                 <div class="text">Humidity</div>
                 <div class="info">
                     <div class="humidity">
-                        <span class="value">--</span>%
+                        <span class="value">${humidity}%</span>
                     </div>
                 </div>
             </div>
-            <div class="line wind">
-                <div class="icon">Icon</div>
+            <div class="line wind" title="${windDescription}">
+                <img class="icon" src="${windicon}" alt="wind">
                 <div class="text">Wind</div>
                 <div class="info">
                     <span class="direction" title="Wind Direction"></span>
                     <span class="windSpeed">
-                        <span class="value">--</span>
-                        <span class="speedunit">mph</span>
+                        <span class="imperial">${maxwind_mph} mph</span>
+                        <span class="metric">${maxwind_kph} kph</span>
                     </span>
                 </div>
             </div>
-            <div class="line uvIndex">
-                <div class="icon">Icon</div>
+            <div class="line uvIndex" title="UV Index">
+                <img class="icon" src="${uvindexicon}" alt="UV Index">
                 <div class="text">UV Index</div>
                 <div class="info">
                 <span class="uvIndex">
-                    <span class="value">--</span> of 11
+                    <span class="value">${uvindex} of 11</span>
                 </span>
             </div>
         </div>

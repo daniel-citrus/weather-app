@@ -154,15 +154,13 @@ body {
     }
 
     &[data-unit='imperial'] {
-        .icons .metric,
-        .temperature .metric {
+        .metric {
             display: none;
         }
     }
 
     &[data-unit='metric'] {
-        .icons .imperial,
-        .temperature .imperial {
+        .imperial {
             display: none;
         }
     }

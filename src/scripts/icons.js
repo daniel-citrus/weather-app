@@ -30,6 +30,12 @@ export function getAnimatedIcon(name) {
     return animated_icons[name];
 }
 
+/**
+ * Import all image files from context and store in a dictionary.
+ * { key <file name>: value <file source> }
+ * @param {context} r
+ * @returns
+ */
 function importAll(r) {
     let images = {};
 

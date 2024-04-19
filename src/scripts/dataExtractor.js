@@ -41,36 +41,7 @@ function extractForecast(forecastData) {
         let { date, hour } = dayData;
 
         hour = hour.map((hourData) => {
-            const {
-                condition: { icon, text: description },
-                daily_chance_of_rain,
-                daily_chance_of_snow,
-                feelslike_c,
-                feelslike_f,
-                temp_c,
-                temp_f,
-                time,
-                wind_kph,
-                wind_mph,
-                is_day,
-                humidity,
-            } = hourData;
-
-            return {
-                icon,
-                description,
-                daily_chance_of_rain,
-                daily_chance_of_snow,
-                feelslike_c,
-                feelslike_f,
-                temp_c,
-                temp_f,
-                time,
-                wind_kph,
-                wind_mph,
-                is_day,
-                humidity,
-            };
+            return { ...hourData };
         });
 
         const {
@@ -86,6 +57,7 @@ function extractForecast(forecastData) {
             mintemp_f,
             maxwind_kph,
             maxwind_mph,
+            uv,
         } = dayData.day;
 
         return {
@@ -105,6 +77,7 @@ function extractForecast(forecastData) {
             mintemp_f,
             maxwind_kph,
             maxwind_mph,
+            uv,
         };
     });
 }
