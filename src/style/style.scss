@@ -130,6 +130,10 @@ table {
 
 /* End CSS Reset */
 
+:root {
+    --border-radius: 4px;
+}
+
 input[type='radio'] {
     display: none;
 }
@@ -137,8 +141,14 @@ input[type='radio'] {
 body {
     display: flex;
     flex-flow: column nowrap;
+    justify-content: center;
     gap: 20px;
     margin: 10px 25px;
+}
+
+footer {
+    text-align: center;
+    font-size: 0.7rem;
 }
 
 .main {
@@ -146,7 +156,9 @@ body {
     flex-flow: column nowrap;
     border-collapse: collapse;
     box-sizing: border-box;
+    font-size: 0.9rem;
     gap: 20px;
+    white-space: nowrap;
 
     .search {
         padding: 10px 10px 0 10px;
@@ -176,13 +188,13 @@ body {
 
 .board {
     display: grid;
-    height: 100%;
-    display: grid;
-    grid-template: 90px 1fr / 1fr;
+    grid-template: auto 1fr / 1fr;
+    gap: 7px;
 
     .cards {
         display: grid;
         grid-template: 1fr / repeat(3, 1fr);
+        gap: 7px;
     }
 
     .card {
@@ -191,26 +203,41 @@ body {
         justify-content: center;
         align-items: center;
         border: 1px solid black;
+        border-radius: var(--border-radius);
+        padding: 5px;
+        gap: 5px;
 
         .icon {
-            height: 50px;
+            height: 65px;
             width: auto;
         }
     }
+}
 
-    .display {
-        border: 1px solid blue;
+.display {
+    border: 1px solid black;
+    border-radius: var(--border-radius);
+    padding: 10px 5px;
+
+    .description {
+        text-align: center;
     }
 
     .line {
-        display: flex;
-        flex-flow: row nowrap;
+        display: grid;
+        grid-template: 1fr / auto auto 1fr;
+        justify-content: center;
         align-items: center;
         gap: 10px;
+        min-height: 30px;
 
         .icon {
             height: 30px;
             width: auto;
+        }
+
+        .info {
+            justify-self: flex-end;
         }
     }
 }
@@ -219,9 +246,7 @@ body {
     .content {
         display: flex;
         flex-flow: column nowrap;
-        gap: 15px;
         align-items: center;
-        padding: 10px 0;
         text-align: center;
     }
 
@@ -230,5 +255,9 @@ body {
             height: 100px;
             width: 100px;
         }
+    }
+
+    .title {
+        text-align: right;
     }
 }

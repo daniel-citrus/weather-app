@@ -89,7 +89,7 @@ export function updateOverview(location = null, current = null) {
         <div class="title">
             Weather Today in
             <span class="city">${city}</span>, 
-            <span class="state">${state}</span>, 
+            <span class="state">${state}</span><br> 
             <span class="country">${country}</span>
         </div>
         <div class="content">
@@ -100,7 +100,7 @@ export function updateOverview(location = null, current = null) {
             </div>
             <div class="temperature">
                 <div class="feelslike">
-                    <div class="title">Feels Like</div>
+                    <div class="text">Feels Like</div>
                     <span class="temperature">
                         <span class="imperial" title="Feels like">
                             ${feelslike_f}
@@ -214,18 +214,18 @@ function createCard(id = 0, data = null) {
     card.dataset.id = id;
 
     card.innerHTML = `
-        <div class="day">${day}</div>
-        <img class="icon" src="${icon}" title="${description}">
         <div class="temperature">
             <span class="hightemp">
                 <span class="imperial">${maxtemp_f}°</span>
                 <span class="metric">${maxtemp_c}°</span>
-            </span> /
+            </span>
             <span class="lowtemp">
                 <span class="imperial">${mintemp_f}°</span>
                 <span class="metric">${mintemp_c}°</span>
             </span>
         </div>
+        <img class="icon" src="${icon}" title="${description}">
+        <div class="day">${day}</div>
     `;
 
     card.addEventListener('click', () => {
@@ -240,7 +240,8 @@ function createCard(id = 0, data = null) {
  * @param {object} data
  */
 export function updateDisplay(data) {
-    let description = '--',
+    let icon = '--',
+        description = '--',
         maxtemp_f = '--',
         maxtemp_c = '--',
         mintemp_f = '--',
@@ -264,6 +265,7 @@ export function updateDisplay(data) {
         uvindex = '--';
 
     if (data) {
+        icon = icons.getIcon(data.code, data.is_day);
         description = data.description;
         maxtemp_f = data.maxtemp_f;
         maxtemp_c = data.maxtemp_c;
@@ -288,31 +290,46 @@ export function updateDisplay(data) {
 
     display.innerHTML = `
         <div class="details">
-            <div class="line">
+                <img class="icon" src="${icon}" alt="raindrop" />
                 <div class="description">${description}</div>
-                </div>
             </div>
             <div class="line temperature">
-                <img class="icon imperial" src="${averageicon_f}" alt="Farenheit Thermometer">
-                <img class="icon metric" src="${averageicon_c}" alt="Celsius Thermometer">
+                <img
+                    class="icon imperial"
+                    src="${averageicon_f}"
+                    alt="Farenheit Thermometer"
+                />
+                <img
+                    class="icon metric"
+                    src="${averageicon_c}"
+                    alt="Celsius Thermometer"
+                />
                 <div class="text">High / Low</div>
                 <div class="info">
                     <span class="temperature">
                         <span class="hightemp">
                             <span class="imperial">${maxtemp_f}°</span>
                             <span class="metric">${maxtemp_c}°</span>
-                        </span> / 
+                        </span>
                         <span class="lowtemp">
                             <span class="imperial">${mintemp_f}°</span>
-                            <span class="metric">${avgtemp_c}°</span>
+                            <span class="metric">${mintemp_c}°</span>
                         </span>
                     </span>
                 </div>
             </div>
             <div class="line averageTemp">
                 <div class="icons">
-                    <img class="icon imperial" src="${averageicon_f}" alt="Farenheit Thermometer">
-                    <img class="icon metric" src="${averageicon_c}" alt="Celsius Thermometer">
+                    <img
+                        class="icon imperial"
+                        src="${averageicon_f}"
+                        alt="Farenheit Thermometer"
+                    />
+                    <img
+                        class="icon metric"
+                        src="${averageicon_c}"
+                        alt="Celsius Thermometer"
+                    />
                 </div>
                 <div class="text">Average</div>
                 <div class="info">
@@ -325,21 +342,25 @@ export function updateDisplay(data) {
                 </div>
             </div>
             <div class="line rain" title="Chance of rain">
-                <img class="icon" src="${rainicon}" alt="raindrop">
+                <img class="icon" src="${rainicon}" alt="raindrop" />
                 <div class="text">Chance of Rain</div>
                 <div class="info">
                     <span class="rainChance">${rainchance}%</span>
                 </div>
             </div>
             <div class="line snow" title="Chance of snow">
-                <img class="icon" src="${snowicon}" alt="snowflake">
+                <img class="icon" src="${snowicon}" alt="snowflake" />
                 <div class="text">Chance of Snow</div>
                 <div class="info">
                     <span class="snowChance">${snowchance}%</span>
                 </div>
             </div>
             <div class="line humidity" title="Humidity">
-                <img class="icon" src="${humidityicon}" alt="raindrop with percent synbol">
+                <img
+                    class="icon"
+                    src="${humidityicon}"
+                    alt="raindrop with percent synbol"
+                />
                 <div class="text">Humidity</div>
                 <div class="info">
                     <div class="humidity">
@@ -348,7 +369,7 @@ export function updateDisplay(data) {
                 </div>
             </div>
             <div class="line wind" title="${windDescription}">
-                <img class="icon" src="${windicon}" alt="wind">
+                <img class="icon" src="${windicon}" alt="wind" />
                 <div class="text">Wind</div>
                 <div class="info">
                     <span class="direction" title="Wind Direction"></span>
@@ -359,12 +380,13 @@ export function updateDisplay(data) {
                 </div>
             </div>
             <div class="line uvIndex" title="UV Index">
-                <img class="icon" src="${uvindexicon}" alt="UV Index">
+                <img class="icon" src="${uvindexicon}" alt="UV Index" />
                 <div class="text">UV Index</div>
                 <div class="info">
-                <span class="uvIndex">
-                    <span class="value">${uvindex} of 11</span>
-                </span>
+                    <span class="uvIndex">
+                        <span class="value">${uvindex} of 11</span>
+                    </span>
+                </div>
             </div>
         </div>
     `;
