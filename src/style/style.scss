@@ -131,6 +131,7 @@ table {
 /* End CSS Reset */
 
 :root {
+    --border: 1px solid rgba(181, 181, 181, 0.27);
     --border-radius: 4px;
 }
 
@@ -144,6 +145,15 @@ body {
     justify-content: center;
     gap: 20px;
     margin: 10px 25px;
+    color: #ddd;
+
+    background: rgb(24, 33, 62);
+    background: linear-gradient(
+        173deg,
+        rgba(24, 33, 62, 1) 0%,
+        rgba(70, 58, 144, 1) 58%,
+        rgba(145, 59, 165, 1) 100%
+    );
 }
 
 footer {
@@ -202,10 +212,17 @@ footer {
         flex-flow: column nowrap;
         justify-content: center;
         align-items: center;
-        border: 1px solid black;
+        border: var(--border);
         border-radius: var(--border-radius);
         padding: 5px;
         gap: 5px;
+        background: rgb(63, 44, 144);
+        background: linear-gradient(
+            173deg,
+            rgba(63, 44, 144, 1) 0%,
+            rgba(114, 64, 157, 1) 60%,
+            rgba(157, 80, 172, 1) 100%
+        );
 
         .icon {
             height: 65px;
@@ -215,21 +232,37 @@ footer {
 }
 
 .display {
-    border: 1px solid black;
+    border: var(--border);
     border-radius: var(--border-radius);
-    padding: 10px 5px;
+    padding: 15px 20px;
+    background: rgb(63, 44, 144);
+    background: linear-gradient(
+        215deg,
+        rgba(63, 44, 144, 1) 0%,
+        rgba(114, 64, 157, 1) 86%,
+        rgba(157, 80, 172, 1) 100%
+    );
 
     .description {
         text-align: center;
     }
 
+    .details {
+        display: flex;
+        flex-flow: column nowrap;
+        justify-content: center;
+        align-items: center;
+
+        .icon {
+            height: 40px;
+        }
+    }
+
     .line {
         display: grid;
         grid-template: 1fr / auto auto 1fr;
-        justify-content: center;
         align-items: center;
         gap: 10px;
-        min-height: 30px;
 
         .icon {
             height: 30px;

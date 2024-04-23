@@ -240,6 +240,7 @@ function createCard(id = 0, data = null) {
  * @param {object} data
  */
 export function updateDisplay(data) {
+    console.log(data);
     let icon = '--',
         description = '--',
         maxtemp_f = '--',
@@ -265,7 +266,8 @@ export function updateDisplay(data) {
         uvindex = '--';
 
     if (data) {
-        icon = icons.getIcon(data.code, data.is_day);
+        icon = icons.getIcon(data.code, true);
+        console.log(icon);
         description = data.description;
         maxtemp_f = data.maxtemp_f;
         maxtemp_c = data.maxtemp_c;
@@ -290,7 +292,7 @@ export function updateDisplay(data) {
 
     display.innerHTML = `
         <div class="details">
-                <img class="icon" src="${icon}" alt="raindrop" />
+                <img class="icon" src="${icon}" alt="${description}" />
                 <div class="description">${description}</div>
             </div>
             <div class="line temperature">
