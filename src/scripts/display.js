@@ -57,7 +57,7 @@ export function updateOverview(location = null, current = null) {
         city = '--',
         state = '--',
         country = '--',
-        iconsrc = '--',
+        iconsrc = '',
         feelslike_f = '--',
         feelslike_c = '--',
         alt = '',
@@ -101,20 +101,22 @@ export function updateOverview(location = null, current = null) {
             <div class="temperature">
                 <div class="feelslike">
                     <div class="text">Feels Like</div>
-                    <span class="temperature">
-                        <span class="imperial" title="Feels like">
-                            ${feelslike_f}
-                        </span>
-                        <span class="metric" title="Feels like">
-                            ${feelslike_c}
-                        </span>
-                    </span>
-                    <form class="tempSwitch">
-                        <input type="radio" name="measureSystem" value="imperial" id="imperial">
-                        <label for="imperial">°F</label> | 
-                        <input type="radio" name="measureSystem" value="metric" id="metric">
-                        <label for="metric">°C</label>
-                    </form>
+                    <div class="temp">
+                        <div class="avgTempToday">
+                            <span class="imperial" title="Feels like">
+                                ${feelslike_f}
+                            </span>
+                            <span class="metric" title="Feels like">
+                                ${feelslike_c}
+                            </span>
+                        </div>
+                        <form class="tempSwitch">
+                            <input type="radio" name="measureSystem" value="imperial" id="imperial">
+                            <label for="imperial">°F</label> | 
+                            <input type="radio" name="measureSystem" value="metric" id="metric">
+                            <label for="metric">°C</label>
+                        </form>
+                    </div>
                     </span>
                 </div>
                 <div class="actual">
@@ -192,7 +194,7 @@ function createCards(data) {
 function createCard(id = 0, data = null) {
     let card = buildElement('div', 'card'),
         day = '--',
-        icon = '--',
+        icon = '',
         alt = '--',
         description = '--',
         maxtemp_f = '--',
@@ -216,12 +218,12 @@ function createCard(id = 0, data = null) {
     card.innerHTML = `
         <div class="temperature">
             <span class="hightemp">
-                <span class="imperial">${maxtemp_f}°</span>
-                <span class="metric">${maxtemp_c}°</span>
+                <span class="imperial" title="Max temp">${maxtemp_f}°</span>
+                <span class="metric" title="Max temp">${maxtemp_c}°</span>
             </span>
             <span class="lowtemp">
-                <span class="imperial">${mintemp_f}°</span>
-                <span class="metric">${mintemp_c}°</span>
+                <span class="imperial" title="Min temp">${mintemp_f}°</span>
+                <span class="metric" title="Min temp">${mintemp_c}°</span>
             </span>
         </div>
         <img class="icon" src="${icon}" title="${description}">
@@ -267,7 +269,6 @@ export function updateDisplay(data) {
 
     if (data) {
         icon = icons.getIcon(data.code, true);
-        console.log(icon);
         description = data.description;
         maxtemp_f = data.maxtemp_f;
         maxtemp_c = data.maxtemp_c;
@@ -292,7 +293,7 @@ export function updateDisplay(data) {
 
     display.innerHTML = `
         <div class="details">
-                <img class="icon" src="${icon}" alt="${description}" />
+                <img class="icon" src="${icon}" alt="${description}" title="${description}" />
                 <div class="description">${description}</div>
             </div>
             <div class="line temperature">
@@ -300,13 +301,15 @@ export function updateDisplay(data) {
                     class="icon imperial"
                     src="${averageicon_f}"
                     alt="Farenheit Thermometer"
-                />
-                <img
+                    title="High and Low in Farenheight"
+                    />
+                    <img
                     class="icon metric"
                     src="${averageicon_c}"
                     alt="Celsius Thermometer"
-                />
-                <div class="text">High / Low</div>
+                    title="High and Low in Celcius"
+                    />
+                    <div class="text">High / Low</div>
                 <div class="info">
                     <span class="temperature">
                         <span class="hightemp">
@@ -326,11 +329,13 @@ export function updateDisplay(data) {
                         class="icon imperial"
                         src="${averageicon_f}"
                         alt="Farenheit Thermometer"
-                    />
-                    <img
+                        title="Average in Farenheit"
+                        />
+                        <img
                         class="icon metric"
                         src="${averageicon_c}"
                         alt="Celsius Thermometer"
+                        title="Average in Celcius"
                     />
                 </div>
                 <div class="text">Average</div>
@@ -371,7 +376,7 @@ export function updateDisplay(data) {
                 </div>
             </div>
             <div class="line wind" title="${windDescription}">
-                <img class="icon" src="${windicon}" alt="wind" />
+                <img class="icon" src="${windicon}" alt="wind" title="Wind speed" />
                 <div class="text">Wind</div>
                 <div class="info">
                     <span class="direction" title="Wind Direction"></span>
