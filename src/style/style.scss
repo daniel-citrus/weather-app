@@ -288,14 +288,18 @@ footer {
         display: flex;
         flex-flow: column nowrap;
         align-items: center;
-        text-align: center;
-        gap: 20px;
     }
 
     .date-time {
         display: flex;
         flex-flow: column nowrap;
         gap: 5px;
+    }
+
+    .day-time {
+        display: flex;
+        flex-flow: row nowrap;
+        justify-content: space-between;
     }
 
     .icon {

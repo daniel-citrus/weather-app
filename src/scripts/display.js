@@ -133,9 +133,11 @@ export function updateOverview(location = null, current = null) {
             </div>
             <div>
                 <div class="date-time">
-                    <div class="day" title="Day">${day}</div>
                     <div class="date" title="Date">${date}</div>
-                    <div class="time" title="Local Time">${time}</div>
+                    <div class="day-time">
+                        <div class="day" title="Day">${day}</div>
+                        <div class="time" title="Local Time">${time}</div>
+                    </div>
                 </div>
             </div>
         </div>
