@@ -309,14 +309,11 @@ footer {
         display: flex;
         flex-flow: row nowrap;
         margin: 5px 0;
+        min-width: 85px;
 
         .avgTempToday {
             font-size: 2rem;
         }
-    }
-
-    .text {
-        text-align: left;
     }
 
     .title {

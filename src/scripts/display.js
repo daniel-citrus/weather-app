@@ -242,7 +242,6 @@ function createCard(id = 0, data = null) {
  * @param {object} data
  */
 export function updateDisplay(data) {
-    console.log(data);
     let icon = '--',
         description = '--',
         maxtemp_f = '--',

@@ -32,13 +32,6 @@ document.addEventListener('DOMContentLoaded', () => {
             let { current, forecast, location } = data;
 
             console.log(data);
-            console.log(`Current:`);
-            console.log(current);
-            console.log(`Forecast:`);
-            console.log(forecast);
-            console.log(`Location:`);
-            console.log(location);
-
             display.updateOverview(location, current);
             display.updateForecastCards(forecast);
             display.updateDisplay(forecast[0]); // Display today's data

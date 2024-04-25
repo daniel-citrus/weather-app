@@ -4,7 +4,7 @@
  * @param {boolean} period true = day, false = night
  */
 export function getIcon(code, period) {
-    if (!code || !period) {
+    if (!code) {
         return null;
     }
 
@@ -174,7 +174,7 @@ const dictionary = {
     },
     1180: {
         day: 'partly-cloudy-day-rain',
-        night: '	partly-cloudy-night-rain',
+        night: 'partly-cloudy-night-rain',
         icon: 293,
     },
     1183: {
