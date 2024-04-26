@@ -22,7 +22,6 @@ async function startUp() {
 export async function getLocationWeather(location = null, coords = null) {
     const weatherData = await weather.getWeather(location, coords);
     const data = await weatherData.json();
-    console.log(data);
     return extractor(data);
 }
 
@@ -30,8 +29,6 @@ document.addEventListener('DOMContentLoaded', () => {
     startUp()
         .then((data) => {
             let { current, forecast, location } = data;
-
-            console.log(data);
             display.updateOverview(location, current);
             display.updateForecastCards(forecast);
             display.updateDisplay(forecast[0]); // Display today's data

@@ -8,29 +8,43 @@ const main = document.querySelector('.main');
 const cards = document.querySelector('.board .cards');
 const display = document.querySelector('.display');
 const search = document.getElementById('search');
+const searchForm = document.querySelector('.search form');
 const searchButton = document.querySelector('.search button');
 let measureSystem = 'imperial';
 
 searchButton.addEventListener('click', () => {
     const location = search.value;
+    updateAllWeather(location);
+});
 
-    if (!location) {
-        // ERROR Message
+function stopLoading() {}
+function startLoading() {}
+
+/**
+ * Get weather data and then display if successful
+ * @param {string} location
+ */
+async function updateAllWeather(location) {
+    try {
+        const data = await getLocationWeather(location);
+        updateOverview(data.location, data.current);
+        updateForecastCards(data.forecast);
+        updateDisplay(data.forecast[0]);
+    } catch {
+        console.error(`Something went wrong, unable to display data!`);
+    }
+}
+
+searchForm.addEventListener('keydown', (e) => {
+    const key = e.key;
+
+    if (key !== 'Enter') {
         return;
     }
 
-    getLocationWeather(location)
-        .then((data) => {
-            updateOverview(data.location, data.current);
-            updateForecastCards(data.forecast);
-            updateDisplay(data.forecast[0]);
-        })
-        .catch((e) => {
-            updateOverview();
-            updateForecastCards();
-            updateDisplay();
-            console.error(e);
-        });
+    const location = search.value;
+    e.preventDefault();
+    updateAllWeather(location);
 });
 
 /**
@@ -96,7 +110,7 @@ export function updateOverview(location = null, current = null) {
             <div class="icon">
                 <img src="${iconsrc}"
                     alt="${alt}" title="${description}">
-                <div class="description">${description}</div>
+                <div class="description mobile">${description}</div>
             </div>
             <div class="temperature">
                 <div class="feelslike">
@@ -131,14 +145,13 @@ export function updateOverview(location = null, current = null) {
                     </span>
                 </div>
             </div>
-            <div>
-                <div class="date-time">
-                    <div class="date" title="Date">${date}</div>
-                    <div class="day-time">
-                        <div class="day" title="Day">${day}</div>
-                        <div class="time" title="Local Time">${time}</div>
-                    </div>
+            <div class="date-time">
+                <div class="date" title="Date">${date}</div>
+                <div class="day-time">
+                    <div class="day" title="Day">${day}</div>
+                    <div class="time" title="Local Time">${time}</div>
                 </div>
+                <div class="description nonmobile">${description}</div>
             </div>
         </div>
     `;
@@ -244,7 +257,7 @@ function createCard(id = 0, data = null) {
  * @param {object} data
  */
 export function updateDisplay(data) {
-    let icon = '--',
+    let icon = '',
         description = '--',
         maxtemp_f = '--',
         maxtemp_c = '--',
@@ -297,103 +310,101 @@ export function updateDisplay(data) {
                 <img class="icon" src="${icon}" alt="${description}" title="${description}" />
                 <div class="description">${description}</div>
             </div>
-            <div class="line temperature">
-                <img
-                    class="icon imperial"
-                    src="${averageicon_f}"
-                    alt="Farenheit Thermometer"
-                    title="High and Low in Farenheight"
-                    />
-                    <img
-                    class="icon metric"
-                    src="${averageicon_c}"
-                    alt="Celsius Thermometer"
-                    title="High and Low in Celcius"
-                    />
-                    <div class="text">High / Low</div>
-                <div class="info">
-                    <span class="temperature">
-                        <span class="hightemp">
-                            <span class="imperial">${maxtemp_f}°</span>
-                            <span class="metric">${maxtemp_c}°</span>
-                        </span>
-                        <span class="lowtemp">
-                            <span class="imperial">${mintemp_f}°</span>
-                            <span class="metric">${mintemp_c}°</span>
-                        </span>
-                    </span>
-                </div>
-            </div>
-            <div class="line averageTemp">
-                <div class="icons">
+            <div class="lines">
+                <div class="line temperature" title="High and Low temp">
                     <img
                         class="icon imperial"
                         src="${averageicon_f}"
                         alt="Farenheit Thermometer"
-                        title="Average in Farenheit"
+
                         />
                         <img
                         class="icon metric"
                         src="${averageicon_c}"
                         alt="Celsius Thermometer"
-                        title="Average in Celcius"
-                    />
-                </div>
-                <div class="text">Average</div>
-                <div class="info">
-                    <span class="temperature">
-                        <span class="avgtemp">
-                            <span class="imperial">${avgtemp_f}°</span>
-                            <span class="metric">${avgtemp_c}°</span>
+                        />
+                        <div class="text">High / Low</div>
+                    <div class="info">
+                        <span class="temperature">
+                            <span class="hightemp" title="Max temp">
+                                <span class="imperial">${maxtemp_f}°</span>
+                                <span class="metric">${maxtemp_c}°</span>
+                            </span>
+                            <span class="lowtemp" title="Min temp">
+                                <span class="imperial">${mintemp_f}°</span>
+                                <span class="metric">${mintemp_c}°</span>
+                            </span>
                         </span>
-                    </span>
-                </div>
-            </div>
-            <div class="line rain" title="Chance of rain">
-                <img class="icon" src="${rainicon}" alt="raindrop" />
-                <div class="text">Chance of Rain</div>
-                <div class="info">
-                    <span class="rainChance">${rainchance}%</span>
-                </div>
-            </div>
-            <div class="line snow" title="Chance of snow">
-                <img class="icon" src="${snowicon}" alt="snowflake" />
-                <div class="text">Chance of Snow</div>
-                <div class="info">
-                    <span class="snowChance">${snowchance}%</span>
-                </div>
-            </div>
-            <div class="line humidity" title="Humidity">
-                <img
-                    class="icon"
-                    src="${humidityicon}"
-                    alt="raindrop with percent synbol"
-                />
-                <div class="text">Humidity</div>
-                <div class="info">
-                    <div class="humidity">
-                        <span class="value">${humidity}%</span>
                     </div>
                 </div>
-            </div>
-            <div class="line wind" title="${windDescription}">
-                <img class="icon" src="${windicon}" alt="wind" title="Wind speed" />
-                <div class="text">Wind</div>
-                <div class="info">
-                    <span class="direction" title="Wind Direction"></span>
-                    <span class="windSpeed">
-                        <span class="imperial">${maxwind_mph} mph</span>
-                        <span class="metric">${maxwind_kph} kph</span>
-                    </span>
+                <div class="line averageTemp" title="Average temp">
+                    <div class="icon">
+                        <img
+                            class="icon imperial"
+                            src="${averageicon_f}"
+                            alt="Farenheit Thermometer"
+                            />
+                            <img
+                            class="icon metric"
+                            src="${averageicon_c}"
+                            alt="Celsius Thermometer"
+                        />
+                    </div>
+                    <div class="text">Average</div>
+                    <div class="info">
+                        <span class="temperature">
+                            <span class="avgtemp" title="Avg temp">
+                                <span class="imperial">${avgtemp_f}°</span>
+                                <span class="metric" >${avgtemp_c}°</span>
+                            </span>
+                        </span>
+                    </div>
                 </div>
-            </div>
-            <div class="line uvIndex" title="UV Index">
-                <img class="icon" src="${uvindexicon}" alt="UV Index" />
-                <div class="text">UV Index</div>
-                <div class="info">
-                    <span class="uvIndex">
-                        <span class="value">${uvindex} of 11</span>
-                    </span>
+                <div class="line rain" title="Chance of rain">
+                    <img class="icon" src="${rainicon}" alt="raindrop" />
+                    <div class="text">Chance of Rain</div>
+                    <div class="info">
+                        <span class="rainChance">${rainchance}%</span>
+                    </div>
+                </div>
+                <div class="line snow" title="Chance of snow">
+                    <img class="icon" src="${snowicon}" alt="snowflake" />
+                    <div class="text">Chance of Snow</div>
+                    <div class="info">
+                        <span class="snowChance">${snowchance}%</span>
+                    </div>
+                </div>
+                <div class="line humidity" title="Humidity">
+                    <img
+                        class="icon"
+                        src="${humidityicon}"
+                        alt="raindrop with percent synbol"
+                    />
+                    <div class="text">Humidity</div>
+                    <div class="info">
+                        <div class="humidity">
+                            <span class="value">${humidity}%</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="line wind" title="${windDescription}">
+                    <img class="icon" src="${windicon}" alt="wind" />
+                    <div class="text">Wind</div>
+                    <div class="info">
+                        <span class="windSpeed">
+                            <span class="imperial">${maxwind_mph} mph</span>
+                            <span class="metric">${maxwind_kph} kph</span>
+                        </span>
+                    </div>
+                </div>
+                <div class="line uvIndex" title="UV Index">
+                    <img class="icon" src="${uvindexicon}" alt="UV Index" />
+                    <div class="text">UV Index</div>
+                    <div class="info">
+                        <span class="uvIndex">
+                            <span class="value">${uvindex} of 11</span>
+                        </span>
+                    </div>
                 </div>
             </div>
         </div>

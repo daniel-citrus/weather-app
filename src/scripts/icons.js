@@ -33,7 +33,7 @@ export function getAnimatedIcon(name) {
 /**
  * Import all image files from context and store in a dictionary.
  * { key <file name>: value <file source> }
- * @param {context} r
+ * @param {context} r - file context
  * @returns
  */
 function importAll(r) {
