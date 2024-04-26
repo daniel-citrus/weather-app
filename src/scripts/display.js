@@ -87,6 +87,7 @@ export function displayData(data) {
     updateOverview(data.location, data.current);
     updateForecastCards(data.forecast);
     updateDisplay(data.forecast[0]);
+    cards.firstChild.classList.add('selected');
 }
 
 // Enable loading animation
@@ -245,7 +246,7 @@ function createCards(data) {
  * @returns {element} card element
  */
 function createCard(id = 0, data = null) {
-    let card = buildElement('div', 'card'),
+    let card = buildElement('button', 'card'),
         day = '--',
         icon = '',
         alt = '--',
@@ -285,9 +286,22 @@ function createCard(id = 0, data = null) {
 
     card.addEventListener('click', () => {
         updateDisplay(data);
+        unselectCards();
+        card.classList.add('selected');
     });
 
     return card;
+}
+
+/**
+ * Unselect all weather forecast cards
+ */
+function unselectCards() {
+    const selectedCards = cards.querySelectorAll('.card.selected');
+
+    selectedCards.forEach((card) => {
+        card.classList.remove('selected');
+    });
 }
 
 /**

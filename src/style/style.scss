@@ -134,6 +134,7 @@ table {
     --backround: rgb(63, 44, 144);
     --border: 1px solid rgba(181, 181, 181, 0.27);
     --border-radius: 4px;
+    --button-transition: opacity 0.2s ease-out;
     --font-fallback: Geneva, Verdana, sans-serif;
     --primary-color: #ffffff;
     --secondary-color: #cececefc;
@@ -147,13 +148,25 @@ table {
         173deg,
         rgba(82, 61, 174, 0.88) 0%,
         rgba(137, 86, 181, 0.77) 60%,
-        rgba(164, 99, 176, 0.81) 100%
+        rgba(183, 109, 196, 0.753) 100%
     );
     --tertiary-gradient: linear-gradient(
-        215deg,
+        190deg,
         rgba(113, 96, 183, 0.67) 0%,
-        rgba(162, 130, 189, 0.69) 86%,
-        rgba(164, 124, 172, 0.59) 100%
+        rgba(162, 130, 189, 0.69) 85%,
+        rgba(179, 120, 190, 0.59) 100%
+    );
+    --selected-background: linear-gradient(
+        175deg,
+        rgba(133, 56, 146, 0.781) 0%,
+        rgba(143, 91, 185, 0.822) 35%,
+        rgba(114, 96, 183, 0.76) 100%
+    );
+    --hover-background: linear-gradient(
+        173deg,
+        rgba(101, 82, 177, 0.88) 0%,
+        rgba(145, 101, 184, 0.87) 60%,
+        rgba(175, 83, 189, 0.849) 100%
     );
 }
 
@@ -161,6 +174,10 @@ table {
     font-family: 'Assistant';
     src: url('./font/Assistant/Assistant-VariableFont_wght.ttf')
         format('truetype');
+}
+
+a {
+    transition: color 0.1s ease-out;
 }
 
 body {
@@ -185,6 +202,7 @@ body {
         background: rgba(0, 0, 0, 0.44);
         margin: 0;
         bottom: 0;
+        z-index: 999;
 
         flex-flow: column nowrap;
         justify-content: center;
@@ -203,25 +221,45 @@ body {
 }
 
 button {
+    position: relative;
     color: var(--primary-color);
     border: var(--border);
     border-radius: var(--border-radius);
     padding: 5px 10px;
-
     background: var(--background);
     background: var(--secondary-gradient);
+    cursor: pointer;
 
-    &:hover {
-        background: var(--tertiary-gradient);
-        cursor: pointer;
+    &::before {
+        content: '';
+        opacity: 0;
+        position: absolute;
+        transition: var(--button-transition);
+        top: 0;
+        left: 0;
+        height: 100%;
+        width: 100%;
+        background: var(--background);
+        background: var(--hover-background);
+        z-index: -1;
+    }
+
+    &.selected::before,
+    &:hover::before {
+        opacity: 1;
     }
 }
 
 footer {
     text-align: center;
 
-    a {
+    a,
+    a:visited {
         color: var(--primary-color);
+    }
+
+    a:hover {
+        color: #ffef00;
     }
 }
 
@@ -299,21 +337,17 @@ html {
         gap: 5px;
         background: var(--background);
         background: var(--secondary-gradient);
+        position: relative;
+        z-index: 1;
 
         .icon {
             height: 65px;
             width: auto;
         }
 
-        &:hover {
-            background: var(--background);
-            background: linear-gradient(
-                173deg,
-                rgba(100, 82, 174, 0.88) 0%,
-                rgba(149, 112, 181, 0.77) 60%,
-                rgba(164, 117, 172, 0.81) 100%
-            );
-            cursor: pointer;
+        &.selected,
+        &.selected::before {
+            background: var(--selected-background);
         }
     }
 
@@ -420,7 +454,7 @@ html {
     }
 }
 
-@media screen and (min-width: 650px) {
+@media screen and (min-width: 680px) {
     .main {
         min-width: 650px;
         margin: 0 auto;
