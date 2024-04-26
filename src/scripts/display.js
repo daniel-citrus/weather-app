@@ -2,6 +2,7 @@ import { getLocationWeather } from './index';
 import { beaufortWindScale, uvIndexRisk } from './weather';
 import { format, parseISO } from 'date-fns';
 import * as icons from './icons';
+import loadingSvg from '../style/loading/spinner.svg';
 
 const overview = document.querySelector('.overview');
 const main = document.querySelector('.main');
@@ -10,55 +11,92 @@ const display = document.querySelector('.display');
 const search = document.getElementById('search');
 const searchForm = document.querySelector('.search form');
 const searchButton = document.querySelector('.search button');
+const loadingImg = document.getElementById('loading');
+const loadingScreen = document.querySelector('.loading-screen');
 let measureSystem = 'imperial';
 
-searchButton.addEventListener('click', () => {
-    const location = search.value;
-    updateAllWeather(location);
-});
+(() => {
+    loadingImg.src = loadingSvg;
+    loadingImg.alt = 'Loading animation';
 
-function stopLoading() {}
-function startLoading() {}
+    searchButton.addEventListener('click', () => {
+        startLoading();
+        const location = search.value;
+        updateWeather(location);
+    });
 
-/**
- * Get weather data and then display if successful
- * @param {string} location
- */
-async function updateAllWeather(location) {
-    try {
-        const data = await getLocationWeather(location);
-        updateOverview(data.location, data.current);
-        updateForecastCards(data.forecast);
-        updateDisplay(data.forecast[0]);
-    } catch {
-        console.error(`Something went wrong, unable to display data!`);
-    }
-}
+    searchForm.addEventListener('keydown', (e) => {
+        const key = e.key;
 
-searchForm.addEventListener('keydown', (e) => {
-    const key = e.key;
+        if (key !== 'Enter') {
+            return;
+        }
 
-    if (key !== 'Enter') {
-        return;
-    }
-
-    const location = search.value;
-    e.preventDefault();
-    updateAllWeather(location);
-});
+        startLoading();
+        const location = search.value;
+        e.preventDefault();
+        updateWeather(location);
+    });
+})();
 
 /**
  * Update current unit system
  * @param {string} unit
  * @returns
  */
-export function updateUnit(unit) {
+function updateUnit(unit) {
     if (unit === measureSystem) {
         return;
     }
 
     main.dataset.unit = unit;
     measureSystem = unit;
+}
+
+/**
+ * Get weather data and then display if successful
+ * @param {string} location
+ */
+export async function updateWeather(location = null) {
+    if (!location) {
+        displayData();
+    }
+
+    try {
+        const data = await getLocationWeather(location);
+        displayData(data);
+        stopLoading();
+    } catch {
+        stopLoading();
+        console.error(`Something went wrong, unable to display data!`);
+    }
+}
+
+/**
+ * Display all weather data
+ * @param {object} data - contains extracted location, current, and forecast data
+ */
+export function displayData(data) {
+    if (!data) {
+        updateOverview();
+        updateForecastCards();
+        updateDisplay();
+        return;
+    }
+
+    updateOverview(data.location, data.current);
+    updateForecastCards(data.forecast);
+    updateDisplay(data.forecast[0]);
+}
+
+// Enable loading animation
+export function startLoading() {
+    loadingScreen.classList.add('enabled');
+}
+
+// Disable loading animation
+export function stopLoading() {
+    loadingScreen.classList.remove('enabled');
 }
 
 /**
@@ -279,7 +317,8 @@ export function updateDisplay(data) {
         maxwind_kph = '--',
         maxwind_mph = '--',
         uvindexicon = icons.getAnimatedIcon('uv-index'),
-        uvindex = '--';
+        uvindex = '--',
+        uvDescription = '';
 
     if (data) {
         icon = icons.getIcon(data.code, true);
@@ -302,6 +341,7 @@ export function updateDisplay(data) {
         windicon = icons.getAnimatedIcon(`wind-beaufort-${beaufortForce}`);
 
         uvindex = data.uv;
+        uvDescription = uvIndexRisk(uvindex);
         uvindexicon = icons.getAnimatedIcon(`uv-index-${data.uv}`);
     }
 
@@ -400,7 +440,7 @@ export function updateDisplay(data) {
                 <div class="line uvIndex" title="UV Index">
                     <img class="icon" src="${uvindexicon}" alt="UV Index" />
                     <div class="text">UV Index</div>
-                    <div class="info">
+                    <div class="info" title="${uvDescription}">
                         <span class="uvIndex">
                             <span class="value">${uvindex} of 11</span>
                         </span>

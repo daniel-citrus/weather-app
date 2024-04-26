@@ -166,26 +166,38 @@ table {
 body {
     display: flex;
     flex-flow: column nowrap;
-    justify-content: center;
-    gap: 20px;
-    margin: 15px;
     color: var(--primary-color);
     font-family: 'Assistant', var(--font-fallback);
+    padding: 15px 0;
 
     background: rgb(24, 33, 62);
     background: var(--primary-gradient);
+
+    & > * {
+        margin: 15px;
+    }
 
     .loading-screen {
         display: none;
         position: fixed;
         height: 100%;
         width: 100%;
-        background: #000000a8;
-        left: 0;
+        background: rgba(0, 0, 0, 0.44);
+        margin: 0;
         bottom: 0;
 
+        flex-flow: column nowrap;
+        justify-content: center;
+        align-items: center;
+
         &.enabled {
-            display: block;
+            display: flex;
+        }
+
+        img {
+            position: absolute;
+            height: 80px;
+            width: auto;
         }
     }
 }

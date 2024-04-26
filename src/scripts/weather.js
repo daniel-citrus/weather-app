@@ -48,6 +48,8 @@ export async function getUserCoords() {
 export function beaufortWindScale(windspeed) {
     let bfn, description;
 
+    switch (windspeed) {
+    }
     if (windspeed < 1) {
         bfn = 0;
         description = 'Calm';
@@ -96,25 +98,16 @@ export function beaufortWindScale(windspeed) {
 }
 
 export function uvIndexRisk(uvIndex) {
-    let risk = '';
-
-    switch (uvIndex) {
-        case uvIndex <= 2:
-            risk = 'Low';
-            break;
-        case uvIndex >= 3 && uvindex <= 5:
-            risk = 'Moderate';
-            break;
-        case uvIndex >= 6 && uvindex <= 7:
-            risk = 'High';
-            break;
-        case uvIndex >= 8 && uvindex <= 10:
-            risk = 'Very High';
-            break;
-        case uvIndex >= 8 && uvindex <= 10:
-            risk = 'Extreme';
-            break;
+    if (uvIndex <= 2) {
+        return 'Low';
+    } else if (uvIndex >= 3 && uvIndex <= 5) {
+        return 'Moderate';
+    } else if (uvIndex >= 6 && uvIndex <= 7) {
+        return 'High';
+    } else if (uvIndex >= 8 && uvIndex <= 10) {
+        return 'Very High';
+    } else if (uvIndex >= 8 && uvIndex <= 10) {
+        return 'Extreme';
     }
-
-    return risk;
+    return '--';
 }
