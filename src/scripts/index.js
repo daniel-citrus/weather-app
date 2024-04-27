@@ -16,7 +16,7 @@ async function startUp() {
 }
 
 /**
- * Get weather data using
+ * Get weather data using 
  */
 export async function getLocationWeather(location = null, coords = null) {
     try {
