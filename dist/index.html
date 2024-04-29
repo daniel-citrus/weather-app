@@ -2,22 +2,18 @@
 <html lang="en">
     <head>
         <meta charset="UTF-8" />
-        <meta name="viewport" content="width=device-width,initial-scale=1" />
-        <title>Document</title>
-        <script defer="defer" src="icons.bundle.js"></script>
-        <script defer="defer" src="index.bundle.js"></script>
-        <script defer="defer" src="data.bundle.js"></script>
-        <script defer="defer" src="display.bundle.js"></script>
-        <script defer="defer" src="weather.bundle.js"></script>
-        <link href="index.css" rel="stylesheet" />
-        <link href="display.css" rel="stylesheet" />
-    </head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Weather Application</title>
+    <script defer src="icons.bundle.js"></script><script defer src="index.bundle.js"></script><script defer src="data.bundle.js"></script><script defer src="display.bundle.js"></script><script defer src="weather.bundle.js"></script></head>
     <body>
-        <div class="loading-screen"><img id="loading" /></div>
+        <div class="loading-screen">
+            <img id="loading" />
+        </div>
         <div class="main" data-unit="imperial">
             <div class="search">
                 <form>
                     <input
+                        type="text"
                         name="search"
                         id="search"
                         placeholder="City, State"
@@ -32,10 +28,23 @@
             </div>
         </div>
         <footer>
-            Powered by
-            <a href="https://www.weatherapi.com/" title="Free Weather API"
-                >WeatherAPI.com</a
-            >
+            <div>
+                Copyright © 2024. daniel-citrus<a
+                    href="https://github.com/daniel-citrus/weather-app"
+                    target="_blank"
+                    title="Github: daniel-citrus"
+                    ><img
+                        src="4541c153c1818e5b60df.png"
+                        alt="Github Repository"
+                        class="logoImage"
+                /></a>
+            </div>
+            <div>
+                Powered by
+                <a href="https://www.weatherapi.com/" title="Free Weather API"
+                    >WeatherAPI.com</a
+                >
+            </div>
         </footer>
     </body>
 </html>

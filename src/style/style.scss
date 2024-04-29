@@ -181,8 +181,8 @@ a {
 }
 
 body {
-    display: flex;
-    flex-flow: column nowrap;
+    max-width: 650px;
+    margin: 0 auto;
     color: var(--primary-color);
     font-family: 'Assistant', var(--font-fallback);
     padding: 15px 0;
@@ -203,6 +203,7 @@ body {
         margin: 0;
         bottom: 0;
         z-index: 999;
+        left: 0;
 
         flex-flow: column nowrap;
         justify-content: center;
@@ -251,7 +252,19 @@ button {
 }
 
 footer {
+    display: flex;
+    flex-flow: column nowrap;
+    gap: 10px;
     text-align: center;
+
+    .logoImage {
+        transition: all 0.3s ease-in;
+        transform: rotate(0deg);
+
+        &:hover {
+            transform: rotate(360deg);
+        }
+    }
 
     a,
     a:visited {
@@ -260,6 +273,28 @@ footer {
 
     a:hover {
         color: #ffef00;
+    }
+
+    & > * {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 5px;
+    }
+}
+
+footer {
+    box-sizing: border-box;
+    height: var(--footer-height);
+
+    .logoImage {
+        transition: all 0.3s ease-in;
+        transform: rotate(0deg);
+
+        &:hover {
+            transition: all 0.3s ease-in;
+            transform: rotate(360deg);
+        }
     }
 }
 
